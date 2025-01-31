@@ -7,3 +7,7 @@
 **/working
 **/artifacts
 **/.DS_Store
+
+## Temporary disabling of docs folder
+
+**/docs
