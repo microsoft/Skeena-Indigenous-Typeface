@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotleft" format="2">
+  <advance width="1118"/>
+  <unicode hex="00AB"/>
+  <outline>
+    <component base="guilsinglleft" xOffset="-9"/>
+    <component base="guilsinglleft" xOffset="467"/>
+  </outline>
+  <guideline angle="0" x="0" y="481"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

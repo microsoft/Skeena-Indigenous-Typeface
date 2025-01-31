@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ubar" format="2">
+  <advance width="1479"/>
+  <unicode hex="0244"/>
+  <anchor x="738" y="0" name="bottom"/>
+  <anchor x="756" y="1314" name="top"/>
+  <outline>
+    <contour>
+      <point x="1458" y="584" type="line"/>
+      <point x="1489" y="806" type="line"/>
+      <point x="10" y="806" type="line"/>
+      <point x="10" y="584" type="line"/>
+    </contour>
+    <contour>
+      <point x="737" y="-24" type="curve" smooth="yes"/>
+      <point x="1125" y="-24"/>
+      <point x="1314" y="164"/>
+      <point x="1314" y="549" type="curve" smooth="yes"/>
+      <point x="1314" y="1314" type="line"/>
+      <point x="971" y="1314" type="line"/>
+      <point x="971" y="469" type="line" smooth="yes"/>
+      <point x="971" y="290"/>
+      <point x="920" y="215"/>
+      <point x="791" y="215" type="curve" smooth="yes"/>
+      <point x="665" y="215"/>
+      <point x="615" y="290"/>
+      <point x="615" y="471" type="curve" smooth="yes"/>
+      <point x="615" y="1314" type="line"/>
+      <point x="165" y="1314" type="line"/>
+      <point x="165" y="532" type="line" smooth="yes"/>
+      <point x="165" y="160"/>
+      <point x="354" y="-24"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="101"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Ibar</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Ibar</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

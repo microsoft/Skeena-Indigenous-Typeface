@@ -1,0 +1,16 @@
+#> classes
+#/> otclasses
+@x.numerals_dnom = [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+@x.numerals_numr = [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
+#/< otclasses
+
+#/> tags
+@mark = [acutecomb acutecomb.cap brevecomb brevecomb.cap brevecomb.narrow breveinvertedcomb breveinvertedcomb.cap breveinvertedcomb.narrow breveinvertedtiecomb breveinvertedtiecomb.cap caronSlovak caroncomb caroncomb.cap cedillacomb circumflexcomb circumflexcomb.cap commaabovecomb commaabovecomb.cap commaaccentcomb commaaccentturnedabovecomb commaaccentturnedabovecomb.cap commarightcomb commarightcomb.case dieresiscomb dieresiscomb.cap dotaccentcomb dotaccentcomb.cap dotbelowcomb gravecomb gravecomb.cap hungarumlautcomb hungarumlautcomb.cap lowlinecomb lowlinecomb.M lowlinecomb.N lowlinecomb.W macronbelowcomb macroncomb macroncomb.cap macroncomb.narrow ogonekcomb ogonekcomb.alt ogonekcomb.alt2 ringbelowcomb ringcomb ringcomb.cap tildecomb tildecomb.cap vlinebelowcomb];
+#/< tags
+#< classes
+
+#> languagesystem
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem grek dflt;
+#< languagesystem

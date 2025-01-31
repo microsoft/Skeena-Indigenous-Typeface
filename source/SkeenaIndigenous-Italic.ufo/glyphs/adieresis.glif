@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="adieresis" format="2">
+  <advance width="1080"/>
+  <unicode hex="00E4"/>
+  <anchor x="472" y="0" name="bottom"/>
+  <anchor x="737" y="1312" name="top.mkmk"/>
+  <outline>
+    <component base="a"/>
+    <component base="dieresiscomb" xOffset="531"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>a+dieresiscomb</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

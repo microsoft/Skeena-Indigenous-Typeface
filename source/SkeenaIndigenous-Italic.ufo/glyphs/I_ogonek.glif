@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iogonek" format="2">
+  <advance width="502"/>
+  <unicode hex="012E"/>
+  <anchor x="461" y="1314" name="top"/>
+  <anchor x="25" y="-413" name="bottom.mkmk"/>
+  <outline>
+    <component base="I"/>
+    <component base="ogonekcomb" xOffset="248"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>I+ogonekcomb</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

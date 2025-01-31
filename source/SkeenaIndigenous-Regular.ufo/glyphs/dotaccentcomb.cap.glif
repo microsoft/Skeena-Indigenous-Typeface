@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccentcomb.cap" format="2">
+  <anchor x="0" y="1314" name="_top"/>
+  <anchor x="0" y="1340" name="_top.mkmk"/>
+  <anchor x="0" y="1621" name="top.mkmk"/>
+  <outline>
+    <contour>
+      <point x="-4" y="1410" type="curve" smooth="yes"/>
+      <point x="-70" y="1410"/>
+      <point x="-110" y="1452"/>
+      <point x="-110" y="1521" type="curve" smooth="yes"/>
+      <point x="-110" y="1589"/>
+      <point x="-67" y="1631"/>
+      <point x="2" y="1631" type="curve" smooth="yes"/>
+      <point x="69" y="1631"/>
+      <point x="110" y="1590"/>
+      <point x="110" y="1523" type="curve" smooth="yes"/>
+      <point x="110" y="1453"/>
+      <point x="66" y="1410"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="1400"/>
+  <guideline angle="0" x="0" y="1621"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

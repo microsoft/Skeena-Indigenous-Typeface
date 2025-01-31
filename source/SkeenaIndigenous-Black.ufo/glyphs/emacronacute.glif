@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emacronacute" format="2">
+  <advance width="1186"/>
+  <unicode hex="1E17"/>
+  <anchor x="624" y="0" name="bottom"/>
+  <anchor x="614" y="1870" name="top.mkmk"/>
+  <outline>
+    <component base="e"/>
+    <component base="macroncomb" xOffset="614"/>
+    <component base="acutecomb" xOffset="614" yOffset="383"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>e+macroncomb+acutecomb</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

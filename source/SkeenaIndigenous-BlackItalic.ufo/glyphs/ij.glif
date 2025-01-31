@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ij" format="2">
+  <advance width="1263"/>
+  <unicode hex="0133"/>
+  <anchor x="864" y="1410" name="top.mkmk"/>
+  <anchor x="406" y="-419" name="bottom"/>
+  <outline>
+    <component base="i"/>
+    <component base="j" xOffset="632"/>
+  </outline>
+  <guideline angle="90" x="747" y="0"/>
+  <guideline angle="0" x="0" y="946"/>
+  <guideline angle="76" x="510" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>i_j</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

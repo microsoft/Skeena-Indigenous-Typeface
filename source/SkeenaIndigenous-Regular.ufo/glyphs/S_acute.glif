@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sacute" format="2">
+  <advance width="1021"/>
+  <unicode hex="015A"/>
+  <anchor x="511" y="0" name="bottom"/>
+  <anchor x="527" y="1707" name="top.mkmk"/>
+  <outline>
+    <component base="S"/>
+    <component base="acutecomb.cap" xOffset="527"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>S+~acutecomb.cap</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

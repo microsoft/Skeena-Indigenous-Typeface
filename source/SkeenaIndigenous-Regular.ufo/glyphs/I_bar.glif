@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ibar" format="2">
+  <advance width="594"/>
+  <unicode hex="0197"/>
+  <anchor x="297" y="0" name="bottom"/>
+  <anchor x="297" y="1314" name="top"/>
+  <outline>
+    <contour>
+      <point x="389" y="0" type="line"/>
+      <point x="389" y="1314" type="line"/>
+      <point x="205" y="1314" type="line"/>
+      <point x="205" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="561" y="619" type="line"/>
+      <point x="579" y="746" type="line"/>
+      <point x="35" y="746" type="line"/>
+      <point x="35" y="619" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="261.933" x="624" y="996"/>
+  <guideline angle="0" x="0" y="746"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.801,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

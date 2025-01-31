@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ocaron" format="2">
+  <advance width="1434"/>
+  <unicode hex="01D1"/>
+  <anchor x="630" y="0" name="bottom"/>
+  <anchor x="1027" y="1717" name="top.mkmk"/>
+  <outline>
+    <component base="O"/>
+    <component base="caroncomb.cap" xOffset="720"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>O+caroncomb.cap</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

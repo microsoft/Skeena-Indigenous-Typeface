@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caronSlovak" format="2">
+  <advance width="216"/>
+  <outline>
+    <contour>
+      <point x="240" y="1025" type="line"/>
+      <point x="307" y="1154"/>
+      <point x="332" y="1284"/>
+      <point x="335" y="1403" type="curve"/>
+      <point x="516" y="1430" type="line"/>
+      <point x="484" y="1289"/>
+      <point x="432" y="1153"/>
+      <point x="339" y="1025" type="curve"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="1430"/>
+  <guideline angle="188.699" x="1075" y="1516"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

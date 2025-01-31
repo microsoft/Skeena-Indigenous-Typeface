@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Nlongright" format="2">
+  <advance width="1387"/>
+  <unicode hex="0220"/>
+  <anchor x="471" y="-419" name="bottom"/>
+  <anchor x="849" y="1314" name="top"/>
+  <outline>
+    <contour>
+      <point x="1065" y="-419" type="line"/>
+      <point x="1371" y="808" type="line" smooth="yes"/>
+      <point x="1390" y="886"/>
+      <point x="1401" y="963"/>
+      <point x="1401" y="1028" type="curve" smooth="yes"/>
+      <point x="1401" y="1233"/>
+      <point x="1298" y="1338"/>
+      <point x="1100" y="1338" type="curve" smooth="yes"/>
+      <point x="919" y="1338"/>
+      <point x="763" y="1250"/>
+      <point x="621" y="1067" type="curve"/>
+      <point x="614" y="926" type="line"/>
+      <point x="690" y="991"/>
+      <point x="751" y="1018"/>
+      <point x="819" y="1018" type="curve" smooth="yes"/>
+      <point x="896" y="1018"/>
+      <point x="936" y="985"/>
+      <point x="936" y="917" type="curve" smooth="yes"/>
+      <point x="936" y="898"/>
+      <point x="933" y="874"/>
+      <point x="927" y="851" type="curve" smooth="yes"/>
+      <point x="613" y="-419" type="line"/>
+    </contour>
+    <contour>
+      <point x="435" y="0" type="line"/>
+      <point x="764" y="1314" type="line"/>
+      <point x="312" y="1314" type="line"/>
+      <point x="-17" y="0" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="576" y="0"/>
+  <guideline angle="76" x="576" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>H</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

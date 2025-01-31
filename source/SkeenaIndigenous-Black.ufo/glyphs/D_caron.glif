@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dcaron" format="2">
+  <advance width="1424"/>
+  <unicode hex="010E"/>
+  <anchor x="660" y="0" name="bottom"/>
+  <anchor x="660" y="1796" name="top.mkmk"/>
+  <outline>
+    <component base="D"/>
+    <component base="caroncomb.cap" xOffset="660"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>D+caroncomb.cap</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

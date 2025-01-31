@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="longs" format="2">
+  <advance width="521"/>
+  <unicode hex="017F"/>
+  <anchor x="257" y="0" name="bottom"/>
+  <anchor x="440" y="1417" name="top"/>
+  <outline>
+    <contour>
+      <point x="335" y="0" type="line"/>
+      <point x="335" y="1063" type="line" smooth="yes"/>
+      <point x="335" y="1222"/>
+      <point x="394" y="1302"/>
+      <point x="542" y="1302" type="curve" smooth="yes"/>
+      <point x="592" y="1302"/>
+      <point x="636" y="1294"/>
+      <point x="677" y="1277" type="curve"/>
+      <point x="677" y="1402" type="line"/>
+      <point x="635" y="1420"/>
+      <point x="584" y="1430"/>
+      <point x="527" y="1430" type="curve" smooth="yes"/>
+      <point x="309" y="1430"/>
+      <point x="160" y="1303"/>
+      <point x="160" y="1050" type="curve" smooth="yes"/>
+      <point x="160" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="251" y="820" type="line"/>
+      <point x="251" y="937" type="line"/>
+      <point x="43" y="930" type="line"/>
+      <point x="27" y="820" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>f</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

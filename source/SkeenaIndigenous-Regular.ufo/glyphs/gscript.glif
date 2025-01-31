@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gscript" format="2">
+  <advance width="1102"/>
+  <unicode hex="0261"/>
+  <anchor x="545" y="-433" name="bottom"/>
+  <anchor x="549" y="946" name="top"/>
+  <outline>
+    <component base="g.2"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>g.2</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

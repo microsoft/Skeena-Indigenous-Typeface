@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="napostrophe" format="2">
+  <advance width="1775"/>
+  <unicode hex="0149"/>
+  <anchor x="1146" y="0" name="bottom"/>
+  <anchor x="1137" y="955" name="top"/>
+  <outline>
+    <component base="quoteright"/>
+    <component base="n" xOffset="509"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>apostrophemodifier</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>n</string>
+  <key>com.fontlab.recipe</key>
+  <string>quoteright_n</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

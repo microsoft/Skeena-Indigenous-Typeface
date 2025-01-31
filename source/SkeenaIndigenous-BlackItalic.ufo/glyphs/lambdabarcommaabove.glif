@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lambdabarcommaabove" format="2">
+  <advance width="1213"/>
+  <anchor x="761" y="1647" name="top"/>
+  <anchor x="507" y="0" name="bottom"/>
+  <outline>
+    <component base="lambdabar"/>
+    <component base="commaabovecomb" xOffset="936" yOffset="190"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

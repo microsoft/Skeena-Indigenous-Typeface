@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Obreve" format="2">
+  <advance width="1459"/>
+  <unicode hex="014E"/>
+  <anchor x="734" y="0" name="bottom"/>
+  <anchor x="730" y="1781" name="top.mkmk"/>
+  <outline>
+    <component base="O"/>
+    <component base="brevecomb.cap" xOffset="730"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>O+brevecomb.cap</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

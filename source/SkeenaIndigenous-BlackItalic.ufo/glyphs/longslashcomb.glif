@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="longslashcomb" format="2">
+  <unicode hex="0338"/>
+  <outline>
+    <contour>
+      <point x="660" y="1395" type="line"/>
+      <point x="465" y="1524" type="line"/>
+      <point x="-660" y="-84" type="line"/>
+      <point x="-467" y="-213" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="IJacute" format="2">
+  <advance width="1236"/>
+  <anchor x="935" y="1707" name="top.mkmk"/>
+  <anchor x="508" y="0" name="bottom"/>
+  <outline>
+    <component base="I"/>
+    <component base="acutecomb.cap" xOffset="254"/>
+    <component base="J" xOffset="502"/>
+    <component base="acutecomb.cap" xOffset="998"/>
+  </outline>
+  <guideline angle="76" x="508" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>I_acutecomb.cap_J+acutecomb.cap</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

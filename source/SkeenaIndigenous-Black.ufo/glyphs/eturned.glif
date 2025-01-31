@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eturned" format="2">
+  <advance width="1184"/>
+  <unicode hex="01DD"/>
+  <anchor x="570" y="0" name="bottom"/>
+  <anchor x="580" y="953" name="top"/>
+  <outline>
+    <component base="schwa"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>schwa</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>schwa</string>
+  <key>com.fontlab.recipe</key>
+  <string>schwa</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

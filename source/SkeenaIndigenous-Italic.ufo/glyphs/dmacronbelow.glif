@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dmacronbelow" format="2">
+  <advance width="1084"/>
+  <unicode hex="1E0F"/>
+  <anchor x="809" y="1417" name="top"/>
+  <anchor x="377" y="-319" name="bottom.mkmk"/>
+  <outline>
+    <component base="d"/>
+    <component base="macronbelowcomb" xOffset="578"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>d+macronbelowcomb</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

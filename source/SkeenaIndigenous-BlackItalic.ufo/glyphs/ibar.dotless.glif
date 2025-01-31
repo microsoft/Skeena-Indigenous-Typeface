@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ibar.dotless" format="2">
+  <advance width="794"/>
+  <anchor x="276" y="0" name="bottom"/>
+  <anchor x="517" y="946" name="top"/>
+  <outline>
+    <contour>
+      <point x="498" y="0" type="line"/>
+      <point x="734" y="946" type="line"/>
+      <point x="290" y="946" type="line"/>
+      <point x="54" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="748" y="396" type="line"/>
+      <point x="828" y="603" type="line"/>
+      <point x="38" y="603" type="line"/>
+      <point x="-13" y="396" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>ibar</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>ibar</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

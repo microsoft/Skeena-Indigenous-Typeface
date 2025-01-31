@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tslash" format="2">
+  <advance width="1026"/>
+  <unicode hex="023E"/>
+  <anchor x="513" y="-88" name="bottom"/>
+  <anchor x="514" y="1416" name="top"/>
+  <outline>
+    <contour>
+      <point x="982" y="1425" type="line"/>
+      <point x="863" y="1476" type="line"/>
+      <point x="118" y="-97" type="line"/>
+      <point x="237" y="-148" type="line"/>
+    </contour>
+    <contour>
+      <point x="605" y="0" type="line"/>
+      <point x="605" y="1215" type="line"/>
+      <point x="421" y="1215" type="line"/>
+      <point x="421" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1003" y="1185" type="line"/>
+      <point x="1021" y="1314" type="line"/>
+      <point x="13" y="1314" type="line"/>
+      <point x="13" y="1185" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="1476"/>
+  <guideline angle="0" x="0" y="-148"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>T</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>T</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

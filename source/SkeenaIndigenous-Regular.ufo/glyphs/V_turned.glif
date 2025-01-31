@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Vturned" format="2">
+  <advance width="1160"/>
+  <unicode hex="0245"/>
+  <anchor x="561" y="0" name="bottom"/>
+  <anchor x="581" y="1314" name="top"/>
+  <outline>
+    <contour>
+      <point x="184" y="0" type="line"/>
+      <point x="565" y="1070" type="line"/>
+      <point x="572" y="1070" type="line"/>
+      <point x="945" y="0" type="line"/>
+      <point x="1144" y="0" type="line"/>
+      <point x="648" y="1314" type="line"/>
+      <point x="515" y="1314" type="line"/>
+      <point x="15" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>A</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>A</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

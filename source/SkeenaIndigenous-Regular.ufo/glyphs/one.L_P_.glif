@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.LP" format="2">
+  <advance width="736"/>
+  <anchor x="456" y="0" name="bottom"/>
+  <anchor x="427" y="1314" name="top"/>
+  <outline>
+    <component base="one" xOffset="-184"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

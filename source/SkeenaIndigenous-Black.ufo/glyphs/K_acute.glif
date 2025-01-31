@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kacute" format="2">
+  <advance width="1414"/>
+  <unicode hex="1E30"/>
+  <anchor x="720" y="0" name="bottom"/>
+  <anchor x="708" y="1798" name="top.mkmk"/>
+  <outline>
+    <component base="K"/>
+    <component base="acutecomb.cap" xOffset="708"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>K+acutecomb.cap</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

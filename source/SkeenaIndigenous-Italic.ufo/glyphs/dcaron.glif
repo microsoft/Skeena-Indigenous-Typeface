@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcaron" format="2">
+  <advance width="1143"/>
+  <unicode hex="010F"/>
+  <anchor x="457" y="0" name="bottom"/>
+  <anchor x="809" y="1417" name="top"/>
+  <outline>
+    <component base="d"/>
+    <component base="caronSlovak" xOffset="927"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

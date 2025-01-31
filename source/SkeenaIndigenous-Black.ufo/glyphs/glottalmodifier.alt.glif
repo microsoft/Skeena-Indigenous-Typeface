@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="glottalmodifier.alt" format="2">
+  <advance width="633"/>
+  <anchor x="315" y="571" name="bottom"/>
+  <anchor x="320" y="1143" name="top"/>
+  <outline>
+    <contour>
+      <point x="341" y="571" type="line"/>
+      <point x="606" y="955" type="line"/>
+      <point x="606" y="1143" type="line"/>
+      <point x="25" y="1143" type="line"/>
+      <point x="25" y="931" type="line"/>
+      <point x="523" y="931" type="line"/>
+      <point x="521" y="1042" type="line"/>
+      <point x="182" y="571" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="785"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

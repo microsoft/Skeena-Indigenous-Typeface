@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ldot" format="2">
+  <advance width="1144"/>
+  <unicode hex="013F"/>
+  <outline>
+    <component base="L"/>
+    <component base="period" xOffset="704" yOffset="577"/>
+  </outline>
+  <guideline angle="0" x="0" y="795"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>L</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>periodcentered.case</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

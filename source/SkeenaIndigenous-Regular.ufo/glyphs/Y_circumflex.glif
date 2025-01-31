@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ycircumflex" format="2">
+  <advance width="1059"/>
+  <unicode hex="0176"/>
+  <anchor x="530" y="0" name="bottom"/>
+  <anchor x="550" y="1722" name="top.mkmk"/>
+  <outline>
+    <component base="Y"/>
+    <component base="circumflexcomb.cap" xOffset="550"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Y+circumflexcomb.cap</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breve" format="2">
+  <advance width="825"/>
+  <unicode hex="02D8"/>
+  <anchor x="648" y="1432" name="top.mkmk"/>
+  <outline>
+    <component base="brevecomb" xOffset="412"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

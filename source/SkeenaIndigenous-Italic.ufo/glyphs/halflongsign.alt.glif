@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="halflongsign.alt" format="2">
+  <advance width="516"/>
+  <outline>
+    <contour>
+      <point x="549" y="938" type="line"/>
+      <point x="181" y="938" type="line"/>
+      <point x="284" y="610" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="76" x="293" y="478"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.801,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

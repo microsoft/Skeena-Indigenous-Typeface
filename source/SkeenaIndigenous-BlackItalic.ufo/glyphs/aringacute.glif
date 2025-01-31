@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aringacute" format="2">
+  <advance width="1276"/>
+  <unicode hex="01FB"/>
+  <anchor x="567" y="0" name="bottom"/>
+  <anchor x="1009" y="1987" name="top.mkmk"/>
+  <outline>
+    <component base="a"/>
+    <component base="ringcomb" xOffset="635"/>
+    <component base="acutecomb" xOffset="759" yOffset="500"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>a+ringcomb+acutecomb</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

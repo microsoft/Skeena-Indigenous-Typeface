@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jcaron" format="2">
+  <advance width="483"/>
+  <unicode hex="01F0"/>
+  <anchor x="-52" y="-419" name="bottom"/>
+  <anchor x="479" y="1416" name="top.mkmk"/>
+  <outline>
+    <component base="j.dotless"/>
+    <component base="caroncomb" xOffset="246"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>j.dotless+caroncomb</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

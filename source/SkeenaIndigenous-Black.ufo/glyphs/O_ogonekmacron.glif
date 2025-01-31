@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oogonekmacron" format="2">
+  <advance width="1459"/>
+  <unicode hex="01EC"/>
+  <anchor x="734" y="-437" name="bottom.mkmk"/>
+  <anchor x="730" y="1686" name="top.mkmk"/>
+  <outline>
+    <component base="O"/>
+    <component base="ogonekcomb" xOffset="734"/>
+    <component base="macroncomb.cap" xOffset="730"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>O+ogonekcomb+macroncomb.cap</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lbelt" format="2">
+  <advance width="1167"/>
+  <unicode hex="A7AD"/>
+  <anchor x="645" y="0" name="bottom"/>
+  <anchor x="684" y="1314" name="top"/>
+  <outline>
+    <contour>
+      <point x="1011" y="0" type="line"/>
+      <point x="1062" y="129" type="line"/>
+      <point x="477" y="129" type="line"/>
+      <point x="773" y="1314" type="line"/>
+      <point x="588" y="1314" type="line"/>
+      <point x="260" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="436" y="499" type="line"/>
+      <point x="330" y="507"/>
+      <point x="257" y="573"/>
+      <point x="257" y="675" type="curve" smooth="yes"/>
+      <point x="257" y="780"/>
+      <point x="328" y="849"/>
+      <point x="425" y="849" type="curve" smooth="yes"/>
+      <point x="464" y="849"/>
+      <point x="499" y="842"/>
+      <point x="529" y="835" type="curve"/>
+      <point x="559" y="953" type="line"/>
+      <point x="524" y="959"/>
+      <point x="485" y="968"/>
+      <point x="422" y="968" type="curve" smooth="yes"/>
+      <point x="248" y="968"/>
+      <point x="93" y="846"/>
+      <point x="93" y="661" type="curve" smooth="yes"/>
+      <point x="93" y="500"/>
+      <point x="216" y="383"/>
+      <point x="400" y="374" type="curve"/>
+    </contour>
+    <contour>
+      <point x="508" y="371" type="line"/>
+      <point x="589" y="371"/>
+      <point x="699" y="395"/>
+      <point x="806" y="460" type="curve"/>
+      <point x="868" y="584" type="line"/>
+      <point x="863" y="591" type="line"/>
+      <point x="719" y="522"/>
+      <point x="643" y="503"/>
+      <point x="552" y="500" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>L</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

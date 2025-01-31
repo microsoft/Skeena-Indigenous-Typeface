@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vlinebelowcomb" format="2">
+  <unicode hex="0329"/>
+  <anchor x="0" y="0" name="_bottom"/>
+  <anchor x="0" y="-27" name="_bottom.mkmk"/>
+  <anchor x="0" y="-467" name="bottom.mkmk"/>
+  <outline>
+    <contour>
+      <point x="66" y="-467" type="line"/>
+      <point x="66" y="-100" type="line"/>
+      <point x="-66" y="-100" type="line"/>
+      <point x="-66" y="-467" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="-454"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

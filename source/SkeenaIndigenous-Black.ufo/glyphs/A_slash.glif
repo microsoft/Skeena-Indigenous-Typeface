@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aslash" format="2">
+  <advance width="1411"/>
+  <unicode hex="023A"/>
+  <anchor x="673" y="-173" name="bottom"/>
+  <anchor x="710" y="1484" name="top"/>
+  <outline>
+    <contour>
+      <point x="356" y="0" type="line"/>
+      <point x="639" y="1007" type="line"/>
+      <point x="646" y="1007" type="line"/>
+      <point x="924" y="0" type="line"/>
+      <point x="1399" y="0" type="line"/>
+      <point x="973" y="1314" type="line"/>
+      <point x="439" y="1314" type="line"/>
+      <point x="12" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="862" y="333" type="line"/>
+      <point x="797" y="570" type="line"/>
+      <point x="486" y="570" type="line"/>
+      <point x="420" y="333" type="line"/>
+    </contour>
+    <contour>
+      <point x="1246" y="1444" type="line"/>
+      <point x="1024" y="1523" type="line"/>
+      <point x="394" y="-134" type="line"/>
+      <point x="616" y="-213" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="1495"/>
+  <guideline angle="0" x="0" y="-163"/>
+  <guideline angle="0" x="0" y="-212"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>A</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>A</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="theta.Latin" format="2">
+  <advance width="1243"/>
+  <unicode hex="03B8"/>
+  <anchor x="622" y="0" name="bottom"/>
+  <anchor x="622" y="1417" name="top"/>
+  <outline>
+    <contour>
+      <point x="600" y="-24" type="curve" smooth="yes"/>
+      <point x="960" y="-24"/>
+      <point x="1181" y="252"/>
+      <point x="1181" y="728" type="curve" smooth="yes"/>
+      <point x="1181" y="1187"/>
+      <point x="976" y="1443"/>
+      <point x="632" y="1443" type="curve" smooth="yes"/>
+      <point x="276" y="1443"/>
+      <point x="62" y="1172"/>
+      <point x="62" y="693" type="curve" smooth="yes"/>
+      <point x="62" y="230"/>
+      <point x="260" y="-24"/>
+    </contour>
+    <contour>
+      <point x="621" y="170" type="curve" smooth="yes"/>
+      <point x="533" y="170"/>
+      <point x="494" y="315"/>
+      <point x="494" y="710" type="curve" smooth="yes"/>
+      <point x="494" y="1101"/>
+      <point x="532" y="1239"/>
+      <point x="621" y="1239" type="curve" smooth="yes"/>
+      <point x="710" y="1239"/>
+      <point x="749" y="1099"/>
+      <point x="749" y="715" type="curve" smooth="yes"/>
+      <point x="749" y="323"/>
+      <point x="708" y="170"/>
+    </contour>
+    <contour>
+      <point x="904" y="585" type="line"/>
+      <point x="902" y="796" type="line"/>
+      <point x="340" y="796" type="line"/>
+      <point x="338" y="585" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

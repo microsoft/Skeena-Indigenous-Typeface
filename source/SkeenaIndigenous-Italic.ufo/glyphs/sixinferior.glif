@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sixinferior" format="2">
+  <advance width="777"/>
+  <unicode hex="2086"/>
+  <outline>
+    <component base="sixsuperior" xOffset="-239" yOffset="-956"/>
+  </outline>
+  <guideline angle="0" x="0" y="-369"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

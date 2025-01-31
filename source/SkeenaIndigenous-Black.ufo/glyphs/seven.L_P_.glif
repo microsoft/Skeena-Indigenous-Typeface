@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.LP" format="2">
+  <advance width="1071"/>
+  <anchor x="454" y="0" name="bottom"/>
+  <anchor x="540" y="1314" name="top"/>
+  <outline>
+    <component base="seven" xOffset="-18"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

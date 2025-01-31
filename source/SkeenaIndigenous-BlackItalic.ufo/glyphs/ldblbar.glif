@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ldblbar" format="2">
+  <advance width="823"/>
+  <unicode hex="2C61"/>
+  <anchor x="291" y="0" name="bottom"/>
+  <anchor x="647" y="1417" name="top"/>
+  <outline>
+    <contour>
+      <point x="512" y="0" type="line"/>
+      <point x="871" y="1443" type="line"/>
+      <point x="416" y="1389" type="line"/>
+      <point x="69" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="756" y="391" type="line"/>
+      <point x="836" y="597" type="line"/>
+      <point x="52" y="597" type="line"/>
+      <point x="1" y="391" type="line"/>
+    </contour>
+    <contour>
+      <point x="847" y="738" type="line"/>
+      <point x="927" y="944" type="line"/>
+      <point x="138" y="944" type="line"/>
+      <point x="87" y="738" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="597"/>
+  <guideline angle="0" x="0" y="944"/>
+  <guideline angle="0" x="0" y="391"/>
+  <guideline angle="0" x="0" y="738"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>ibar+15</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>ibar+15</string>
+  <key>public.markColor</key>
+  <string>1,0.801,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

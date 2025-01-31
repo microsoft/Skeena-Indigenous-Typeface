@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lambdabar" format="2">
+  <advance width="1327"/>
+  <unicode hex="A7DC"/>
+  <anchor x="545" y="0" name="bottom"/>
+  <anchor x="870" y="1314" name="top"/>
+  <outline>
+    <contour>
+      <point x="1211" y="851" type="line"/>
+      <point x="1307" y="1091" type="line"/>
+      <point x="247" y="889" type="line"/>
+      <point x="187" y="649" type="line"/>
+    </contour>
+    <contour>
+      <point x="226" y="0" type="line"/>
+      <point x="613" y="513" type="line"/>
+      <point x="621" y="513" type="line"/>
+      <point x="766" y="0" type="line"/>
+      <point x="1232" y="0" type="line"/>
+      <point x="955" y="859" type="line"/>
+      <point x="961" y="768" type="line"/>
+      <point x="1095" y="1314" type="line"/>
+      <point x="643" y="1314" type="line"/>
+      <point x="511" y="774" type="line"/>
+      <point x="561" y="867" type="line"/>
+      <point x="-142" y="0" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="248.37" x="1254" y="971"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>LambdaLatin</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>LambdaLatin</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

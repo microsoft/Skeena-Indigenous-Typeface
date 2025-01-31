@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Amacron" format="2">
+  <advance width="1409"/>
+  <unicode hex="0100"/>
+  <anchor x="583" y="0" name="bottom"/>
+  <anchor x="985" y="1686" name="top.mkmk"/>
+  <outline>
+    <component base="A"/>
+    <component base="macroncomb.cap" xOffset="686"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>A+macroncomb.cap</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

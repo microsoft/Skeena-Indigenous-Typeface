@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lambdabarcommaabove.alt" format="2">
+  <advance width="970"/>
+  <anchor x="501" y="0" name="bottom"/>
+  <anchor x="370" y="1567" name="top"/>
+  <outline>
+    <component base="lambdabar.alt"/>
+    <component base="commaabovecomb" xOffset="685" yOffset="197"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>lambdaLatin</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>lambdaLatin</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

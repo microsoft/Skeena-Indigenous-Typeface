@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="schwaogonek" format="2">
+  <advance width="933"/>
+  <anchor x="499" y="938" name="top"/>
+  <anchor x="198" y="-413" name="bottom.mkmk"/>
+  <outline>
+    <component base="schwa"/>
+    <component base="ogonekcomb" xOffset="421"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>schwa+ogonekcomb</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

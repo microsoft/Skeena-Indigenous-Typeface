@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ecaron" format="2">
+  <advance width="1122"/>
+  <unicode hex="011B"/>
+  <anchor x="486" y="0" name="bottom"/>
+  <anchor x="820" y="1462" name="top.mkmk"/>
+  <outline>
+    <component base="e"/>
+    <component base="caroncomb" xOffset="577"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>e+caroncomb</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

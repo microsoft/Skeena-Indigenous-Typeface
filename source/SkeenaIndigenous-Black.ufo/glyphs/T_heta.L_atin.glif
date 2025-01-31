@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Theta.Latin" format="2">
+  <advance width="1459"/>
+  <unicode hex="0398"/>
+  <anchor x="714" y="0" name="bottom"/>
+  <anchor x="730" y="1314" name="top"/>
+  <outline>
+    <component base="Obar"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>O</string>
+  <key>com.fontlab.recipe</key>
+  <string>Obar</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

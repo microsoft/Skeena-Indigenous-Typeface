@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zmodifier" format="2">
+  <advance width="707"/>
+  <unicode hex="1DBB"/>
+  <anchor x="371" y="571" name="bottom"/>
+  <anchor x="507" y="1143" name="top"/>
+  <outline>
+    <contour>
+      <point x="45" y="571" type="line"/>
+      <point x="76" y="694" type="line"/>
+      <point x="425" y="1001" type="line"/>
+      <point x="424" y="1023" type="line"/>
+      <point x="446" y="1005" type="line"/>
+      <point x="163" y="1005" type="line"/>
+      <point x="198" y="1143" type="line"/>
+      <point x="824" y="1143" type="line"/>
+      <point x="793" y="1020" type="line"/>
+      <point x="444" y="714" type="line"/>
+      <point x="445" y="691" type="line"/>
+      <point x="423" y="709" type="line"/>
+      <point x="739" y="709" type="line"/>
+      <point x="685" y="571" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="68.75" x="452" y="63"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

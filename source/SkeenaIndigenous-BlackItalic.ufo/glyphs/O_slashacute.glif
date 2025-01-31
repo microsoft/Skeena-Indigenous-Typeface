@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oslashacute" format="2">
+  <advance width="1505"/>
+  <unicode hex="01FE"/>
+  <anchor x="675" y="0" name="bottom"/>
+  <anchor x="1059" y="1798" name="top.mkmk"/>
+  <outline>
+    <component base="Oslash"/>
+    <component base="acutecomb.cap" xOffset="732"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Oslash+acutecomb.cap</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

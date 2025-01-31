@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="imacron" format="2">
+  <advance width="486"/>
+  <unicode hex="012B"/>
+  <anchor x="243" y="0" name="bottom"/>
+  <anchor x="243" y="1295" name="top.mkmk"/>
+  <outline>
+    <component base="i.dotless"/>
+    <component base="macroncomb.narrow" xOffset="243"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>i.dotless+macroncomb.narrow</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

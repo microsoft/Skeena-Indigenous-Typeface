@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oogonekmacron.alt" format="2">
+  <advance width="1267"/>
+  <anchor x="435" y="-437" name="bottom.mkmk"/>
+  <anchor x="828" y="1353" name="top.mkmk"/>
+  <outline>
+    <component base="o"/>
+    <component base="ogonekcomb.alt" xOffset="665"/>
+    <component base="macroncomb" xOffset="612"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>o+ogonekcomb.alt+macroncomb</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

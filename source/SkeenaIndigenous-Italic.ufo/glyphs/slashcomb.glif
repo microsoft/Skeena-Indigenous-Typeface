@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slashcomb" format="2">
+  <unicode hex="0337"/>
+  <outline>
+    <contour>
+      <point x="273" y="533" type="line"/>
+      <point x="333" y="673" type="line"/>
+      <point x="-269" y="463" type="line"/>
+      <point x="-302" y="332" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="76" x="-188" y="864"/>
+  <guideline angle="76" x="390" y="864"/>
+  <guideline angle="0" x="0" y="578"/>
+  <guideline angle="0" x="0" y="901"/>
+  <guideline angle="247" x="361" y="840"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

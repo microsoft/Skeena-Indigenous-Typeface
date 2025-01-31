@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcaron" format="2">
+  <advance width="1066"/>
+  <unicode hex="013D"/>
+  <anchor x="553" y="0" name="bottom"/>
+  <anchor x="330" y="1314" name="top"/>
+  <outline>
+    <component base="L"/>
+    <component base="caronSlovak" xOffset="584" yOffset="-112"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>L+caronSlovak</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

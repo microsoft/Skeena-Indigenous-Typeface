@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlautcomb" format="2">
+  <unicode hex="030B"/>
+  <anchor x="113" y="938" name="_top"/>
+  <anchor x="121" y="970" name="_top.mkmk"/>
+  <anchor x="237" y="1435" name="top.mkmk"/>
+  <outline>
+    <contour>
+      <point x="571" y="1363" type="line"/>
+      <point x="418" y="1455" type="line"/>
+      <point x="211" y="1087" type="line"/>
+      <point x="296" y="1030" type="line"/>
+    </contour>
+    <contour>
+      <point x="251" y="1363" type="line"/>
+      <point x="98" y="1455" type="line"/>
+      <point x="-109" y="1087" type="line"/>
+      <point x="-24" y="1030" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="1455"/>
+  <guideline angle="0" x="0" y="1030"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

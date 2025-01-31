@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eogonek.euro" format="2">
+  <advance width="1186"/>
+  <anchor x="604" y="-437" name="bottom.mkmk"/>
+  <anchor x="614" y="955" name="top"/>
+  <outline>
+    <contour>
+      <point x="790" y="-447" type="curve" smooth="yes"/>
+      <point x="860" y="-447"/>
+      <point x="937" y="-429"/>
+      <point x="991" y="-400" type="curve"/>
+      <point x="1032" y="-237" type="line"/>
+      <point x="1025" y="-230" type="line"/>
+      <point x="996" y="-249"/>
+      <point x="942" y="-261"/>
+      <point x="892" y="-261" type="curve" smooth="yes"/>
+      <point x="813" y="-261"/>
+      <point x="771" y="-231"/>
+      <point x="771" y="-176" type="curve" smooth="yes"/>
+      <point x="771" y="-90"/>
+      <point x="874" y="-17"/>
+      <point x="987" y="40" type="curve" smooth="yes"/>
+      <point x="1070" y="82" type="line"/>
+      <point x="1104" y="259" type="line"/>
+      <point x="1098" y="265" type="line"/>
+      <point x="1024" y="219"/>
+      <point x="914" y="192"/>
+      <point x="803" y="192" type="curve" smooth="yes"/>
+      <point x="591" y="192"/>
+      <point x="497" y="293"/>
+      <point x="497" y="519" type="curve" smooth="yes"/>
+      <point x="497" y="703"/>
+      <point x="537" y="795"/>
+      <point x="617" y="795" type="curve" smooth="yes"/>
+      <point x="687" y="795"/>
+      <point x="717" y="736"/>
+      <point x="722" y="572" type="curve"/>
+      <point x="467" y="572" type="line"/>
+      <point x="467" y="434" type="line"/>
+      <point x="1130" y="434" type="line"/>
+      <point x="1131" y="441"/>
+      <point x="1131" y="443"/>
+      <point x="1131" y="475" type="curve" smooth="yes"/>
+      <point x="1131" y="800"/>
+      <point x="948" y="980"/>
+      <point x="619" y="980" type="curve" smooth="yes"/>
+      <point x="273" y="980"/>
+      <point x="55" y="784"/>
+      <point x="55" y="474" type="curve" smooth="yes"/>
+      <point x="55" y="160"/>
+      <point x="278" y="-24"/>
+      <point x="656" y="-24" type="curve" smooth="yes"/>
+      <point x="684" y="-24"/>
+      <point x="714" y="-23"/>
+      <point x="742" y="-21" type="curve"/>
+      <point x="668" y="40" type="line"/>
+      <point x="668" y="-27" type="line"/>
+      <point x="616" y="-62"/>
+      <point x="537" y="-135"/>
+      <point x="537" y="-246" type="curve" smooth="yes"/>
+      <point x="537" y="-370"/>
+      <point x="634" y="-447"/>
+    </contour>
+  </outline>
+  <guideline angle="79.13" x="1087" y="171"/>
+  <guideline angle="90" x="1131" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>e</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>e</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

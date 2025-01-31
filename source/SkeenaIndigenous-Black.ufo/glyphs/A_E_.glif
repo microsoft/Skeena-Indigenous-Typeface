@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="2">
+  <advance width="1814"/>
+  <unicode hex="00C6"/>
+  <anchor x="960" y="0" name="bottom"/>
+  <anchor x="1175" y="1314" name="top"/>
+  <outline>
+    <contour>
+      <point x="-38" y="0" type="line"/>
+      <point x="642" y="1314" type="line"/>
+      <point x="1761" y="1314" type="line"/>
+      <point x="1726" y="1073" type="line"/>
+      <point x="1316" y="1073" type="line"/>
+      <point x="1316" y="241" type="line"/>
+      <point x="1782" y="241" type="line"/>
+      <point x="1782" y="0" type="line"/>
+      <point x="871" y="0" type="line"/>
+      <point x="871" y="1073" type="line"/>
+      <point x="837" y="1073" type="line"/>
+      <point x="328" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1286" y="561" type="line"/>
+      <point x="1286" y="798" type="line"/>
+      <point x="1664" y="798" type="line"/>
+      <point x="1664" y="561" type="line"/>
+    </contour>
+    <contour>
+      <point x="901" y="643" type="line"/>
+      <point x="901" y="406" type="line"/>
+      <point x="490" y="406" type="line"/>
+      <point x="603" y="643" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="475"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>E</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Jcaron" format="2">
+  <advance width="734"/>
+  <anchor x="205" y="0" name="bottom"/>
+  <anchor x="803" y="1717" name="top.mkmk"/>
+  <outline>
+    <component base="J"/>
+    <component base="caroncomb.cap" xOffset="496"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>J+caroncomb.cap</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

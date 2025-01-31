@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk" format="2">
+  <advance width="847"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="288" y="1306" type="line"/>
+      <point x="461" y="1333" type="line"/>
+      <point x="456" y="979" type="line"/>
+      <point x="401" y="970" type="line"/>
+    </contour>
+    <contour>
+      <point x="73" y="947" type="line"/>
+      <point x="101" y="1120" type="line"/>
+      <point x="436" y="1005" type="line"/>
+      <point x="427" y="951" type="line"/>
+    </contour>
+    <contour>
+      <point x="349" y="632" type="line"/>
+      <point x="192" y="712" type="line"/>
+      <point x="405" y="995" type="line"/>
+      <point x="454" y="971" type="line"/>
+    </contour>
+    <contour>
+      <point x="732" y="798" type="line"/>
+      <point x="609" y="673" type="line"/>
+      <point x="405" y="963" type="line"/>
+      <point x="445" y="1002" type="line"/>
+    </contour>
+    <contour>
+      <point x="694" y="1213" type="line"/>
+      <point x="774" y="1058" type="line"/>
+      <point x="435" y="952" type="line"/>
+      <point x="412" y="1002" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="428" y="0"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

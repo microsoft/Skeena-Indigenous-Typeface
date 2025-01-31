@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lambdabar" format="2">
+  <advance width="1175"/>
+  <unicode hex="019B"/>
+  <anchor x="694" y="1417" name="top"/>
+  <anchor x="496" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="368" y="0" type="line"/>
+      <point x="704" y="496" type="line"/>
+      <point x="791" y="496" type="line"/>
+      <point x="679" y="968" type="line"/>
+      <point x="-118" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1090" y="895" type="line"/>
+      <point x="1193" y="1137" type="line"/>
+      <point x="311" y="965" type="line"/>
+      <point x="255" y="739" type="line"/>
+    </contour>
+    <contour>
+      <point x="1058" y="0" type="line"/>
+      <point x="883" y="1029" type="line" smooth="yes"/>
+      <point x="834" y="1315"/>
+      <point x="715" y="1443"/>
+      <point x="498" y="1443" type="curve" smooth="yes"/>
+      <point x="438" y="1443"/>
+      <point x="384" y="1434"/>
+      <point x="339" y="1415" type="curve"/>
+      <point x="163" y="1125" type="line"/>
+      <point x="170" y="1116" type="line"/>
+      <point x="248" y="1140"/>
+      <point x="298" y="1149"/>
+      <point x="361" y="1149" type="curve" smooth="yes"/>
+      <point x="544" y="1149"/>
+      <point x="632" y="1079"/>
+      <point x="652" y="937" type="curve" smooth="yes"/>
+      <point x="665" y="843" type="line"/>
+      <point x="686" y="759" type="line"/>
+      <point x="788" y="0" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="247" x="1077" y="840"/>
+  <guideline angle="76" x="287" y="827"/>
+  <guideline angle="0" x="0" y="739"/>
+  <guideline angle="0" x="0" y="1134"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>lambdaLatin</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>lambdaLatin</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

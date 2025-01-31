@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="undertie" format="2">
+  <advance width="985"/>
+  <unicode hex="203F"/>
+  <anchor x="289" y="-422" name="bottom.mkmk"/>
+  <outline>
+    <contour>
+      <point x="313" y="-433" type="curve" smooth="yes"/>
+      <point x="560" y="-433"/>
+      <point x="765" y="-321"/>
+      <point x="873" y="-127" type="curve"/>
+      <point x="795" y="-73" type="line"/>
+      <point x="681" y="-222"/>
+      <point x="539" y="-289"/>
+      <point x="337" y="-289" type="curve" smooth="yes"/>
+      <point x="115" y="-289"/>
+      <point x="-50" y="-208"/>
+      <point x="-103" y="-73" type="curve"/>
+      <point x="-192" y="-121" type="line"/>
+      <point x="-155" y="-307"/>
+      <point x="49" y="-433"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,238 @@
+names:
+  5: Version 0.87 BETA
+  
+formats: [ttf, woff2, woff]
+
+meta:
+  slng: [Latn]
+  dlng: [Latn]
+
+fonts:
+  SkeenaIndigenous-Roman:
+    source: source/SkeenaIndigenous-Roman.designspace
+    names:
+      25: Skeena Indigenous
+    instances:
+      SkeenaIndigenous-Regular:
+        coordinates:
+          wght: 400
+        names:
+          1: Skeena Indigenous
+          2: Regular
+          4: Skeena Indigenous Regular
+          6: SkeenaIndigenous-Regular
+          16: Skeena Indigenous
+          17: Regular
+      SkeenaIndigenous-Medium:
+        coordinates:
+          wght: 500
+        names:
+          1: Skeena Indigenous Medium
+          2: Regular
+          4: Skeena Indigenous Medium
+          6: SkeenaIndigenousMedium-Regular
+          16: Skeena Indigenous
+          17: Medium
+      SkeenaIndigenous-Semibold:
+        coordinates:
+          wght: 600
+        names:
+          1: Skeena Indigenous Semibold
+          2: Regular
+          4: Skeena Indigenous Semibold
+          6: SkeenaIndigenousSemibold-Regular
+          16: Skeena Indigenous
+          17: Semibold
+      SkeenaIndigenous-Bold:
+        coordinates:
+          wght: 700
+        names:
+          1: Skeena Indigenous
+          2: Bold
+          4: Skeena Indigenous Bold
+          6: SkeenaIndigenous-Bold
+          16: Skeena Indigenous
+          17: Bold
+      SkeenaIndigenous-ExtraBold:
+        coordinates:
+          wght: 800
+        names:
+          1: Skeena Indigenous Extra Bold
+          2: Regular
+          4: Skeena Indigenous Extra Bold
+          6: SkeenaIndigenousExtraBold-Regular
+          16: Skeena Indigenous
+          17: ExtraBold
+      SkeenaIndigenous-Black:
+        coordinates:
+          wght: 900
+        names:
+          1: Skeena Indigenous Black
+          2: Regular
+          4: Skeena Indigenous Black
+          6: SkeenaIndigenousBlack-Regular
+          16: Skeena Indigenous
+          17: Black
+    glyphnames: source/SI-Dev2Post.ren
+    ttf:
+      source:
+        - source/SkeenaIndigenous-Black.input.ttf
+        - source/SkeenaIndigenous-Regular.input.ttf
+      tables: [GDEF, GSUB, GPOS]
+    featureparams:
+      ss01: Hooked g form (roman only)
+      ss02: Reversed-cedilla ogonek toggle
+      ss03: Angular ogonek toggle
+      ss04: European ogonek placement
+      ss05: Barred-Lambda/lambda toggle
+      ss06: Belted-l toggle
+      ss07: Glottal modifier toggle
+      ss08: Triangular long vowel marker
+      cv01:
+        label: Barred-Lambda/lambda
+        tooltip: Wavy barred-lambda form
+        characters: [0x07DC, 0x019B]
+      cv02:
+        label: Belted-l
+        tooltip: Lushootseed cursive belted-l
+        characters: [0x026C]
+    STAT:
+      axes:
+      - name: Weight
+        tag: wght
+        values:
+        - name: Roman
+          value: 400
+          linkedValue: 700
+          flags: 0x2 # ElidableAxisValueName
+        - name: Medium
+          value: 500
+        - name: Semibold
+          value: 600
+        - name: Bold
+          value: 700
+        - name: Extra Bold
+          value: 800
+        - name: Black
+          value: 900
+      - name: Italic
+        tag: ital
+        values:
+        - name: Roman
+          value: 0
+          linkedValue: 1
+          flags: 0x2 # ElidableAxisValueName
+      elidedFallbackName: Roman
+
+  SkeenaIndigenous-Italic:
+    source: source/SkeenaIndigenous-Italic.designspace
+    names:
+      25: Skeena Indigenous Italic
+    instances:
+      SkeenaIndigenous-Italic:
+        coordinates:
+          wght: 400
+        names:
+          1: Skeena Indigenous
+          2: Italic
+          4: Skeena Indigenous Italic
+          6: SkeenaIndigenous-Italic
+          16: Skeena Indigenous
+          17: Italic
+      SkeenaIndigenous-MediumItalic:
+        coordinates:
+          wght: 500
+        names:
+          1: Skeena Indigenous Medium
+          2: Italic
+          4: Skeena Indigenous Medium Italic
+          6: SkeenaIndigenousMedium-Italic
+          16: Skeena Indigenous
+          17: Medium Italic
+      SkeenaIndigenous-SemiboldItalic:
+        coordinates:
+          wght: 600
+        names:
+          1: Skeena Indigenous Semibold
+          2: Italic
+          4: Skeena Indigenous Semibold Italic
+          6: SkeenaIndigenousSemibold-Italic
+          16: Skeena Indigenous
+          17: Semibold Italic
+      SkeenaIndigenous-BoldItalic:
+        coordinates:
+          wght: 700
+        names:
+          1: Skeena Indigenous
+          2: Bold Italic
+          4: Skeena Indigenous Bold Italic
+          6: SkeenaIndigenous-BoldItalic
+          16: Skeena Indigenous
+          17: Bold Italic
+      SkeenaIndigenous-ExtraBoldItalic:
+        coordinates:
+          wght: 800
+        names:
+          1: Skeena Indigenous Extra Bold Italic
+          2: Regular
+          4: Skeena Indigenous Extra Bold Italic
+          6: SkeenaIndigenousExtraBold-Italic
+          16: Skeena Indigenous
+          17: ExtraBold Italic
+      SkeenaIndigenous-BlackItalic:
+        coordinates:
+          wght: 900
+        names:
+          1: Skeena Indigenous Black Italic
+          2: Regular
+          4: Skeena Indigenous Black Italic
+          6: SkeenaIndigenousBlack-Italic
+          16: Skeena Indigenous
+          17: Black Italic
+    glyphnames: source/SI-Dev2Post.ren
+    ttf:
+      source:
+        - source/SkeenaIndigenous-BlackItalic.input.ttf
+        - source/SkeenaIndigenous-Italic.input.ttf
+      tables: [GDEF, GSUB, GPOS]
+    featureparams:
+      ss02: Reversed-cedilla ogonek toggle
+      ss03: Angular ogonek toggle
+      ss04: European ogonek placement
+      ss05: Barred-Lambda/lambda toggle
+      ss06: Belted-l toggle
+      ss07: Glottal modifier toggle
+      ss08: Triangular long vowel marker
+      cv01:
+        label: Barred-Lambda/lambda
+        tooltip: Wavy barred-lambda form
+        characters: [0x07DC, 0x019B]
+      cv02:
+        label: Belted-l
+        tooltip: Lushootseed cursive belted-l
+        characters: [0x026C]
+    STAT:
+      axes:
+      - name: Weight
+        tag: wght
+        values:
+        - name: Italic
+          value: 400
+          linkedValue: 700
+          flags: 0x2 # ElidableAxisValueName
+        - name: Medium
+          value: 500
+        - name: Semibold
+          value: 600
+        - name: Bold
+          value: 700
+        - name: Extra Bold
+          value: 800
+        - name: Black
+          value: 900
+      - name: Italic
+        tag: ital
+        values:
+        - name: Italic
+          value: 1
+      elidedFallbackName: Italic

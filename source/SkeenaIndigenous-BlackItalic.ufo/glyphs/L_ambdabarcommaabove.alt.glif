@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lambdabarcommaabove.alt" format="2">
+  <advance width="1327"/>
+  <anchor x="545" y="0" name="bottom"/>
+  <anchor x="1002" y="1846" name="top.mkmk"/>
+  <outline>
+    <component base="Lambdabar.alt"/>
+    <component base="commaabovecomb.cap" xOffset="663"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Lambdabar.alt</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Lambdabar.alt</string>
+  <key>com.fontlab.recipe</key>
+  <string>Lambdabar.alt+commaabovecomb.cap</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

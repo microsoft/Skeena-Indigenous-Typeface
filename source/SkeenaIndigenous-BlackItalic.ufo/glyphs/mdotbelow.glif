@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mdotbelow" format="2">
+  <advance width="1860"/>
+  <unicode hex="1E43"/>
+  <anchor x="1069" y="946" name="top"/>
+  <anchor x="715" y="-459" name="bottom.mkmk"/>
+  <outline>
+    <component base="m"/>
+    <component base="dotbelowcomb" xOffset="950"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>m+dotbelowcomb</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

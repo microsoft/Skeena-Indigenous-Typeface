@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lslash" format="2">
+  <advance width="849"/>
+  <unicode hex="0142"/>
+  <anchor x="304" y="0" name="bottom"/>
+  <anchor x="660" y="1417" name="top"/>
+  <outline>
+    <contour>
+      <point x="525" y="0" type="line"/>
+      <point x="884" y="1443" type="line"/>
+      <point x="429" y="1389" type="line"/>
+      <point x="82" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="848" y="704" type="line"/>
+      <point x="947" y="942" type="line"/>
+      <point x="79" y="671" type="line"/>
+      <point x="23" y="447" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="76" x="172" y="1020"/>
+  <guideline angle="247" x="896" y="840"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oopen" format="2">
+  <advance width="1266"/>
+  <unicode hex="0186"/>
+  <anchor x="493" y="0" name="bottom"/>
+  <anchor x="512" y="1314" name="top"/>
+  <outline>
+    <contour>
+      <point x="453" y="-24" type="curve" smooth="yes"/>
+      <point x="915" y="-24"/>
+      <point x="1197" y="238"/>
+      <point x="1197" y="669" type="curve" smooth="yes"/>
+      <point x="1197" y="1087"/>
+      <point x="933" y="1338"/>
+      <point x="492" y="1338" type="curve" smooth="yes"/>
+      <point x="333" y="1338"/>
+      <point x="186" y="1306"/>
+      <point x="95" y="1250" type="curve"/>
+      <point x="41" y="1035" type="line"/>
+      <point x="47" y="1029" type="line"/>
+      <point x="137" y="1068"/>
+      <point x="237" y="1088"/>
+      <point x="335" y="1088" type="curve" smooth="yes"/>
+      <point x="598" y="1088"/>
+      <point x="738" y="937"/>
+      <point x="738" y="651" type="curve" smooth="yes"/>
+      <point x="738" y="372"/>
+      <point x="604" y="230"/>
+      <point x="343" y="230" type="curve" smooth="yes"/>
+      <point x="241" y="230"/>
+      <point x="136" y="252"/>
+      <point x="38" y="294" type="curve"/>
+      <point x="38" y="56" type="line"/>
+      <point x="156" y="4"/>
+      <point x="302" y="-24"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="38" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>O</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

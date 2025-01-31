@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guilsinglleft" format="2">
+  <advance width="596"/>
+  <unicode hex="2039"/>
+  <outline>
+    <contour>
+      <point x="92" y="490" type="line"/>
+      <point x="479" y="850" type="line"/>
+      <point x="583" y="827" type="line"/>
+      <point x="281" y="476" type="line"/>
+      <point x="413" y="147" type="line"/>
+      <point x="323" y="123" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="123"/>
+  <guideline angle="0" x="0" y="165"/>
+  <guideline angle="0" x="0" y="488"/>
+  <guideline angle="0" x="0" y="815"/>
+  <guideline angle="0" x="0" y="850"/>
+  <guideline angle="76.0015" x="376.286" y="0"/>
+  <guideline angle="76.0015" x="-30.6421" y="0"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

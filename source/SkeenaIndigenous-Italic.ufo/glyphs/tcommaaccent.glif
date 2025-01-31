@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcommaaccent" format="2">
+  <advance width="627"/>
+  <unicode hex="021B"/>
+  <anchor x="423" y="1188" name="top"/>
+  <anchor x="149" y="-472" name="bottom.mkmk"/>
+  <outline>
+    <component base="t"/>
+    <component base="commaaccentcomb" xOffset="388"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>t+commaaccentcomb</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

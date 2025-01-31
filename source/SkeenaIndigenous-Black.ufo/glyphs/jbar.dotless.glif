@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jbar.dotless" format="2">
+  <advance width="794"/>
+  <anchor x="255" y="-419" name="bottom"/>
+  <anchor x="396" y="955" name="top"/>
+  <outline>
+    <contour>
+      <point x="190" y="-443" type="curve" smooth="yes"/>
+      <point x="472" y="-443"/>
+      <point x="612" y="-323"/>
+      <point x="612" y="-82" type="curve" smooth="yes"/>
+      <point x="612" y="953" type="line"/>
+      <point x="176" y="953" type="line"/>
+      <point x="176" y="-38" type="line" smooth="yes"/>
+      <point x="176" y="-175"/>
+      <point x="136" y="-230"/>
+      <point x="27" y="-230" type="curve" smooth="yes"/>
+      <point x="-14" y="-230"/>
+      <point x="-53" y="-223"/>
+      <point x="-110" y="-205" type="curve"/>
+      <point x="-116" y="-212" type="line"/>
+      <point x="-71" y="-396" type="line"/>
+      <point x="19" y="-430"/>
+      <point x="94" y="-443"/>
+    </contour>
+    <contour>
+      <point x="768" y="396" type="line"/>
+      <point x="797" y="603" type="line"/>
+      <point x="10" y="603" type="line"/>
+      <point x="10" y="396" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>jbar</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>jbar</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Macute" format="2">
+  <advance width="1822"/>
+  <unicode hex="1E3E"/>
+  <anchor x="788" y="0" name="bottom"/>
+  <anchor x="1241" y="1798" name="top.mkmk"/>
+  <outline>
+    <component base="M"/>
+    <component base="acutecomb.cap" xOffset="914"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>M+acutecomb.cap</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

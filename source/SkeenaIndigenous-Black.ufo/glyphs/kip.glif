@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kip" format="2">
+  <advance width="1489"/>
+  <unicode hex="20AD"/>
+  <anchor x="810" y="0" name="bottom"/>
+  <anchor x="778" y="1314" name="top"/>
+  <outline>
+    <contour>
+      <point x="1349" y="563" type="line"/>
+      <point x="1381" y="787" type="line"/>
+      <point x="10" y="787" type="line"/>
+      <point x="10" y="563" type="line"/>
+    </contour>
+    <contour>
+      <point x="175" y="0" type="line"/>
+      <point x="625" y="0" type="line"/>
+      <point x="625" y="1314" type="line"/>
+      <point x="175" y="1314" type="line"/>
+    </contour>
+    <contour>
+      <point x="971" y="0" type="line"/>
+      <point x="1484" y="0" type="line"/>
+      <point x="1028" y="753" type="line"/>
+      <point x="1406" y="1314" type="line"/>
+      <point x="1027" y="1314" type="line"/>
+      <point x="603" y="671" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="789"/>
+  <guideline angle="82.0107" x="789" y="675"/>
+  <guideline angle="0" x="0" y="561"/>
+  <guideline angle="90" x="1406" y="0"/>
+  <guideline angle="90" x="1396" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>Ibar</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>K+5</string>
+  <key>com.fontlab.recipe</key>
+  <string>K</string>
+  <key>public.markColor</key>
+  <string>1,0.801,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

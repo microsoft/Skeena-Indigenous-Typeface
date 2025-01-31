@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ygrave" format="2">
+  <advance width="1325"/>
+  <unicode hex="1EF2"/>
+  <anchor x="530" y="0" name="bottom"/>
+  <anchor x="986" y="1798" name="top.mkmk"/>
+  <outline>
+    <component base="Y"/>
+    <component base="gravecomb.cap" xOffset="659"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Y+gravecomb.cap</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonekcomb.alt2" format="2">
+  <anchor x="0" y="0" name="_bottom"/>
+  <anchor x="0" y="-458" name="bottom.mkmk"/>
+  <anchor x="0" y="-38" name="_bottom.mkmk"/>
+  <outline>
+    <contour>
+      <point x="252" y="-458" type="line"/>
+      <point x="252" y="-333" type="line"/>
+      <point x="-189" y="-333" type="line"/>
+      <point x="-189" y="-417" type="line"/>
+      <point x="46" y="-110" type="line"/>
+      <point x="-82" y="-110" type="line"/>
+      <point x="-273" y="-362" type="line"/>
+      <point x="-273" y="-458" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="-115"/>
+  <guideline angle="56.0118" x="155" y="-226"/>
+  <guideline angle="56.0118" x="274" y="-226"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

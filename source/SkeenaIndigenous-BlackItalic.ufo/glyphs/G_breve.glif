@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gbreve" format="2">
+  <advance width="1370"/>
+  <unicode hex="011E"/>
+  <anchor x="696" y="0" name="bottom"/>
+  <anchor x="1082" y="1781" name="top.mkmk"/>
+  <outline>
+    <component base="G"/>
+    <component base="brevecomb.cap" xOffset="758"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>G+~brevecomb.cap</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

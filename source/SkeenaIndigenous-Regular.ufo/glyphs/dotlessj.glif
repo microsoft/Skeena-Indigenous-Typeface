@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessj" format="2">
+  <advance width="484"/>
+  <unicode hex="0237"/>
+  <anchor x="124" y="-419" name="bottom"/>
+  <anchor x="243" y="946" name="top"/>
+  <outline>
+    <component base="j.dotless"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>j.dotless</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

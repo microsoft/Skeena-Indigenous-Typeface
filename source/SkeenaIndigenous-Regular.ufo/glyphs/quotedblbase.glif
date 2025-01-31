@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblbase" format="2">
+  <advance width="761"/>
+  <unicode hex="201E"/>
+  <outline>
+    <component base="quoteright" yOffset="-1117"/>
+    <component base="quoteright" xOffset="343" yOffset="-1117"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>quoteright</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>quoteright</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="clickalveolar" format="2">
+  <advance width="557"/>
+  <unicode hex="01C2"/>
+  <anchor x="281" y="0" name="bottom"/>
+  <anchor x="276" y="1417" name="top"/>
+  <outline>
+    <component base="ldblbar"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>ldblbar</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>ldblbar</string>
+  <key>com.fontlab.recipe</key>
+  <string>ldblbar</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

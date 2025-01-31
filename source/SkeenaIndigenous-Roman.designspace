@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="4.0">
+ <axes>
+  <axis name="weight" tag="wght" minimum="400" maximum="900" default="400">
+   <labelname xml:lang="en">Weight</labelname>
+   <map input="400" output="174"/>
+   <map input="500" output="210"/>
+   <map input="600" output="252"/>
+   <map input="700" output="304"/>
+   <map input="800" output="366"/>
+   <map input="900" output="440"/>
+  </axis>
+ </axes>
+ <sources>
+  <source filename="masters/SkeenaIndigenous-Black.ufo" name="Black" stylename="Black" familyname="Skeena Indigenous">
+   <location>
+    <dimension name="weight" xvalue="440"/>
+   </location>
+  </source>
+  <source filename="masters/SkeenaIndigenous-Regular.ufo" name="Regular" stylename="Regular" familyname="Skeena Indigenous">
+   <lib copy="1"/>
+   <groups copy="1"/>
+   <info copy="1"/>
+   <features copy="1"/>
+   <location>
+    <dimension name="weight" xvalue="174"/>
+   </location>
+  </source>
+ </sources>
+ <instances>
+  <instance filename="instances/SkeenaIndigenous-Regular.ufo" name="Regular" stylename="Regular" familyname="Skeena Indigenous">
+   <location>
+    <dimension name="weight" xvalue="174"/>
+   </location>
+  </instance>
+  <instance filename="instances/SkeenaIndigenous-Medium.ufo" name="Medium" stylename="Medium" familyname="Skeena Indigenous">
+   <location>
+    <dimension name="weight" xvalue="210"/>
+   </location>
+  </instance>
+  <instance filename="instances/SkeenaIndigenous-Semibold.ufo" name="Semibold" stylename="Semibold" familyname="Skeena Indigenous">
+   <location>
+    <dimension name="weight" xvalue="252"/>
+   </location>
+  </instance>
+  <instance filename="instances/SkeenaIndigenous-Bold.ufo" name="Bold" stylename="Bold" familyname="Skeena Indigenous">
+   <location>
+    <dimension name="weight" xvalue="304"/>
+   </location>
+  </instance>
+  <instance filename="instances/SkeenaIndigenous-ExtraBold.ufo" name="ExtraBold" stylename="Extra Bold" familyname="Skeena Indigenous">
+   <location>
+    <dimension name="weight" xvalue="366"/>
+   </location>
+  </instance>
+  <instance filename="instances/SkeenaIndigenous-Black.ufo" name="Black" stylename="Black" familyname="Skeena Indigenous">
+   <location>
+    <dimension name="weight" xvalue="440"/>
+   </location>
+  </instance>
+ </instances>
+ <rules>
+  <rule name="SLASH.305.440">
+  <conditionset>
+  <condition name="weight" minimum="305" maximum="440"/>
+  </conditionset>
+  <sub name="uni2C65" with="uni2C65.2"/>
+  <sub name="dollar" with="dollar.2"/>
+  </rule>
+ </rules>
+</designspace>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lwavybar" format="2">
+  <advance width="960"/>
+  <unicode hex="026B"/>
+  <anchor x="482" y="0" name="bottom"/>
+  <anchor x="482" y="1417" name="top"/>
+  <outline>
+    <contour>
+      <point x="700" y="0" type="line"/>
+      <point x="700" y="1443" type="line"/>
+      <point x="260" y="1389" type="line"/>
+      <point x="260" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="110" y="517" type="line"/>
+      <point x="142" y="604"/>
+      <point x="184" y="648"/>
+      <point x="241" y="648" type="curve" smooth="yes"/>
+      <point x="310" y="648"/>
+      <point x="351" y="602"/>
+      <point x="376" y="565" type="curve"/>
+      <point x="437" y="794" type="line"/>
+      <point x="381" y="847"/>
+      <point x="330" y="876"/>
+      <point x="246" y="876" type="curve" smooth="yes"/>
+      <point x="125" y="876"/>
+      <point x="25" y="775"/>
+      <point x="-13" y="575" type="curve"/>
+    </contour>
+    <contour>
+      <point x="683" y="531" type="curve" smooth="yes"/>
+      <point x="849" y="531"/>
+      <point x="932" y="647"/>
+      <point x="973" y="831" type="curve"/>
+      <point x="849" y="890" type="line"/>
+      <point x="814" y="799"/>
+      <point x="764" y="746"/>
+      <point x="672" y="746" type="curve" smooth="yes"/>
+      <point x="636" y="746"/>
+      <point x="590" y="769"/>
+      <point x="546" y="808" type="curve"/>
+      <point x="523" y="593" type="line"/>
+      <point x="570" y="560"/>
+      <point x="628" y="531"/>
+    </contour>
+  </outline>
+  <guideline angle="154.564" x="31" y="557"/>
+  <guideline angle="154.564" x="31" y="1273"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

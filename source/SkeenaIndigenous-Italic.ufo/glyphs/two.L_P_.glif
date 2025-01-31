@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.LP" format="2">
+  <advance width="999"/>
+  <anchor x="365" y="0" name="bottom"/>
+  <anchor x="643" y="1314" name="top"/>
+  <outline>
+    <component base="two" xOffset="-62"/>
+  </outline>
+  <guideline angle="76.0015" x="789.11" y="0"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.972,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

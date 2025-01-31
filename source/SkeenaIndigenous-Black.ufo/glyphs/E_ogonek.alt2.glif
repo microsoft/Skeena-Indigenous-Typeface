@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eogonek.alt2" format="2">
+  <advance width="1067"/>
+  <anchor x="564" y="1314" name="top"/>
+  <anchor x="570" y="-485" name="bottom.mkmk"/>
+  <outline>
+    <component base="E"/>
+    <component base="ogonekcomb.alt2" xOffset="570"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>E+ogonekcomb.alt2</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

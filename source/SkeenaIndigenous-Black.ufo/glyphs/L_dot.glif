@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ldot" format="2">
+  <advance width="1368"/>
+  <unicode hex="013F"/>
+  <outline>
+    <component base="L"/>
+    <component base="period" xOffset="772" yOffset="490"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>L</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>periodcentered.case</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

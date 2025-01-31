@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Jbar" format="2">
+  <advance width="976"/>
+  <unicode hex="0248"/>
+  <anchor x="403" y="0" name="bottom"/>
+  <anchor x="578" y="1314" name="top"/>
+  <outline>
+    <contour>
+      <point x="348" y="-24" type="curve" smooth="yes"/>
+      <point x="655" y="-24"/>
+      <point x="801" y="106"/>
+      <point x="801" y="379" type="curve" smooth="yes"/>
+      <point x="801" y="1314" type="line"/>
+      <point x="356" y="1314" type="line"/>
+      <point x="356" y="438" type="line" smooth="yes"/>
+      <point x="356" y="269"/>
+      <point x="313" y="210"/>
+      <point x="188" y="210" type="curve" smooth="yes"/>
+      <point x="133" y="210"/>
+      <point x="65" y="226"/>
+      <point x="20" y="249" type="curve"/>
+      <point x="14" y="243" type="line"/>
+      <point x="62" y="38" type="line"/>
+      <point x="150" y="-1"/>
+      <point x="258" y="-24"/>
+    </contour>
+    <contour>
+      <point x="954" y="561" type="line"/>
+      <point x="986" y="789" type="line"/>
+      <point x="166" y="789" type="line"/>
+      <point x="166" y="561" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="82.0107" x="929" y="675"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>J</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>Ibar</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ChiLatin" format="2">
+  <advance width="1101"/>
+  <unicode hex="A7B3"/>
+  <anchor x="324" y="-419" name="bottom"/>
+  <anchor x="764" y="1314" name="top"/>
+  <outline>
+    <contour>
+      <point x="893" y="-419" type="line"/>
+      <point x="398" y="1314" type="line"/>
+      <point x="217" y="1314" type="line"/>
+      <point x="712" y="-419" type="line"/>
+    </contour>
+    <contour>
+      <point x="-64" y="-419" type="line"/>
+      <point x="514" y="330" type="line"/>
+      <point x="480" y="495" type="line"/>
+      <point x="-242" y="-419" type="line"/>
+    </contour>
+    <contour>
+      <point x="1306" y="1314" type="line"/>
+      <point x="1130" y="1314" type="line"/>
+      <point x="577" y="595" type="line"/>
+      <point x="612" y="431" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

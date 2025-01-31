@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eturned" format="2">
+  <advance width="985"/>
+  <unicode hex="018E"/>
+  <anchor x="325" y="0" name="bottom"/>
+  <anchor x="656" y="1314" name="top"/>
+  <outline>
+    <contour>
+      <point x="1033" y="1314" type="line"/>
+      <point x="706" y="0" type="line"/>
+      <point x="-47" y="0" type="line"/>
+      <point x="3" y="129" type="line"/>
+      <point x="583" y="129" type="line"/>
+      <point x="546" y="100" type="line"/>
+      <point x="824" y="1214" type="line"/>
+      <point x="847" y="1185" type="line"/>
+      <point x="248" y="1185" type="line"/>
+      <point x="280" y="1314" type="line"/>
+    </contour>
+    <contour>
+      <point x="738" y="746" type="line"/>
+      <point x="706" y="619" type="line"/>
+      <point x="202" y="619" type="line"/>
+      <point x="234" y="746" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="746"/>
+  <guideline angle="0" x="0" y="619"/>
+  <guideline angle="255.86" x="-47" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>H</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ntilde" format="2">
+  <advance width="1330"/>
+  <unicode hex="00D1"/>
+  <anchor x="665" y="0" name="bottom"/>
+  <anchor x="664" y="1654" name="top.mkmk"/>
+  <outline>
+    <component base="N"/>
+    <component base="tildecomb.cap" xOffset="664"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>N+tildecomb.cap</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lacute" format="2">
+  <advance width="484"/>
+  <unicode hex="013A"/>
+  <anchor x="122" y="0" name="bottom"/>
+  <anchor x="603" y="1914" name="top.mkmk"/>
+  <outline>
+    <component base="l"/>
+    <component base="acutecomb" xOffset="366" yOffset="479"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>l+acutecomb</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

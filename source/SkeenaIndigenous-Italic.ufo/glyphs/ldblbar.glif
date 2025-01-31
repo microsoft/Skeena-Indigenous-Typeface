@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ldblbar" format="2">
+  <advance width="535"/>
+  <unicode hex="2C61"/>
+  <anchor x="144" y="0" name="bottom"/>
+  <anchor x="501" y="1417" name="top"/>
+  <outline>
+    <contour>
+      <point x="232" y="0" type="line"/>
+      <point x="588" y="1430" type="line"/>
+      <point x="406" y="1402" type="line"/>
+      <point x="56" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="502" y="487" type="line"/>
+      <point x="549" y="607" type="line"/>
+      <point x="52" y="607" type="line"/>
+      <point x="22" y="487" type="line"/>
+    </contour>
+    <contour>
+      <point x="584" y="801" type="line"/>
+      <point x="631" y="921" type="line"/>
+      <point x="130" y="921" type="line"/>
+      <point x="100" y="801" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="76" x="201" y="1223"/>
+  <guideline angle="76" x="723" y="1223"/>
+  <guideline angle="76" x="705" y="1223"/>
+  <guideline angle="0" x="0" y="607"/>
+  <guideline angle="0" x="0" y="921"/>
+  <guideline angle="0" x="0" y="801"/>
+  <guideline angle="0" x="0" y="487"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>ibar+5</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>ibar+5</string>
+  <key>public.markColor</key>
+  <string>1,0.801,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

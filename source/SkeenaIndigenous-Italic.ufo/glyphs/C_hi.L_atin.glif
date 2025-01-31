@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Chi.Latin" format="2">
+  <advance width="1101"/>
+  <anchor x="324" y="-419" name="bottom"/>
+  <anchor x="764" y="1314" name="top"/>
+  <outline>
+    <component base="ChiLatin"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>ChiLatin</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>
