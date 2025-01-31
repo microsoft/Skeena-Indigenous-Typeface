@@ -25,7 +25,9 @@ Feature requests, bug reports, and other feedback is invited via the [Issues](ht
 
 ### Sources
 
- 
+The Skeena Indigenous fonts are built from Unified Font Object (.ufo) files, with OpenType Layout data merged from input.ttf files compiled from Microsoft’s VOLT tool. The upstream design sources, also available, are FontLab .vfc files (also saved as .vfj plain text versions of the same in JSON syntax). Font makers wishing to fork the project in design tools other than FontLab should be able to open the .ufo sources.
+
+The VOLT development path was used for Skeena Indigenous to facilitate some contextual positioning lookups. There are other methods to implement these within or externally to .ufo sources, which may be appropriate for forks of the project.
 
 ### Build process
 
@@ -51,6 +53,6 @@ Run the build script indicating the YAML configuration file:
 ```
 $ python tools/tirobuild.py SI-MS.yml
 ```
-The builder will create a new local /output folder, and will populate it with a set of 12 static TrueType fonts (weights from Regular to Black, in roman (upright) and italic) and a set of two variable TrueType fonts (roman and italic fonts with a weight variations axis). The builder will also output WOFF2 format webfonts.
+The builder will create a new local /output folder, and will populate it with a set of 12 static TrueType fonts (weights from Regular to Black, in roman (upright) and italic) and a set of two variable TrueType fonts (roman and italic fonts with a weight variations axis). The builder will also output WOFF2 format webfonts. [Additional formats can be output by editing the YAML configuration file header.]
 
 
