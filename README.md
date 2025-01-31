@@ -31,6 +31,8 @@ The VOLT development path was used for Skeena Indigenous to facilitate some cont
 
 ### Build process
 
+*Note: the build process has been tested successfully to Python 3.12; there are known issues in gathering the requirements for the virtual environment with Pythin 3.13 and use of that version is not recommended.*
+
 The Skeena Indigenous fonts can be built locally using the Tiro builder tool, which is included in the repo. The build is configurd using a YAML format text file: [SI-MS.yml](https://github.com/microsoft/Skeena-Indigenous-Typeface/blob/main/SI-MS.yml). This file contains the input instructions used by the builder tool. [For more detailed information on the YAML configuration instruction set, consult the [TiroTools](https://github.com/TiroTypeworks/TiroTools/tree/master/Builder) repo.]
 
 From the top level folder:
