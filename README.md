@@ -1,4 +1,4 @@
-#Skeena Indigenous
+# Skeena Indigenous
 
 The Skeena Indigenous typeface project consists of sources, tools, documentation and releases for a family of fonts supporting indigenous language orthographies of North America. The set of languages targeted by the fonts builds outward from an initial focus on those of linguistic communities, tribes and nations in the Pacific Northwest (broadly, British Columbia, Washington, and Oregon), and as of January 2025 includes the following:
 
@@ -13,21 +13,21 @@ The project has several goals:
 * Document the decision making in development of the Skeena Indigenous typeface design and font implementation.
 * Publish test documents and other resources to help font makers support indigenous language orthographies in their typefaces.
 
-###Getting the fonts
+### Getting the fonts
 
 Release builds of the fonts are available via the [Releases](https://github.com/microsoft/Skeena-Indigenous-Typeface/releases) link on the repo homepage. This will always include the most current public release.
 
 Compiled fonts are only available via the Releases page, and are not included in the code base for the repo. See information below regarding building the fonts locally in a cloned repo.
 
-###Feedback
+### Feedback
 
 Feature requests, bug reports, and other feedback is invited via the [Issues](https://github.com/microsoft/Skeena-Indigenous-Typeface/issues) tracker. Some initial labels are provided for reporting bugs, requesting new features, etc.
 
-###Sources
+### Sources
 
  
 
-###Build process
+### Build process
 
 The Skeena Indigenous fonts can be built locally using the Tiro builder tool, which is included in the repo. The build is configurd using a YAML format text file: [SI-MS.yml](https://github.com/microsoft/Skeena-Indigenous-Typeface/blob/main/SI-MS.yml). This file contains the input instructions used by the builder tool. [For more detailed information on the YAML configuration instruction set, consult the [TiroTools](https://github.com/TiroTypeworks/TiroTools/tree/master/Builder) repo.]
 
