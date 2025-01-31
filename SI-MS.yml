@@ -1,7 +1,7 @@
 names:
   5: Version 0.87 BETA
   
-formats: [ttf, woff2, woff]
+formats: [ttf, woff2]
 
 meta:
   slng: [Latn]

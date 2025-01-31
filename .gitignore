@@ -2,6 +2,7 @@
 
 /venv
 **/output
+**/fonts
 **/*.backup
 **/*.bak
 **/working
