@@ -1,0 +1,706 @@
+﻿Unicode,,DevName,PostName,Set,UnicodeName,OTL,Comment
+,,.notdef,.notdef,Common,,,
+0x0000,,NULL,NULL,Common,<control>,,
+0x000D,,CR,CR,Common,<control>,,
+0x0020, ,space,space,Common,SPACE,,
+0x00A0, ,nbspace,uni00A0,Common,NO-BREAK SPACE,,
+0x0041,A,A,A,PNWIL+Euro,LATIN CAPITAL LETTER A,,
+0x0042,B,B,B,PNWIL+Euro,LATIN CAPITAL LETTER B,,
+0x0043,C,C,C,PNWIL+Euro,LATIN CAPITAL LETTER C,,
+0x0044,D,D,D,PNWIL+Euro,LATIN CAPITAL LETTER D,,
+0x0045,E,E,E,PNWIL+Euro,LATIN CAPITAL LETTER E,,
+0x0046,F,F,F,PNWIL+Euro,LATIN CAPITAL LETTER F,,
+0x0047,G,G,G,PNWIL+Euro,LATIN CAPITAL LETTER G,,
+0x0048,H,H,H,PNWIL+Euro,LATIN CAPITAL LETTER H,,
+0x0049,I,I,I,PNWIL+Euro,LATIN CAPITAL LETTER I,,
+0x004A,J,J,J,PNWIL+Euro,LATIN CAPITAL LETTER J,,
+0x004B,K,K,K,PNWIL+Euro,LATIN CAPITAL LETTER K,,
+0x004C,L,L,L,PNWIL+Euro,LATIN CAPITAL LETTER L,,
+0x004D,M,M,M,PNWIL+Euro,LATIN CAPITAL LETTER M,,
+0x004E,N,N,N,PNWIL+Euro,LATIN CAPITAL LETTER N,,
+0x004F,O,O,O,PNWIL+Euro,LATIN CAPITAL LETTER O,,
+0x0050,P,P,P,PNWIL+Euro,LATIN CAPITAL LETTER P,,
+0x0051,Q,Q,Q,PNWIL+Euro,LATIN CAPITAL LETTER Q,,
+0x0052,R,R,R,PNWIL+Euro,LATIN CAPITAL LETTER R,,
+0x0053,S,S,S,PNWIL+Euro,LATIN CAPITAL LETTER S,,
+0x0054,T,T,T,PNWIL+Euro,LATIN CAPITAL LETTER T,,
+0x0055,U,U,U,PNWIL+Euro,LATIN CAPITAL LETTER U,,
+0x0056,V,V,V,PNWIL+Euro,LATIN CAPITAL LETTER V,,
+0x0057,W,W,W,PNWIL+Euro,LATIN CAPITAL LETTER W,,
+0x0058,X,X,X,PNWIL+Euro,LATIN CAPITAL LETTER X,,
+0x0059,Y,Y,Y,PNWIL+Euro,LATIN CAPITAL LETTER Y,,
+0x005A,Z,Z,Z,PNWIL+Euro,LATIN CAPITAL LETTER Z,,
+0x00C0,À,Agrave,Agrave,PNWIL+Euro,LATIN CAPITAL LETTER A WITH GRAVE,,
+0x00C1,Á,Aacute,Aacute,PNWIL+Euro,LATIN CAPITAL LETTER A WITH ACUTE,,
+0x00C2,Â,Acircumflex,Acircumflex,PNWIL+Euro,LATIN CAPITAL LETTER A WITH CIRCUMFLEX,,
+0x01CD,Ǎ,Acaron,uni01CD,PNWIL,LATIN CAPITAL LETTER A WITH CARON,,
+0x00C3,Ã,Atilde,Atilde,Euro,LATIN CAPITAL LETTER A WITH TILDE,,
+0x00C4,Ä,Adieresis,Adieresis,PNWIL+Euro,LATIN CAPITAL LETTER A WITH DIAERESIS,,
+0x0100,Ā,Amacron,Amacron,PNWIL+Euro,LATIN CAPITAL LETTER A WITH MACRON,,
+0x0102,Ă,Abreve,Abreve,Euro,LATIN CAPITAL LETTER A WITH BREVE,,
+0x00C5,Å,Aring,Aring,Euro,LATIN CAPITAL LETTER A WITH RING ABOVE,,
+0x01FA,Ǻ,Aringacute,Aringacute,Euro,LATIN CAPITAL LETTER A WITH RING ABOVE AND ACUTE,,
+0x0226,Ȧ,Adotacent,uni0226,NA+,LATIN CAPITAL LETTER A WITH DOT ABOVE,,TQ-INAT p.103 Tsėhesenėstsestotse (Cheyenne)
+0x0104,Ą,Aogonek,Aogonek,PNWIL,LATIN CAPITAL LETTER A WITH OGONEK,,Default = ogonek centered below (unattached)
+,,Aogonek.euro,Aogonek.euro,Euro,,"locl(CSB,LTH,PLK) / ss04",European form
+,,Aogonek.alt,Aogonek.alt,NA+,,locl(CHP) / ss02,"TQ-INAT p.108 Dënësųłinë́ (Chipewyan), Saı́yısı́ dëne (Sayisi Dene) (flipped cedilla form; centered)"
+,,Aogonek.alt2,Aogonek.alt2,NA+,,"locl(CAY,ONO,SEE) / ss03",TQ-INAT p.120 Gayogo̱ hó꞉nǫˀ (Cayuga) (angle form; centered)
+0x023A,Ⱥ,Aslash,uni023A,NA+,LATIN CAPITAL LETTER A WITH STROKE,,"TQ-INAT p.136 SENĆOŦEN (Straights Salish, Saanich)"
+0x00C6,Æ,AE,AE,PNWIL+Euro,LATIN CAPITAL LETTER AE,,
+0x01FC,Ǽ,AEacute,AEacute,Euro,LATIN CAPITAL LETTER AE WITH ACUTE,,
+0x0106,Ć,Cacute,Cacute,Euro,LATIN CAPITAL LETTER C WITH ACUTE,,
+0x0108,Ĉ,Ccircumflex,Ccircumflex,Euro,LATIN CAPITAL LETTER C WITH CIRCUMFLEX,,
+0x010C,Č,Ccaron,Ccaron,PNWIL+Euro,LATIN CAPITAL LETTER C WITH CARON,,
+0x010A,Ċ,Cdotaccent,Cdotaccent,Euro,LATIN CAPITAL LETTER C WITH DOT ABOVE,,
+0x00C7,Ç,Ccedilla,Ccedilla,Euro,LATIN CAPITAL LETTER C WITH CEDILLA,,
+0x023B,Ȼ,Cslash,uni023B,PNWIL,LATIN CAPITAL LETTER C WITH STROKE,,
+0x010E,Ď,Dcaron,Dcaron,Euro,LATIN CAPITAL LETTER D WITH CARON,,
+0x1E0E,Ḏ,Dmacronbelow,uni1E0E,PNWIL,LATIN CAPITAL LETTER D WITH LINE BELOW,,
+,,Dlinebelow,uni00440332,PNWIL,,ccmp,Contextual width component
+0x0110,Đ,Dcroat,Dcroat,Euro,LATIN CAPITAL LETTER D WITH STROKE,,
+0x00C8,È,Egrave,Egrave,PNWIL+Euro,LATIN CAPITAL LETTER E WITH GRAVE,,
+0x00C9,É,Eacute,Eacute,PNWIL+Euro,LATIN CAPITAL LETTER E WITH ACUTE,,
+0x00CA,Ê,Ecircumflex,Ecircumflex,PNWIL+Euro,LATIN CAPITAL LETTER E WITH CIRCUMFLEX,,
+0x011A,Ě,Ecaron,Ecaron,PNWIL+Euro,LATIN CAPITAL LETTER E WITH CARON,,
+0x00CB,Ë,Edieresis,Edieresis,PNWIL+Euro,LATIN CAPITAL LETTER E WITH DIAERESIS,,
+0x0112,Ē,Emacron,Emacron,PNWIL+Euro,LATIN CAPITAL LETTER E WITH MACRON,,
+0x1E16,Ḗ,Emacronacute,uni1E16,PNWIL,LATIN CAPITAL LETTER E WITH MACRON AND ACUTE,,
+0x0114,Ĕ,Ebreve,Ebreve,Euro,LATIN CAPITAL LETTER E WITH BREVE,,
+0x0116,Ė,Edotaccent,Edotaccent,Euro,LATIN CAPITAL LETTER E WITH DOT ABOVE,,
+0x0118,Ę,Eogonek,Eogonek,PNWIL,LATIN CAPITAL LETTER E WITH OGONEK,,Default = ogonek centered below
+,,Eogonek.euro,Eogonek.euro,Euro,,"locl(CSB,LTH,PLK) / ss04",European form
+,,Eogonek.alt,Eogonek.alt,NA+,,locl(CHP) / ss02,"TQ-INAT p.108 Dënësųłinë́ (Chipewyan), Saı́yısı́ dëne (Sayisi Dene) (flipped cedilla form; centered)"
+,,Eogonek.alt2,Eogonek.alt2,NA+,,"locl(CAY,ONO,SEE) / ss03",TQ-INAT p.120 Gayogo̱ hó꞉nǫˀ (Cayuga) (angle form; centered)
+0x011C,Ĝ,Gcircumflex,Gcircumflex,PNWIL+Euro,LATIN CAPITAL LETTER G WITH CIRCUMFLEX,,
+0x01E6,Ǧ,Gcaron,uni01E6,PNWIL,LATIN CAPITAL LETTER G WITH CARON,,
+0x1E20,Ḡ,Gmacron,uni1E20,PNWIL,LATIN CAPITAL LETTER G WITH MACRON,,
+0x011E,Ğ,Gbreve,Gbreve,Euro,LATIN CAPITAL LETTER G WITH BREVE,,
+0x0120,Ġ,Gdotaccent,Gdotaccent,Euro,LATIN CAPITAL LETTER G WITH DOT ABOVE,,
+0x0122,Ģ,Gcommaaccent,uni0122,Euro,LATIN CAPITAL LETTER G WITH CEDILLA,,
+0x01E4,Ǥ,Gbar,uni01E4,PNWIL,LATIN CAPITAL LETTER G WITH STROKE,,
+0x0124,Ĥ,Hcircumflex,Hcircumflex,Euro,LATIN CAPITAL LETTER H WITH CIRCUMFLEX,,
+0x021E,Ȟ,Hcaron,uni021E,NA+,LATIN CAPITAL LETTER H WITH CARON,,TQ-INAT p.148 Lakȟótiyapi (Lakota)
+0x1E24,Ḥ,Hdotbelow,uni1E24,PNWIL,LATIN CAPITAL LETTER H WITH DOT BELOW,,
+0x0126,Ħ,Hbar,Hbar,PNWIL+Euro,LATIN CAPITAL LETTER H WITH STROKE,,
+0x00CC,Ì,Igrave,Igrave,PNWIL+Euro,LATIN CAPITAL LETTER I WITH GRAVE,,
+0x00CD,Í,Iacute,Iacute,PNWIL+Euro,LATIN CAPITAL LETTER I WITH ACUTE,,
+0x00CE,Î,Icircumflex,Icircumflex,PNWIL+Euro,LATIN CAPITAL LETTER I WITH CIRCUMFLEX,,
+0x01CF,Ǐ,Icaron,uni01CF,PNWIL,LATIN CAPITAL LETTER I WITH CARON,,
+0x0128,Ĩ,Itilde,Itilde,Euro,LATIN CAPITAL LETTER I WITH TILDE,,
+0x00CF,Ï,Idieresis,Idieresis,PNWIL+Euro,LATIN CAPITAL LETTER I WITH DIAERESIS,,
+0x012A,Ī,Imacron,Imacron,PNWIL+Euro,LATIN CAPITAL LETTER I WITH MACRON,,
+0x012C,Ĭ,Ibreve,Ibreve,Euro,LATIN CAPITAL LETTER I WITH BREVE,,
+0x0130,İ,Idotaccent,Idotaccent,Euro,LATIN CAPITAL LETTER I WITH DOT ABOVE,,
+0x012E,Į,Iogonek,Iogonek,PNWIL+Euro,LATIN CAPITAL LETTER I WITH OGONEK,,
+,,Iogonek.alt,Iogonek.alt,NA+,,locl(CHP) / ss02,"TQ-INAT p.108 Dënësųłinë́ (Chipewyan), Saı́yısı́ dëne (Sayisi Dene) (flipped cedilla form; centered)"
+,,Iogonek.alt2,Iogonek.alt2,NA+,,"locl(CAY,ONO,SEE) / ss03",TQ-INAT p.120 Gayogo̱ hó꞉nǫˀ (Cayuga) (angle form; centered)
+0x1ECA,Ị,Idotbelow,uni1ECA,PNWIL,LATIN CAPITAL LETTER I WITH DOT BELOW,,
+0x0197,Ɨ,Ibar,uni0197,PNWIL,LATIN CAPITAL LETTER I WITH STROKE,,
+0x0134,Ĵ,Jcircumflex,Jcircumflex,Euro,LATIN CAPITAL LETTER J WITH CIRCUMFLEX,,
+,,Jcaron,uni004A030C,PNWIL,,ccmp,
+0x0248,Ɉ,Jbar,uni0248,NA+,LATIN CAPITAL LETTER J WITH STROKE,,TQ-INAT p.104 Inuinnaqtun
+0x1E30,Ḱ,Kacute,uni1E30,PNWIL,LATIN CAPITAL LETTER K WITH ACUTE,,
+0x0136,Ķ,Kcommaaccent,uni0136,Euro,LATIN CAPITAL LETTER K WITH CEDILLA,,
+0x1E34,Ḵ,Kmacronbelow,uni1E34,PNWIL,LATIN CAPITAL LETTER K WITH LINE BELOW,,
+,,Klinebelow,uni004B0332,PNWIL,,ccmp,Contextual width component
+0x1E32,Ḳ,Kdotbelow,uni1E32,PNWIL,LATIN CAPITAL LETTER K WITH DOT BELOW,,
+0x0139,Ĺ,Lacute,Lacute,Euro,LATIN CAPITAL LETTER L WITH ACUTE,,
+0x013D,Ľ,Lcaron,Lcaron,Euro,LATIN CAPITAL LETTER L WITH CARON,,
+0x013B,Ļ,Lcommaaccent,uni013B,Euro,LATIN CAPITAL LETTER L WITH CEDILLA,,
+0x1E3A,Ḻ,Lmacronbelow,uni1E3A,NA+,LATIN CAPITAL LETTER L WITH LINE BELOW,,TQ-INAT p.122 Oneida (Onʌyotaʔa:ka)
+,,Llinebelow,uni004C0332,NA+,,ccmp,Contextual width component
+0x1E36,Ḷ,Ldotbelow,uni1E36,PNWIL,LATIN CAPITAL LETTER L WITH DOT BELOW,,
+0x0141,Ł,Lslash,Lslash,PNWIL+Euro,LATIN CAPITAL LETTER L WITH STROKE,,
+0x023D,Ƚ,Lbar,uni023D,PNWIL,LATIN CAPITAL LETTER L WITH BAR,,
+0x2C60,Ⱡ,Ldblbar,uni2C60,NA+,LATIN CAPITAL LETTER L WITH DOUBLE BAR,,TQ-INAT p.126 Ktunaxa (Kutenai)
+0x2C62,Ɫ,Lwavybar,uni2C62,PNWIL,LATIN CAPITAL LETTER L WITH MIDDLE TILDE,,
+0xA7AD,Ɬ,Lbelt,uniA7AD,PNWIL,LATIN CAPITAL LETTER L WITH BELT,,
+0x013F,Ŀ,Ldot,Ldot,Euro,LATIN CAPITAL LETTER L WITH MIDDLE DOT,,
+0x1E3E,Ḿ,Macute,uni1E3E,NA+,LATIN CAPITAL LETTER M WITH ACUTE,,TQ-INAT p.106 Yupik
+0x1E42,Ṃ,Mdotbelow,uni1E42,PNWIL,LATIN CAPITAL LETTER M WITH DOT BELOW,,
+0x0143,Ń,Nacute,Nacute,Euro,LATIN CAPITAL LETTER N WITH ACUTE,,
+0x0147,Ň,Ncaron,Ncaron,Euro,LATIN CAPITAL LETTER N WITH CARON,,
+0x00D1,Ñ,Ntilde,Ntilde,Euro,LATIN CAPITAL LETTER N WITH TILDE,,
+0x0145,Ņ,Ncommaaccent,uni0145,Euro,LATIN CAPITAL LETTER N WITH CEDILLA,,
+0x1E46,Ṇ,Ndotbelow,uni1E46,PNWIL,LATIN CAPITAL LETTER N WITH DOT BELOW,,
+0x00D2,Ò,Ograve,Ograve,PNWIL+Euro,LATIN CAPITAL LETTER O WITH GRAVE,,
+0x00D3,Ó,Oacute,Oacute,PNWIL+Euro,LATIN CAPITAL LETTER O WITH ACUTE,,
+0x00D4,Ô,Ocircumflex,Ocircumflex,PNWIL+Euro,LATIN CAPITAL LETTER O WITH CIRCUMFLEX,,
+0x01D1,Ǒ,Ocaron,uni01D1,PNWIL,LATIN CAPITAL LETTER O WITH CARON,,
+0x00D5,Õ,Otilde,Otilde,Euro,LATIN CAPITAL LETTER O WITH TILDE,,
+0x00D6,Ö,Odieresis,Odieresis,Euro,LATIN CAPITAL LETTER O WITH DIAERESIS,,
+0x014C,Ō,Omacron,Omacron,PNWIL+Euro,LATIN CAPITAL LETTER O WITH MACRON,,
+0x1E52,Ṓ,Omacronacute,uni1E52,PNWIL,LATIN CAPITAL LETTER O WITH MACRON AND ACUTE,,
+0x014E,Ŏ,Obreve,Obreve,Euro,LATIN CAPITAL LETTER O WITH BREVE,,
+0x0150,Ő,Ohungarumlaut,Ohungarumlaut,Euro,LATIN CAPITAL LETTER O WITH DOUBLE ACUTE,,
+0x022E,Ȯ,Odotaccent,uni022E,NA+,LATIN CAPITAL LETTER O WITH DOT ABOVE,,e.g. Cheyenne voiceless (Wikipedia)
+0x01EA,Ǫ,Oogonek,uni01EA,PNWIL,LATIN CAPITAL LETTER O WITH OGONEK,,
+,,Oogonek.alt,Oogonek.alt,NA+,,locl(CHP) / ss02,"TQ-INAT p.108 Dënësųłinë́ (Chipewyan), Saı́yısı́ dëne (Sayisi Dene) (flipped cedilla form; centered)"
+,,Oogonek.alt2,Oogonek.alt2,NA+,,"locl(CAY,ONO,SEE) / ss03",TQ-INAT p.120 Gayogo̱ hó꞉nǫˀ (Cayuga) (angle form; centered)
+0x01EC,Ǭ,Oogonekmacron,uni01EC,PNWIL,LATIN CAPITAL LETTER O WITH OGONEK AND MACRON,,
+,,Oogonekmacron.alt,uni01EC.alt,PNWIL,,locl(CHP) / ss02,
+,,Oogonekmacron.alt2,uni01EC.alt2,PNWIL,,"locl(CAY,ONO,SEE) / ss03",
+0x00D8,Ø,Oslash,Oslash,Euro,LATIN CAPITAL LETTER O WITH STROKE,,
+0x01FE,Ǿ,Oslashacute,Oslashacute,Euro,LATIN CAPITAL LETTER O WITH STROKE AND ACUTE,,
+0x019F,Ɵ,Obar,uni019F,PNWIL,LATIN CAPITAL LETTER O WITH MIDDLE TILDE,,Misencoding of theta?
+0x0152,Œ,OE,OE,Euro,LATIN CAPITAL LIGATURE OE,,
+0x0154,Ŕ,Racute,Racute,Euro,LATIN CAPITAL LETTER R WITH ACUTE,,
+0x0158,Ř,Rcaron,Rcaron,Euro,LATIN CAPITAL LETTER R WITH CARON,,
+0x0156,Ŗ,Rcommaaccent,uni0156,Euro,LATIN CAPITAL LETTER R WITH CEDILLA,,
+0x015A,Ś,Sacute,Sacute,Euro,LATIN CAPITAL LETTER S WITH ACUTE,,
+0x015C,Ŝ,Scircumflex,Scircumflex,PNWIL+Euro,LATIN CAPITAL LETTER S WITH CIRCUMFLEX,,
+0x0160,Š,Scaron,Scaron,PNWIL+Euro,LATIN CAPITAL LETTER S WITH CARON,,
+0x015E,Ş,Scedilla,Scedilla,Euro,LATIN CAPITAL LETTER S WITH CEDILLA,,
+0x0218,Ș,Scommaaccent,uni0218,Euro,LATIN CAPITAL LETTER S WITH COMMA BELOW,,
+0x1E62,Ṣ,Sdotbelow,uni1E62,PNWIL,LATIN CAPITAL LETTER S WITH DOT BELOW,,
+0x1E9E,ẞ,Germandbls,uni1E9E,Euro,LATIN CAPITAL LETTER SHARP S,,
+0x0164,Ť,Tcaron,Tcaron,Euro,LATIN CAPITAL LETTER T WITH CARON,,
+0x1E6A,Ṫ,Tdotaccent,uni1E6A,NA+,LATIN CAPITAL LETTER T WITH DOT ABOVE,,"TQ-INAT p.150 Iyâxe (Nakoda, Stoney, Assiniboine)"
+0x0162,Ţ,Tcedilla,uni0162,Euro,LATIN CAPITAL LETTER T WITH CEDILLA,,
+0x021A,Ț,Tcommaaccent,uni021A,Euro,LATIN CAPITAL LETTER T WITH COMMA BELOW,,
+0x1E6E,Ṯ,Tmacronbelow,uni1E6E,PNWIL,LATIN CAPITAL LETTER T WITH LINE BELOW,,
+,,Tlinebelow,uni00540332,PNWIL,,ccmp,Contextual width component
+0x0166,Ŧ,Tbar,Tbar,Euro,LATIN CAPITAL LETTER T WITH STROKE,,
+0x023E,Ⱦ,Tslash,uni023E,PNWIL,LATIN CAPITAL LETTER T WITH DIAGONAL STROKE,,
+0x00D9,Ù,Ugrave,Ugrave,PNWIL+Euro,LATIN CAPITAL LETTER U WITH GRAVE,,
+0x00DA,Ú,Uacute,Uacute,PNWIL+Euro,LATIN CAPITAL LETTER U WITH ACUTE,,
+0x00DB,Û,Ucircumflex,Ucircumflex,PNWIL+Euro,LATIN CAPITAL LETTER U WITH CIRCUMFLEX,,
+0x01D3,Ǔ,Ucaron,uni01D3,PNWIL,LATIN CAPITAL LETTER U WITH CARON,,
+0x0168,Ũ,Utilde,Utilde,Euro,LATIN CAPITAL LETTER U WITH TILDE,,
+0x00DC,Ü,Udieresis,Udieresis,PNWIL+Euro,LATIN CAPITAL LETTER U WITH DIAERESIS,,
+0x016A,Ū,Umacron,Umacron,PNWIL+Euro,LATIN CAPITAL LETTER U WITH MACRON,,
+0x016C,Ŭ,Ubreve,Ubreve,Euro,LATIN CAPITAL LETTER U WITH BREVE,,
+0x016E,Ů,Uring,Uring,Euro,LATIN CAPITAL LETTER U WITH RING ABOVE,,
+0x0170,Ű,Uhungarumlaut,Uhungarumlaut,Euro,LATIN CAPITAL LETTER U WITH DOUBLE ACUTE,,
+0x0172,Ų,Uogonek,Uogonek,PNWIL,LATIN CAPITAL LETTER U WITH OGONEK,,Default = ogonek centered below
+,,Uogonek.euro,Uogonek.euro,Euro,,"locl(CSB,LTH,PLK) / ss04",European form
+,,Uogonek.alt,Uogonek.alt,NA+,,locl(CHP) / ss02,"TQ-INAT p.108 Dënësųłinë́ (Chipewyan), Saı́yısı́ dëne (Sayisi Dene) (flipped cedilla form; centered)"
+,,Uogonek.alt2,Uogonek.alt2,NA+,,"locl(CAY,ONO,SEE) / ss03",TQ-INAT p.120 Gayogo̱ hó꞉nǫˀ (Cayuga) (angle form; centered)
+0x0244,Ʉ,Ubar,uni0244,NA+,LATIN CAPITAL LETTER U BAR,,TQ-INAT p.154 nʉmʉ tekwapʉ̱ (Comanche)
+0x1E80,Ẁ,Wgrave,Wgrave,Euro,LATIN CAPITAL LETTER W WITH GRAVE,,
+0x1E82,Ẃ,Wacute,Wacute,Euro,LATIN CAPITAL LETTER W WITH ACUTE,,
+0x0174,Ŵ,Wcircumflex,Wcircumflex,PNWIL+Euro,LATIN CAPITAL LETTER W WITH CIRCUMFLEX,,
+0x1E84,Ẅ,Wdieresis,Wdieresis,Euro,LATIN CAPITAL LETTER W WITH DIAERESIS,,
+0x1EF2,Ỳ,Ygrave,Ygrave,Euro,LATIN CAPITAL LETTER Y WITH GRAVE,,
+0x00DD,Ý,Yacute,Yacute,Euro,LATIN CAPITAL LETTER Y WITH ACUTE,,
+0x0176,Ŷ,Ycircumflex,Ycircumflex,Euro,LATIN CAPITAL LETTER Y WITH CIRCUMFLEX,,
+0x0178,Ÿ,Ydieresis,Ydieresis,PNWIL+Euro,LATIN CAPITAL LETTER Y WITH DIAERESIS,,
+0x0179,Ź,Zacute,Zacute,Euro,LATIN CAPITAL LETTER Z WITH ACUTE,,
+0x1E90,Ẑ,Zcircumflex,uni1E90,PNWIL,LATIN CAPITAL LETTER Z WITH CIRCUMFLEX,,
+0x017D,Ž,Zcaron,Zcaron,Euro,LATIN CAPITAL LETTER Z WITH CARON,,
+0x017B,Ż,Zdotaccent,Zdotaccent,Euro,LATIN CAPITAL LETTER Z WITH DOT ABOVE,,
+0x1E94,Ẕ,Zmacronbelow,uni1E94,PNWIL,LATIN CAPITAL LETTER Z WITH LINE BELOW,,
+,,Zlinebelow,uni005A0332,PNWIL,,ccmp,Contextual width component
+0x0245,Ʌ,Vturned,uni0245,NA+,LATIN CAPITAL LETTER TURNED V,,TQ-INAT p.122 Oneida (Onʌyotaʔa:ka)
+0x039B,Λ,Lambda.Latin,Lambda.Latin,NA+,GREEK CAPITAL LETTER LAMBDA,,
+0x018F,Ə,Schwa,uni018F,PNWIL,LATIN CAPITAL LETTER SCHWA,,
+,,Schwaogonek,uni018F0328,NA+,,,"TQ-INAT p.124 Ska꞉rù꞉rę’ (Tuscarora, Skarù·rę’, Skarò˙rə̨ ˀ)"
+,,Schwaogonek.alt,uni018F0328.alt,NA+,,locl(CHP) / ss02,
+,,Schwaogonek.alt2,uni018F0328.alt2,NA+,,"locl(CAY,ONO,SEE) / ss03",
+0x018E,Ǝ,Eturned,uni018E,NA+,LATIN CAPITAL LETTER REVERSED E,,"TQ-INAT p.109 Sahtúgot’įné Yat̨ı́ (North Slavey), Dene Zhatıé (South Slavey) (note: flipped, not turned)"
+0x0190,Ɛ,Eopen,uni0190,PNWIL,LATIN CAPITAL LETTER OPEN E,,
+0x0194,Ɣ,GammaLatin,uni0194,PNWIL,LATIN CAPITAL LETTER GAMMA,,
+0xA7AE,Ɪ,Ibarred,uniA7AE,PNWIL,LATIN CAPITAL LETTER SMALL CAPITAL I,,Cummings: Quinault (inferred case mapping)
+0x0196,Ɩ,IotaLatin,uni0196,PNWIL,LATIN CAPITAL LETTER IOTA,,
+0xA7DA,Ꟛ,LambdaLatin,uniA7DA,PNWIL,LATIN CAPITAL LETTER LAMBDA,,
+0xA7DC,Ƛ,Lambdabar,uniA7DC,PNWIL,LATIN CAPITAL LETTER LAMBDA WITH STROKE,,
+,,Lambdabar.alt,uniA7DC.alt,PNWIL,,"locl(HEI,KWK,NUKI) / ss05",Variant with wavy bar.
+,,Lambdabarcommaabove,uniA7DC0313,PNWIL,,ccmp,Precomposed diacritic
+,,Lambdabarcommaabove.alt,uniA7DC0313.alt,PNWIL,,"locl(HEI,KWK,NUKI) / ss05",Variant with wavy bar.
+0x014A,Ŋ,Eng,Eng,PNWIL+Euro,LATIN CAPITAL LETTER ENG,,N-shape
+0x0220,Ƞ,Nlongright,uni0220,NA+,LATIN CAPITAL LETTER N WITH LONG RIGHT LEG,,"TQ-INAT p.150 Iyâxe (Nakoda, Stoney, Assiniboine)"
+0x0186,Ɔ,Oopen,uni0186,PNWIL,LATIN CAPITAL LETTER OPEN O,,
+0x01B1,Ʊ,UpsilonLatin,uni01B1,PNWIL,LATIN CAPITAL LETTER UPSILON,,Note: form is upturned Omega
+0x01B2,Ʋ,Vhook,uni01B2,PNWIL,LATIN CAPITAL LETTER V WITH HOOK,,
+0x0398,Θ,Theta.Latin,Theta.Latin,PNWIL,GREEK CAPITAL LETTER THETA,,Latin form of Greek character
+0x00D0,Ð,Eth,Eth,Euro,LATIN CAPITAL LETTER ETH,,
+0x00DE,Þ,Thorn,Thorn,PNWIL+Euro,LATIN CAPITAL LETTER THORN,,
+0xA7B3,Ꭓ,ChiLatin,uniA7B3,PNWIL,LATIN CAPITAL LETTER CHI,,
+0x03A7,Χ,Chi.Latin,Chi.Latin,PNWIL,GREEK CAPITAL LETTER CHI,,Latin form of Greek character
+0x0241,Ɂ,Glottalstop,uni0241,PNWIL,LATIN CAPITAL LETTER GLOTTAL STOP,,
+0x0132,Ĳ,IJ,IJ,Euro,LATIN CAPITAL LIGATURE IJ,locl(NLD),
+,,IJacute,uni01320301,Euro,,ccmp,
+0x0061,a,a,a,PNWIL+Euro,LATIN SMALL LETTER A,,
+0x0062,b,b,b,PNWIL+Euro,LATIN SMALL LETTER B,,
+0x0063,c,c,c,PNWIL+Euro,LATIN SMALL LETTER C,,
+0x0064,d,d,d,PNWIL+Euro,LATIN SMALL LETTER D,,
+0x0065,e,e,e,PNWIL+Euro,LATIN SMALL LETTER E,,
+0x0066,f,f,f,PNWIL+Euro,LATIN SMALL LETTER F,,
+0x0067,g,g,g,PNWIL+Euro,LATIN SMALL LETTER G,,
+,,g.2,g.2,PNWIL+Euro,,ss01,Roman (upright) only
+0x0068,h,h,h,PNWIL+Euro,LATIN SMALL LETTER H,,
+0x0069,i,i,i,PNWIL+Euro,LATIN SMALL LETTER I,ccmp,Dotless pre above mark
+,,i.dotless,i.dotless,PNWIL+Euro,,,
+0x006A,j,j,j,PNWIL+Euro,LATIN SMALL LETTER J,,
+,,j.dotless,j.dotless,PNWIL+Euro,,ccmp,Dotless pre above mark
+0x006B,k,k,k,PNWIL+Euro,LATIN SMALL LETTER K,,
+0x006C,l,l,l,PNWIL+Euro,LATIN SMALL LETTER L,,
+0x006D,m,m,m,PNWIL+Euro,LATIN SMALL LETTER M,,
+0x006E,n,n,n,PNWIL+Euro,LATIN SMALL LETTER N,,
+0x006F,o,o,o,PNWIL+Euro,LATIN SMALL LETTER O,,
+0x0070,p,p,p,PNWIL+Euro,LATIN SMALL LETTER P,,
+0x0071,q,q,q,PNWIL+Euro,LATIN SMALL LETTER Q,,
+0x0072,r,r,r,PNWIL+Euro,LATIN SMALL LETTER R,,
+0x0073,s,s,s,PNWIL+Euro,LATIN SMALL LETTER S,,
+0x0074,t,t,t,PNWIL+Euro,LATIN SMALL LETTER T,,
+0x0075,u,u,u,PNWIL+Euro,LATIN SMALL LETTER U,,
+0x0076,v,v,v,PNWIL+Euro,LATIN SMALL LETTER V,,
+0x0077,w,w,w,PNWIL+Euro,LATIN SMALL LETTER W,,
+0x0078,x,x,x,PNWIL+Euro,LATIN SMALL LETTER X,,
+0x0079,y,y,y,PNWIL+Euro,LATIN SMALL LETTER Y,,
+0x007A,z,z,z,PNWIL+Euro,LATIN SMALL LETTER Z,,
+0x00E0,à,agrave,agrave,PNWIL+Euro,LATIN SMALL LETTER A WITH GRAVE,,
+0x00E1,á,aacute,aacute,PNWIL+Euro,LATIN SMALL LETTER A WITH ACUTE,,
+0x00E2,â,acircumflex,acircumflex,PNWIL+Euro,LATIN SMALL LETTER A WITH CIRCUMFLEX,,
+0x01CE,ǎ,acaron,uni01CE,PNWIL,LATIN SMALL LETTER A WITH CARON,,
+0x00E3,ã,atilde,atilde,Euro,LATIN SMALL LETTER A WITH TILDE,,
+0x00E4,ä,adieresis,adieresis,PNWIL+Euro,LATIN SMALL LETTER A WITH DIAERESIS,,
+0x0101,ā,amacron,amacron,PNWIL+Euro,LATIN SMALL LETTER A WITH MACRON,,
+0x0103,ă,abreve,abreve,Euro,LATIN SMALL LETTER A WITH BREVE,,
+0x00E5,å,aring,aring,Euro,LATIN SMALL LETTER A WITH RING ABOVE,,
+0x01FB,ǻ,aringacute,aringacute,Euro,LATIN SMALL LETTER A WITH RING ABOVE AND ACUTE,,
+0x0227,ȧ,adotacent,uni0227,NA+,LATIN SMALL LETTER A WITH DOT ABOVE,,TQ-INAT p.103 Tsėhesenėstsestotse (Cheyenne)
+0x0105,ą,aogonek,aogonek,PNWIL,LATIN SMALL LETTER A WITH OGONEK,,Default = ogonek centered below
+,,aogonek.euro,aogonek.euro,Euro,,"locl(CSB,LTH,PLK) / ss04",European form
+,,aogonek.alt,aogonek.alt,NA+,,locl(CHP) / ss02,"TQ-INAT p.108 Dënësųłinë́ (Chipewyan), Saı́yısı́ dëne (Sayisi Dene) (flipped cedilla form; centered)"
+,,aogonek.alt2,aogonek.alt2,NA+,,"locl(CAY,ONO,SEE) / ss03",TQ-INAT p.120 Gayogo̱ hó꞉nǫˀ (Cayuga) (angle form; centered)
+0x2C65,ⱥ,aslash,uni2C65,PNWIL,LATIN SMALL LETTER A WITH STROKE,,
+,,aslash.2,uni2C65.2,PNWIL,,,Feature variation form for heavier weights.
+0x00E6,æ,ae,ae,PNWIL+Euro,LATIN SMALL LETTER AE,,
+0x01FD,ǽ,aeacute,aeacute,Euro,LATIN SMALL LETTER AE WITH ACUTE,,
+0x0107,ć,cacute,cacute,Euro,LATIN SMALL LETTER C WITH ACUTE,,
+0x0109,ĉ,ccircumflex,ccircumflex,Euro,LATIN SMALL LETTER C WITH CIRCUMFLEX,,
+0x010D,č,ccaron,ccaron,PNWIL+Euro,LATIN SMALL LETTER C WITH CARON,,
+0x010B,ċ,cdotaccent,cdotaccent,Euro,LATIN SMALL LETTER C WITH DOT ABOVE,,
+0x00E7,ç,ccedilla,ccedilla,Euro,LATIN SMALL LETTER C WITH CEDILLA,,
+0x023C,ȼ,cslash,uni023C,PNWIL,LATIN SMALL LETTER C WITH STROKE,,
+0x010E,Ď,dcaron,dcaron,Euro,LATIN SMALL LETTER D WITH CARON,,
+0x1E0F,ḏ,dmacronbelow,uni1E0F,PNWIL,LATIN SMALL LETTER D WITH LINE BELOW,,
+,,dlinebelow,uni00640332,PNWIL,,ccmp,Contextual width component
+0x0111,đ,dcroat,dcroat,Euro,LATIN SMALL LETTER D WITH STROKE,,
+0x00E8,è,egrave,egrave,PNWIL+Euro,LATIN SMALL LETTER E WITH GRAVE,,
+0x00E9,é,eacute,eacute,PNWIL+Euro,LATIN SMALL LETTER E WITH ACUTE,,
+0x00EA,ê,ecircumflex,ecircumflex,PNWIL+Euro,LATIN SMALL LETTER E WITH CIRCUMFLEX,,
+0x011B,ě,ecaron,ecaron,PNWIL+Euro,LATIN SMALL LETTER E WITH CARON,,
+0x00EB,ë,edieresis,edieresis,PNWIL+Euro,LATIN SMALL LETTER E WITH DIAERESIS,,
+0x0113,ē,emacron,emacron,PNWIL+Euro,LATIN SMALL LETTER E WITH MACRON,,
+0x1E17,ḗ,emacronacute,uni1E17,PNWIL,LATIN SMALL LETTER E WITH MACRON AND ACUTE,,
+0x0115,ĕ,ebreve,ebreve,Euro,LATIN SMALL LETTER E WITH BREVE,,
+0x0117,ė,edotaccent,edotaccent,Euro,LATIN SMALL LETTER E WITH DOT ABOVE,,
+0x0119,ę,eogonek,eogonek,PNWIL,LATIN SMALL LETTER E WITH OGONEK,,Default = ogonek centered below
+,,eogonek.euro,eogonek.euro,Euro,,"locl(CSB,LTH,PLK) / ss04",European form
+,,eogonek.alt,eogonek.alt,NA+,,locl(CHP) / ss02,"TQ-INAT p.108 Dënësųłinë́ (Chipewyan), Saı́yısı́ dëne (Sayisi Dene) (flipped cedilla form; centered)"
+,,eogonek.alt2,eogonek.alt2,NA+,,"locl(CAY,ONO,SEE) / ss03",TQ-INAT p.120 Gayogo̱ hó꞉nǫˀ (Cayuga) (angle form; centered)
+0x0192,ƒ,fhook,uni0192,Common,LATIN SMALL LETTER F WITH HOOK,,Florin compatibility codepoint
+0x011D,ĝ,gcircumflex,gcircumflex,PNWIL+Euro,LATIN SMALL LETTER G WITH CIRCUMFLEX,,
+,,gcircumflex.2,gcircumflex.2,PNWIL+Euro,,ss01,Roman (upright) only
+0x01E7,ǧ,gcaron,uni01E7,PNWIL,LATIN SMALL LETTER G WITH CARON,,
+,,gcaron.2,uni01E7.2,PNWIL,,ss01,Roman (upright) only
+0x1E21,ḡ,gmacron,uni1E21,PNWIL,LATIN SMALL LETTER G WITH MACRON,,
+,,gmacron.2,uni1E21.2,PNWIL,,ss01,Roman (upright) only
+0x011F,ğ,gbreve,gbreve,Euro,LATIN SMALL LETTER G WITH BREVE,,
+,,gbreve.2,gbreve.2,Euro,,ss01,Roman (upright) only
+0x0121,ġ,gdotaccent,gdotaccent,Euro,LATIN SMALL LETTER G WITH DOT ABOVE,,
+,,gdotaccent.2,gdotaccent.2,Euro,,ss01,Roman (upright) only
+0x0123,ģ,gcommaaccent,uni0123,Euro,LATIN SMALL LETTER G WITH CEDILLA,,
+,,gcommaaccent.2,uni0123.2,Euro,,ss01,Roman (upright) only
+0x01E5,ǥ,gbar,uni01E5,PNWIL,LATIN SMALL LETTER G WITH STROKE,,Bar through lower counter
+,,gbar.2,uni01E5.2,PNWIL,,ss01,Roman (upright) only
+0x0261,ɡ,gscript,uni0261,PNWIL,LATIN SMALL LETTER SCRIPT G,,Coeur d’Alene only? Need to contrast with default form in italic?
+0x0125,ĥ,hcircumflex,hcircumflex,Euro,LATIN SMALL LETTER H WITH CIRCUMFLEX,,
+0x021F,ȟ,hcaron,uni021F,NA+,LATIN SMALL LETTER H WITH CARON,,TQ-INAT p.148 Lakȟótiyapi (Lakota)
+0x1E96,ẖ,hmacronbelow,uni1E96,NA+,LATIN SMALL LETTER H WITH LINE BELOW,,TQ-INAT p.112 Menhti Kenaga (no precomposed cap)
+,,hlinebelow,uni00680332,NA+,,ccmp,Contextual width component
+0x1E25,ḥ,hdotbelow,uni1E25,PNWIL,LATIN SMALL LETTER H WITH DOT BELOW,,
+0x0127,ħ,hbar,hbar,PNWIL+Euro,LATIN SMALL LETTER H WITH STROKE,,
+0x0131,ı,dotlessi,uni0131,PNWIL+Euro,LATIN SMALL LETTER I WITH DOT ABOVE,,
+,,dotlessiogonek,uni01310328,NA+,,ccmp,TQ-INAT p.110 Tłįchǫ Yatiì (Dogrib)
+,,dotlessiogonek.alt,uni01310328.alt,NA+,,locl,
+,,dotlessiogonek.alt2,uni01310328.alt2,NA+,,locl,
+0x00EC,ì,igrave,igrave,PNWIL+Euro,LATIN SMALL LETTER I WITH GRAVE,,
+0x00ED,í,iacute,iacute,PNWIL+Euro,LATIN SMALL LETTER I WITH ACUTE,,
+0x00EE,î,icircumflex,icircumflex,PNWIL+Euro,LATIN SMALL LETTER I WITH CIRCUMFLEX,,
+0x01D0,ǐ,icaron,uni01D0,PNWIL,LATIN SMALL LETTER I WITH CARON,,
+0x0129,ĩ,itilde,itilde,Euro,LATIN SMALL LETTER I WITH TILDE,,
+0x00EF,ï,idieresis,idieresis,PNWIL+Euro,LATIN SMALL LETTER I WITH DIAERESIS,,
+0x012B,ī,imacron,imacron,PNWIL+Euro,LATIN SMALL LETTER I WITH MACRON,,
+0x012D,ĭ,ibreve,ibreve,Euro,LATIN SMALL LETTER I WITH BREVE,,
+0x012F,į,iogonek,iogonek,PNWIL+Euro,LATIN SMALL LETTER I WITH OGONEK,,
+,,iogonek.dotless,iogonek.dotless,PNWIL+Euro,,ccmp,Dotless pre above mark
+,,iogonek.alt,iogonek.alt,NA+,,locl(CHP) / ss02,"TQ-INAT p.108 Dënësųłinë́ (Chipewyan), Saı́yısı́ dëne (Sayisi Dene) (flipped cedilla form; centered)"
+,,iogonek.dotless.alt,iogonek.dotless.alt,NA+,,ccmp,Dotless pre above mark
+,,iogonek.alt2,iogonek.alt2,NA+,,"locl(CAY,ONO,SEE) / ss03",TQ-INAT p.120 Gayogo̱ hó꞉nǫˀ (Cayuga) (angle form; centered)
+,,iogonek.dotless.alt2,iogonek.dotless.alt2,NA+,,ccmp,Dotless pre above mark
+0x1ECB,ị,idotbelow,uni1ECB,PNWIL,LATIN SMALL LETTER I WITH DOT BELOW,,
+,,idotbelow.dotless,uni1ECB.dotless,PNWIL,,ccmp,Dotless pre above mark
+0x0268,ɨ,ibar,uni0268,PNWIL,LATIN SMALL LETTER I WITH STROKE,,
+,,ibar.dotless,uni0268.dotless,PNWIL,,ccmp,Dotless pre above mark
+0x0237,ȷ,dotlessj,uni0237,PNWIL+Euro,LATIN SMALL LETTER DOTLESS J,,
+0x0135,ĵ,jcircumflex,jcircumflex,Euro,LATIN SMALL LETTER J WITH CIRCUMFLEX,,
+0x01F0,ǰ,jcaron,uni01F0,PNWIL,LATIN SMALL LETTER J WITH CARON,,
+0x0249,ɉ,jbar,uni0249,NA+,LATIN SMALL LETTER J WITH STROKE,,TQ-INAT p.104 Inuinnaqtun
+,,jbar.dotless,uni0249.dotless,NA+,,ccmp,Dotless pre above mark
+0x1E31,ḱ,kacute,uni1E31,PNWIL,LATIN SMALL LETTER K WITH ACUTE,,Case mapping support
+0x0137,ķ,kcommaaccent,uni0137,Euro,LATIN SMALL LETTER K WITH CEDILLA,,
+0x1E35,ḵ,kmacronbelow,uni1E35,PNWIL,LATIN SMALL LETTER K WITH LINE BELOW,,
+,,klinebelow,uni006B0332,PNWIL,,ccmp,Contextual width component
+0x1E33,ḳ,kdotbelow,uni1E33,PNWIL,LATIN SMALL LETTER K WITH DOT BELOW,,
+0x0138,ĸ,kgreenlandic,kgreenlandic,Euro,LATIN SMALL LETTER KRA,,
+0x013A,ĺ,lacute,lacute,Euro,LATIN SMALL LETTER L WITH ACUTE,,
+0x013E,ľ,lcaron,lcaron,Euro,LATIN SMALL LETTER L WITH CARON,,
+0x013C,ļ,lcommaaccent,uni013C,Euro,LATIN SMALL LETTER L WITH CEDILLA,,
+0x1E3B,ḻ,lmacronbelow,uni1E3B,NA+,LATIN SMALL LETTER L WITH LINE BELOW,,TQ-INAT p.122 Oneida (Onʌyotaʔa:ka)
+,,llinebelow,uni006C0332,NA+,,ccmp,Contextual width component
+0x1E37,ḷ,ldotbelow,uni1E37,PNWIL,LATIN SMALL LETTER L WITH DOT BELOW,,
+0x0142,ł,lslash,lslash,PNWIL+Euro,LATIN SMALL LETTER L WITH STROKE,,
+0x019A,ƚ,lbar,uni019A,PNWIL,LATIN CAPITAL LETTER L WITH BAR,,
+0x2C61,ⱡ,ldblbar,uni2C61,NA+,LATIN CAPITAL LETTER L WITH DOUBLE BAR,,TQ-INAT p.126 Ktunaxa (Kutenai)
+0x026B,ɫ,lwavybar,uni026B,PNWIL,LATIN SMALL LETTER L WITH MIDDLE TILDE,,
+0x026C,ɬ,lbelt,uni026C,PNWIL,LATIN SMALL LETTER L WITH BELT,,
+,,lbelt.alt,uni026C.alt,PNWIL,,locl(LUT) / ss06,Lushotseed form with looped l and bar (TQ-INAT p.138)
+0x0140,ŀ,ldot,ldot,Euro,LATIN SMALL LETTER L WITH MIDDLE DOT,,
+0x1E3F,ḿ,macute,uni1E3F,NA+,LATIN SMALL LETTER M WITH ACUTE,,TQ-INAT p.106 Yupik
+0x1E43,ṃ,mdotbelow,uni1E43,PNWIL,LATIN SMALL LETTER M WITH DOT BELOW,,
+0x0144,ń,nacute,nacute,Euro,LATIN SMALL LETTER N WITH ACUTE,,
+0x0148,ň,ncaron,ncaron,Euro,LATIN SMALL LETTER N WITH CARON,,
+0x00F1,ñ,ntilde,ntilde,Euro,LATIN SMALL LETTER N WITH TILDE,,
+0x0146,ņ,ncommaaccent,uni0146,Euro,LATIN SMALL LETTER N WITH CEDILLA,,
+0x1E47,ṇ,ndotbelow,uni1E47,PNWIL,LATIN SMALL LETTER N WITH DOT BELOW,,
+0x0149,ŉ,napostrophe,napostrophe,Euro,LATIN SMALL LETTER N PRECEDED BY APOSTROPHE,,
+0x00F2,ò,ograve,ograve,PNWIL+Euro,LATIN SMALL LETTER O WITH GRAVE,,
+0x00F3,ó,oacute,oacute,PNWIL+Euro,LATIN SMALL LETTER O WITH ACUTE,,
+0x00F4,ô,ocircumflex,ocircumflex,PNWIL+Euro,LATIN SMALL LETTER O WITH CIRCUMFLEX,,
+0x01D2,ǒ,ocaron,uni01D2,PNWIL,LATIN SMALL LETTER O WITH CARON,,
+0x00F5,õ,otilde,otilde,Euro,LATIN SMALL LETTER O WITH TILDE,,
+0x00F6,ö,odieresis,odieresis,Euro,LATIN SMALL LETTER O WITH DIAERESIS,,
+0x014D,ō,omacron,omacron,PNWIL+Euro,LATIN SMALL LETTER O WITH MACRON,,
+0x1E53,ṓ,omacronacute,uni1E53,PNWIL,LATIN SMALL LETTER O WITH MACRON AND ACUTE,,
+0x014F,ŏ,obreve,obreve,Euro,LATIN SMALL LETTER O WITH BREVE,,
+0x0151,ő,ohungarumlaut,ohungarumlaut,Euro,LATIN SMALL LETTER O WITH DOUBLE ACUTE,,
+0x022F,ȯ,odotaccent,uni022F,NA+,LATIN SMALL LETTER O WITH DOT ABOVE,,e.g. Cheyenne voiceless (Wikipedia)
+0x01EB,ǫ,oogonek,uni01EB,PNWIL+Euro,LATIN SMALL LETTER O WITH OGONEK,,
+,,oogonek.alt,oogonek.alt,NA+,,locl(CHP) / ss02,"TQ-INAT p.108 Dënësųłinë́ (Chipewyan), Saı́yısı́ dëne (Sayisi Dene) (flipped cedilla form; centered)"
+,,oogonek.alt2,oogonek.alt2,NA+,,"locl(CAY,ONO,SEE) / ss03",TQ-INAT p.120 Gayogo̱ hó꞉nǫˀ (Cayuga) (angle form; centered)
+0x01ED,ǭ,oogonekmacron,uni01ED,PNWIL,LATIN SMALL LETTER O WITH OGONEK AND MACRON,,
+,,oogonekmacron.alt,uni01ED.alt,PNWIL,,locl,
+,,oogonekmacron.alt2,uni01ED.alt2,PNWIL,,locl,
+0x00F8,ø,oslash,oslash,Euro,LATIN SMALL LETTER O WITH STROKE,,
+0x01FF,ǿ,oslashacute,oslashacute,Euro,LATIN SMALL LETTER O WITH STROKE AND ACUTE,,
+0x0275,ɵ,obar,uni0275,PNWIL,LATIN SMALL LETTER BARRED O,,Lowercase compatibility for UC theta misencoding?
+0x0153,œ,oe,oe,Euro,LATIN SMALL LIGATURE OE,,
+0x0155,ŕ,racute,racute,Euro,LATIN SMALL LETTER R WITH ACUTE,,
+0x0159,ř,rcaron,rcaron,Euro,LATIN SMALL LETTER R WITH CARON,,
+0x0157,ŗ,rcommaaccent,uni0157,Euro,LATIN SMALL LETTER R WITH CEDILLA,,
+0x015B,ś,sacute,sacute,Euro,LATIN SMALL LETTER S WITH ACUTE,,
+0x015D,ŝ,scircumflex,scircumflex,PNWIL+Euro,LATIN SMALL LETTER S WITH CIRCUMFLEX,,
+0x0161,š,scaron,scaron,PNWIL+Euro,LATIN SMALL LETTER S WITH CARON,,
+0x015F,ş,scedilla,scedilla,Euro,LATIN SMALL LETTER S WITH CEDILLA,,
+0x0219,ș,scommaaccent,uni0219,Euro,LATIN SMALL LETTER S WITH COMMA BELOW,,
+0x1E63,ṣ,sdotbelow,uni1E63,PNWIL,LATIN SMALL LETTER S WITH DOT BELOW,,
+0x00DF,ß,germandbls,germandbls,Euro,LATIN SMALL LETTER SHARP S,,
+0x017F,ſ,longs,longs,Euro,LATIN SMALL LETTER LONG S,,
+0x0165,ť,tcaron,tcaron,Euro,LATIN SMALL LETTER T WITH CARON,,
+0x1E6B,ṫ,tdotaccent,uni1E6B,NA+,LATIN SMALL LETTER T WITH DOT ABOVE,,"TQ-INAT p.150 Iyâxe (Nakoda, Stoney, Assiniboine)"
+0x0163,ţ,tcedilla,uni0163,Euro,LATIN SMALL LETTER T WITH CEDILLA,,
+0x021B,ț,tcommaaccent,uni021B,Euro,LATIN SMALL LETTER T WITH COMMA BELOW,,
+0x1E6F,ṯ,tmacronbelow,uni1E6F,PNWIL,LATIN SMALL LETTER T WITH LINE BELOW,,
+,,tlinebelow,uni00740332,PNWIL,,ccmp,Contextual width component
+0x0167,ŧ,tbar,tbar,Euro,LATIN SMALL LETTER T WITH STROKE,,
+0x2C66,ⱦ,tslash,uni2C66,PNWIL,LATIN SMALL LETTER T WITH DIAGONAL STROKE,,Case mapping support
+0x00F9,ù,ugrave,ugrave,PNWIL+Euro,LATIN SMALL LETTER U WITH GRAVE,,
+0x00FA,ú,uacute,uacute,PNWIL+Euro,LATIN SMALL LETTER U WITH ACUTE,,
+0x00FB,û,ucircumflex,ucircumflex,PNWIL+Euro,LATIN SMALL LETTER U WITH CIRCUMFLEX,,
+0x01D4,ǔ,ucaron,uni01D4,PNWIL,LATIN SMALL LETTER U WITH CARON,,
+0x0169,ũ,utilde,utilde,Euro,LATIN SMALL LETTER U WITH TILDE,,
+0x00FC,ü,udieresis,udieresis,PNWIL+Euro,LATIN SMALL LETTER U WITH DIAERESIS,,
+0x016B,ū,umacron,umacron,PNWIL+Euro,LATIN SMALL LETTER U WITH MACRON,,
+0x016D,ŭ,ubreve,ubreve,Euro,LATIN SMALL LETTER U WITH BREVE,,
+0x016F,ů,uring,uring,Euro,LATIN SMALL LETTER U WITH BREVE,,
+0x0171,ű,uhungarumlaut,uhungarumlaut,Euro,LATIN SMALL LETTER U WITH DOUBLE ACUTE,,
+0x0173,ų,uogonek,uogonek,PNWIL,LATIN SMALL LETTER U WITH OGONEK,,Default = ogonek centered below
+,,uogonek.euro,uogonek.euro,Euro,,"locl(CSB,LTH,PLK) / ss04",European form
+,,uogonek.alt,uogonek.alt,NA+,,locl(CHP) / ss02,"TQ-INAT p.108 Dënësųłinë́ (Chipewyan), Saı́yısı́ dëne (Sayisi Dene) (flipped cedilla form; centered)"
+,,uogonek.alt2,uogonek.alt2,NA+,,"locl(CAY,ONO,SEE) / ss03",TQ-INAT p.120 Gayogo̱ hó꞉nǫˀ (Cayuga) (angle form; centered)
+0x0289,ʉ,ubar,uni0289,NA+,LATIN SMALL LETTER U BAR,,TQ-INAT p.154 nʉmʉ tekwapʉ̱ (Comanche)
+0x1E81,ẁ,wgrave,wgrave,Euro,LATIN SMALL LETTER W WITH GRAVE,,
+0x1E83,ẃ,wacute,wacute,Euro,LATIN SMALL LETTER W WITH ACUTE,,
+0x0175,ŵ,wcircumflex,wcircumflex,Euro,LATIN SMALL LETTER W WITH CIRCUMFLEX,,
+0x1E85,ẅ,wdieresis,wdieresis,PNWIL+Euro,LATIN SMALL LETTER W WITH DIAERESIS,,
+0x1EF3,ỳ,ygrave,ygrave,Euro,LATIN SMALL LETTER Y WITH GRAVE,,
+0x00FD,ý,yacute,yacute,Euro,LATIN SMALL LETTER Y WITH ACUTE,,
+0x0177,ŷ,ycircumflex,ycircumflex,Euro,LATIN SMALL LETTER Y WITH CIRCUMFLEX,,
+0x00FF,ÿ,ydieresis,ydieresis,PNWIL+Euro,LATIN SMALL LETTER Y WITH DIAERESIS,,
+0x017A,ź,zacute,zacute,Euro,LATIN SMALL LETTER Z WITH ACUTE,,
+0x1E91,ẑ,zcircumflex,uni1E91,PNWIL,LATIN SMALL LETTER Z WITH CIRCUMFLEX,,
+0x017E,ž,zcaron,zcaron,Euro,LATIN SMALL LETTER Z WITH CARON,,
+0x017C,ż,zdotaccent,zdotaccent,Euro,LATIN SMALL LETTER Z WITH DOT ABOVE,,
+0x1E95,ẕ,zmacronbelow,uni1E95,PNWIL,LATIN SMALL LETTER Z WITH LINE BELOW,,
+,,zlinebelow,uni007A0332,PNWIL,,ccmp,Contextual width component
+0x028C,ʌ,vturned,unj028C,NA+,LATIN SMALL LETTER TURNED V,,TQ-INAT p.122 Oneida (Onʌyotaʔa:ka)
+0x0259,ə,schwa,uni0259,PNWIL,LATIN SMALL LETTER SCHWA,,
+,,schwaogonek,uni02590328,NA+,,,"TQ-INAT p.124 Ska꞉rù꞉rę’ (Tuscarora, Skarù·rę’, Skarò˙rə̨ ˀ)"
+,,schwaogonek.alt,uni02590328.alt,NA+,,locl(CHP) / ss02,
+,,schwaogonek.alt2,uni02590328.alt2,NA+,,"locl(CAY,ONO,SEE) / ss03",
+0x01DD,ǝ,eturned,uni01DD,NA+,LATIN SMALL LETTER TURNED E,,"TQ-INAT p.109 Sahtúgot’įné Yat̨ı́ (North Slavey), Dene Zhatıé (South Slavey) (note: flipped, not turned)"
+0x025B,ɛ,eopen,uni025B,PNWIL,LATIN SMALL LETTER OPEN E,,
+0x0262,ɢ,gsmallcap,uni0262,PNWIL,LATIN LETTER SMALL CAPITAL G,,
+0x0263,ɣ,gammaLatin,uni0263,PNWIL,LATIN SMALL LETTER GAMMA,,
+0x026A,ɪ,ibarred,uni026A,PNWIL,LATIN SMALL LETTER CAPITAL I,,Cummings: Quinault
+0x0269,ɩ,iotaLatin,uni0269,PNWIL,LATIN SMALL LETTER IOTA,,
+0xA7DB,ꟛ,lambdaLatin,uniA7DB,PNWIL,LATIN SMALL LETTER LAMBDA,,
+0x03BB,λ,lambda.Latin,lambda.Latin,PNWIL,GREEK SMALL LETTER LAMBDA,,
+0x019B,ƛ,lambdabar,uni019B,PNWIL,LATIN SMALL LETTER LAMBDA WITH STROKE,,
+,,lambdabar.alt,uni019B.alt,PNWIL,,"locl(HEI,KWK,NUKI) / ss05",Variant with wavy bar.
+,,lambdabarcommaabove,uni019B0313,PNWIL,,ccmp,"Short, casing"
+,,lambdabarcommaabove.alt,uni019B0313.alt,PNWIL,,"locl(HEI,KWK,NUKI) / ss05",Variant with wavy bar.
+0x014B,ŋ,eng,eng,PNWIL+Euro,LATIN SMALL LETTER ENG,,
+0x019E,ƞ,nlongright,uni019E,NA+,LATIN SMALL LETTER N WITH LONG RIGHT LEG,,"TQ-INAT p.150 Iyâxe (Nakoda, Stoney, Assiniboine)"
+0x0254,ɔ,oopen,uni0254,PNWIL,LATIN SMALL LETTER OPEN O,,
+0x028A,ʊ,upsilonLatin,uni028A,PNWIL,LATIN SMALL LETTER UPSILON,,Note: form is upturned Omega to x-height
+0x028B,ʋ,vhook,uni028B,PNWIL,LATIN SMALL LETTER V WITH HOOK,,
+0x03B8,θ,theta.Latin,theta.Latin,PNWIL,,,Latin form of Greek character
+0x00F0,ð,eth,eth,Euro,LATIN SMALL LETTER ETH,,
+0x00FE,þ,thorn,thorn,PNWIL+Euro,LATIN SMALL LETTER THORN,,
+0xAB53,ꭓ,chiLatin,uniAB53,PNWIL,LATIN SMALL LETTER CHI,,
+0x03C7,χ,chi.Latin,chi.Latin,PNWIL,GREEK SMALL LETTER CHI,,Latin form of Greek character
+0x0294,ʔ,glottal,uni0294,PNWIL,LATIN LETTER GLOTTAL STOP,,"Tall, unicase"
+0x0242,ɂ,glottalstop,uni0242,PNWIL,LATIN SMALL LETTER GLOTTAL STOP,,"Short, casing"
+0x0295,ʕ,glottalreversed,uni0295,PNWIL,LATIN LETTER PHARYNGEAL VOICED FRICATIVE,,"Tall, unicase"
+0x01C2,ǂ,clickalveolar,uni01C2,PNWIL,LATIN LETTER ALVEOLAR CLICK,,
+0x0133,ĳ,ij,ij,Euro,LATIN SMALL LIGATURE IJ,locl(NLD),
+,,ijacute,uni01330301,Euro,,ccmp,
+0x02B0,ʰ,hmodifier,uni02B0,PNWIL,MODIFIER LETTER SMALL H,,Cummings: Chinook Wawa
+0x02B7,ʷ,wmodifier,uni02B7,PNWIL,MODIFIER LETTER SMALL W,,
+0x02B8,ʸ,ymodifier,uni02B8,PNWIL,MODIFIER LETTER SMALL Y,,
+0x1DBB,ᶻ,zmodifier,uni1DBB,PNWIL,MODIFIER LETTER SMALL Z,,
+0x02C0,ˀ,glottalmodifier,uni02C0,PNWIL,MODIFIER LETTER GLOTTAL STOP,,
+,,glottalmodifier.alt,uni02C0.alt,NA+,,"locl(CAY,ONO) / ss07",TQ-INAT p. 120 (angled form)
+0x1DBF,ᶿ,thetamodifier,uni1DBF,PNWIL,MODIFIER LETTER SMALL THETA,,
+0x02BB,ʻ,apostropheturnedmodifier,uni02BB,NA+,MODIFIER LETTER TURNED COMMA,,"TQ-INAT p.108 Dënësųłinë́ (Chipewyan), Saı́yısı́ dëne (Sayisi Dene) (flipped cedilla form; centered)"
+0x02BC,ʼ,apostrophemodifier,uni02BC,PNWIL,MODIFIER LETTER APOSTROPHE,,
+0x02C8,ˈ,vlinemodifier,uni02C8,PNWIL,MODIFIER LETTER VERTICAL LINE,,
+0x02BE,ʾ,halfringrightmodifier,uni02BE,PNWIL,MODIFER LETTER RIGHT HALF RING,,TQ-INAT p.126 Ktunaxa (Kutenai)
+0XA789,0XA789,colonmodifier,uniA789,PNWIL,MODIFIER COLON,,TQ-INAT p.122 Oneida (Onʌyotaʔa:ka)
+0x02D0,ː,longsign,uni02D0,PNWIL,MODIFIER LETTER TRIANGULAR COLON,,Default form = round dots per colon
+,,longsign.alt,uni02D0.alt,PNWIL,,ss08,IPA form with triangular dots
+0x02D1,ˑ,halflongsign,uni02D1,PNWIL,MODIFIER LETTER HALF TRIANGULAR COLON,,Default form = round dot per colon
+,,halflongsign.alt,uni02D1.alt,PNWIL,,ss08,IPA form with triangular dot
+0x203F,‿,undertie,uni203F,NA+,UNDERTIE,,TQ-INAT p.131
+0x0026,&,ampersand,ampersand,Common,AMPERSAND,,
+0x0300,̀,gravecomb,gravecomb,PNWIL+Euro,COMBINING GRAVE ACCENT,,
+,,gravecomb.cap,gravecomb.cap,PNWIL+Euro,,,
+0x0301,́,acutecomb,acutecomb,PNWIL+Euro,COMBINING ACUTE ACCENT,,
+,,acutecomb.cap,acutecomb.cap,PNWIL+Euro,,,
+0x0302,̂,circumflexcomb,uni0302,PNWIL+Euro,COMBINING CIRCUMFLEX ACCENT,,
+,,circumflexcomb.cap,uni0302.cap,PNWIL+Euro,,,
+0x030C,̌,caroncomb,uni030C,PNWIL+Euro,COMBINING CARON,,
+,,caroncomb.cap,uni030C.cap,PNWIL+Euro,,,
+,,caronSlovak,caronSlovak,Euro,,,Component ingredient
+0x0303,̃,tildecomb,tildecomb,Euro,COMBINING TILDE,,
+,,tildecomb.cap,tildecomb.cap,Euro,,,
+0x0304,̄,macroncomb,uni0304,PNWIL+Euro,COMBINING MACRON,,
+,,macroncomb.narrow,uni0304.narrow,PNWIL+Euro,,,Narrow mark for i
+,,macroncomb.cap,uni0304.cap,PNWIL+Euro,,,
+0x0306,̆,brevecomb,uni0306,Euro,COMBINING BREVE,,
+,,brevecomb.narrow,uni0306.narrow,Euro,,,Narrow mark for i
+,,brevecomb.cap,uni0306.cap,Euro,,,
+0x0311,̑,breveinvertedcomb,uni0311,NA+,COMBINING INVERTED BREVE,,TQ-INAT p.105
+,,breveinvertedcomb.narrow,uni0311.narrow,NA+,,,Narrow mark for i
+,,breveinvertedcomb.cap,uni0311.cap,NA+,,,
+0x0307,̇,dotaccentcomb,uni0307,Euro,COMBINING DOT ABOVE,,
+,,dotaccentcomb.cap,uni0307.cap,Euro,,,
+0x0308,̈,dieresiscomb,uni0308,PNWIL+Euro,COMBINING DIAERESIS,,
+,,dieresiscomb.cap,uni0308.cap,PNWIL+Euro,,,
+0x030B,̋,hungarumlautcomb,uni030B,Euro,COMBINING DOUBLE ACUTE ACCENT,,
+,,hungarumlautcomb.cap,uni030B.cap,Euro,,,
+0x030A,̊,ringcomb,uni030A,Euro,COMBINING RING ABOVE,,
+,,ringcomb.cap,uni030A.cap,Euro,,,
+0x0313,̓,commaabovecomb,uni0313,PNWIL,COMBINING COMMA ABOVE,,
+,,commaabovecomb.cap,uni0313.cap,PNWIL,,,
+0x0315,̕,commarightcomb,uni0315,PNWIL,COMBINING COMMA ABOVE RIGHT,,"Spacing glyph, not mark"
+,,commarightcomb.case,uni0315.case,PNWIL,,,Spacing glyph; case variant for all-caps only
+0x0312,̒,commaaccentturnedabovecomb,uni0312,Euro,COMBINING TURNED COMMA ABOVE,,Component ingredient for /gcommaaccent
+,,commaaccentturnedabovecomb.cap,uni0312.cap,Euro,,,
+0x0361,͡,breveinvertedtiecomb,uni0361,NA+,COMBINING DOUBLE INVERTED BREVE,,TQ-INAT p.106 Yupik (illustration incorrect; should span letters)
+,,breveinvertedtiecomb.cap,uni0361.cap,NA+,,,
+0x0327,̧,cedillacomb,uni0327,Euro,COMBINING CEDILLA,,
+0x0328,̨,ogonekcomb,uni0328,PNWIL+Euro,COMBINING OGONEK,,
+,,ogonekcomb.alt,uni0328.alt,NA+,,locl(CHP) / ss02,"TQ-INAT p.108 Dënësųłinë́ (Chipewyan), Saı́yısı́ dëne (Sayisi Dene) (flipped cedilla form; centered)"
+,,ogonekcomb.alt2,uni0328.alt2,NA+,,"locl(CAY,ONO,SEE) / ss03",TQ-INAT p.120 Gayogo̱ hó꞉nǫˀ (Cayuga) (angle form; centered)
+0x0326,̦,commaaccentcomb,uni0326,Euro,COMBINING COMMA BELOW,,
+0x0323,̣,dotbelowcomb,uni0323,PNWIL,COMBINING DOT BELOW,,
+0x0325,̥,ringbelowcomb,uni0325,NA+,COMBINING RING BELOW,,TQ-INAT p.132
+0x0329,̩,vlinebelowcomb,uni0329,NA+,COMBINING VERTICAL LINE BELOW,,TQ-INAT p.130
+0x0331,̱,macronbelowcomb,uni0331,PNWIL,COMBINING MACRON BELOW,,
+0x0332,̲,lowlinecomb,uni0332,PNWIL,COMBINING LOW LINE,,
+,,lowlinecomb.N,uni0332.N,PNWIL,,,Narrow variant
+,,lowlinecomb.M,uni0332.M,PNWIL,,,Medium variant
+,,lowlinecomb.W,uni0332.W,PNWIL,,,Wide variant
+,,lowlinecomb.connect,uni0332.connect,PNWIL,,,Not anchored; zero-width with line centered.
+0x0335,̵,barcomb,uni0335,PNWIL,COMBINING SHORT STROKE OVERLAY,,Compatibility encoding; map to precomposed diacritics in ccmp
+0x0334,̴,wavybarcomb,uni0334,PNWIL,COMBINING TILDE OVERLAY,,Compatibility encoding; map to precomposed diacritics in ccmp
+0x0337,̷,slashcomb,uni0337,PNWIL,COMBINING SHORT SOLIDUS OVERLAY,,Compatibility encoding; map to precomposed diacritics in ccmp
+0x0338,̸,longslashcomb,uni0338,PNWIL,COMBINING LONG SOLIDUS OVERLAY,,Compatibility encoding; map to precomposed diacritics in ccmp
+0x0060,`,grave,grave,Common,GRAVE ACCENT,,
+0x00B4,´,acute,acute,Common,ACUTE ACCENT,,
+0x02C6,ˆ,circumflex,circumflex,Common,MODIFIER LETTER CIRCUMFLEX ACCENT,,
+0x02DC,˜,tilde,tilde,Common,SMALL TILDE,,
+0x00AF,¯,macron,macron,Common,MACRON,,
+0x02D8,˘,breve,breve,Common,BREVE,,
+0x00A8,¨,dieresis,dieresis,Common,DIAERESIS,,
+0x00B8,¸,cedilla,cedilla,Common,CEDILLA,,
+0x002C,",",comma,comma,Common,COMMA,,
+0x003B,;,semicolon,semicolon,Common,SEMICOLON,,
+0x003A,:,colon,colon,Common,COLON,,
+0x002E,.,period,period,Common,FULL STOP,,
+0x2026,…,ellipsis,ellipsis,Common,HORIZONTAL ELLIPSIS,,
+0x0021,!,exclam,exclam,Common,EXCLAMATION MARK,,
+0x00A1,¡,exclamdown,exclamdown,Common,INVERTED EXCLAMATION MARK,,
+,,exclamdown.case,exclamdown.case,Common,,case,
+0x003F,?,question,question,Common,QUESTION MARK,,
+0x00BF,¿,questiondown,questiondown,Common,INVERTED QUESTION MARK,,
+,,questiondown.case,questiondown.case,Common,,case,
+0x002F,/,slash,slash,Common,SOLIDUS,,
+0x005C,\,backslash,backslash,Common,REVERSE SOLIDUS,,
+0x007C,|,bar,bar,Common,VERTICAL LINE,,
+0x0028,(,parenleft,parenleft,Common,LEFT PARENTHESIS,,
+0x0029,),parenright,parenright,Common,RIGHT PARENTHESIS,,
+,,parenleft.case,parenleft.case,Common,,case,
+,,parenright.case,parenright.case,Common,,case,
+0x005B,[,bracketleft,bracketleft,Common,LEFT SQUARE BRACKET,,
+0x005D,],bracketright,bracketright,Common,RIGHT SQUARE BRACKET,,
+,,bracketleft.case,bracketleft.case,Common,,case,
+,,bracketright.case,bracketright.case,Common,,case,
+0x007B,{,braceleft,braceleft,Common,LEFT CURLY BRACKET,,
+0x007D,},braceright,braceright,Common,RIGHT CURLY BRACKET,,
+,,braceleft.case,braceleft.case,Common,,case,
+,,braceright.case,braceright.case,Common,,case,
+0x0027,',quotesingle,quotesingle,Common,APOSTROPHE,,
+0x0022,"""",quotedbl,quotedbl,Common,QUOTATION MARK,,
+0x002A,*,asterisk,asterisk,Common,ASTERISK,,
+0x002D,-,hyphen,hyphen,Common,HYPHEN-MINUS,,
+,,hyphen.case,hyphen.case,Common,,case,
+0x00AD,­,softhyphen,uni00AD,Common,SOFT HYPHEN,,
+0x2013,–,endash,endash,Common,EN DASH,,
+,,endash.case,endash.case,Common,,case,
+0x2014,—,emdash,emdash,Common,EM DASH,,
+,,emdash.case,emdash.case,Common,,case,
+0x2018,‘,quoteleft,quoteleft,Common,LEFT SINGLE QUOTATION MARK,,
+0x2019,’,quoteright,quoteright,Common,RIGHT SINGLE QUOTATION MARK,,
+0x201C,“,quotedblleft,quotedblleft,Common,LEFT DOUBLE QUOTATION MARK,,
+0x201D,”,quotedblright,quotedblright,Common,RIGHT DOUBLE QUOTATION MARK,,
+0x201A,‚,quotesinglbase,quotesinglbase,Common,SINGLE LOW-9 QUOTATION MARK,,
+0x201E,„,quotedblbase,quotedblbase,Common,DOUBLE LOW-9 QUOTATION MARK,,
+0x2039,‹,guilsinglleft,guilsinglleft,Common,SINGLE LEFT-POINTING ANGLE QUOTATION MARK,,
+0x203A,›,guilsinglright,guilsinglright,Common,SINGLE RIGHT-POINTING ANGLE QUOTATION MARK,,
+,,guilsinglleft.case,guilsinglleft.case,Common,,case,
+,,guilsinglright.case,guilsinglright.case,Common,,case,
+0x00AB,«,guillemotleft,guillemotleft,Common,LEFT-POINTING DOUBLE ANGLE QUOTATION MARK,,
+0x00BB,»,guillemotright,guillemotright,Common,RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK,,
+,,guillemotleft.case,guillemotleft.case,Common,,case,
+,,guillemotright.case,guillemotright.case,Common,,case,
+0x2020,†,dagger,dagger,Common,DAGGER,,
+0x2021,‡,daggerdbl,daggerdbl,Common,DOUBLE DAGGER,,
+0x00B6,¶,paragraph,paragraph,Common,PILCROW SIGN,,
+0x00A7,§,section,section,Common,SECTION SIGN,,
+0x00B7,·,periodcentered,periodcentered,Common,MIDDLE DOT,,Occurs as spacing diacritic e.g. TQ-INAT p.100
+,,periodcentered.case,periodcentered.case,Common,,case,
+0x2022,•,bullet,bullet,Common,BULLET,,
+0x005E,^,asciicircum,asciicircum,Common,CIRCUMFLEX ACCENT,,
+0x007E,~,asciitilde,asciitilde,Common,TILDE,,
+0x00A6,¦,brokenbar,brokenbar,Common,BROKEN BAR,,
+0x005F,_,underscore,underscore,Common,LOW LINE,,
+0x0040,@,at,at,Common,COMMERCIAL AT,,
+0x00A9,©,copyright,copyright,Common,COPYRIGHT SIGN,,
+0x2122,™,trademark,trademark,Common,TRADE MARK SIGN,,
+0x00AE,®,registered,registered,Common,REGISTERED SIGN,,
+0x00A4,¤,currency,currency,Common,CURRENCY SIGN,,
+0x20AC,€,Euro,Euro,Common,EURO SIGN,,
+0x0024,$,dollar,dollar,Common,DOLLAR SIGN,,
+,,dollar.2,dollar.2,Common,,ss02,Feature variation form for heavier weights.
+0x00A2,¢,cent,cent,Common,CENT SIGN,,Occurs in place of 0x023C in some alphabets; needs anchors.
+0x00A3,£,sterling,sterling,Common,POUND SIGN,,
+0x00A5,¥,yen,yen,Common,YEN SIGN,,
+0x20AD,₭,kip,uni20AD,Common,KIP SIGN,,Used as letter in SENĆOŦEN alphabet (maybe should be variant form of U+0398)
+0x2116,№,numero,uni2116,Common,NUMERO SIGN,,
+0x0023,#,numbersign,numbersign,Common,NUMBER SIGN,,
+0x0030,0,zero,zero,Common,DIGIT ZERO,,
+0x0031,1,one,one,Common,DIGIT ONE,,
+0x0032,2,two,two,Common,DIGIT TWO,,
+0x0033,3,three,three,Common,DIGIT THREE,,Occurs as dental fricative in some alphabets (contextually substitute LP form in rclt)
+0x0034,4,four,four,Common,DIGIT FOUR,,
+0x0035,5,five,five,Common,DIGIT FIVE,,
+0x0036,6,six,six,Common,DIGIT SIX,,
+0x0037,7,seven,seven,Common,DIGIT SEVEN,,Occurs as glottalstop in some alphabets (contextually substitute LP form in rclt)
+0x0038,8,eight,eight,Common,DIGIT EIGHT,,
+0x0039,9,nine,nine,Common,DIGIT NINE,,
+,,zero.LP,zero.LP,Common,,pnum,
+,,one.LP,one.LP,Common,,pnum,
+,,two.LP,two.LP,Common,,pnum,
+,,three.LP,three.LP,Common,,pnum / rclt,
+,,four.LP,four.LP,Common,,pnum,
+,,five.LP,five.LP,Common,,pnum,
+,,six.LP,six.LP,Common,,pnum,
+,,seven.LP,seven.LP,Common,,pnum / rclt,
+,,eight.LP,eight.LP,Common,,pnum,
+,,nine.LP,nine.LP,Common,,pnum,
+0x2070,⁰,zerosuperior,zerosuperior,Common,SUPERSCRIPT ZERO,sups,
+0x00B9,¹,onesuperior,onesuperior,Common,SUPERSCRIPT ONE,sups,
+0x00B2,²,twosuperior,twosuperior,Common,SUPERSCRIPT TWO,sups,
+0x00B3,³,threesuperior,threesuperior,Common,SUPERSCRIPT THREE,sups,
+0x2074,⁴,foursuperior,foursuperior,Common,SUPERSCRIPT FOUR,sups,
+0x2075,⁵,fivesuperior,fivesuperior,Common,SUPERSCRIPT FIVE,sups,
+0x2076,⁶,sixsuperior,sixsuperior,Common,SUPERSCRIPT SIX,sups,
+0x2077,⁷,sevensuperior,sevensuperior,Common,SUPERSCRIPT SEVEN,sups,
+0x2078,⁸,eightsuperior,eightsuperior,Common,SUPERSCRIPT EIGHT,sups,
+0x2079,⁹,ninesuperior,ninesuperior,Common,SUPERSCRIPT NINE,sups,
+0x2080,₀,zeroinferior,zeroinferior,Common,SUBSCRIPT ZERO,subs,
+0x2081,₁,oneinferior,oneinferior,Common,SUBSCRIPT ONE,subs,
+0x2082,₂,twoinferior,twoinferior,Common,SUBSCRIPT TWO,subs,
+0x2083,₃,threeinferior,threeinferior,Common,SUBSCRIPT THREE,subs,
+0x2084,₄,fourinferior,fourinferior,Common,SUBSCRIPT FOUR,subs,
+0x2085,₅,fiveinferior,fiveinferior,Common,SUBSCRIPT FIVE,subs,
+0x2086,₆,sixinferior,sixinferior,Common,SUBSCRIPT SIX,subs,
+0x2087,₇,seveninferior,seveninferior,Common,SUBSCRIPT SEVEN,subs,
+0x2088,₈,eightinferior,eightinferior,Common,SUBSCRIPT EIGHT,subs,
+0x2089,₉,nineinferior,nineinferior,Common,SUBSCRIPT NINE,subs,
+0x2044,⁄,fraction,fraction,Common,FRACTION SLASH,,
+,,zero.numr,zero.numr,Common,,frac / numr,
+,,one.numr,one.numr,Common,,frac / numr,
+,,two.numr,two.numr,Common,,frac / numr,
+,,three.numr,three.numr,Common,,frac / numr,
+,,four.numr,four.numr,Common,,frac / numr,
+,,five.numr,five.numr,Common,,frac / numr,
+,,six.numr,six.numr,Common,,frac / numr,
+,,seven.numr,seven.numr,Common,,frac / numr,
+,,eight.numr,eight.numr,Common,,frac / numr,
+,,nine.numr,nine.numr,Common,,frac / numr,
+,,zero.dnom,zero.dnom,Common,,frac / dnom,
+,,one.dnom,one.dnom,Common,,frac / dnom,
+,,two.dnom,two.dnom,Common,,frac / dnom,
+,,three.dnom,three.dnom,Common,,frac / dnom,
+,,four.dnom,four.dnom,Common,,frac / dnom,
+,,five.dnom,five.dnom,Common,,frac / dnom,
+,,six.dnom,six.dnom,Common,,frac / dnom,
+,,seven.dnom,seven.dnom,Common,,frac / dnom,
+,,eight.dnom,eight.dnom,Common,,frac / dnom,
+,,nine.dnom,nine.dnom,Common,,frac / dnom,
+0x00BC,¼,onequarter,onequarter,Common,VULGAR FRACTION ONE QUARTER,,
+0x00BD,½,onehalf,onehalf,Common,VULGAR FRACTION ONE HALF,,
+0x00BE,¾,threequarters,threequarters,Common,VULGAR FRACTION THREE QUARTERS,,
+0x0025,%,percent,percent,Common,PERCENT SIGN,,
+0x2030,‰,perthousand,perthousand,Common,PER MILLE SIGN,,
+0x002B,+,plus,plus,Common,PLUS SIGN,,
+0x2212,−,minus,uni2212,Common,MINUS SIGN,,
+0x00B1,±,plusminus,plusminus,Common,PLUS-MINUS SIGN,,
+0x00D7,×,multiply,multiply,Common,MULTIPLICATION SIGN,,
+0x00F7,÷,divide,divide,Common,DIVISION SIGN,,
+0x003D,=,equal,equal,Common,EQUALS SIGN,,
+0x003C,<,less,less,Common,LESS-THAN SIGN,,
+0x003E,>,greater,greater,Common,GREATER-THAN SIGN,,
+0x00AC,¬,logicalnot,logicalnot,Common,NOT SIGN,,
+0x00AA,ª,ordfeminine,ordfeminine,Common,FEMININE ORDINAL INDICATOR,,
+0x00BA,º,ordmasculine,ordmasculine,Common,MASCULINE ORDINAL INDICATOR,,
+0x00B0,°,degree,degree,Common,DEGREE SIGN,,
+0x00B5,µ,micro,uni00B5,Common,MICRO SIGN,,
+0x25CC,◌,BASE,uni25CC,Common,DOTTED CIRCLE,,
