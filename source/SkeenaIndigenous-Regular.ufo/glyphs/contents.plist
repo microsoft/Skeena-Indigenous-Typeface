@@ -1050,8 +1050,8 @@
   <string>nlinebelow.glif</string>
   <key>nlongright</key>
   <string>nlongright.glif</string>
-  <key>nmacronbelowcomb</key>
-  <string>nmacronbelowcomb.glif</string>
+  <key>nmacronbelow</key>
+  <string>nmacronbelow.glif</string>
   <key>ntilde</key>
   <string>ntilde.glif</string>
   <key>numbersign</key>

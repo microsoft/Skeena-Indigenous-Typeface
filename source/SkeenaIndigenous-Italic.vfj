@@ -29850,13 +29850,16 @@
             "autoRecipe":"dotlessi+ogonekcomb",
             "colorFlag":241,
             "flags":16,
-            "advanceWidth":632,
+            "advanceWidth":586,
             "metricsLeft":"i@300",
             "metricsRight":"i@300",
             "elements":[
               {
                 "component":{
                   "glyphName":"dotlessi"
+                },
+                "transform":{
+                  "xOffset":-26
                 }
               },
               {
@@ -29864,7 +29867,7 @@
                   "glyphName":"ogonekcomb"
                 },
                 "transform":{
-                  "xOffset":316
+                  "xOffset":290
                 },
                 "nonSpacing":true
               }
@@ -29872,12 +29875,12 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"434 946",
+                "point":"408 946",
                 "appearance":5
               },
               {
                 "name":"bottom.mkmk",
-                "point":"86 -437"
+                "point":"60 -437"
               }
             ],
             "color":"#bac000"
@@ -34545,9 +34548,9 @@
         ]
       },
       {
-        "name":"nmacronbelowcomb",
+        "name":"nmacronbelow",
         "unicode":"1e49",
-        "lastModified":"2025-02-27 23:32:13",
+        "lastModified":"2025-02-28 19:06:15",
         "colorFlag":181,
         "layers":[
           {
@@ -67284,7 +67287,7 @@
                   "ndotbelow",
                   "nlinebelow",
                   "nlongright",
-                  "nmacronbelowcomb",
+                  "nmacronbelow",
                   "ntilde"
                 ]
               },
@@ -67777,7 +67780,7 @@
                   "ndotbelow",
                   "nlinebelow",
                   "nlongright",
-                  "nmacronbelowcomb",
+                  "nmacronbelow",
                   "ntilde",
                   "p",
                   "r",
@@ -72980,7 +72983,7 @@
                   "ndotbelow",
                   "nlinebelow",
                   "nlongright",
-                  "nmacronbelowcomb",
+                  "nmacronbelow",
                   "ntilde"
                 ]
               },
@@ -73473,7 +73476,7 @@
                   "ndotbelow",
                   "nlinebelow",
                   "nlongright",
-                  "nmacronbelowcomb",
+                  "nmacronbelow",
                   "ntilde",
                   "p",
                   "r",

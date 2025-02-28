@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="nmacronbelowcomb" format="2">
-  <advance width="1266"/>
+<glyph name="nmacronbelow" format="2">
+  <advance width="1084"/>
   <unicode hex="1E49"/>
-  <anchor x="628" y="955" name="top"/>
-  <anchor x="637" y="-378" name="bottom.mkmk"/>
+  <anchor x="650" y="938" name="top"/>
+  <anchor x="354" y="-319" name="bottom.mkmk"/>
   <outline>
     <component base="n"/>
-    <component base="macronbelowcomb" xOffset="637"/>
+    <component base="macronbelowcomb" xOffset="555"/>
   </outline>
   <lib>
   <dict>
