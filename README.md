@@ -17,7 +17,7 @@ The project has several goals:
 
 Release builds of the fonts are available via the [Releases](https://github.com/microsoft/Skeena-Indigenous-Typeface/releases) link on the repo homepage. This will always include the most current public release.
 
-Compiled fonts are only available via the Releases page, and are not included in the code base for the repo. See information below regarding building the fonts locally in a cloned repo.
+Compiled fonts are only available via the Releases page and are not included in the code base for the repo. See information below regarding building the fonts locally in a cloned repo.
 
 ### Feedback
 
@@ -31,17 +31,17 @@ The VOLT development path was used for Skeena Indigenous to facilitate some cont
 
 ### Build process
 
-*Note: the build process has been tested successfully to Python 3.12; there are known issues in gathering the requirements for the virtual environment with Pythin 3.13 and use of that version is not recommended.*
+*Note: the build process has been tested successfully to Python 3.12; there are known issues in gathering the requirements for the virtual environment with Python 3.13 and use of that version is not recommended.*
 
-The Skeena Indigenous fonts can be built locally using the Tiro builder tool, which is included in the repo. The build is configurd using a YAML format text file: [SI-MS.yml](https://github.com/microsoft/Skeena-Indigenous-Typeface/blob/main/SI-MS.yml). This file contains the input instructions used by the builder tool. [For more detailed information on the YAML configuration instruction set, consult the [TiroTools](https://github.com/TiroTypeworks/TiroTools/tree/master/Builder) repo.]
+The Skeena Indigenous fonts can be built locally using the Tiro builder tool, which is included in the repo. The build is configured using a YAML format text file: [SI-MS.yml](https://github.com/microsoft/Skeena-Indigenous-Typeface/blob/main/SI-MS.yml). This file contains the input instructions used by the builder tool. [For more detailed information on the YAML configuration instruction set, consult the [TiroTools](https://github.com/TiroTypeworks/TiroTools/tree/master/Builder) repo.]
 
-From the top level folder:
+From the top-level folder:
 
 ```
-# Create a new virtualenv
+# Create a new virtual environment
 python3 -m venv venv
 
-# Activate env
+# Activate virtual environment
 source venv/bin/activate
 
 # Install dependencies
