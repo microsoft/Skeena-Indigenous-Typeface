@@ -1,310 +1,310 @@
 
-DEF_GROUP "KERNpublic.kern1._L_lc_a_1ST"
+DEF_GROUP "KERN_L_lc_a_1ST"
  ENUM GLYPH "a" GLYPH "aacute" GLYPH "abreve" GLYPH "acaron" GLYPH "acircumflex" GLYPH "adieresis" GLYPH "adotacent" GLYPH "agrave" GLYPH "amacron" GLYPH "aogonek" GLYPH "aogonek.alt" GLYPH "aogonek.alt2" GLYPH "aogonek.euro" GLYPH "aring" GLYPH "aringacute" GLYPH "aslash" GLYPH "aslash.2" GLYPH "atilde" GLYPH "dotlessi" GLYPH "dotlessiogonek" GLYPH "dotlessiogonek.alt" GLYPH "dotlessiogonek.alt2" GLYPH "dotlessj" GLYPH "u" GLYPH "uacute" GLYPH "ubreve" GLYPH "ucaron" GLYPH "ucircumflex" GLYPH "udieresis" GLYPH "ugrave" GLYPH "uhungarumlaut" GLYPH "umacron" GLYPH "uogonek" GLYPH "uogonek.alt" GLYPH "uogonek.alt2" GLYPH "uogonek.euro" GLYPH "uring" GLYPH "utilde" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_lc_c_1ST"
+DEF_GROUP "KERN_L_lc_c_1ST"
  ENUM GLYPH "c" GLYPH "cacute" GLYPH "ccaron" GLYPH "ccedilla" GLYPH "ccircumflex" GLYPH "cdotaccent" GLYPH "cent" GLYPH "cslash" GLYPH "eopen" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_lc_chiLatin_1ST"
+DEF_GROUP "KERN_L_lc_chiLatin_1ST"
  ENUM GLYPH "chi.Latin" GLYPH "chiLatin" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_lc_dcaron_1ST"
+DEF_GROUP "KERN_L_lc_dcaron_1ST"
  ENUM GLYPH "dcaron" GLYPH "lcaron" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_lc_e_1ST"
+DEF_GROUP "KERN_L_lc_e_1ST"
  ENUM GLYPH "ae" GLYPH "aeacute" GLYPH "e" GLYPH "eacute" GLYPH "ebreve" GLYPH "ecaron" GLYPH "ecircumflex" GLYPH "edieresis" GLYPH "edotaccent" GLYPH "egrave" GLYPH "emacron" GLYPH "emacronacute" GLYPH "eogonek" GLYPH "eogonek.alt" GLYPH "eogonek.alt2" GLYPH "eogonek.euro" GLYPH "oe" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_lc_f_1ST"
+DEF_GROUP "KERN_L_lc_f_1ST"
  ENUM GLYPH "f" GLYPH "fhook" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_lc_g_1ST"
+DEF_GROUP "KERN_L_lc_g_1ST"
  ENUM GLYPH "g" GLYPH "gbar" GLYPH "gbreve" GLYPH "gcaron" GLYPH "gcircumflex" GLYPH "gcommaaccent" GLYPH "gdotaccent" GLYPH "gmacron" GLYPH "gscript" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_lc_ibar_1ST"
+DEF_GROUP "KERN_L_lc_ibar_1ST"
  ENUM GLYPH "ibar" GLYPH "ibar.dotless" GLYPH "jbar" GLYPH "jbar.dotless" GLYPH "ubar" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_lc_k_1ST"
+DEF_GROUP "KERN_L_lc_k_1ST"
  ENUM GLYPH "k" GLYPH "kacute" GLYPH "kcommaaccent" GLYPH "kdotbelow" GLYPH "kgreenlandic" GLYPH "klinebelow" GLYPH "kmacronbelow" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_lc_lambdaLatin_1ST"
+DEF_GROUP "KERN_L_lc_lambdaLatin_1ST"
  ENUM GLYPH "lambda.Latin" GLYPH "lambdaLatin" GLYPH "lambdabar" GLYPH "lambdabar.alt" GLYPH "lambdabarcommaabove" GLYPH "lambdabarcommaabove.alt" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_lc_ldblbar_1ST"
+DEF_GROUP "KERN_L_lc_ldblbar_1ST"
  ENUM GLYPH "clickalveolar" GLYPH "lbar" GLYPH "ldblbar" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_lc_n_1ST"
- ENUM GLYPH "eng" GLYPH "h" GLYPH "hbar" GLYPH "hcaron" GLYPH "hcircumflex" GLYPH "hdotbelow" GLYPH "hlinebelow" GLYPH "hmacronbelow" GLYPH "m" GLYPH "macute" GLYPH "mdotbelow" GLYPH "n" GLYPH "nacute" GLYPH "napostrophe" GLYPH "ncaron" GLYPH "ncommaaccent" GLYPH "ndotbelow" GLYPH "nlinebelow" GLYPH "nlongright" GLYPH "nmacronbelowcomb" GLYPH "ntilde" END_ENUM
+DEF_GROUP "KERN_L_lc_n_1ST"
+ ENUM GLYPH "eng" GLYPH "h" GLYPH "hbar" GLYPH "hcaron" GLYPH "hcircumflex" GLYPH "hdotbelow" GLYPH "hlinebelow" GLYPH "hmacronbelow" GLYPH "m" GLYPH "macute" GLYPH "mdotbelow" GLYPH "n" GLYPH "nacute" GLYPH "napostrophe" GLYPH "ncaron" GLYPH "ncommaaccent" GLYPH "ndotbelow" GLYPH "nlinebelow" GLYPH "nlongright" GLYPH "nmacronbelow" GLYPH "ntilde" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_lc_o_1ST"
+DEF_GROUP "KERN_L_lc_o_1ST"
  ENUM GLYPH "b" GLYPH "eturned" GLYPH "o" GLYPH "oacute" GLYPH "obar" GLYPH "obreve" GLYPH "ocaron" GLYPH "ocircumflex" GLYPH "odieresis" GLYPH "odotaccent" GLYPH "ograve" GLYPH "ohungarumlaut" GLYPH "omacron" GLYPH "omacronacute" GLYPH "oogonek" GLYPH "oogonek.alt" GLYPH "oogonek.alt2" GLYPH "oogonekmacron" GLYPH "oogonekmacron.alt" GLYPH "oogonekmacron.alt2" GLYPH "oopen" GLYPH "oslash" GLYPH "oslashacute" GLYPH "otilde" GLYPH "p" GLYPH "schwa" GLYPH "schwaogonek" GLYPH "schwaogonek.alt" GLYPH "schwaogonek.alt2" GLYPH "thorn" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_lc_r_1ST"
+DEF_GROUP "KERN_L_lc_r_1ST"
  ENUM GLYPH "r" GLYPH "racute" GLYPH "rcaron" GLYPH "rcommaaccent" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_lc_s_1ST"
+DEF_GROUP "KERN_L_lc_s_1ST"
  ENUM GLYPH "s" GLYPH "sacute" GLYPH "scaron" GLYPH "scedilla" GLYPH "scircumflex" GLYPH "scommaaccent" GLYPH "sdotbelow" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_lc_t_1ST"
+DEF_GROUP "KERN_L_lc_t_1ST"
  ENUM GLYPH "t" GLYPH "tbar" GLYPH "tcaron" GLYPH "tcedilla" GLYPH "tcommaaccent" GLYPH "tdotaccent" GLYPH "tlinebelow" GLYPH "tmacronbelow" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_lc_v_1ST"
+DEF_GROUP "KERN_L_lc_v_1ST"
  ENUM GLYPH "gammaLatin" GLYPH "v" GLYPH "y" GLYPH "yacute" GLYPH "ycircumflex" GLYPH "ydieresis" GLYPH "ygrave" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_lc_w_1ST"
+DEF_GROUP "KERN_L_lc_w_1ST"
  ENUM GLYPH "w" GLYPH "wacute" GLYPH "wcircumflex" GLYPH "wdieresis" GLYPH "wgrave" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_lc_z_1ST"
+DEF_GROUP "KERN_L_lc_z_1ST"
  ENUM GLYPH "z" GLYPH "zacute" GLYPH "zcaron" GLYPH "zcircumflex" GLYPH "zdotaccent" GLYPH "zlinebelow" GLYPH "zmacronbelow" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_uc_A_1ST"
+DEF_GROUP "KERN_L_uc_A_1ST"
  ENUM GLYPH "A" GLYPH "Aacute" GLYPH "Abreve" GLYPH "Acaron" GLYPH "Acircumflex" GLYPH "Adieresis" GLYPH "Adotacent" GLYPH "Agrave" GLYPH "Amacron" GLYPH "Aogonek" GLYPH "Aogonek.alt" GLYPH "Aogonek.alt2" GLYPH "Aogonek.euro" GLYPH "Aring" GLYPH "Aringacute" GLYPH "Aslash" GLYPH "Atilde" GLYPH "Lambda.Latin" GLYPH "Vturned" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_uc_C_1ST"
+DEF_GROUP "KERN_L_uc_C_1ST"
  ENUM GLYPH "C" GLYPH "Cacute" GLYPH "Ccaron" GLYPH "Ccedilla" GLYPH "Ccircumflex" GLYPH "Cdotaccent" GLYPH "Cslash" GLYPH "Eopen" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_uc_ChiLatin_1ST"
+DEF_GROUP "KERN_L_uc_ChiLatin_1ST"
  ENUM GLYPH "Chi.Latin" GLYPH "ChiLatin" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_uc_E_1ST"
+DEF_GROUP "KERN_L_uc_E_1ST"
  ENUM GLYPH "AE" GLYPH "AEacute" GLYPH "E" GLYPH "Eacute" GLYPH "Ebreve" GLYPH "Ecaron" GLYPH "Ecircumflex" GLYPH "Edieresis" GLYPH "Edotaccent" GLYPH "Egrave" GLYPH "Emacron" GLYPH "Emacronacute" GLYPH "Eogonek" GLYPH "Eogonek.alt" GLYPH "Eogonek.alt2" GLYPH "Eogonek.euro" GLYPH "OE" GLYPH "kip" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_uc_G_1ST"
+DEF_GROUP "KERN_L_uc_G_1ST"
  ENUM GLYPH "G" GLYPH "Gbreve" GLYPH "Gcaron" GLYPH "Gcircumflex" GLYPH "Gcommaaccent" GLYPH "Gdotaccent" GLYPH "Gmacron" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_uc_Ibar_1ST"
+DEF_GROUP "KERN_L_uc_Ibar_1ST"
  ENUM GLYPH "Ibar" GLYPH "Jbar" GLYPH "Ubar" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_uc_J_1ST"
+DEF_GROUP "KERN_L_uc_J_1ST"
  ENUM GLYPH "IJ" GLYPH "IJacute" GLYPH "J" GLYPH "Jcaron" GLYPH "Jcircumflex" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_uc_K_1ST"
+DEF_GROUP "KERN_L_uc_K_1ST"
  ENUM GLYPH "K" GLYPH "Kacute" GLYPH "Kcommaaccent" GLYPH "Kdotbelow" GLYPH "Klinebelow" GLYPH "Kmacronbelow" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_uc_L_1ST"
+DEF_GROUP "KERN_L_uc_L_1ST"
  ENUM GLYPH "L" GLYPH "Lacute" GLYPH "Lbar" GLYPH "Lbelt" GLYPH "Lcommaaccent" GLYPH "Ldblbar" GLYPH "Ldotbelow" GLYPH "Llinebelow" GLYPH "Lmacronbelow" GLYPH "Lslash" GLYPH "Lwavybar" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_uc_LambdaLatin_1ST"
+DEF_GROUP "KERN_L_uc_LambdaLatin_1ST"
  ENUM GLYPH "LambdaLatin" GLYPH "Lambdabar" GLYPH "Lambdabar.alt" GLYPH "Lambdabarcommaabove" GLYPH "Lambdabarcommaabove.alt" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_uc_M_1ST"
+DEF_GROUP "KERN_L_uc_M_1ST"
  ENUM GLYPH "M" GLYPH "Macute" GLYPH "Mdotbelow" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_uc_O_1ST"
+DEF_GROUP "KERN_L_uc_O_1ST"
  ENUM GLYPH "D" GLYPH "Dcaron" GLYPH "Dcroat" GLYPH "Dlinebelow" GLYPH "Dmacronbelow" GLYPH "Eth" GLYPH "O" GLYPH "Oacute" GLYPH "Obar" GLYPH "Obreve" GLYPH "Ocaron" GLYPH "Ocircumflex" GLYPH "Odieresis" GLYPH "Odotaccent" GLYPH "Ograve" GLYPH "Ohungarumlaut" GLYPH "Omacron" GLYPH "Omacronacute" GLYPH "Oogonek" GLYPH "Oogonek.alt" GLYPH "Oogonek.alt2" GLYPH "Oogonekmacron" GLYPH "Oogonekmacron.alt" GLYPH "Oogonekmacron.alt2" GLYPH "Oopen" GLYPH "Oslash" GLYPH "Oslashacute" GLYPH "Otilde" GLYPH "Q" GLYPH "Schwa" GLYPH "Schwaogonek" GLYPH "Schwaogonek.alt" GLYPH "Schwaogonek.alt2" GLYPH "Theta.Latin" GLYPH "Vhook" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_uc_R_1ST"
+DEF_GROUP "KERN_L_uc_R_1ST"
  ENUM GLYPH "R" GLYPH "Racute" GLYPH "Rcaron" GLYPH "Rcommaaccent" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_uc_S_1ST"
+DEF_GROUP "KERN_L_uc_S_1ST"
  ENUM GLYPH "S" GLYPH "Sacute" GLYPH "Scaron" GLYPH "Scedilla" GLYPH "Scircumflex" GLYPH "Scommaaccent" GLYPH "Sdotbelow" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_uc_T_1ST"
+DEF_GROUP "KERN_L_uc_T_1ST"
  ENUM GLYPH "T" GLYPH "Tcaron" GLYPH "Tcedilla" GLYPH "Tcommaaccent" GLYPH "Tdotaccent" GLYPH "Tlinebelow" GLYPH "Tmacronbelow" GLYPH "Tslash" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_uc_U_1ST"
+DEF_GROUP "KERN_L_uc_U_1ST"
  ENUM GLYPH "U" GLYPH "Uacute" GLYPH "Ubreve" GLYPH "Ucaron" GLYPH "Ucircumflex" GLYPH "Udieresis" GLYPH "Ugrave" GLYPH "Uhungarumlaut" GLYPH "Umacron" GLYPH "Uogonek" GLYPH "Uogonek.alt" GLYPH "Uogonek.alt2" GLYPH "Uogonek.euro" GLYPH "Uring" GLYPH "Utilde" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_uc_V_1ST"
+DEF_GROUP "KERN_L_uc_V_1ST"
  ENUM GLYPH "GammaLatin" GLYPH "V" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_uc_W_1ST"
+DEF_GROUP "KERN_L_uc_W_1ST"
  ENUM GLYPH "W" GLYPH "Wacute" GLYPH "Wcircumflex" GLYPH "Wdieresis" GLYPH "Wgrave" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_uc_Y_1ST"
+DEF_GROUP "KERN_L_uc_Y_1ST"
  ENUM GLYPH "Y" GLYPH "Yacute" GLYPH "Ycircumflex" GLYPH "Ydieresis" GLYPH "Ygrave" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._L_uc_Z_1ST"
+DEF_GROUP "KERN_L_uc_Z_1ST"
  ENUM GLYPH "Z" GLYPH "Zacute" GLYPH "Zcaron" GLYPH "Zcircumflex" GLYPH "Zdotaccent" GLYPH "Zlinebelow" GLYPH "Zmacronbelow" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._punc_commarightcomb_1ST"
+DEF_GROUP "KERN_punc_commarightcomb_1ST"
  ENUM GLYPH "commarightcomb" GLYPH "commarightcomb.case" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._punc_degree_1ST"
+DEF_GROUP "KERN_punc_degree_1ST"
  ENUM GLYPH "degree" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._punc_guillemotleft.cap_1ST"
+DEF_GROUP "KERN_punc_guillemotleft.cap_1ST"
  ENUM GLYPH "guillemotleft.case" GLYPH "guilsinglleft.case" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._punc_guillemotleft_1ST"
+DEF_GROUP "KERN_punc_guillemotleft_1ST"
  ENUM GLYPH "guillemotleft" GLYPH "guilsinglleft" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._punc_guillemotright.cap_1ST"
+DEF_GROUP "KERN_punc_guillemotright.cap_1ST"
  ENUM GLYPH "guillemotright.case" GLYPH "guilsinglright.case" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._punc_guillemotright_1ST"
+DEF_GROUP "KERN_punc_guillemotright_1ST"
  ENUM GLYPH "guillemotright" GLYPH "guilsinglright" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._punc_hyphen.cap_1ST"
+DEF_GROUP "KERN_punc_hyphen.cap_1ST"
  ENUM GLYPH "emdash.case" GLYPH "endash.case" GLYPH "hyphen.case" GLYPH "periodcentered.case" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._punc_hyphen_1ST"
+DEF_GROUP "KERN_punc_hyphen_1ST"
  ENUM GLYPH "emdash" GLYPH "endash" GLYPH "hyphen" GLYPH "periodcentered" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._punc_parenleft.cap_1ST"
+DEF_GROUP "KERN_punc_parenleft.cap_1ST"
  ENUM GLYPH "braceleft.case" GLYPH "bracketleft.case" GLYPH "parenleft.case" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._punc_parenleft_1ST"
+DEF_GROUP "KERN_punc_parenleft_1ST"
  ENUM GLYPH "braceleft" GLYPH "bracketleft" GLYPH "parenleft" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._punc_quotebase_1ST"
+DEF_GROUP "KERN_punc_quotebase_1ST"
  ENUM GLYPH "quotedblbase" GLYPH "quotesinglbase" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._punc_quoteleft_1ST"
+DEF_GROUP "KERN_punc_quoteleft_1ST"
  ENUM GLYPH "apostropheturnedmodifier" GLYPH "quotedbl" GLYPH "quotedblleft" GLYPH "quoteleft" GLYPH "quotesingle" GLYPH "vlinemodifier" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._punc_quoteright_1ST"
+DEF_GROUP "KERN_punc_quoteright_1ST"
  ENUM GLYPH "apostrophemodifier" GLYPH "quotedblright" GLYPH "quoteright" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._x_subs_BOTH"
+DEF_GROUP "KERN_x_subs_BOTH"
  ENUM GLYPH "eightinferior" GLYPH "fiveinferior" GLYPH "fourinferior" GLYPH "nineinferior" GLYPH "oneinferior" GLYPH "seveninferior" GLYPH "sixinferior" GLYPH "threeinferior" GLYPH "twoinferior" GLYPH "zeroinferior" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern1._x_sups_BOTH"
+DEF_GROUP "KERN_x_sups_BOTH"
  ENUM GLYPH "eightsuperior" GLYPH "fivesuperior" GLYPH "foursuperior" GLYPH "glottalmodifier" GLYPH "glottalmodifier.alt" GLYPH "ninesuperior" GLYPH "onesuperior" GLYPH "registered" GLYPH "sevensuperior" GLYPH "sixsuperior" GLYPH "thetamodifier" GLYPH "threesuperior" GLYPH "trademark" GLYPH "twosuperior" GLYPH "wmodifier" GLYPH "ymodifier" GLYPH "zerosuperior" GLYPH "zmodifier" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._L_lc_chiLatin_2ND"
+DEF_GROUP "KERN_L_lc_chiLatin_2ND"
  ENUM GLYPH "chi.Latin" GLYPH "chiLatin" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._L_lc_f_2ND"
+DEF_GROUP "KERN_L_lc_f_2ND"
  ENUM GLYPH "f" GLYPH "longs" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._L_lc_i_2ND"
+DEF_GROUP "KERN_L_lc_i_2ND"
  ENUM GLYPH "i" GLYPH "idotbelow" GLYPH "iogonek" GLYPH "iogonek.alt" GLYPH "iogonek.alt2" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._L_lc_ibar.dotless_2ND"
+DEF_GROUP "KERN_L_lc_ibar.dotless_2ND"
  ENUM GLYPH "ibar.dotless" GLYPH "jbar.dotless" GLYPH "ubar" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._L_lc_ibar_2ND"
+DEF_GROUP "KERN_L_lc_ibar_2ND"
  ENUM GLYPH "ibar" GLYPH "jbar" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._L_lc_j_2ND"
+DEF_GROUP "KERN_L_lc_j_2ND"
  ENUM GLYPH "j" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._L_lc_l_2ND"
+DEF_GROUP "KERN_L_lc_l_2ND"
  ENUM GLYPH "b" GLYPH "h" GLYPH "hcaron" GLYPH "hcircumflex" GLYPH "hdotbelow" GLYPH "hlinebelow" GLYPH "hmacronbelow" GLYPH "k" GLYPH "kacute" GLYPH "kcommaaccent" GLYPH "kdotbelow" GLYPH "klinebelow" GLYPH "kmacronbelow" GLYPH "l" GLYPH "lacute" GLYPH "lcaron" GLYPH "lcommaaccent" GLYPH "ldot" GLYPH "ldotbelow" GLYPH "llinebelow" GLYPH "lmacronbelow" GLYPH "thorn" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._L_lc_lambdaLatin_2ND"
+DEF_GROUP "KERN_L_lc_lambdaLatin_2ND"
  ENUM GLYPH "lambda.Latin" GLYPH "lambdaLatin" GLYPH "lambdabar" GLYPH "lambdabar.alt" GLYPH "lambdabarcommaabove" GLYPH "lambdabarcommaabove.alt" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._L_lc_ldblbar_2ND"
+DEF_GROUP "KERN_L_lc_ldblbar_2ND"
  ENUM GLYPH "clickalveolar" GLYPH "lbar" GLYPH "ldblbar" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._L_lc_n_2ND"
- ENUM GLYPH "dotlessi" GLYPH "dotlessiogonek" GLYPH "dotlessiogonek.alt" GLYPH "dotlessiogonek.alt2" GLYPH "dotlessj" GLYPH "eng" GLYPH "iotaLatin" GLYPH "j.dotless" GLYPH "kgreenlandic" GLYPH "m" GLYPH "macute" GLYPH "mdotbelow" GLYPH "n" GLYPH "nacute" GLYPH "ncaron" GLYPH "ncommaaccent" GLYPH "ndotbelow" GLYPH "nlinebelow" GLYPH "nlongright" GLYPH "nmacronbelowcomb" GLYPH "ntilde" GLYPH "p" GLYPH "r" GLYPH "racute" GLYPH "rcaron" GLYPH "rcommaaccent" END_ENUM
+DEF_GROUP "KERN_L_lc_n_2ND"
+ ENUM GLYPH "dotlessi" GLYPH "dotlessiogonek" GLYPH "dotlessiogonek.alt" GLYPH "dotlessiogonek.alt2" GLYPH "dotlessj" GLYPH "eng" GLYPH "iotaLatin" GLYPH "j.dotless" GLYPH "kgreenlandic" GLYPH "m" GLYPH "macute" GLYPH "mdotbelow" GLYPH "n" GLYPH "nacute" GLYPH "ncaron" GLYPH "ncommaaccent" GLYPH "ndotbelow" GLYPH "nlinebelow" GLYPH "nlongright" GLYPH "nmacronbelow" GLYPH "ntilde" GLYPH "p" GLYPH "r" GLYPH "racute" GLYPH "rcaron" GLYPH "rcommaaccent" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._L_lc_o_2ND"
+DEF_GROUP "KERN_L_lc_o_2ND"
  ENUM GLYPH "a" GLYPH "aacute" GLYPH "abreve" GLYPH "acaron" GLYPH "acircumflex" GLYPH "adieresis" GLYPH "adotacent" GLYPH "ae" GLYPH "aeacute" GLYPH "agrave" GLYPH "amacron" GLYPH "aogonek" GLYPH "aogonek.alt" GLYPH "aogonek.alt2" GLYPH "aogonek.euro" GLYPH "aring" GLYPH "aringacute" GLYPH "aslash" GLYPH "aslash.2" GLYPH "atilde" GLYPH "c" GLYPH "cacute" GLYPH "ccaron" GLYPH "ccedilla" GLYPH "ccircumflex" GLYPH "cdotaccent" GLYPH "cent" GLYPH "cslash" GLYPH "d" GLYPH "dcaron" GLYPH "dcroat" GLYPH "dlinebelow" GLYPH "dmacronbelow" GLYPH "e" GLYPH "eacute" GLYPH "ebreve" GLYPH "ecaron" GLYPH "ecircumflex" GLYPH "edieresis" GLYPH "edotaccent" GLYPH "egrave" GLYPH "emacron" GLYPH "emacronacute" GLYPH "eogonek" GLYPH "eogonek.alt" GLYPH "eogonek.alt2" GLYPH "eogonek.euro" GLYPH "eth" GLYPH "g" GLYPH "gbar" GLYPH "gbreve" GLYPH "gcaron" GLYPH "gcircumflex" GLYPH "gcommaaccent" GLYPH "gdotaccent" GLYPH "gmacron" GLYPH "gscript" GLYPH "gsmallcap" GLYPH "o" GLYPH "oacute" GLYPH "obar" GLYPH "obreve" GLYPH "ocaron" GLYPH "ocircumflex" GLYPH "odieresis" GLYPH "odotaccent" GLYPH "oe" GLYPH "ograve" GLYPH "ohungarumlaut" GLYPH "omacron" GLYPH "omacronacute" GLYPH "oogonek" GLYPH "oogonek.alt" GLYPH "oogonek.alt2" GLYPH "oogonekmacron" GLYPH "oogonekmacron.alt" GLYPH "oogonekmacron.alt2" GLYPH "oslash" GLYPH "oslashacute" GLYPH "otilde" GLYPH "q" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._L_lc_s_2ND"
+DEF_GROUP "KERN_L_lc_s_2ND"
  ENUM GLYPH "s" GLYPH "sacute" GLYPH "scaron" GLYPH "scedilla" GLYPH "scircumflex" GLYPH "scommaaccent" GLYPH "sdotbelow" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._L_lc_schwa_2ND"
+DEF_GROUP "KERN_L_lc_schwa_2ND"
  ENUM GLYPH "eturned" GLYPH "schwa" GLYPH "schwaogonek" GLYPH "schwaogonek.alt" GLYPH "schwaogonek.alt2" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._L_lc_t_2ND"
+DEF_GROUP "KERN_L_lc_t_2ND"
  ENUM GLYPH "t" GLYPH "tbar" GLYPH "tcaron" GLYPH "tcedilla" GLYPH "tcommaaccent" GLYPH "tdotaccent" GLYPH "tlinebelow" GLYPH "tmacronbelow" GLYPH "tslash" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._L_lc_u_2ND"
+DEF_GROUP "KERN_L_lc_u_2ND"
  ENUM GLYPH "u" GLYPH "uacute" GLYPH "ubreve" GLYPH "ucaron" GLYPH "ucircumflex" GLYPH "udieresis" GLYPH "ugrave" GLYPH "uhungarumlaut" GLYPH "umacron" GLYPH "uogonek" GLYPH "uogonek.alt" GLYPH "uogonek.alt2" GLYPH "uogonek.euro" GLYPH "uring" GLYPH "utilde" GLYPH "vhook" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._L_lc_w_2ND"
+DEF_GROUP "KERN_L_lc_w_2ND"
  ENUM GLYPH "w" GLYPH "wacute" GLYPH "wcircumflex" GLYPH "wdieresis" GLYPH "wgrave" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._L_lc_y_2ND"
+DEF_GROUP "KERN_L_lc_y_2ND"
  ENUM GLYPH "gammaLatin" GLYPH "y" GLYPH "yacute" GLYPH "ycircumflex" GLYPH "ydieresis" GLYPH "ygrave" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._L_lc_z_2ND"
+DEF_GROUP "KERN_L_lc_z_2ND"
  ENUM GLYPH "z" GLYPH "zacute" GLYPH "zcaron" GLYPH "zcircumflex" GLYPH "zdotaccent" GLYPH "zlinebelow" GLYPH "zmacronbelow" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._L_uc_AE_2ND"
+DEF_GROUP "KERN_L_uc_AE_2ND"
  ENUM GLYPH "AE" GLYPH "AEacute" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._L_uc_A_2ND"
+DEF_GROUP "KERN_L_uc_A_2ND"
  ENUM GLYPH "A" GLYPH "Aacute" GLYPH "Abreve" GLYPH "Acaron" GLYPH "Acircumflex" GLYPH "Adieresis" GLYPH "Adotacent" GLYPH "Agrave" GLYPH "Amacron" GLYPH "Aogonek" GLYPH "Aogonek.alt" GLYPH "Aogonek.alt2" GLYPH "Aogonek.euro" GLYPH "Aring" GLYPH "Aringacute" GLYPH "Aslash" GLYPH "Atilde" GLYPH "Lambda.Latin" GLYPH "Vturned" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._L_uc_ChiLatin_2ND"
+DEF_GROUP "KERN_L_uc_ChiLatin_2ND"
  ENUM GLYPH "Chi.Latin" GLYPH "ChiLatin" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._L_uc_Dcroat_2ND"
+DEF_GROUP "KERN_L_uc_Dcroat_2ND"
  ENUM GLYPH "Dcroat" GLYPH "Eth" GLYPH "Ibar" GLYPH "Lbar" GLYPH "Ubar" GLYPH "kip" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._L_uc_J_2ND"
+DEF_GROUP "KERN_L_uc_J_2ND"
  ENUM GLYPH "J" GLYPH "Jbar" GLYPH "Jcaron" GLYPH "Jcircumflex" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._L_uc_LambdaLatin_2ND"
+DEF_GROUP "KERN_L_uc_LambdaLatin_2ND"
  ENUM GLYPH "LambdaLatin" GLYPH "Lambdabar" GLYPH "Lambdabar.alt" GLYPH "Lambdabarcommaabove" GLYPH "Lambdabarcommaabove.alt" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._L_uc_M_2ND"
+DEF_GROUP "KERN_L_uc_M_2ND"
  ENUM GLYPH "M" GLYPH "Macute" GLYPH "Mdotbelow" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._L_uc_O_2ND"
+DEF_GROUP "KERN_L_uc_O_2ND"
  ENUM GLYPH "C" GLYPH "Cacute" GLYPH "Ccaron" GLYPH "Ccedilla" GLYPH "Ccircumflex" GLYPH "Cdotaccent" GLYPH "Cslash" GLYPH "G" GLYPH "Gbar" GLYPH "Gbreve" GLYPH "Gcaron" GLYPH "Gcircumflex" GLYPH "Gcommaaccent" GLYPH "Gdotaccent" GLYPH "Gmacron" GLYPH "O" GLYPH "OE" GLYPH "Oacute" GLYPH "Obar" GLYPH "Obreve" GLYPH "Ocaron" GLYPH "Ocircumflex" GLYPH "Odieresis" GLYPH "Odotaccent" GLYPH "Ograve" GLYPH "Ohungarumlaut" GLYPH "Omacron" GLYPH "Omacronacute" GLYPH "Oogonek" GLYPH "Oogonek.alt" GLYPH "Oogonek.alt2" GLYPH "Oogonekmacron" GLYPH "Oogonekmacron.alt" GLYPH "Oogonekmacron.alt2" GLYPH "Oslash" GLYPH "Oslashacute" GLYPH "Otilde" GLYPH "Q" GLYPH "Theta.Latin" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._L_uc_S_2ND"
+DEF_GROUP "KERN_L_uc_S_2ND"
  ENUM GLYPH "S" GLYPH "Sacute" GLYPH "Scaron" GLYPH "Scedilla" GLYPH "Scircumflex" GLYPH "Scommaaccent" GLYPH "Sdotbelow" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._L_uc_Schwa_2ND"
+DEF_GROUP "KERN_L_uc_Schwa_2ND"
  ENUM GLYPH "Schwa" GLYPH "Schwaogonek" GLYPH "Schwaogonek.alt" GLYPH "Schwaogonek.alt2" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._L_uc_T_2ND"
+DEF_GROUP "KERN_L_uc_T_2ND"
  ENUM GLYPH "T" GLYPH "Tbar" GLYPH "Tcaron" GLYPH "Tcedilla" GLYPH "Tcommaaccent" GLYPH "Tdotaccent" GLYPH "Tlinebelow" GLYPH "Tmacronbelow" GLYPH "Tslash" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._L_uc_U_2ND"
+DEF_GROUP "KERN_L_uc_U_2ND"
  ENUM GLYPH "U" GLYPH "Uacute" GLYPH "Ubreve" GLYPH "Ucaron" GLYPH "Ucircumflex" GLYPH "Udieresis" GLYPH "Ugrave" GLYPH "Uhungarumlaut" GLYPH "Umacron" GLYPH "Uogonek" GLYPH "Uogonek.alt" GLYPH "Uogonek.alt2" GLYPH "Uogonek.euro" GLYPH "Uring" GLYPH "Utilde" GLYPH "Vhook" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._L_uc_V_2ND"
+DEF_GROUP "KERN_L_uc_V_2ND"
  ENUM GLYPH "GammaLatin" GLYPH "V" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._L_uc_W_2ND"
+DEF_GROUP "KERN_L_uc_W_2ND"
  ENUM GLYPH "W" GLYPH "Wacute" GLYPH "Wcircumflex" GLYPH "Wdieresis" GLYPH "Wgrave" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._L_uc_Y_2ND"
+DEF_GROUP "KERN_L_uc_Y_2ND"
  ENUM GLYPH "Y" GLYPH "Yacute" GLYPH "Ycircumflex" GLYPH "Ydieresis" GLYPH "Ygrave" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._L_uc_Z_2ND"
+DEF_GROUP "KERN_L_uc_Z_2ND"
  ENUM GLYPH "Z" GLYPH "Zacute" GLYPH "Zcaron" GLYPH "Zcircumflex" GLYPH "Zdotaccent" GLYPH "Zlinebelow" GLYPH "Zmacronbelow" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._punc_guillemotleft.cap_2ND"
+DEF_GROUP "KERN_punc_guillemotleft.cap_2ND"
  ENUM GLYPH "guillemotleft.case" GLYPH "guilsinglleft.case" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._punc_guillemotleft_2ND"
+DEF_GROUP "KERN_punc_guillemotleft_2ND"
  ENUM GLYPH "guillemotleft" GLYPH "guilsinglleft" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._punc_guillemotright.cap_2ND"
+DEF_GROUP "KERN_punc_guillemotright.cap_2ND"
  ENUM GLYPH "guillemotright.case" GLYPH "guilsinglright.case" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._punc_guillemotright_2ND"
+DEF_GROUP "KERN_punc_guillemotright_2ND"
  ENUM GLYPH "guillemotright" GLYPH "guilsinglright" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._punc_hyphen.cap_2ND"
+DEF_GROUP "KERN_punc_hyphen.cap_2ND"
  ENUM GLYPH "emdash.case" GLYPH "endash.case" GLYPH "hyphen.case" GLYPH "periodcentered.case" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._punc_hyphen_2ND"
+DEF_GROUP "KERN_punc_hyphen_2ND"
  ENUM GLYPH "emdash" GLYPH "endash" GLYPH "hyphen" GLYPH "periodcentered" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._punc_parenright.cap_2ND"
+DEF_GROUP "KERN_punc_parenright.cap_2ND"
  ENUM GLYPH "braceright.case" GLYPH "bracketright.case" GLYPH "parenright.case" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._punc_parenright_2ND"
+DEF_GROUP "KERN_punc_parenright_2ND"
  ENUM GLYPH "braceright" GLYPH "bracketright" GLYPH "parenright" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._punc_period_2ND"
+DEF_GROUP "KERN_punc_period_2ND"
  ENUM GLYPH "ellipsis" GLYPH "period" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._punc_question_2ND"
+DEF_GROUP "KERN_punc_question_2ND"
  ENUM GLYPH "question" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._punc_quoteleft_2ND"
+DEF_GROUP "KERN_punc_quoteleft_2ND"
  ENUM GLYPH "apostropheturnedmodifier" GLYPH "quotedblleft" GLYPH "quoteleft" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._punc_quoteright_2ND"
+DEF_GROUP "KERN_punc_quoteright_2ND"
  ENUM GLYPH "apostrophemodifier" GLYPH "napostrophe" GLYPH "quotedbl" GLYPH "quotedblright" GLYPH "quoteright" GLYPH "quotesingle" GLYPH "vlinemodifier" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._punc_semicolon_2ND"
+DEF_GROUP "KERN_punc_semicolon_2ND"
  ENUM GLYPH "colon" GLYPH "semicolon" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._x_subs_BOTH"
+DEF_GROUP "KERN_x_subs_BOTH"
  ENUM GLYPH "eightinferior" GLYPH "fiveinferior" GLYPH "fourinferior" GLYPH "nineinferior" GLYPH "oneinferior" GLYPH "seveninferior" GLYPH "sixinferior" GLYPH "threeinferior" GLYPH "twoinferior" GLYPH "zeroinferior" END_ENUM
 END_GROUP
-DEF_GROUP "KERNpublic.kern2._x_sups_BOTH"
+DEF_GROUP "KERN_x_sups_BOTH"
  ENUM GLYPH "eightsuperior" GLYPH "fivesuperior" GLYPH "foursuperior" GLYPH "glottalmodifier" GLYPH "glottalmodifier.alt" GLYPH "ninesuperior" GLYPH "onesuperior" GLYPH "registered" GLYPH "sevensuperior" GLYPH "sixsuperior" GLYPH "thetamodifier" GLYPH "threesuperior" GLYPH "trademark" GLYPH "twosuperior" GLYPH "wmodifier" GLYPH "ymodifier" GLYPH "zerosuperior" GLYPH "zmodifier" END_ENUM
 END_GROUP END
