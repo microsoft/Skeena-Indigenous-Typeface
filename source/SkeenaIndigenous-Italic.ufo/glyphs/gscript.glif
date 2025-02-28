@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gscript" format="2">
   <advance width="1085"/>
-  <unicode hex="02D1"/>
+  <unicode hex="0261"/>
   <anchor x="363" y="-419" name="bottom"/>
   <anchor x="644" y="938" name="top"/>
   <outline>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="halflongsign" format="2">
   <advance width="426"/>
+  <unicode hex="02D1"/>
   <outline>
     <contour>
       <point x="277" y="688" type="curve" smooth="yes"/>

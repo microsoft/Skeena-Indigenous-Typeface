@@ -1283,6 +1283,10 @@
   </dict>
   <key>comma</key>
   <dict>
+    <key>Tslash</key>
+    <integer>-70</integer>
+    <key>X</key>
+    <integer>10</integer>
     <key>commarightcomb.case</key>
     <integer>-90</integer>
     <key>one.LP</key>
@@ -1293,6 +1297,24 @@
     <integer>-10</integer>
     <key>zero.LP</key>
     <integer>-10</integer>
+    <key>public.kern2._L_uc_A_2ND</key>
+    <integer>10</integer>
+    <key>public.kern2._L_uc_J_2ND</key>
+    <integer>15</integer>
+    <key>public.kern2._L_uc_O_2ND</key>
+    <integer>-80</integer>
+    <key>public.kern2._L_uc_T_2ND</key>
+    <integer>-100</integer>
+    <key>public.kern2._L_uc_U_2ND</key>
+    <integer>-60</integer>
+    <key>public.kern2._L_uc_V_2ND</key>
+    <integer>-120</integer>
+    <key>public.kern2._L_uc_W_2ND</key>
+    <integer>-100</integer>
+    <key>public.kern2._L_uc_Y_2ND</key>
+    <integer>-120</integer>
+    <key>public.kern2._L_uc_Z_2ND</key>
+    <integer>15</integer>
     <key>public.kern2._punc_quoteleft_2ND</key>
     <integer>-90</integer>
     <key>public.kern2._punc_quoteright_2ND</key>
@@ -4356,6 +4378,12 @@
   </dict>
   <key>public.kern1._L_lc_s_1ST</key>
   <dict>
+    <key>Tbar</key>
+    <integer>-120</integer>
+    <key>Tslash</key>
+    <integer>-100</integer>
+    <key>X</key>
+    <integer>-20</integer>
     <key>commarightcomb</key>
     <integer>-60</integer>
     <key>commarightcomb.case</key>
@@ -4386,6 +4414,16 @@
     <integer>-5</integer>
     <key>public.kern2._L_lc_y_2ND</key>
     <integer>5</integer>
+    <key>public.kern2._L_uc_A_2ND</key>
+    <integer>-10</integer>
+    <key>public.kern2._L_uc_T_2ND</key>
+    <integer>-140</integer>
+    <key>public.kern2._L_uc_V_2ND</key>
+    <integer>-50</integer>
+    <key>public.kern2._L_uc_W_2ND</key>
+    <integer>-25</integer>
+    <key>public.kern2._L_uc_Y_2ND</key>
+    <integer>-75</integer>
     <key>public.kern2._punc_quoteright_2ND</key>
     <integer>20</integer>
   </dict>
@@ -4908,7 +4946,7 @@
     <key>X</key>
     <integer>20</integer>
     <key>comma</key>
-    <integer>20</integer>
+    <integer>25</integer>
     <key>v</key>
     <integer>-10</integer>
     <key>public.kern2._L_lc_u_2ND</key>

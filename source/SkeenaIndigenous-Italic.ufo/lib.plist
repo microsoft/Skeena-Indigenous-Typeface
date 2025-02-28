@@ -227,6 +227,8 @@
     <string>Ncaron</string>
     <string>Ntilde</string>
     <string>Ncommaaccent</string>
+    <string>Nmacronbelow</string>
+    <string>Nlinebelow</string>
     <string>Ndotbelow</string>
     <string>Ograve</string>
     <string>Oacute</string>
@@ -462,6 +464,8 @@
     <string>ncaron</string>
     <string>ntilde</string>
     <string>ncommaaccent</string>
+    <string>nmacronbelowcomb</string>
+    <string>nlinebelow</string>
     <string>ndotbelow</string>
     <string>napostrophe</string>
     <string>ograve</string>

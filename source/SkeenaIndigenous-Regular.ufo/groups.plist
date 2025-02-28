@@ -148,7 +148,9 @@
     <string>ncaron</string>
     <string>ncommaaccent</string>
     <string>ndotbelow</string>
+    <string>nlinebelow</string>
     <string>nlongright</string>
+    <string>nmacronbelowcomb</string>
     <string>ntilde</string>
   </array>
   <key>public.kern1._L_lc_o_1ST</key>
@@ -355,6 +357,8 @@
     <string>Ncaron</string>
     <string>Ncommaaccent</string>
     <string>Ndotbelow</string>
+    <string>Nlinebelow</string>
+    <string>Nmacronbelow</string>
     <string>Ntilde</string>
   </array>
   <key>public.kern1._L_uc_Ibar_1ST</key>
@@ -760,7 +764,9 @@
     <string>ncaron</string>
     <string>ncommaaccent</string>
     <string>ndotbelow</string>
+    <string>nlinebelow</string>
     <string>nlongright</string>
+    <string>nmacronbelowcomb</string>
     <string>ntilde</string>
     <string>p</string>
     <string>r</string>

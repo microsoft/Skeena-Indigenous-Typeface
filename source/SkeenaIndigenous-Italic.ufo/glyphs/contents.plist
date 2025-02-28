@@ -262,8 +262,12 @@
   <string>N_commaaccent.glif</string>
   <key>Ndotbelow</key>
   <string>N_dotbelow.glif</string>
+  <key>Nlinebelow</key>
+  <string>N_linebelow.glif</string>
   <key>Nlongright</key>
   <string>N_longright.glif</string>
+  <key>Nmacronbelow</key>
+  <string>N_macronbelow.glif</string>
   <key>Ntilde</key>
   <string>N_tilde.glif</string>
   <key>O</key>
@@ -1026,8 +1030,12 @@
   <string>nineinferior.glif</string>
   <key>ninesuperior</key>
   <string>ninesuperior.glif</string>
+  <key>nlinebelow</key>
+  <string>nlinebelow.glif</string>
   <key>nlongright</key>
   <string>nlongright.glif</string>
+  <key>nmacronbelowcomb</key>
+  <string>nmacronbelowcomb.glif</string>
   <key>ntilde</key>
   <string>ntilde.glif</string>
   <key>numbersign</key>

@@ -1,5 +1,5 @@
 names:
-  5: Version 0.88 BETA
+  5: Version 0.90 BETA
   
 formats: [ttf, woff2]
 
@@ -96,6 +96,14 @@ fonts:
         label: Belted-l
         tooltip: Lushootseed cursive belted-l
         characters: [0x026C]
+      cv03:
+        label: Ogonek
+        tooltip: 1. Reversed-cedilla ogonek. 2. Angular ogonek. 3. European ogonek.
+        characters: [0x0104, 0x0118, 0x012E, 0x01EA, 0x01EC, 0x0172, 0x0105, 0x0119, 0x012F, 0x01EB, 0x01ED, 0x0173, 0x0328]
+      cv04:
+        label: Glottal modifier
+        tooltip: Angled glottal stop modifier
+        characters: [0x02C0]
     STAT:
       axes:
       - name: Weight
@@ -211,6 +219,14 @@ fonts:
         label: Belted-l
         tooltip: Lushootseed cursive belted-l
         characters: [0x026C]
+      cv03:
+        label: Ogonek
+        tooltip: 1. Reversed-cedilla ogonek. 2. Angular ogonek. 3. European ogonek.
+        characters: [0x0104, 0x0118, 0x012E, 0x01EA, 0x01EC, 0x0172, 0x0105, 0x0119, 0x012F, 0x01EB, 0x01ED, 0x0173, 0x0328]
+      cv04:
+        label: Glottal modifier
+        tooltip: Angled glottal stop modifier
+        characters: [0x02C0]
     STAT:
       axes:
       - name: Weight

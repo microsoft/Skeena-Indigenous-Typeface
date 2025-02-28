@@ -1,6 +1,6 @@
 %%FONTLAB RENAMING SCHEME: Skeena Indigenous dev-to-post
 %
-% 28 January 2025
+% 27 February 2025
 % 
 .notdef .notdef
 NULL NULL
@@ -125,6 +125,8 @@ Nacute Nacute
 Ncaron Ncaron
 Ntilde Ntilde
 Ncommaaccent uni0145
+Nmacronbelow uni1E49
+Nlinebelow uni004E0032
 Ndotbelow uni1E46
 Ograve Ograve
 Oacute Oacute
@@ -368,6 +370,8 @@ nacute nacute
 ncaron ncaron
 ntilde ntilde
 ncommaaccent uni0146
+nmacronbelowcomb uni1E49
+nlinebelow uni004E0032
 ndotbelow uni1E47
 napostrophe napostrophe
 ograve ograve
