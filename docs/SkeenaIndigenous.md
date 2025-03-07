@@ -211,7 +211,7 @@ In some situations, software should apply tailored casing rules for a language, 
 
 ### Glyphset
 
-The [Skeena Indigenous glyphset](https://github.com/microsoft/Skeena-Indigenous-Typeface/blob/main/docs/SkeenaIndigenousGlyphset.csv) is documented in a CSV (comma-separated values) format table, which for convenience can be imported into any common spreadsheet software. The columns from left-to-right are:
+The [Skeena Indigenous glyphset](https://github.com/microsoft/Skeena-Indigenous-Typeface/blob/main/source/SkeenaIndigenousGlyphset.csv) is documented in a CSV (comma-separated values) format table, which for convenience can be imported into any common spreadsheet software. The columns from left-to-right are:
 
 * **Sort** Corresponding to the glyph ID (GID) in the fonts.
 * **Unicode** The Unicode hexadecimal codepoint for each encoded glyph; blank if glyph is unencoded.
