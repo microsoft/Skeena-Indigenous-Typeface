@@ -181,7 +181,7 @@ Perhaps confusingly, considering this naming, these diacritic characters have ca
 
 Some of the Latin orthographies of indigenous language include letters derived from the Greek script. Gradually, most of these have been given distinct Latin encodings in Unicode, usually because their casing forms differ in some way from those in Greek. In unicase orthographies based on the North American Phonetic Alphabet, Greek character encodings may still be used for some of these letters, and in text Greek and Latin codepoints may occur as a result of older or newer keyboards or copying and pasting of characters.
 
-In fonts that support both Latin and Greek scripts, the form of Greek characters employed within Latin orthographies may need to be differentiated from the default Greek forms at the glyph level. This is the case if the Greek design follows traditional stroke modulation patterns of that script that contrast with the Latin patterns.
+In fonts that support both Latin and Greek scripts, the form of Greek characters employed within Latin orthographies may need to be differentiated from the default Greek forms at the glyph level. This is the case if the Greek design follows traditional stroke modulation patterns of that script that contrast with the Latin patterns, as in this example from the [Brill](https://www.tiro.com/fonts/brill) typeface:
 
 <img src="images/greklatn.svg" alt="Eight Greek letters in traditional style contrasted with latinized forms.’"/>
 
