@@ -19,7 +19,7 @@ The project has several goals:
 
 Release builds of the fonts are available via the [Releases](https://github.com/microsoft/Skeena-Indigenous-Typeface/releases) link on the repo homepage. This will always include the most current public release.
 
-Compiled fonts are only available via the Releases page and are not included in the code base for the repo. See information below regarding building the fonts locally in a cloned repo.
+Compiled fonts are only available via the Releases page and are not included in the code base for the repo. See [information below](https://github.com/microsoft/Skeena-Indigenous-Typeface?tab=readme-ov-file#sources) regarding building the fonts locally in a cloned repo.
 
 ### Documentation
 
