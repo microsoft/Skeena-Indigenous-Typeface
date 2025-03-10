@@ -38,19 +38,19 @@ A few alphabets sort with the vowels grouped at the beginning, followed by the c
 
 Alphabet length varies considerably, even between some closely related languages. This reflects either different phonemic inventories or, in the case of related languages, different categorization of alphabetic units. So, for example, the alphabet of the Dakelh language Yekooche reckons the glottalization sign ’ as a separate unit:
 
-a b ch ch’ d dl dz d̲z̲ e g gh gw h i j k k’ kh kw kw’ l lh m n ng o oo s s̲ sh t t’ tl tl’ ts ts’ t̲s̲ u u̲ w wh y z z̲ ’
+<div class="fs-6">a b ch ch’ d dl dz d̲z̲ e g gh gw h i j k k’ kh kw kw’ l lh m n ng o oo s s̲ sh t t’ tl tl’ ts ts’ t̲s̲ u u̲ w wh y z z̲ ’</div>
 
 while the alphabet of the related Southern Carrier language conventionally lists all glottalized vowels as individual units:
 
-a ’a a’ ’a’ b ch ch’ d dl dz d̲z̲ e ’e e’ ’e’ g gh gw h i ’i i’ ’i’ j k k’ kh kw kw’ l lh m n o ’o o’ ’o’ oo ’oo oo’ ’oo’ s s̲ sh t t’ tl tl’ ts ts’ t̲s̲ u ’u u’ ’u’ ai ’ai ai’ ’ai’ w wh y z
+<div class="fs-6">a ’a a’ ’a’ b ch ch’ d dl dz d̲z̲ e ’e e’ ’e’ g gh gw h i ’i i’ ’i’ j k k’ kh kw kw’ l lh m n o ’o o’ ’o’ oo ’oo oo’ ’oo’ s s̲ sh t t’ tl tl’ ts ts’ t̲s̲ u ’u u’ ’u’ ai ’ai ai’ ’ai’ w wh y z</div>
 
 The shortest alphabet targeted by Skeena Indigenous is that of the Ktunaxa First Nation of the BC interior (observe use of the cent sign as a letter in this alphabet; see notes on encoding):
 
-a a· ¢ ¢̕ h i i· k k̓ l ǂ m m̓ n n̓ p p̓ q q̓ s t t̕ u u· w x y ʔ ·
+<div class="fs-6">a a· ¢ ¢̕ h i i· k k̓ l ǂ m m̓ n n̓ p p̓ q q̓ s t t̕ u u· w x y ʔ ·</div>
 
 The longest is that of the Southern Tutchone First Nation of the Yukon, which includes vowel tone, length and nasalization diacritics:
 
-ch chʼ d ddh dh dl dz g gh ghw gw h j k kh khw kw kʼ kʼw l ł m mb n nd nj r s sh t tʼ th tl tth tthʼ ts tsʼ tlʼ y w z zh ʼ a ä à ā á ą ą̈ ą̀ ą̄ ą́ ą̈w ąw ąy äy ą̈y e è i o u ü ų̈ ē ī ō ū é í ó ú ę į ǫ ų â ê î ô û ǎ ě ǐ ǒ ǔ ā́ ḗ ī́ ṓ ū́
+<div class="fs-6">ch chʼ d ddh dh dl dz g gh ghw gw h j k kh khw kw kʼ kʼw l ł m mb n nd nj r s sh t tʼ th tl tth tthʼ ts tsʼ tlʼ y w z zh ʼ a ä à ā á ą ą̈ ą̀ ą̄ ą́ ą̈w ąw ąy äy ą̈y e è i o u ü ų̈ ē ī ō ū é í ó ú ę į ǫ ų â ê î ô û ǎ ě ǐ ǒ ǔ ā́ ḗ ī́ ṓ ū́</div>
 
 The boundaries of an ‘alphabet’ may be fuzzy. Some language communities may mark stress accents regularly and consider vowels with acute or grave accents as part of the alphabet, while others may use such diacritics irregularly, and may not list them in the inventory of letters.
 
