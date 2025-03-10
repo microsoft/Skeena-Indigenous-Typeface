@@ -1,0 +1,37 @@
+# Site Configuration
+# https://just-the-docs.com/docs/configuration/
+# https://github.com/just-the-docs/just-the-docs/blob/main/_config.yml
+
+title: Skeena Indigenous Typeface
+description: A starter template for a Jeykll site using the Just the Docs theme!
+theme: just-the-docs
+
+url: https://microsoft.github.io/skeena-indigenous-typeface
+heading_anchors: true
+aux_links_new_tab: true
+
+aux_links:
+  # https://docs.github.com/en/repositories/releasing-projects-on-github/linking-to-releases#linking-to-the-latest-release
+  # Link to the lastest release:
+  #   `https://github.com/microsoft/Skeena-Indigenous-Typeface/releases/latest`
+  # Link directly to `fonts.zip` asset in the latest release, if it exists (404s if it doesn’t, which isn’t great):
+  #   `https://github.com/microsoft/Skeena-Indigenous-Typeface/releases/latest/download/fonts.zip`
+  '<div>Get the Fonts&nbsp;<svg viewBox="0 0 24 24" aria-labelledby="svg-external-link-title"><use xlink:href="#svg-external-link"></use></svg></div>': https://github.com/microsoft/Skeena-Indigenous-Typeface/releases/latest
+
+# External navigation links
+nav_external_links:
+  - title: Source on GitHub
+    url: https://github.com/microsoft/Skeena-Indigenous-Typeface
+
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub."
+gh_edit_repository: "https://github.com/microsoft/Skeena-Indigenous-Typeface" # the github URL for your repo
+gh_edit_branch: "main" # the branch that your docs is served from
+gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+
+sass:
+  quiet_deps: true # https://github.com/just-the-docs/just-the-docs/issues/1541
+  silence_deprecations: ['import'] # https://github.com/just-the-docs/just-the-docs/issues/1607]
