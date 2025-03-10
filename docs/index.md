@@ -572,7 +572,7 @@ The Skeena Indigenous project has four aims:
 
 With regard to the last of these, some additional information about the sources and build tools may be useful to people interested in forking the project to make derivative fonts:
 
-Skeena is a Microsoft trademark as is Reserved Font Name under the terms of the Open Font License. This means that any forks of the project need to use different names in derivative fonts.
+Skeena is a Microsoft trademark and is Reserved Font Name under the terms of the Open Font License. This means that any forks of the project need to use different names in derivative fonts.
 
 The .ufo format build files can also be used as design sources and can be opened in all modern font tools. If you want to edit the shape of any existing glyphs or add glyphs, you will probably want to do so directly in the .ufo files or in tool-specific sources derived from them.
 
