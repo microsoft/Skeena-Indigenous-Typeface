@@ -25,6 +25,10 @@ Compiled fonts are only available via the Releases page and are not included in 
 
 Feature requests, bug reports, and other feedback is invited via the [Issues](https://github.com/microsoft/Skeena-Indigenous-Typeface/issues) tracker. Some initial labels are provided for reporting bugs, requesting new features, etc.
 
+### Discussion
+
+A [discussion forum](https://github.com/microsoft/Skeena-Indigenous-Typeface/discussions) is available for general questions and conversation about the Skeema Indigenous project and support for indigenous language typography.
+
 ### Sources
 
 The Skeena Indigenous fonts are built from Unified Font Object (.ufo) files, with OpenType Layout data merged from input.ttf files compiled from Microsoft’s VOLT tool. The upstream design sources, also available, are FontLab .vfc files (also saved as .vfj plain text versions of the same in JSON syntax). Font makers wishing to fork the project in design tools other than FontLab should be able to open the .ufo sources.
