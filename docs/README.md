@@ -2,7 +2,7 @@
 
 This documentation site is built using [Jekyll](https://github.com/jekyll/jekyll) and a customized version of the [Just the Docs theme](https://github.com/just-the-docs/just-the-docs).
 
-Each time changes are made to files in this `docs/` folder, it’s build and deployed using GitHub Actions.
+Each time changes are made to files in this `docs/` folder, it’s built and deployed using GitHub Actions.
 
 ## Local development
 
