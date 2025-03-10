@@ -7,7 +7,7 @@ layout: home
 
 Every font is the outcome of many decisions, large and small. This document explains key decisions in the making of the Skeena Indigenous font family, from the inception of the design to its release under the [Open Font License v1.1](https://openfontlicense.org/open-font-license-official-text/) as a focal point for engagement with indigenous language communities. The document discusses both design and implementation decisions and, importantly, explains how things might be done differently: what other decisions could have been made, and why those decisions might be more suitable to other projects.
 
-### Origins
+## Origins
 Skeena Indigenous is an indigenous-first project, in which priority is given to supporting orthographic and typographic norms of indigenous languages of North America, rather than prioritizing those of European settler languages. However, the core design of the typeface originated in prior projects conducted by Tiro Typeworks for Microsoft between 2018 and 2021. The design that became Skeena was initially developed by Paul Hanslow and John Hudson as a proposal for a new user interface typeface, and a couple of years later it was refined and extended as one of five candidates to replace Calibri as the default text fonts in Microsoft Office. Skeena wasn’t selected for that role, but it remained a design with which Paul and I were very pleased, and which I always thought would be useful. The core concept of a sans serif type with modulation between thick and thin stroke weights lends itself well to both continuous text for reading as well as dramatic display typography, especially in its heavier weights. This is a surprisingly under-represented style, which also means it looks fresh compared to the many sans serif font families in well-trodden genres such as grotesk and geometric sans.
 
 The dual suitability for running text and display settings recommended the Skeena design as a starting place for extending the typographic palette of indigenous languages, many of which have been limited to a small number of typefaces in a narrow range of weights and styles, and sometimes to a single font. The choice of sans serif over more traditional serif type style also enabled Paul and I to directly apply some of the things we had learned when designing letterforms for the hən̓q̓əmin̓əm̓ (Musqueam) and nsyilxcən (Syilx) languages for signage at the University of British Columbia ([Whitney Salishan](https://news.ubc.ca/2023/05/new-ubc-font-whitney-salishan-language/)).
@@ -24,7 +24,7 @@ Skeena Indigenous is intended to provide a focal point for engagement. It is a t
 
 Skeena Indigenous is a unified font project; that is, it seeks to support a large number of languages withing a single character and glyph set, rather than targeting individual languages with separate, tailored fonts. This requires that some glyphs—the individual forms of characters—need to be made default and, where local, language-specific variants exist, these are handled via glyph processing substitutions. A unified font project is beneficial for companies seeking to support a wide range of languages: this is why, for example, pan-European language fonts are a common baseline for much font development. This is not, of course, the only way to make fonts, and there are several good reasons why a language community might want to have a more precisely tailored font, one that supports only their character set needs and that ensures default forms reflect local preferences and conventions. As an Open Font License release, the Skeena Indigenous project may be freely forked to produce such tailored subsets.
 
-### Alphabets
+## Alphabets
 
 Many indigenous language orthographies of North America are strongly phonetic, and employ a combination of common Latin letters, specialized letters and other signs—many derived from the Americanist Phonetic Alphabet (APA)—, combining diacritic marks, and features not found in European orthographies *e.g.* superscript modifier letters. In addition, many of the orthographies use combinations of letters—digraphs or trigraphs—to represent individual sounds, and these are typically reckoned as individual alphabetic units, with implications for tailored sorting and casing.
 
@@ -60,7 +60,7 @@ In creating a unified font project like Skeena Indigenous, it is best to err on 
 
 The superset of characters identified for support in Skeena Indigenous was developed over a period of several months. It began by collecting together information on Coast Salishan alphabets but rapidly expanded to cover other language groups of the Pacific Northwest. Much of the initial information was gleaned from the [FirstVoices](https://www.firstvoices.com/) project of the BC [First Peoples’ Cultural Council](https://fpcc.ca/), with additional information on Washington State languages derived from [previous work](https://github.com/aaronbell/Salishan) by Aaron Bell at Saja Typeworks, from information provided by individual language contacts, and from the websites of language communities. After much of the design work to support these languages in Skeena Indigenous was already advanced, we found time to expand the character set to cover a broader set of languages from across the continent, using as a source the alphabets documented in the Typotheque publication *[Indigenous North American Type](https://www.typotheque.com/books/indigenous-north-american-type)*.
 
-### Encoding
+## Encoding
 
 The Skeena Indigenous fonts presume Unicode Standard text encoding. That’s a fairly safe assumption for most text these days, but some language communities may still be using older fonts that were hacks of 8-bit ASCII encoding or have significant legacy text in non-standard encodings. Some communities may be using both Unicode and non-Unicode fonts, and struggling with text interchange.
 
@@ -68,7 +68,7 @@ Even where text reliably uses Unicode characters, there may be inconsistencies i
 
 Font makers need to be aware of these encoding issues and make decisions about how to address them. One approach is to try to accommodate divergent encodings, which is most easily done when developing a font for an individual language community. In that case, multiple codepoints might map to identical glyphs, or to the same glyph, such that it doesn’t matter how the text is encoded: the font will display it the same way, according to the preferences of form and positioning in that community. The problem with this approach, of course, is that it masks encoding inconsistencies, leading to ongoing issues with text interchange, undermining reliable searching and sorting in educational resources such as dictionaries, and resulting in messy typography when text is displayed in a different font that does not follow the same character-to-glyph mapping decisions.
 
-#### Precomposed vs decomposed
+### Precomposed vs decomposed
 
 When the Unicode project began in the 1980s, several principles were established to guide decisions about what to characters to encode, and some of these principles are contradictory and result in apparent inequalities that introduce complications for some indigenous languages.
 
@@ -82,7 +82,7 @@ The apparent inequality this introduces is that diacritics for European and some
 
 This means, among other things, that those of us making fonts for indigenous languages do need to be aware of the distinction, and to make decisions about how to handle decomposed code sequences at the point where the abstract characters become visible glyphs. In Skeena Indigenous, all supported diacritics with atomic encodings in Unicode are provided as precomposed glyphs, while most decomposed encodings are not but are instead displayed using [GPOS](https://learn.microsoft.com/en-us/typography/opentype/spec/gpos) mark anchor attachments or other positioning mechanisms. Only a few base+mark sequences are displayed using dedicated glyphs (mapped from the sequence in the [GSUB](https://learn.microsoft.com/en-us/typography/opentype/spec/gsub) `ccmp` feature). These exceptions involve graphical merging of the base and mark, idiosyncratic positioning of a particular mark on that base, or possible preferred variants of a precomposed character glyph.
 
-#### Confusables
+### Confusables
 
 The problem of confusable or look-a-like characters is often exacerbated by glyph representation at the font level. It is not unusual for an indigenous language community to have only a single font, sometimes derived from an older, non-Unicode font made by volunteers or by linguists working with the community. In converting such a font to use Unicode, choices are made about which codepoint to use based on the appearance of a character in that font, and this can involve guessing which of two or more similar Unicode characters should be used. The Unicode Standard does not always provide clear guidance for either font makers or language communities facing such choices, and some indigenous alphabets end up including questionable encoding decisions. This can lead to confusion when new fonts are made in which the glyph representation of a letter or the positioning of a diacritic mark is tailored to the preferences of a particular community rather than representing typical norms for that character according to the Unicode Standard.
 
@@ -90,7 +90,7 @@ As explained above, Skeena Indigenous aims to provide broad coverage for many di
 
 Some examples of confusable characters and explanation of how these are designed in Skeena Indigenous follows:
 
-##### Apostrophe-like signs
+#### Apostrophe-like signs
 
 Unicode includes a number of small, raised punctuation or mark characters that are similar in form and/or position, and these are often encountered being used interchangeably in indigenous language texts. Sometimes, there may be uncertainty as to which character should be the preferred encoding, or whether a community has settled on a standard encoding for its language. Inconsistencies may occur when individuals are typing text, and these inconsistencies may then be copied and pasted into other texts.
 
@@ -122,7 +122,7 @@ Many indigenous orthographies utilize one or more of these characters, most ofte
 
 In addition to the confusables shown here, care should be taken to distinguish U+0313 from U+0312 COMBINING TURNED COMMA ABOVE, and in some sans serif styles of type from the acute accent (see discussion below about the design of punctuation in Skeena Indigenous).
 
-##### Colon-like signs
+#### Colon-like signs
 
 The colon may occur as a punctuation sign, but is often used in indigenous orthographies as a vowel length indicator. This is derived from IPA and NAPA practice, but in the former the long vowel marker officially uses triangular dots and is encoded as such. In indigenous language texts, the dots are conventionally round, regardless of the encoding, meaning that any of these three characters might be encountered and may render identically.
 
@@ -132,7 +132,7 @@ The colon may occur as a punctuation sign, but is often used in indigenous ortho
 
 In Skeena Indigenous, the default forms of all three characters use round dots. The U+003A colon character is spaced as punctuation, with a slight offset to the right; to ensure it is evenly spaced used between letters, the colon modifier glyph is substituted in that context.
 
-##### Barred letters
+#### Barred letters
 
 A number of diacritics in indigenous alphabets are distinguished by one or two horizontal bars through the letter. Some of these may be confusable, and some may have local variants in which the bars are slanted or wavy. The most obviously confusable characters in this class are 
 
@@ -147,7 +147,7 @@ In Skeena Indigenous, these are clearly distinguished in design, to discourage t
 
 The choice of character by a community ideally takes into account casing properties (the double-barred l has an uppercase equivalent; the alveolar click is unicase), as well as how these letters are conventionally interpreted in different styles of type.
 
-##### Lowline vs macron below
+#### Lowline vs macron below
 
 Unicode includes two easily confused combining marks that appear as lines below a base letter.
 
@@ -182,7 +182,7 @@ The confusability of U+0331 and U+0332 is further complicated by the existence o
 
 Perhaps confusingly, considering this naming, these diacritic characters have canonical decompositions to the base letter plus U+0331, *the combining macron below.* Since these diacritics exist as atomic characters in Unicode, some communities may have adopted them for convenience without considering their decomposition. This may result in sequences of diacritics in which one is normalized as letter plus U+0331 while another is input from the keyboard as letter plus U+0332. In Skeena Indigenous, the two marks are coordinated in thickness and vertical alignment to make the best, graphically, of such a situation.
 
-##### Greek vs Latin
+#### Greek vs Latin
 
 Some of the Latin orthographies of indigenous language include letters derived from the Greek script. Gradually, most of these have been given distinct Latin encodings in Unicode, usually because their casing forms differ in some way from those in Greek. In unicase orthographies based on the North American Phonetic Alphabet, Greek character encodings may still be used for some of these letters, and in text Greek and Latin codepoints may occur as a result of older or newer keyboards or copying and pasting of characters.
 
@@ -196,7 +196,7 @@ Since Skeena Indigenous does not support the Greek script except for those few c
 
 A few uppercase letters are cross-script confusable, such as the Greek Lambda **Λ** (U+030B) and Latin turned-V **Ʌ** (U+0245), and the Greek Theta **Θ** (U+0398) and Latin barred-O **Ɵ** (U+019F). In Skeena Indigenous, these too are identical.
 
-##### Letters vs symbols
+#### Letters vs symbols
 
 Some diacritic letters in Unicode bear resemblance to currency or other symbols, and may be encountered as such in indigenous language texts, either by accident or because they have been selected as standard encodings by a community on the basis of convenience or because they most closely correspond to the locally expected the form of the letter. As in other cases of confusable characters, font makers need to decide whether to accommodate those encodings by tailoring the form of the symbol characters to match community expectations, or to differentiate the symbols from the similar letters and encourage use of the latter. There is no easy or obviously correct decision given that some of these symbol characters are enshrined as letters in specific orthographies.
 
@@ -204,7 +204,7 @@ The cent currency symbol **¢** (U+00A2) is frequently designed with a vertical 
 
 Unicode includes a barred-K diacritic **Ꝁ** (U+A740). In most typefaces the bar is a short stroke through the upper part of the vertical, so this character was not selected for inclusion in the alphabet of the SENĆOŦEN (Saanich) language of southern Vancouver Island; rather, the currency symbol for the Lao kip ₭ (U+20AD) was chosen because its shape—with a long bar through the middle of the letter—corresponded with community expectations. Since the barred K diacritic in SENĆOŦEN is unique among North American indigenous orthographies, Skeena Indigenous contains only the kip character, and not U+A740 or its lowercase equivalent U+A741.
 
-#### Casing
+### Casing
 
 Casing is the mapping between related pairs of characters, as typified by the relationship of upper- and lowercase letters in many alphabets. Casing is a property of writing systems, *i.e.* of the application of a set of characters in a script to a particular language; for example, the casing behavior of upper- and lowercase letters in the English alphabet and the orthographic and typographic conventions governing how these are used. In Unicode, however, casing is standardized as a property of *characters.* With few exceptions, all Unicode lowercase Latin characters have a corresponding uppercase character, and the mapping between them is a property of each. This enables casing of Latin script text in software, including various kinds of case conversion such as all-caps and title case settings, which might be applied directly by a user or result from document styles.
 
@@ -214,7 +214,7 @@ Skeena Indigenous includes uppercase characters for every corresponding lowercas
 
 In some situations, software should apply tailored casing rules for a language, to prevent unwanted case conversion that might break orthographic norms or introduce textual ambiguity. The SENĆOŦEN alphabet is notable for being *mostly* all-caps and not using lowercase letters except for **s**, which is semantically distinct from **S**. This means that case conversion should be avoided, both to reflect the cultural norms of the writing system and preserve the semantic distinction between the upper- and lowercase **S** and **s** characters.
 
-### Glyphset
+## Glyphset
 
 The [Skeena Indigenous glyphset](https://github.com/microsoft/Skeena-Indigenous-Typeface/blob/main/source/SkeenaIndigenousGlyphset.csv) is documented in a CSV (comma-separated values) format table, which for convenience can be imported into any common spreadsheet software. The columns from left-to-right are:
 
@@ -238,11 +238,11 @@ The classifications used in the Set column reflect the process of initial planni
 
 Individual glyph classifications may change in future as additional orthographies are documented.
 
-### Glyph decisions
+## Glyph decisions
 
 A typeface is a coordinated set of glyphs, whose structures, proportions and details inform the design of each other. This is why typeface design is reflective and iterative: decisions in one place affect decisions in other places, and changes to the scope or focus of a typeface may require revision of existing glyphs. Making a typeface indigenous-first requires taking into account specific aspects of indigenous orthographies that differ from those of European languages. Similarly, making a typeface indigenous-first implies different decisions about the default form of some characters.
 
-#### Punctuation
+### Punctuation
 
 In the original Skeena design proposals and MS Office release, the comma and related shapes were simple, slightly curved strokes. If this form were applied to the related combining mark sign U+0313 comma above (and U+0315 comma above right), the result would be too easily mistaken for the acute accent:
 
@@ -254,7 +254,7 @@ In Skeena Indigenous, a clearly distinct and identifiable form of the apostrophe
 
 [This redesign was so successful that these forms are being rolled into updates to the Skeena fonts for European languages also: a case of indigenous-first design influencing the typography of settler languages.]
 
-#### Ogonek
+### Ogonek
 
 The ogonek is a small hook shape below a base letter, most commonly connecting to the letter. It is used in numerous writing systems in Europe, the Americas, and Africa to indicate nasalization of a vowel, so is sometimes referred to as the nasal hook. The form of the ogonek derives from a mediaeval scribal sign, the *e caudata*, and in European typography it follows the conventional writing of that sign in how it attaches to various vowel letters:
 
@@ -274,7 +274,7 @@ Some communities have evolved their own forms of the ogonek sign, and these are 
 <img src="images/ogoindialt2.svg" alt="Variant forms of North American indigenous diacritic letters featuring the ogonek, in which the latter takes an acutely-angled, detached mark form."/>
 *Angled ogonek variant*
 
-#### Eng
+### Eng
 
 Different forms of the uppercase letter **Ŋ** are in use around the world, all unified in a single character encoding, U+014A. The form of this character used in North American indigenous alphabets follows the shape of the uppercase **N** with a descending hook:
 
@@ -284,7 +284,7 @@ Since only this form is attested in North American orthographies documented to d
 
 This form is also used in European alphabets for Sámi languages of northern Scandinavia, so is suitable for fonts supporting both European and North American languages. If fonts also aim to support sub-Saharan African languages, additional forms of this letter will be required.
 
-#### Numerals as letters
+### Numerals as letters
 
 There is a longstanding practice of using two numeral characters as letters in some indigenous alphabets. This appears to derive from convenience, the numerals roughly approximating the shape of characters that were missing from typewriters or individual fonts.
 
@@ -294,7 +294,7 @@ The numeral **7** is encountered as a stand-in for the glottal letter **ʔ** and
 
 *Example words from the Líl̓wat and ɔ’ɔ́ɔ́ɔ́naakíit’ɔ (Aaniiih) languages showing use of the numerals 7 and 3 as letters.*
 
-#### Variants
+### Variants
 
 A number of characters in Skeena Indigenous have one or more alternative forms that are local preferences associated with individual languages or may be recognized as free, stylistic variants. Identifying, documenting, and supporting local variations in the shape of letters and other characters 
 
@@ -321,13 +321,13 @@ U+02D0 MODIFIER LETTER TRIANGULAR COLON
 U+02D1 MODIFIER LETTER HALF TRIANGULAR COLON  
 These characters are, respectively, long and half-long vowel indicators. As their Unicode names indicate, the triangular forms are the norm (derived from IPA usage), but the convention across indigenous orthographies is to use a round dot, so that is the default form in Skeena Indigenous and the triangular variant is available as a stylistic alternative. [See comments above regarding confusable encodings for the colon.]
 
-### Glyph processing
+## Glyph processing
 
 The Skeena Indigenous fonts contain OpenType Layout substitution and positioning tables. Many of the OTL features are common to many fonts, such as access to variant numeral forms for tabular vs proportional spacing, superscripts and subscripts, and fractions, and case-sensitive forms for all-caps settings. These are not described in detail here. The following details pertain to implementation that is particular to Skeena Indigenous and to support for indigenous language typography.
 
 In this section, VOLT lookup syntax is used to document substitutions. Font makers working with other tools should translate these into appropriate syntax, *e.g.* AFDKO .fea code.
 
-#### [`rvrn`](https://learn.microsoft.com/en-us/typography/opentype/spec/features_pt#rvrn) Required Variation Alternates
+### [`rvrn`](https://learn.microsoft.com/en-us/typography/opentype/spec/features_pt#rvrn) Required Variation Alternates
 
 This feature performs preliminary glyph substitutions triggered by locations within a variable font design space. In Skeena Indigenous, this is used to swap in simplified constructions of the **\$** and **ⱥ** characters at weights above Bold.
 
@@ -335,11 +335,11 @@ This feature performs preliminary glyph substitutions triggered by locations wit
 
 Note that the input for the `rvrn` feature substitutions is programmed directly in the .designspace file, not in the VOLT project used for all other OpenType Layout. During the build process, this substitution is also applied during instantiation of static fonts, so these simplified forms appear as default glyphs in the Extra Bold and Black fonts.
 
-#### [`locl`](https://learn.microsoft.com/en-us/typography/opentype/spec/features_ko#locl) Localized Forms
+### [`locl`](https://learn.microsoft.com/en-us/typography/opentype/spec/features_ko#locl) Localized Forms
 
 In the OpenType Layout GSUB table, a number of variant glyph substitutions are applied for individual languages via LangSys tags. Some of these LangSys tags for indigenous languages or language groups are recent additions to the registry, prompted by the Skeena Indigenous research and development. These `locl` feature substitutions precede other aspects of layout and affect the input set of glyphs for subsequent GSUB and GPOS lookups.
 
-##### European ogonek
+#### European ogonek
 
 Substitution of glyphs with conventional European attachment of ogoneks is applied via the `locl` feature for the following LangSys tags:
 
@@ -347,13 +347,13 @@ Substitution of glyphs with conventional European attachment of ogoneks is appli
 * `LTH` Lithuanian
 * `PLK` Polish
 
-##### Reversed-cedilla ogonek
+#### Reversed-cedilla ogonek
 
 Substitution of the horizontally flipped cedilla form of the ogonek is applied for the following LangSys tag:
 
 * `CHP` Chipewyan
 
-##### Angled ogonek and glottal modifier
+#### Angled ogonek and glottal modifier
 
 The acute-angled subscript mark form of ogonek and corresponding glottal modifier sign is applied for the following Iroquoian LangSys tags:
 
@@ -361,7 +361,7 @@ The acute-angled subscript mark form of ogonek and corresponding glottal modifie
 * `ONO` Onondaga
 * `SEE` Seneca
 
-##### Wavy-barred Ƛ and ƛ
+#### Wavy-barred Ƛ and ƛ
 
 The alternative form of the barred Latin lambda with a wavy bar encountered in some Vancouver Island alphabets is applied for the following LangSys tags:
 
@@ -369,7 +369,7 @@ The alternative form of the barred Latin lambda with a wavy bar encountered in s
 * `KWK` Kwakʼwala
 * `NUK` Nuu-chah-nulth
 
-##### Lushootseed cursive ɬ
+#### Lushootseed cursive ɬ
 
 The looped and barred form of the belted-l character is applied to the following LangSys tag:
 
@@ -377,7 +377,7 @@ The looped and barred form of the belted-l character is applied to the following
 
 In addition to these localized form substitutions applying or overriding indigenous language norms, Skeena Indigenous applies some common localized diacritic handling for the European languages Catalan and Dutch.
 
-#### [`ccmp`](https://learn.microsoft.com/en-us/typography/opentype/spec/features_ae#ccmp) Glyph Composition / Decomposition
+### [`ccmp`](https://learn.microsoft.com/en-us/typography/opentype/spec/features_ae#ccmp) Glyph Composition / Decomposition
 
 Use of `ccmp` substitutions in Skeena Indigenous is quite limited. This is one of the principal differences that may be found between different font implementations for indigenous languages: because some diacritic letters in target orthographies are encoded as sequences of base letter followed by one or more combining marks, some font makers may opt to compose these sequences into atomic glyphs in `ccmp`. This may be an attractive option if working with a small, language-specific character set, if the design involves unusual, base-specific mark handling such as merging with some letter shapes, or if there are known kerning exceptions for diacritics that will be easiest managed using precomposed glyphs.
 
@@ -423,7 +423,7 @@ The `ccmp` feature is also used to implement some contextual handling of base an
 * when narrow lowercase x-height bases such as dotless *i* and *j* forms carry a combining breve or inverted breve, a narrower form of that mark is used to improve spacing with adjacent ascenders or other marks;
 * when a mark occurs above an uppercase letter or ascender, a vertically foreshortened .cap variant mark is substituted.
 
-#### [`rclt`](https://learn.microsoft.com/en-us/typography/opentype/spec/features_pt#rclt) Required Contextual Alternates
+### [`rclt`](https://learn.microsoft.com/en-us/typography/opentype/spec/features_pt#rclt) Required Contextual Alternates
 
 This feature applies contextual substitutions to ensure correct display and spacing of some sequences.
 
@@ -455,7 +455,7 @@ etc.
 ```
 Then three subsequent lookups contextually substitute the appropriate width of the low line mark as determined by the width class of the base letter it follows. Skeena Indigenous includes wide, medium and narrow variants of U+0332; other fonts could include more or fewer as appropriate to their design and the degree of precision desired.
 
-#### [`ssXX`](https://learn.microsoft.com/en-us/typography/opentype/spec/features_pt#ssxx) Stylistic Sets
+### [`ssXX`](https://learn.microsoft.com/en-us/typography/opentype/spec/features_pt#ssxx) Stylistic Sets
 
 Stylistic set features provide access to font-specific variant glyphs at user discretion (presuming software support). Each set provides access to one or more glyphs that constitute a coordinated stylistic variation. The sets can be applied individually or in combination (again, presuming software support).
 
@@ -497,7 +497,7 @@ featureparams:
 ```
 These names may be displayed in the user interface of software that provides access to the features.
 
-#### [`cvXX`](https://learn.microsoft.com/en-us/typography/opentype/spec/features_ae#cv01-cv99) Character Variants
+### [`cvXX`](https://learn.microsoft.com/en-us/typography/opentype/spec/features_ae#cv01-cv99) Character Variants
 
 The character variant features provide an alternative mechanism to access variant forms of glyphs. Unlike the stylistic set features, which may apply across a range of characters in a coordinated style, character variant features focus on individual character inputs (although, as in the case of the Skeena Indigenous ogonek variants, this may imply multiple related characters).
 
@@ -537,7 +537,7 @@ featureparams:
     characters: [0x02C0]
 ```
 
-### Kerning
+## Kerning
 
 Good spacing is important to all typography. General spacing of glyphs in horizontal sequence is provided by their sidebearings and advance widths. Exceptions to that general spacing are implemented via the GPOS [`kern`](https://learn.microsoft.com/en-us/typography/opentype/spec/features_ko#kern) feature. Kerning is stored as a set of pair-specific negative or positive deltas to advance widths, and is compressed through grouping of glyphs in kerning classes based on similar left or right outline shape and/or vertical alignment.
 
@@ -561,7 +561,7 @@ The kerning in Skeena Indigenous is based on glyph shape, rather than linguistic
 
 Font makers working with individual indigenous language communities may be able to filter potential kerning pairs on the basis of phonemic analysis or by building word lists with language keepers.
 
-### Conclusion
+## Conclusion
 
 The Skeena Indigenous project has four aims:
 
