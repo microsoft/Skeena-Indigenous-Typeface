@@ -21,6 +21,10 @@ Release builds of the fonts are available via the [Releases](https://github.com/
 
 Compiled fonts are only available via the Releases page and are not included in the code base for the repo. See information below regarding building the fonts locally in a cloned repo.
 
+### Documentation
+
+A key aspect of the Skeena Indigenous project is [extensive documentation](https://microsoft.github.io/Skeena-Indigenous-Typeface/) about the design and technical decisions making in the development of the fonts. This documentation includes discussion of important issues in the encoding of indigenous orthographies, such as confusable characters, and how these are addressed in Skeena Indigenous.
+
 ### Feedback
 
 Feature requests, bug reports, and other feedback is invited via the [Issues](https://github.com/microsoft/Skeena-Indigenous-Typeface/issues) tracker. Some initial labels are provided for reporting bugs, requesting new features, etc.
