@@ -1,0 +1,36 @@
+{% if page.layout == 'home' %}
+  <link rel="stylesheet" href="{{ '/assets/js/tocbot/tocbot.css' | relative_url }}" />
+  <script src="{{ '/assets/js/tocbot/tocbot.min.js' | relative_url }}"></script>
+
+  <script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+
+      let firstNavItem = document.querySelector('#site-nav li:first-child');
+      let pageNavContainer = document.createElement('div');
+      pageNavContainer.style.position = 'relative';
+      pageNavContainer.style.overflow = 'hidden';
+      firstNavItem.appendChild(pageNavContainer);
+
+      window.tocbot.init({
+        tocElement: pageNavContainer,
+        contentSelector: '#main-content',
+        headingSelector: 'h2, h3, h4, h5',
+        hasInnerContainers: false,
+
+        extraListClasses: 'nav-list',
+        extraLinkClasses: 'nav-list-link',
+
+        activeListClass: 'is-active-link active',
+        activeListItemClass: 'is-active-link active',
+        activeLinkClass: 'is-active-link active',
+
+        scrollSmooth: false,
+      });
+
+      let firstNavItemLink = firstNavItem.querySelector('.active');
+      firstNavItemLink.classList.remove('active');
+
+      
+    });
+  </script>
+{% endif %}

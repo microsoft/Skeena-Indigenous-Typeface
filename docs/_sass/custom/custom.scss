@@ -1,0 +1,182 @@
+@font-face {
+  font-family: 'Skeena Indigenous';
+  src: url('../../assets/fonts/SkeenaIndigenous-Roman.woff2');
+  font-style: normal;
+  font-weight: 400 900;
+  font-synthesis: none;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'Skeena Indigenous';
+  src: url('../../assets/fonts/SkeenaIndigenous-Italic.woff2');
+  font-style: italic;
+  font-weight: 400 900;
+  font-synthesis: none;
+  font-display: block;
+}
+
+:root {
+  scroll-behavior: smooth;
+}
+
+.site-title {
+  @include mq(md) {
+    display: none;
+  }
+}
+
+.site-header {
+  border-bottom-color: transparent;
+}
+
+.site-nav {
+  @include mq(md) {
+    padding-top: 2rem;
+  }
+}
+
+// External link icon
+// Make it work in the site button, and make it consistent in the sidebar
+
+.site-button {
+  font-size: 0.875rem;
+}
+
+.site-button svg,
+.external > svg {
+  width: 0.9em !important;
+  height: 0.9em !important;
+  transform: translateY(-15%);
+  vertical-align: text-bottom;
+  line-height: 1.5rem;
+}
+
+// Main content overrides
+
+.mark {
+  color: $red-700;
+}
+
+// Ends up being effectively the same as @include fs-5;
+.main-content main {
+  font-size: $font-size-5;
+  line-height: 1.5;
+  @include mq(sm) {
+    font-size: $font-size-6;
+    line-height: 1.6;
+  }
+
+  a {
+    color: $link-color-content;
+    text-decoration: none;
+  }
+
+  a:not([class]) {
+    text-decoration: underline;
+    text-decoration-color: $border-color;
+    text-underline-offset: 2px;
+  
+    &:hover {
+      text-decoration-color: rgba($link-color-content, 0.45);
+    }
+  
+    &:active,
+    &:visited {
+      color: $orange-950;
+    }
+  }
+
+}
+
+// Typography overrides
+
+h1,
+.text-alpha,
+h2,
+.text-beta,
+h3,
+.text-gamma,
+h4,
+.text-delta,
+h5,
+.text-epsilon {
+  color: $navy-800;
+}
+
+h1,
+.text-alpha {
+  font-weight: 900;
+}
+
+h2,
+.text-beta {
+  font-weight: 700;
+  @include fs-7;
+}
+
+h3,
+.text-gamma {
+  font-weight: 600;
+  @include fs-6;
+}
+
+h4,
+.text-delta {
+  @include fs-5;
+  font-weight: 600;
+
+  // Unset styles intended for small caps in the default h4
+  text-transform: none;
+  letter-spacing: normal;
+}
+
+h5,
+.text-epsilon {
+  font-weight: 500;
+}
+
+b, strong {
+  font-weight: 600;
+}
+
+// Bullets
+
+.main-content ul > li::before {
+  color: $navy-300;
+}
+
+// Table of Contents
+// Handles merging the default sidebar styles, with the dynamic home page table of contents.
+
+.toc-link::before {
+  display: none !important;
+}
+
+.active {
+  font-weight: normal;
+}
+
+a.toc-link {
+  color: $link-color !important;
+}
+
+.is-collapsible a.toc-link {
+  color: $grey-dk-100 !important;
+}
+
+.is-active-link {
+  font-weight: 500;
+}
+
+.is-active-link::before {
+  background-color: $navy-500 !important;
+}
+
+.is-active-link .nav-list {
+  font-weight: normal;
+}
+
+.site-nav {
+  overflow-y: none;
+}
