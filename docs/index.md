@@ -32,7 +32,7 @@ There is considerable diversity of phonetic representation across North American
 
 Most of the alphabets sort with interleaved vowels and consonants, often approximating English alphabet order with insertion of diacritic letters or digraphs, *e.g.* Saik’uz Dakelh:
 
-a b ch ch’ d dl dz d̲z̲ e g gh gw h i j k k’ kh kw kw’ l lh m n ng o oo s s̲ sh t t’ tl tl’ ts ts’ t̲s̲ t̲s̲’ u w wh y z̲ z ’
+<div class="fs-6">a b ch ch’ d dl dz d̲z̲ e g gh gw h i j k k’ kh kw kw’ l lh m n ng o oo s s̲ sh t t’ tl tl’ ts ts’ t̲s̲ t̲s̲’ u w wh y z̲ z ’</div>
 
 A few alphabets sort with the vowels grouped at the beginning, followed by the consonants, and other vice versa.
 
