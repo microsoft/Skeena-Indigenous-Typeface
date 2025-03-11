@@ -28,7 +28,7 @@ Skeena Indigenous is a unified font project; that is, it seeks to support a larg
 
 Many indigenous language orthographies of North America are strongly phonetic, and employ a combination of common Latin letters, specialized letters and other signs—many derived from the Americanist Phonetic Alphabet (APA)—, combining diacritic marks, and features not found in European orthographies *e.g.* superscript modifier letters. In addition, many of the orthographies use combinations of letters—digraphs or trigraphs—to represent individual sounds, and these are typically reckoned as individual alphabetic units, with implications for tailored sorting and casing.
 
-There is considerable diversity of phonetic representation across North American orthographies. Some languages favor diacritic marks over digraphs to represent consonant sounds, or vice versa; some use doubled-vowels to indicate long vowel sounds and others employ diacritic marks or the phoneticist vowel length sign (or a close approximation—see notes on encoding).
+There is considerable diversity of phonetic representation across North American orthographies. Some languages favor diacritic marks rather than digraphs to represent consonant sounds, or vice versa; some use doubled-vowels to indicate long vowel sounds and others employ diacritic marks or the phoneticist vowel length sign (or a close approximation—see notes on encoding).
 
 Most of the alphabets sort with interleaved vowels and consonants, often approximating English alphabet order with insertion of diacritic letters or digraphs, *e.g.* Saik’uz Dakelh:
 
