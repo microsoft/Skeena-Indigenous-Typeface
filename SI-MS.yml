@@ -1,5 +1,5 @@
 names:
-  5: Version 0.90 BETA
+  5: Version 0.901 BETA PATCH
   
 formats: [ttf, woff2]
 
@@ -62,7 +62,7 @@ fonts:
           4: Skeena Indigenous Extra Bold
           6: SkeenaIndigenousExtraBold-Regular
           16: Skeena Indigenous
-          17: ExtraBold
+          17: Extra Bold
       SkeenaIndigenous-Black:
         coordinates:
           wght: 900
@@ -181,18 +181,18 @@ fonts:
         coordinates:
           wght: 800
         names:
-          1: Skeena Indigenous Extra Bold Italic
-          2: Regular
+          1: Skeena Indigenous Extra Bold
+          2: Italic
           4: Skeena Indigenous Extra Bold Italic
           6: SkeenaIndigenousExtraBold-Italic
           16: Skeena Indigenous
-          17: ExtraBold Italic
+          17: Extra Bold Italic
       SkeenaIndigenous-BlackItalic:
         coordinates:
           wght: 900
         names:
-          1: Skeena Indigenous Black Italic
-          2: Regular
+          1: Skeena Indigenous Black
+          2: Italic
           4: Skeena Indigenous Black Italic
           6: SkeenaIndigenousBlack-Italic
           16: Skeena Indigenous
