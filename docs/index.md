@@ -288,7 +288,7 @@ This form is also used in European alphabets for Sámi languages of northern Sca
 
 There is a longstanding practice of using two numeral characters as letters in some indigenous alphabets. This appears to derive from convenience, the numerals roughly approximating the shape of characters that were missing from typewriters or individual fonts.
 
-The numeral **7** is encountered as a stand-in for the glottal letter **ʔ** and, more rarely, the numeral **3** appears for the letter ezh **ʒ**. This use of numerals as letters can cause spacing problems within words when, as in Skeena Indigenous, the default numeral set is on fixed, tabular widths. A mechanism needs to be provided to coordinate the spacing of these numerals with that of other letters when used as such, and the **7** in particular requires careful kerning (see glyph processing discussion below about the `rclt` feature).
+The numeral **7** is encountered as a stand-in for the glottal letter **ʔ** and, more rarely, the numeral **3** may be used to represent dental fricative letters **θ** or **ð**. This use of numerals as letters can cause spacing problems within words when, as in Skeena Indigenous, the default numeral set is on fixed, tabular widths. A mechanism needs to be provided to coordinate the spacing of these numerals with that of other letters when used as such, and the **7** in particular requires careful kerning (see glyph processing discussion below about the `rclt` feature).
 
 <img src="images/SI73let.svg" alt="a7ú7sa7ten and nei3ébii: example words in Líl̓wat and Aaniiih languages showing use of numerals 7 and 3 as letters."/>
 
