@@ -542,7 +542,10 @@ ringcomb.cap uni030A.cap
 commaabovecomb uni0313
 commaabovecomb.cap uni0313.cap
 commarightcomb uni0315
-commarightcomb.case uni0315.case
+commarightcomb.cap uni0315.cap
+commarightcomb.spn uni0315.spn
+commarightcomb.spasc uni0315
+commarightcomb.spcase uni0315.case
 commaaccentturnedabovecomb uni0312
 commaaccentturnedabovecomb.cap uni0312.cap
 breveinvertedtiecomb uni0361
