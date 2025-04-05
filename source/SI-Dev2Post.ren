@@ -1,6 +1,6 @@
 %%FONTLAB RENAMING SCHEME: Skeena Indigenous dev-to-post
 %
-% 3 April 2025
+% 4 April 2025
 % 
 .notdef .notdef
 NULL NULL
@@ -544,6 +544,7 @@ commaabovecomb.cap uni0313.cap
 commarightcomb uni0315
 commarightcomb.cap uni0315.cap
 commarightcomb.spn uni0315.spn
+commarightcomb.spncap uni0315.spncap
 commarightcomb.spasc uni0315
 commarightcomb.spcase uni0315.case
 commaaccentturnedabovecomb uni0312
@@ -653,6 +654,7 @@ Euro Euro
 dollar dollar
 dollar.2 dollar.2
 cent cent
+cent.2 cent.2
 sterling sterling
 yen yen
 kip uni20AD
