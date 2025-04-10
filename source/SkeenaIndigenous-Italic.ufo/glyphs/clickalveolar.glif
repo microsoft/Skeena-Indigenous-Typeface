@@ -1,20 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="clickalveolar" format="2">
-  <advance width="535"/>
+  <advance width="575"/>
   <unicode hex="01C2"/>
-  <anchor x="144" y="0" name="bottom"/>
-  <anchor x="501" y="1417" name="top"/>
+  <anchor x="60" y="-419" name="bottom"/>
+  <anchor x="521" y="1417" name="top"/>
+  <anchor x="748" y="1417" name="topright"/>
   <outline>
-    <component base="ldblbar"/>
+    <contour>
+      <point x="143" y="-419" type="line"/>
+      <point x="603" y="1430" type="line"/>
+      <point x="431" y="1404" type="line"/>
+      <point x="-23" y="-419" type="line"/>
+    </contour>
+    <contour>
+      <point x="494" y="302" type="line"/>
+      <point x="541" y="422" type="line"/>
+      <point x="4" y="422" type="line"/>
+      <point x="-26" y="302" type="line"/>
+    </contour>
+    <contour>
+      <point x="580" y="636" type="line"/>
+      <point x="627" y="756" type="line"/>
+      <point x="86" y="756" type="line"/>
+      <point x="56" y="636" type="line"/>
+    </contour>
   </outline>
+  <guideline angle="76" x="221" y="1223"/>
+  <guideline angle="76" x="743" y="1223"/>
+  <guideline angle="76" x="725" y="1223"/>
+  <guideline angle="0" x="0" y="607"/>
+  <guideline angle="0" x="0" y="921"/>
+  <guideline angle="0" x="0" y="801"/>
+  <guideline angle="0" x="0" y="487"/>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>ldblbar</string>
   <key>public.markColor</key>
-  <string>0.604,0.6,1,1</string>
+  <string>1,0.801,0.6,1</string>
   </dict>
   </lib>
 </glyph>

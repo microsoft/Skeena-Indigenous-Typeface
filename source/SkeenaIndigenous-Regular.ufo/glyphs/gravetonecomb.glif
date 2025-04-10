@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravetonecomb" format="2">
+  <unicode hex="0340"/>
+  <anchor x="0" y="946" name="_top"/>
+  <anchor x="0" y="970" name="_top.mkmk"/>
+  <anchor x="0" y="1435" name="top.mkmk"/>
+  <anchor x="240" y="1435" name="topright.mkmk"/>
+  <outline>
+    <component base="gravecomb"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>gravecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

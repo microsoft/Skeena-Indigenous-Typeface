@@ -3,14 +3,14 @@
   <advance width="388"/>
   <outline>
     <contour>
-      <point x="199" y="1003" type="line"/>
-      <point x="256" y="1138"/>
-      <point x="294" y="1268"/>
-      <point x="299" y="1399" type="curve"/>
-      <point x="666" y="1443" type="line"/>
-      <point x="621" y="1268"/>
+      <point x="199" y="1003" type="curve"/>
+      <point x="449" y="1003" type="line"/>
       <point x="544" y="1125"/>
-      <point x="449" y="1003" type="curve"/>
+      <point x="621" y="1268"/>
+      <point x="666" y="1443" type="curve"/>
+      <point x="299" y="1399" type="line"/>
+      <point x="294" y="1268"/>
+      <point x="256" y="1138"/>
     </contour>
   </outline>
   <guideline angle="0" x="0" y="1443"/>

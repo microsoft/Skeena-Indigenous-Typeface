@@ -4,6 +4,7 @@
   <unicode hex="0197"/>
   <anchor x="297" y="0" name="bottom"/>
   <anchor x="297" y="1314" name="top"/>
+  <anchor x="574" y="1314" name="topright"/>
   <outline>
     <contour>
       <point x="389" y="0" type="line"/>
@@ -23,7 +24,7 @@
   <lib>
   <dict>
   <key>public.markColor</key>
-  <string>1,0.801,0.6,1</string>
+  <string>0.6,1,0.602,1</string>
   </dict>
   </lib>
 </glyph>

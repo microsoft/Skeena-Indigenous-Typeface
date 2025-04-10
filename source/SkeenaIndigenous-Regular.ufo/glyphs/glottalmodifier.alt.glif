@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="glottalmodifier.alt" format="2">
-  <advance width="540"/>
-  <anchor x="269" y="571" name="bottom"/>
-  <anchor x="269" y="1142" name="top"/>
+  <advance width="530"/>
+  <anchor x="269" y="848" name="bottom"/>
+  <anchor x="269" y="1419" name="top"/>
+  <anchor x="540" y="1419" name="topright"/>
   <outline>
     <contour>
-      <point x="231" y="571" type="line"/>
-      <point x="534" y="1029" type="line"/>
-      <point x="534" y="1143" type="line"/>
-      <point x="5" y="1143" type="line"/>
-      <point x="5" y="1017" type="line"/>
-      <point x="450" y="1017" type="line"/>
-      <point x="452" y="1102" type="line"/>
-      <point x="101" y="571" type="line"/>
+      <point x="231" y="848" type="line"/>
+      <point x="534" y="1306" type="line"/>
+      <point x="534" y="1420" type="line"/>
+      <point x="5" y="1420" type="line"/>
+      <point x="5" y="1294" type="line"/>
+      <point x="450" y="1294" type="line"/>
+      <point x="452" y="1379" type="line"/>
+      <point x="101" y="848" type="line"/>
     </contour>
   </outline>
   <guideline angle="56.0118" x="-517" y="-226"/>
@@ -21,7 +22,7 @@
   <lib>
   <dict>
   <key>public.markColor</key>
-  <string>0.6,1,0.602,1</string>
+  <string>1,0.801,0.6,1</string>
   </dict>
   </lib>
 </glyph>

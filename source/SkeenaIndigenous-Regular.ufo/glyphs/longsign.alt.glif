@@ -1,22 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="longsign.alt" format="2">
-  <advance width="508"/>
+  <advance width="418"/>
   <outline>
-    <contour>
-      <point x="438" y="946" type="line"/>
-      <point x="70" y="946" type="line"/>
-      <point x="254" y="618" type="line"/>
-    </contour>
-    <contour>
-      <point x="438" y="0" type="line"/>
-      <point x="254" y="328" type="line"/>
-      <point x="70" y="0" type="line"/>
-    </contour>
+    <component base="colon" xOffset="-26"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.recipe</key>
+  <string>colon</string>
   <key>public.markColor</key>
-  <string>0.6,1,0.602,1</string>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

@@ -2,7 +2,9 @@
 <glyph name="Jcaron" format="2">
   <advance width="734"/>
   <anchor x="205" y="0" name="bottom"/>
+  <anchor x="941" y="1314" name="topright"/>
   <anchor x="803" y="1717" name="top.mkmk"/>
+  <anchor x="1073" y="1717" name="topright.mkmk"/>
   <outline>
     <component base="J"/>
     <component base="caroncomb.cap" xOffset="496"/>

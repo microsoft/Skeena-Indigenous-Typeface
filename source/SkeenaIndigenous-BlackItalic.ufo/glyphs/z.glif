@@ -4,22 +4,23 @@
   <unicode hex="007A"/>
   <anchor x="437" y="0" name="bottom"/>
   <anchor x="657" y="946" name="top"/>
+  <anchor x="1186" y="946" name="topright"/>
   <outline>
     <contour>
       <point x="-59" y="0" type="line"/>
-      <point x="-11" y="192" type="line"/>
-      <point x="500" y="723" type="line"/>
-      <point x="500" y="760" type="line"/>
-      <point x="530" y="730" type="line"/>
-      <point x="139" y="730" type="line"/>
-      <point x="193" y="946" type="line"/>
-      <point x="1107" y="946" type="line"/>
-      <point x="1059" y="753" type="line"/>
-      <point x="548" y="223" type="line"/>
-      <point x="548" y="185" type="line"/>
-      <point x="518" y="215" type="line"/>
-      <point x="957" y="215" type="line"/>
       <point x="873" y="0" type="line"/>
+      <point x="957" y="215" type="line"/>
+      <point x="518" y="215" type="line"/>
+      <point x="548" y="185" type="line"/>
+      <point x="548" y="223" type="line"/>
+      <point x="1059" y="753" type="line"/>
+      <point x="1107" y="946" type="line"/>
+      <point x="193" y="946" type="line"/>
+      <point x="139" y="730" type="line"/>
+      <point x="530" y="730" type="line"/>
+      <point x="500" y="760" type="line"/>
+      <point x="500" y="723" type="line"/>
+      <point x="-11" y="192" type="line"/>
     </contour>
   </outline>
   <guideline angle="76.0015" x="-59.5728" y="0"/>

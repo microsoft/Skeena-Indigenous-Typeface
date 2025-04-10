@@ -3,7 +3,9 @@
   <advance width="631"/>
   <unicode hex="0135"/>
   <anchor x="-16" y="-419" name="bottom"/>
+  <anchor x="746" y="946" name="topright"/>
   <anchor x="561" y="1457" name="top.mkmk"/>
+  <anchor x="861" y="1457" name="topright.mkmk"/>
   <outline>
     <component base="j.dotless"/>
     <component base="circumflexcomb" xOffset="319"/>

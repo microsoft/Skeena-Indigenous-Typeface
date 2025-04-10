@@ -2,6 +2,7 @@
 <glyph name="tlinebelow" format="2">
   <advance width="624"/>
   <anchor x="266" y="1188" name="top"/>
+  <anchor x="624" y="946" name="topright"/>
   <anchor x="387" y="-319" name="bottom.mkmk"/>
   <outline>
     <component base="t"/>

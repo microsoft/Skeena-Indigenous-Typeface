@@ -2,6 +2,7 @@
 <glyph name="schwaogonek.alt" format="2">
   <advance width="1184"/>
   <anchor x="580" y="953" name="top"/>
+  <anchor x="1154" y="955" name="topright"/>
   <anchor x="570" y="-437" name="bottom.mkmk"/>
   <outline>
     <component base="schwa"/>

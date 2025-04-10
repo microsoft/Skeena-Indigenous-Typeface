@@ -3,12 +3,13 @@
   <anchor x="0" y="1314" name="_top"/>
   <anchor x="0" y="1320" name="_top.mkmk"/>
   <anchor x="0" y="1707" name="top.mkmk"/>
+  <anchor x="240" y="1707" name="topright.mkmk"/>
   <outline>
     <contour>
       <point x="194" y="1380" type="line"/>
-      <point x="-273" y="1569" type="line"/>
-      <point x="-181" y="1727" type="line"/>
       <point x="244" y="1459" type="line"/>
+      <point x="-181" y="1727" type="line"/>
+      <point x="-273" y="1569" type="line"/>
     </contour>
   </outline>
   <guideline angle="0" x="0" y="1361"/>

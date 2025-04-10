@@ -5,30 +5,30 @@
   <anchor x="0" y="47" name="_bottom.mkmk"/>
   <outline>
     <contour>
-      <point x="206" y="-407" type="line"/>
-      <point x="170" y="-432"/>
-      <point x="93" y="-447"/>
-      <point x="8" y="-447" type="curve" smooth="yes"/>
-      <point x="-172" y="-447"/>
-      <point x="-280" y="-377"/>
-      <point x="-280" y="-260" type="curve" smooth="yes"/>
-      <point x="-280" y="-135"/>
-      <point x="-156" y="-68"/>
-      <point x="71" y="-71" type="curve"/>
-      <point x="-28" y="-145" type="line"/>
-      <point x="-28" y="20" type="line"/>
-      <point x="127" y="20" type="line"/>
-      <point x="127" y="-169" type="line"/>
-      <point x="37" y="-173"/>
-      <point x="-11" y="-198"/>
-      <point x="-11" y="-242" type="curve" smooth="yes"/>
-      <point x="-11" y="-283"/>
-      <point x="28" y="-308"/>
-      <point x="91" y="-308" type="curve" smooth="yes"/>
-      <point x="133" y="-308"/>
-      <point x="191" y="-295"/>
-      <point x="230" y="-278" type="curve"/>
+      <point x="206" y="-407" type="curve"/>
       <point x="236" y="-284" type="line"/>
+      <point x="230" y="-278" type="line"/>
+      <point x="191" y="-295"/>
+      <point x="133" y="-308"/>
+      <point x="91" y="-308" type="curve" smooth="yes"/>
+      <point x="28" y="-308"/>
+      <point x="-11" y="-283"/>
+      <point x="-11" y="-242" type="curve" smooth="yes"/>
+      <point x="-11" y="-198"/>
+      <point x="37" y="-173"/>
+      <point x="127" y="-169" type="curve"/>
+      <point x="127" y="20" type="line"/>
+      <point x="-28" y="20" type="line"/>
+      <point x="-28" y="-145" type="line"/>
+      <point x="71" y="-71" type="line"/>
+      <point x="-156" y="-68"/>
+      <point x="-280" y="-135"/>
+      <point x="-280" y="-260" type="curve" smooth="yes"/>
+      <point x="-280" y="-377"/>
+      <point x="-172" y="-447"/>
+      <point x="8" y="-447" type="curve" smooth="yes"/>
+      <point x="93" y="-447"/>
+      <point x="170" y="-432"/>
     </contour>
   </outline>
   <lib>

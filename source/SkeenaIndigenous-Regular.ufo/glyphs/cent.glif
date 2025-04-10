@@ -2,19 +2,52 @@
 <glyph name="cent" format="2">
   <advance width="928"/>
   <unicode hex="00A2"/>
-  <anchor x="536" y="-90" name="bottom"/>
-  <anchor x="531" y="1053" name="top"/>
+  <anchor x="562" y="-100" name="bottom"/>
+  <anchor x="562" y="1106" name="top"/>
+  <anchor x="948" y="946" name="topright"/>
   <outline>
-    <component base="cslash"/>
+    <contour>
+      <point x="827" y="807" type="line"/>
+      <point x="749" y="830"/>
+      <point x="671" y="842"/>
+      <point x="599" y="842" type="curve" smooth="yes"/>
+      <point x="381" y="842"/>
+      <point x="269" y="726"/>
+      <point x="269" y="499" type="curve" smooth="yes"/>
+      <point x="269" y="270"/>
+      <point x="387" y="149"/>
+      <point x="609" y="149" type="curve" smooth="yes"/>
+      <point x="688" y="149"/>
+      <point x="763" y="163"/>
+      <point x="843" y="192" type="curve"/>
+      <point x="850" y="186" type="line"/>
+      <point x="820" y="71" type="line"/>
+      <point x="762" y="40"/>
+      <point x="657" y="20"/>
+      <point x="558" y="20" type="curve" smooth="yes"/>
+      <point x="265" y="20"/>
+      <point x="92" y="193"/>
+      <point x="92" y="485" type="curve" smooth="yes"/>
+      <point x="92" y="790"/>
+      <point x="278" y="966"/>
+      <point x="598" y="966" type="curve" smooth="yes"/>
+      <point x="684" y="966"/>
+      <point x="760" y="953"/>
+      <point x="827" y="928" type="curve"/>
+    </contour>
+    <contour>
+      <point x="499" y="-122" type="line"/>
+      <point x="499" y="1106" type="line"/>
+      <point x="625" y="1106" type="line"/>
+      <point x="625" y="-103" type="line"/>
+    </contour>
   </outline>
+  <guideline angle="8.95615" x="0" y="1090.64"/>
+  <guideline angle="0" x="0" y="20"/>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  <key>com.fontlab.recipe</key>
-  <string>cslash</string>
   <key>public.markColor</key>
-  <string>0.604,0.6,1,1</string>
+  <string>1,0.801,0.6,1</string>
   </dict>
   </lib>
 </glyph>

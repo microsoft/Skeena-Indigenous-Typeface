@@ -5,30 +5,30 @@
   <outline>
     <contour>
       <point x="50" y="571" type="line"/>
-      <point x="97" y="748" type="line"/>
-      <point x="351" y="942"/>
-      <point x="484" y="1041"/>
-      <point x="484" y="1156" type="curve" smooth="yes"/>
-      <point x="484" y="1213"/>
-      <point x="448" y="1245"/>
-      <point x="382" y="1245" type="curve" smooth="yes"/>
-      <point x="330" y="1245"/>
-      <point x="267" y="1228"/>
-      <point x="218" y="1200" type="curve"/>
-      <point x="261" y="1369" type="line"/>
-      <point x="307" y="1399"/>
-      <point x="428" y="1440"/>
-      <point x="539" y="1440" type="curve" smooth="yes"/>
-      <point x="718" y="1440"/>
-      <point x="833" y="1350"/>
-      <point x="833" y="1210" type="curve" smooth="yes"/>
-      <point x="833" y="1064"/>
-      <point x="730" y="953"/>
-      <point x="407" y="759" type="curve"/>
-      <point x="401" y="729" type="line"/>
-      <point x="378" y="752" type="line"/>
-      <point x="754" y="752" type="line"/>
       <point x="681" y="571" type="line"/>
+      <point x="754" y="752" type="line"/>
+      <point x="378" y="752" type="line"/>
+      <point x="401" y="729" type="line"/>
+      <point x="407" y="759" type="line"/>
+      <point x="730" y="953"/>
+      <point x="833" y="1064"/>
+      <point x="833" y="1210" type="curve" smooth="yes"/>
+      <point x="833" y="1350"/>
+      <point x="718" y="1440"/>
+      <point x="539" y="1440" type="curve" smooth="yes"/>
+      <point x="428" y="1440"/>
+      <point x="307" y="1399"/>
+      <point x="261" y="1369" type="curve"/>
+      <point x="218" y="1200" type="line"/>
+      <point x="267" y="1228"/>
+      <point x="330" y="1245"/>
+      <point x="382" y="1245" type="curve" smooth="yes"/>
+      <point x="448" y="1245"/>
+      <point x="484" y="1213"/>
+      <point x="484" y="1156" type="curve" smooth="yes"/>
+      <point x="484" y="1041"/>
+      <point x="351" y="942"/>
+      <point x="97" y="748" type="curve"/>
     </contour>
   </outline>
   <guideline angle="76.1558" x="651" y="0"/>

@@ -119,6 +119,7 @@
     <string>Ecaron</string>
     <string>Edieresis</string>
     <string>Emacron</string>
+    <string>Emacrongrave</string>
     <string>Emacronacute</string>
     <string>Ebreve</string>
     <string>Edotaccent</string>
@@ -187,6 +188,7 @@
     <string>Otilde</string>
     <string>Odieresis</string>
     <string>Omacron</string>
+    <string>Omacrongrave</string>
     <string>Omacronacute</string>
     <string>Obreve</string>
     <string>Ohungarumlaut</string>
@@ -209,12 +211,15 @@
     <string>Scaron</string>
     <string>Scedilla</string>
     <string>Scommaaccent</string>
+    <string>Smacronbelow</string>
+    <string>Slinebelow</string>
     <string>Sdotbelow</string>
     <string>Germandbls</string>
     <string>Tcaron</string>
     <string>Tdotaccent</string>
     <string>Tcedilla</string>
     <string>Tcommaaccent</string>
+    <string>Tcircumflexbelow</string>
     <string>Tmacronbelow</string>
     <string>Tlinebelow</string>
     <string>Tbar</string>
@@ -257,6 +262,7 @@
     <string>Eturned</string>
     <string>Eopen</string>
     <string>GammaLatin</string>
+    <string>Gamma.Latin</string>
     <string>Ibarred</string>
     <string>IotaLatin</string>
     <string>LambdaLatin</string>
@@ -264,6 +270,7 @@
     <string>Lambdabar.alt</string>
     <string>Lambdabarcommaabove</string>
     <string>Lambdabarcommaabove.alt</string>
+    <string>Mturned</string>
     <string>Eng</string>
     <string>Nlongright</string>
     <string>Oopen</string>
@@ -317,6 +324,7 @@
     <string>aring</string>
     <string>aringacute</string>
     <string>adotacent</string>
+    <string>acedilla</string>
     <string>aogonek</string>
     <string>aogonek.euro</string>
     <string>aogonek.alt</string>
@@ -341,6 +349,7 @@
     <string>ecaron</string>
     <string>edieresis</string>
     <string>emacron</string>
+    <string>emacrongrave</string>
     <string>emacronacute</string>
     <string>ebreve</string>
     <string>edotaccent</string>
@@ -433,6 +442,7 @@
     <string>otilde</string>
     <string>odieresis</string>
     <string>omacron</string>
+    <string>omacongrave</string>
     <string>omacronacute</string>
     <string>obreve</string>
     <string>ohungarumlaut</string>
@@ -455,6 +465,8 @@
     <string>scaron</string>
     <string>scedilla</string>
     <string>scommaaccent</string>
+    <string>smacronbelow</string>
+    <string>slinebelow</string>
     <string>sdotbelow</string>
     <string>germandbls</string>
     <string>longs</string>
@@ -462,6 +474,7 @@
     <string>tdotaccent</string>
     <string>tcedilla</string>
     <string>tcommaaccent</string>
+    <string>tcircumflexbelow</string>
     <string>tmacronbelow</string>
     <string>tlinebelow</string>
     <string>tbar</string>
@@ -504,6 +517,7 @@
     <string>eopen</string>
     <string>gsmallcap</string>
     <string>gammaLatin</string>
+    <string>gamma.Latin</string>
     <string>ibarred</string>
     <string>iotaLatin</string>
     <string>lambdaLatin</string>
@@ -512,6 +526,7 @@
     <string>lambdabar.alt</string>
     <string>lambdabarcommaabove</string>
     <string>lambdabarcommaabove.alt</string>
+    <string>mturned</string>
     <string>eng</string>
     <string>nlongright</string>
     <string>oopen</string>
@@ -538,8 +553,10 @@
     <string>apostropheturnedmodifier</string>
     <string>apostrophemodifier</string>
     <string>vlinemodifier</string>
+    <string>halfringleftmodifier</string>
     <string>halfringrightmodifier</string>
     <string>colonmodifier</string>
+    <string>dotsinological</string>
     <string>longsign</string>
     <string>longsign.alt</string>
     <string>halflongsign</string>
@@ -577,18 +594,29 @@
     <string>commaabovecomb</string>
     <string>commaabovecomb.cap</string>
     <string>commarightcomb</string>
-    <string>commarightcomb.case</string>
+    <string>commarightcomb.cap</string>
+    <string>commarightcomb.spn</string>
+    <string>commarightcomb.spncap</string>
+    <string>commarightcomb.sp</string>
+    <string>commarightcomb.spcase</string>
     <string>commaaccentturnedabovecomb</string>
     <string>commaaccentturnedabovecomb.cap</string>
     <string>breveinvertedtiecomb</string>
     <string>breveinvertedtiecomb.cap</string>
+    <string>gravetonecomb</string>
+    <string>gravetonecomb.cap</string>
+    <string>acutetonecomb</string>
+    <string>acutetonecomb.cap</string>
     <string>cedillacomb</string>
     <string>ogonekcomb</string>
     <string>ogonekcomb.alt</string>
     <string>ogonekcomb.alt2</string>
     <string>commaaccentcomb</string>
+    <string>circumflexbelowcomb</string>
+    <string>breveinvertedbelowcomb</string>
     <string>dotbelowcomb</string>
     <string>ringbelowcomb</string>
+    <string>minusbelowcomb</string>
     <string>vlinebelowcomb</string>
     <string>macronbelowcomb</string>
     <string>lowlinecomb</string>
@@ -678,6 +706,7 @@
     <string>dollar</string>
     <string>dollar.2</string>
     <string>cent</string>
+    <string>cent.2</string>
     <string>sterling</string>
     <string>yen</string>
     <string>kip</string>

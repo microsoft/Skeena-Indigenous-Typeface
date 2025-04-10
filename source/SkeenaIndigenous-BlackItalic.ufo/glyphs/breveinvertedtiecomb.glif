@@ -2,6 +2,7 @@
 <glyph name="breveinvertedtiecomb" format="2">
   <unicode hex="0361"/>
   <anchor x="241" y="1452" name="top.mkmk"/>
+  <anchor x="641" y="1452" name="topright.mkmk"/>
   <outline>
     <contour>
       <point x="-365" y="1029" type="line"/>

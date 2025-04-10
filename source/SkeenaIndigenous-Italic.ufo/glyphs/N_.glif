@@ -4,26 +4,27 @@
   <unicode hex="004E"/>
   <anchor x="554" y="0" name="bottom"/>
   <anchor x="863" y="1314" name="top"/>
+  <anchor x="1512" y="1314" name="topright"/>
   <outline>
     <contour>
       <point x="37" y="0" type="line"/>
-      <point x="365" y="1314" type="line"/>
-      <point x="498" y="1314" type="line"/>
-      <point x="872" y="488" type="line" smooth="yes"/>
-      <point x="898" y="431"/>
-      <point x="927" y="371"/>
-      <point x="949" y="309" type="curve"/>
-      <point x="957" y="309" type="line"/>
-      <point x="1207" y="1314" type="line"/>
-      <point x="1353" y="1314" type="line"/>
-      <point x="1025" y="0" type="line"/>
-      <point x="893" y="0" type="line"/>
-      <point x="517" y="826" type="line" smooth="yes"/>
-      <point x="490" y="885"/>
-      <point x="463" y="943"/>
-      <point x="440" y="1005" type="curve"/>
-      <point x="433" y="1005" type="line"/>
       <point x="182" y="0" type="line"/>
+      <point x="433" y="1005" type="line"/>
+      <point x="440" y="1005" type="line"/>
+      <point x="463" y="943"/>
+      <point x="490" y="885"/>
+      <point x="517" y="826" type="curve" smooth="yes"/>
+      <point x="893" y="0" type="line"/>
+      <point x="1025" y="0" type="line"/>
+      <point x="1353" y="1314" type="line"/>
+      <point x="1207" y="1314" type="line"/>
+      <point x="957" y="309" type="line"/>
+      <point x="949" y="309" type="line"/>
+      <point x="927" y="371"/>
+      <point x="898" y="431"/>
+      <point x="872" y="488" type="curve" smooth="yes"/>
+      <point x="498" y="1314" type="line"/>
+      <point x="365" y="1314" type="line"/>
     </contour>
   </outline>
   <guideline angle="90" x="336" y="0"/>

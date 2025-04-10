@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brevecomb.narrow" format="2">
   <anchor x="0" y="946" name="_top"/>
-  <anchor x="0" y="1367" name="top.mkmk"/>
   <anchor x="0" y="970" name="_top.mkmk"/>
+  <anchor x="0" y="1367" name="top.mkmk"/>
+  <anchor x="237" y="1367" name="topright.mkmk"/>
   <outline>
     <contour>
       <point x="-283" y="1374" type="line"/>
@@ -21,6 +22,7 @@
       <point x="-186" y="1387" type="curve"/>
     </contour>
   </outline>
+  <guideline angle="90" x="237" y="0"/>
   <lib>
   <dict>
   <key>public.markColor</key>

@@ -3,7 +3,9 @@
   <advance width="1305"/>
   <unicode hex="00D1"/>
   <anchor x="554" y="0" name="bottom"/>
+  <anchor x="1512" y="1314" name="topright"/>
   <anchor x="948" y="1654" name="top.mkmk"/>
+  <anchor x="1218" y="1654" name="topright.mkmk"/>
   <outline>
     <component base="N"/>
     <component base="tildecomb.cap" xOffset="656"/>

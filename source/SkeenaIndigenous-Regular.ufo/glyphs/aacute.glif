@@ -2,8 +2,10 @@
 <glyph name="aacute" format="2">
   <advance width="1020"/>
   <unicode hex="00E1"/>
-  <anchor x="495" y="0" name="bottom"/>
+  <anchor x="504" y="0" name="bottom"/>
+  <anchor x="980" y="946" name="topright"/>
   <anchor x="504" y="1435" name="top.mkmk"/>
+  <anchor x="794" y="1435" name="topright.mkmk"/>
   <outline>
     <component base="a"/>
     <component base="acutecomb" xOffset="504"/>

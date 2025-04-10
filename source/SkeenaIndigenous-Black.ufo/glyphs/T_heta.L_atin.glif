@@ -4,6 +4,7 @@
   <unicode hex="0398"/>
   <anchor x="714" y="0" name="bottom"/>
   <anchor x="730" y="1314" name="top"/>
+  <anchor x="1399" y="1314" name="topright"/>
   <outline>
     <component base="Obar"/>
   </outline>

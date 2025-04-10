@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slinebelow" format="2">
+  <advance width="982"/>
+  <anchor x="613" y="946" name="top"/>
+  <anchor x="1067" y="946" name="topright"/>
+  <anchor x="318" y="-378" name="bottom.mkmk"/>
+  <outline>
+    <component base="s"/>
+    <component base="lowlinecomb" xOffset="533"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>s+lowlinecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

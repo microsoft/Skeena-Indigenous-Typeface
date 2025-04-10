@@ -5,11 +5,11 @@
   <outline>
     <contour>
       <point x="55" y="490" type="line"/>
-      <point x="387" y="917" type="line"/>
-      <point x="600" y="875" type="line"/>
-      <point x="429" y="490" type="line"/>
-      <point x="600" y="106" type="line"/>
       <point x="387" y="65" type="line"/>
+      <point x="600" y="106" type="line"/>
+      <point x="429" y="490" type="line"/>
+      <point x="600" y="875" type="line"/>
+      <point x="387" y="917" type="line"/>
     </contour>
   </outline>
   <guideline angle="90" x="519" y="0"/>

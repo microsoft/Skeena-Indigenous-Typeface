@@ -3,7 +3,9 @@
   <advance width="486"/>
   <unicode hex="012D"/>
   <anchor x="243" y="0" name="bottom"/>
+  <anchor x="486" y="946" name="topright"/>
   <anchor x="243" y="1367" name="top.mkmk"/>
+  <anchor x="480" y="1367" name="topright.mkmk"/>
   <outline>
     <component base="i.dotless"/>
     <component base="brevecomb.narrow" xOffset="243"/>

@@ -5,13 +5,13 @@
   <outline>
     <contour>
       <point x="181" y="-24" type="line"/>
-      <point x="78" y="217" type="line"/>
-      <point x="912" y="565" type="line"/>
-      <point x="912" y="381" type="line"/>
-      <point x="78" y="729" type="line"/>
-      <point x="181" y="970" type="line"/>
-      <point x="1041" y="584" type="line"/>
       <point x="1041" y="362" type="line"/>
+      <point x="1041" y="584" type="line"/>
+      <point x="181" y="970" type="line"/>
+      <point x="78" y="729" type="line"/>
+      <point x="912" y="381" type="line"/>
+      <point x="912" y="565" type="line"/>
+      <point x="78" y="217" type="line"/>
     </contour>
   </outline>
   <guideline angle="112.45" x="-251.122" y="0"/>

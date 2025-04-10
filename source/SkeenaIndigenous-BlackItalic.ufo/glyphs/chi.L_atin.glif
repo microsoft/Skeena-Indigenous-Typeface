@@ -4,6 +4,7 @@
   <unicode hex="03C7"/>
   <anchor x="370" y="-419" name="bottom"/>
   <anchor x="735" y="946" name="top"/>
+  <anchor x="1329" y="946" name="topright"/>
   <outline>
     <component base="chiLatin"/>
   </outline>

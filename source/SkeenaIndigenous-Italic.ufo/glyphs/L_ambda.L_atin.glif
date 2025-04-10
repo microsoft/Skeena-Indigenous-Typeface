@@ -4,6 +4,7 @@
   <unicode hex="039B"/>
   <anchor x="437" y="0" name="bottom"/>
   <anchor x="762" y="1314" name="top"/>
+  <anchor x="1237" y="1314" name="topright"/>
   <outline>
     <component base="Vturned"/>
   </outline>

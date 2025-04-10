@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotsinological" format="2">
+  <advance width="418"/>
+  <unicode hex="078F"/>
+  <outline>
+    <contour>
+      <point x="204" y="696" type="curve" smooth="yes"/>
+      <point x="280" y="696"/>
+      <point x="328" y="745"/>
+      <point x="328" y="820" type="curve" smooth="yes"/>
+      <point x="328" y="893"/>
+      <point x="285" y="937"/>
+      <point x="212" y="937" type="curve" smooth="yes"/>
+      <point x="136" y="937"/>
+      <point x="90" y="890"/>
+      <point x="90" y="814" type="curve" smooth="yes"/>
+      <point x="90" y="740"/>
+      <point x="133" y="696"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>colon</string>
+  <key>public.markColor</key>
+  <string>1,0.801,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

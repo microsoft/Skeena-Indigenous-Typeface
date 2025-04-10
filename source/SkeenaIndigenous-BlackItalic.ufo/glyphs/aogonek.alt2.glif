@@ -2,10 +2,11 @@
 <glyph name="aogonek.alt2" format="2">
   <advance width="1276"/>
   <anchor x="750" y="946" name="top"/>
-  <anchor x="446" y="-485" name="bottom.mkmk"/>
+  <anchor x="1391" y="946" name="topright"/>
+  <anchor x="454" y="-485" name="bottom.mkmk"/>
   <outline>
     <component base="a"/>
-    <component base="ogonekcomb.alt2" xOffset="688"/>
+    <component base="ogonekcomb.alt2" xOffset="696"/>
   </outline>
   <lib>
   <dict>

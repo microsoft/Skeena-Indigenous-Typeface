@@ -4,6 +4,7 @@
   <unicode hex="0237"/>
   <anchor x="124" y="-419" name="bottom"/>
   <anchor x="243" y="946" name="top"/>
+  <anchor x="484" y="946" name="topright"/>
   <outline>
     <component base="j.dotless"/>
   </outline>

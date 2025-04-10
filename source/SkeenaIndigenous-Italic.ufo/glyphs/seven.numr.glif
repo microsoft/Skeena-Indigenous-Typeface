@@ -3,19 +3,19 @@
   <advance width="587"/>
   <outline>
     <contour>
-      <point x="172" y="552" type="line"/>
-      <point x="244" y="754"/>
-      <point x="410" y="1000"/>
-      <point x="617" y="1211" type="curve"/>
-      <point x="617" y="1245" type="line"/>
-      <point x="647" y="1215" type="line"/>
-      <point x="213" y="1215" type="line"/>
-      <point x="237" y="1314" type="line"/>
-      <point x="757" y="1314" type="line"/>
-      <point x="735" y="1224" type="line"/>
-      <point x="533" y="1000"/>
+      <point x="172" y="552" type="curve"/>
+      <point x="323" y="552" type="line"/>
       <point x="412" y="802"/>
-      <point x="323" y="552" type="curve"/>
+      <point x="533" y="1000"/>
+      <point x="735" y="1224" type="curve"/>
+      <point x="757" y="1314" type="line"/>
+      <point x="237" y="1314" type="line"/>
+      <point x="213" y="1215" type="line"/>
+      <point x="647" y="1215" type="line"/>
+      <point x="617" y="1245" type="line"/>
+      <point x="617" y="1211" type="line"/>
+      <point x="410" y="1000"/>
+      <point x="244" y="754"/>
     </contour>
   </outline>
   <guideline angle="76.0015" color="1,0,0,1" x="429.84" y="0"/>

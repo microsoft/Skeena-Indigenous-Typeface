@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="breveinvertedcomb.narrow" format="2">
   <anchor x="0" y="955" name="_top"/>
-  <anchor x="0" y="1442" name="top.mkmk"/>
   <anchor x="0" y="970" name="_top.mkmk"/>
+  <anchor x="0" y="1442" name="top.mkmk"/>
+  <anchor x="262" y="1442" name="topright.mkmk"/>
   <outline>
     <contour>
       <point x="346" y="1064" type="line"/>
@@ -21,6 +22,7 @@
       <point x="177" y="1039" type="curve"/>
     </contour>
   </outline>
+  <guideline angle="90" x="262" y="0"/>
   <lib>
   <dict>
   <key>public.markColor</key>

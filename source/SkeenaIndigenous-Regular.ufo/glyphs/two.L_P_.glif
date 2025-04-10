@@ -3,6 +3,7 @@
   <advance width="1020"/>
   <anchor x="498" y="0" name="bottom"/>
   <anchor x="501" y="1314" name="top"/>
+  <anchor x="980" y="1314" name="topright"/>
   <outline>
     <component base="two" xOffset="-42"/>
   </outline>

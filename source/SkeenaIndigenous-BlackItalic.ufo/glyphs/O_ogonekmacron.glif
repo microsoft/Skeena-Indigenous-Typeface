@@ -2,8 +2,10 @@
 <glyph name="Oogonekmacron" format="2">
   <advance width="1506"/>
   <unicode hex="01EC"/>
+  <anchor x="1633" y="1314" name="topright"/>
   <anchor x="566" y="-437" name="bottom.mkmk"/>
   <anchor x="1031" y="1686" name="top.mkmk"/>
+  <anchor x="1361" y="1686" name="topright.mkmk"/>
   <outline>
     <component base="O"/>
     <component base="ogonekcomb" xOffset="796"/>

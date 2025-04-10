@@ -4,6 +4,7 @@
   <unicode hex="2C61"/>
   <anchor x="144" y="0" name="bottom"/>
   <anchor x="501" y="1417" name="top"/>
+  <anchor x="738" y="1417" name="topright"/>
   <outline>
     <contour>
       <point x="232" y="0" type="line"/>
@@ -38,7 +39,7 @@
   <key>com.fontlab.metricsRight</key>
   <string>ibar+5</string>
   <key>public.markColor</key>
-  <string>1,0.801,0.6,1</string>
+  <string>0.6,1,0.602,1</string>
   </dict>
   </lib>
 </glyph>

@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="longsign" format="2">
-  <advance width="426"/>
+  <advance width="516"/>
   <unicode hex="02D0"/>
   <outline>
-    <component base="colon" xOffset="-26"/>
+    <contour>
+      <point x="549" y="938" type="line"/>
+      <point x="181" y="938" type="line"/>
+      <point x="284" y="610" type="line"/>
+    </contour>
+    <contour>
+      <point x="327" y="0" type="line"/>
+      <point x="224" y="328" type="line"/>
+      <point x="-41" y="0" type="line"/>
+    </contour>
   </outline>
+  <guideline angle="76" x="293" y="478"/>
   <lib>
   <dict>
   <key>public.markColor</key>
-  <string>1,0.6,0.994,1</string>
+  <string>1,0.801,0.6,1</string>
   </dict>
   </lib>
 </glyph>

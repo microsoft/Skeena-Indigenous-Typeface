@@ -3,6 +3,7 @@
   <anchor x="0" y="1314" name="_top"/>
   <anchor x="0" y="1320" name="_top.mkmk"/>
   <anchor x="0" y="1707" name="top.mkmk"/>
+  <anchor x="371" y="1707" name="topright.mkmk"/>
   <outline>
     <contour>
       <point x="90" y="1603" type="line"/>
@@ -18,6 +19,7 @@
     </contour>
   </outline>
   <guideline angle="0" x="0" y="1727"/>
+  <guideline angle="90" x="371" y="0"/>
   <lib>
   <dict>
   <key>public.markColor</key>

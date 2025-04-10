@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tcircumflexbelow" format="2">
+  <advance width="1026"/>
+  <unicode hex="1E70"/>
+  <anchor x="514" y="1314" name="top"/>
+  <anchor x="1086" y="1314" name="topright"/>
+  <anchor x="513" y="-448" name="bottom.mkmk"/>
+  <outline>
+    <component base="T"/>
+    <component base="circumflexbelowcomb" xOffset="513"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>T+circumflexbelowcomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

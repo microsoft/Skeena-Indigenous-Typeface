@@ -5,27 +5,27 @@
   <outline>
     <contour>
       <point x="156" y="0" type="line"/>
-      <point x="316" y="1106" type="line"/>
-      <point x="611" y="1106" type="line"/>
       <point x="451" y="0" type="line"/>
+      <point x="611" y="1106" type="line"/>
+      <point x="316" y="1106" type="line"/>
     </contour>
     <contour>
       <point x="596" y="0" type="line"/>
-      <point x="756" y="1106" type="line"/>
-      <point x="1051" y="1106" type="line"/>
       <point x="891" y="0" type="line"/>
+      <point x="1051" y="1106" type="line"/>
+      <point x="756" y="1106" type="line"/>
     </contour>
     <contour>
       <point x="32" y="259" type="line"/>
-      <point x="61" y="461" type="line"/>
-      <point x="1119" y="461" type="line"/>
       <point x="1091" y="259" type="line"/>
+      <point x="1119" y="461" type="line"/>
+      <point x="61" y="461" type="line"/>
     </contour>
     <contour>
       <point x="88" y="647" type="line"/>
-      <point x="117" y="849" type="line"/>
-      <point x="1175" y="849" type="line"/>
       <point x="1147" y="647" type="line"/>
+      <point x="1175" y="849" type="line"/>
+      <point x="117" y="849" type="line"/>
     </contour>
   </outline>
   <guideline angle="0" x="0" y="553"/>

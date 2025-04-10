@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omacrongrave" format="2">
+  <advance width="1506"/>
+  <unicode hex="1E50"/>
+  <anchor x="675" y="0" name="bottom"/>
+  <anchor x="1633" y="1314" name="topright"/>
+  <anchor x="1400" y="2164" name="topright.mkmk"/>
+  <anchor x="1150" y="2164" name="top.mkmk"/>
+  <outline>
+    <component base="O"/>
+    <component base="macroncomb.cap" xOffset="732"/>
+    <component base="gravecomb.cap" xOffset="823" yOffset="366"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>O+macroncomb.cap+gravecomb.cap</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

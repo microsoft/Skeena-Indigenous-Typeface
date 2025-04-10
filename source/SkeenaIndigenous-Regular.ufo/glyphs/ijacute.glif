@@ -3,6 +3,7 @@
   <advance width="970"/>
   <anchor x="490" y="-419" name="bottom"/>
   <anchor x="490" y="1435" name="top.mkmk"/>
+  <anchor x="1029" y="1435" name="topright.mkmk"/>
   <outline>
     <component base="i.dotless"/>
     <component base="acutecomb" xOffset="243"/>

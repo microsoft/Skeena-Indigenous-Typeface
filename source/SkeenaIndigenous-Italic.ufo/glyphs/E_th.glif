@@ -4,36 +4,37 @@
   <unicode hex="00D0"/>
   <anchor x="532" y="0" name="bottom"/>
   <anchor x="847" y="1314" name="top"/>
+  <anchor x="1497" y="1314" name="topright"/>
   <outline>
     <contour>
       <point x="84" y="0" type="line"/>
-      <point x="412" y="1314" type="line"/>
-      <point x="763" y="1314" type="line" smooth="yes"/>
-      <point x="1153" y="1314"/>
-      <point x="1358" y="1131"/>
-      <point x="1358" y="819" type="curve" smooth="yes"/>
-      <point x="1358" y="535"/>
+      <point x="422" y="0" type="line" smooth="yes"/>
       <point x="1201" y="0"/>
-      <point x="422" y="0" type="curve" smooth="yes"/>
+      <point x="1358" y="535"/>
+      <point x="1358" y="819" type="curve" smooth="yes"/>
+      <point x="1358" y="1131"/>
+      <point x="1153" y="1314"/>
+      <point x="763" y="1314" type="curve" smooth="yes"/>
+      <point x="412" y="1314" type="line"/>
     </contour>
     <contour>
       <point x="271" y="129" type="line"/>
-      <point x="441" y="129" type="line" smooth="yes"/>
-      <point x="895" y="129"/>
-      <point x="1167" y="396"/>
-      <point x="1167" y="795" type="curve" smooth="yes"/>
-      <point x="1167" y="1069"/>
-      <point x="1039" y="1185"/>
-      <point x="732" y="1185" type="curve" smooth="yes"/>
-      <point x="535" y="1185" type="line"/>
-      <point x="572" y="1214" type="line"/>
       <point x="294" y="100" type="line"/>
+      <point x="572" y="1214" type="line"/>
+      <point x="535" y="1185" type="line"/>
+      <point x="732" y="1185" type="line" smooth="yes"/>
+      <point x="1039" y="1185"/>
+      <point x="1167" y="1069"/>
+      <point x="1167" y="795" type="curve" smooth="yes"/>
+      <point x="1167" y="396"/>
+      <point x="895" y="129"/>
+      <point x="441" y="129" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="86" y="619" type="line"/>
-      <point x="118" y="746" type="line"/>
-      <point x="769" y="746" type="line"/>
       <point x="719" y="619" type="line"/>
+      <point x="769" y="746" type="line"/>
+      <point x="118" y="746" type="line"/>
     </contour>
   </outline>
   <guideline angle="90" x="425" y="0"/>

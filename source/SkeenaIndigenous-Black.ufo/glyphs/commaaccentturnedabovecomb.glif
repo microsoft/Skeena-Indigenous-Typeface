@@ -4,6 +4,7 @@
   <anchor x="0" y="953" name="_top"/>
   <anchor x="0" y="970" name="_top.mkmk"/>
   <anchor x="0" y="1526" name="top.mkmk"/>
+  <anchor x="261" y="1526" name="topright.mkmk"/>
   <outline>
     <contour>
       <point x="-6" y="1024" type="curve" smooth="yes"/>
@@ -38,7 +39,7 @@
   <lib>
   <dict>
   <key>public.markColor</key>
-  <string>1,0.801,0.6,1</string>
+  <string>0.6,1,0.602,1</string>
   </dict>
   </lib>
 </glyph>

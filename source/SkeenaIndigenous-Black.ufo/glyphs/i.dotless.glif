@@ -3,12 +3,13 @@
   <advance width="632"/>
   <anchor x="316" y="0" name="bottom"/>
   <anchor x="316" y="955" name="top"/>
+  <anchor x="632" y="955" name="topright"/>
   <outline>
     <contour>
       <point x="96" y="0" type="line"/>
-      <point x="96" y="953" type="line"/>
-      <point x="536" y="953" type="line"/>
       <point x="536" y="0" type="line"/>
+      <point x="536" y="953" type="line"/>
+      <point x="96" y="953" type="line"/>
     </contour>
   </outline>
   <guideline angle="90" x="316" y="0"/>

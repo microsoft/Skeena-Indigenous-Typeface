@@ -4,16 +4,17 @@
   <anchor x="113" y="938" name="_top"/>
   <anchor x="121" y="970" name="_top.mkmk"/>
   <anchor x="232" y="1416" name="top.mkmk"/>
+  <anchor x="502" y="1416" name="topright.mkmk"/>
   <outline>
     <contour>
       <point x="-98" y="1027" type="line"/>
-      <point x="-178" y="1099" type="line"/>
-      <point x="131" y="1416" type="line"/>
-      <point x="302" y="1416" type="line"/>
-      <point x="464" y="1072" type="line"/>
-      <point x="370" y="1027" type="line"/>
-      <point x="181" y="1289" type="line"/>
       <point x="220" y="1289" type="line"/>
+      <point x="181" y="1289" type="line"/>
+      <point x="370" y="1027" type="line"/>
+      <point x="464" y="1072" type="line"/>
+      <point x="302" y="1416" type="line"/>
+      <point x="131" y="1416" type="line"/>
+      <point x="-178" y="1099" type="line"/>
     </contour>
   </outline>
   <guideline angle="0" x="0" y="1027"/>

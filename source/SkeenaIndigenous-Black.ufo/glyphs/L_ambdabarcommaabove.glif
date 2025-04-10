@@ -2,7 +2,9 @@
 <glyph name="Lambdabarcommaabove" format="2">
   <advance width="1328"/>
   <anchor x="634" y="0" name="bottom"/>
+  <anchor x="1198" y="1314" name="topright"/>
   <anchor x="676" y="1847" name="top.mkmk"/>
+  <anchor x="960" y="1847" name="topright.mkmk"/>
   <outline>
     <component base="Lambdabar"/>
     <component base="commaabovecomb.cap" xOffset="676"/>

@@ -2,6 +2,7 @@
 <glyph name="iogonek.dotless.alt" format="2">
   <advance width="632"/>
   <anchor x="316" y="955" name="top"/>
+  <anchor x="632" y="955" name="topright"/>
   <anchor x="316" y="-437" name="bottom.mkmk"/>
   <outline>
     <component base="i.dotless"/>

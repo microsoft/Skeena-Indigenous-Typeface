@@ -2,6 +2,7 @@
 <glyph name="Uogonek.alt2" format="2">
   <advance width="1341"/>
   <anchor x="687" y="1314" name="top"/>
+  <anchor x="1341" y="1314" name="topright"/>
   <anchor x="669" y="-485" name="bottom.mkmk"/>
   <outline>
     <component base="U"/>

@@ -2,19 +2,39 @@
 <glyph name="clickalveolar" format="2">
   <advance width="823"/>
   <unicode hex="01C2"/>
-  <anchor x="291" y="0" name="bottom"/>
+  <anchor x="187" y="-419" name="bottom"/>
   <anchor x="647" y="1417" name="top"/>
+  <anchor x="955" y="1417" name="topright"/>
   <outline>
-    <component base="ldblbar"/>
+    <contour>
+      <point x="358" y="-419" type="line"/>
+      <point x="821" y="1443" type="line"/>
+      <point x="468" y="1401" type="line"/>
+      <point x="15" y="-419" type="line"/>
+    </contour>
+    <contour>
+      <point x="714" y="231" type="line"/>
+      <point x="794" y="437" type="line"/>
+      <point x="10" y="437" type="line"/>
+      <point x="-41" y="231" type="line"/>
+    </contour>
+    <contour>
+      <point x="818" y="618" type="line"/>
+      <point x="898" y="824" type="line"/>
+      <point x="109" y="824" type="line"/>
+      <point x="58" y="618" type="line"/>
+    </contour>
   </outline>
+  <guideline angle="0" x="0" y="597"/>
+  <guideline angle="0" x="0" y="944"/>
+  <guideline angle="0" x="0" y="391"/>
+  <guideline angle="0" x="0" y="738"/>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>ldblbar</string>
   <key>public.markColor</key>
-  <string>0.604,0.6,1,1</string>
+  <string>1,0.801,0.6,1</string>
   </dict>
   </lib>
 </glyph>

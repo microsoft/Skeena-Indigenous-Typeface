@@ -66,6 +66,7 @@
   </conditionset>
   <sub name="uni2C65" with="uni2C65.2"/>
   <sub name="dollar" with="dollar.2"/>
+  <sub name="cent" with="cent.2"/>
   </rule>
  </rules>
 </designspace>

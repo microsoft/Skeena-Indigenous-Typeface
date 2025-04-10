@@ -2,17 +2,18 @@
 <glyph name="hlinebelow" format="2">
   <advance width="1103"/>
   <anchor x="521" y="1417" name="top"/>
+  <anchor x="1073" y="946" name="topright"/>
   <anchor x="557" y="-319" name="bottom.mkmk"/>
   <outline>
     <component base="h"/>
-    <component base="lowlinecomb" xOffset="557"/>
+    <component base="lowlinecomb.M" xOffset="557"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>h+lowlinecomb</string>
+  <string>h+lowlinecomb.M</string>
   <key>public.markColor</key>
   <string>0.604,0.6,1,1</string>
   </dict>

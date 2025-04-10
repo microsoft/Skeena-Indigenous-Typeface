@@ -4,12 +4,13 @@
   <unicode hex="006C"/>
   <anchor x="243" y="0" name="bottom"/>
   <anchor x="243" y="1417" name="top"/>
+  <anchor x="486" y="1417" name="topright"/>
   <outline>
     <contour>
       <point x="156" y="0" type="line"/>
-      <point x="156" y="1402" type="line"/>
-      <point x="330" y="1430" type="line"/>
       <point x="330" y="0" type="line"/>
+      <point x="330" y="1430" type="line"/>
+      <point x="156" y="1402" type="line"/>
     </contour>
   </outline>
   <guideline angle="9.00086" x="0" y="1377.51"/>

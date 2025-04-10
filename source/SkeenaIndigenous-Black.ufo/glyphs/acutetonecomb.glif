@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutetonecomb" format="2">
+  <unicode hex="0341"/>
+  <anchor x="0" y="955" name="_top"/>
+  <anchor x="0" y="970" name="_top.mkmk"/>
+  <anchor x="0" y="1487" name="top.mkmk"/>
+  <anchor x="310" y="1487" name="topright.mkmk"/>
+  <outline>
+    <component base="acutecomb"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>acutecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

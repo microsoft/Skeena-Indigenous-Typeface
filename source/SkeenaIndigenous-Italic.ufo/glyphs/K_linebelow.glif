@@ -2,6 +2,7 @@
 <glyph name="Klinebelow" format="2">
   <advance width="1121"/>
   <anchor x="777" y="1314" name="top"/>
+  <anchor x="1358" y="1314" name="topright"/>
   <anchor x="416" y="-319" name="bottom.mkmk"/>
   <outline>
     <component base="K"/>

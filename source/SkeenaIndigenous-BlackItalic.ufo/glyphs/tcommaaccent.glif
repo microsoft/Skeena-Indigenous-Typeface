@@ -3,6 +3,7 @@
   <advance width="852"/>
   <unicode hex="021B"/>
   <anchor x="531" y="1241" name="top"/>
+  <anchor x="967" y="946" name="topright"/>
   <anchor x="250" y="-554" name="bottom.mkmk"/>
   <outline>
     <component base="t"/>

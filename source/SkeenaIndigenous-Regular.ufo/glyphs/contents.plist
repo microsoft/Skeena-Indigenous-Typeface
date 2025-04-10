@@ -96,6 +96,8 @@
   <string>E_macron.glif</string>
   <key>Emacronacute</key>
   <string>E_macronacute.glif</string>
+  <key>Emacrongrave</key>
+  <string>E_macrongrave.glif</string>
   <key>Eng</key>
   <string>E_ng.glif</string>
   <key>Eogonek</key>
@@ -118,6 +120,8 @@
   <string>F_.glif</string>
   <key>G</key>
   <string>G_.glif</string>
+  <key>Gamma.Latin</key>
+  <string>G_amma.L_atin.glif</string>
   <key>GammaLatin</key>
   <string>G_ammaL_atin.glif</string>
   <key>Gbar</key>
@@ -250,6 +254,8 @@
   <string>M_acute.glif</string>
   <key>Mdotbelow</key>
   <string>M_dotbelow.glif</string>
+  <key>Mturned</key>
+  <string>M_turned.glif</string>
   <key>N</key>
   <string>N_.glif</string>
   <key>NULL</key>
@@ -296,6 +302,8 @@
   <string>O_macron.glif</string>
   <key>Omacronacute</key>
   <string>O_macronacute.glif</string>
+  <key>Omacrongrave</key>
+  <string>O_macrongrave.glif</string>
   <key>Oogonek</key>
   <string>O_ogonek.glif</string>
   <key>Oogonek.alt</key>
@@ -350,6 +358,10 @@
   <string>S_commaaccent.glif</string>
   <key>Sdotbelow</key>
   <string>S_dotbelow.glif</string>
+  <key>Slinebelow</key>
+  <string>S_linebelow.glif</string>
+  <key>Smacronbelow</key>
+  <string>S_macronbelow.glif</string>
   <key>T</key>
   <string>T_.glif</string>
   <key>Tbar</key>
@@ -358,6 +370,8 @@
   <string>T_caron.glif</string>
   <key>Tcedilla</key>
   <string>T_cedilla.glif</string>
+  <key>Tcircumflexbelow</key>
+  <string>T_circumflexbelow.glif</string>
   <key>Tcommaaccent</key>
   <string>T_commaaccent.glif</string>
   <key>Tdotaccent</key>
@@ -456,6 +470,8 @@
   <string>abreve.glif</string>
   <key>acaron</key>
   <string>acaron.glif</string>
+  <key>acedilla</key>
+  <string>acedilla.glif</string>
   <key>acircumflex</key>
   <string>acircumflex.glif</string>
   <key>acute</key>
@@ -464,6 +480,10 @@
   <string>acutecomb.glif</string>
   <key>acutecomb.cap</key>
   <string>acutecomb.cap.glif</string>
+  <key>acutetonecomb</key>
+  <string>acutetonecomb.glif</string>
+  <key>acutetonecomb.cap</key>
+  <string>acutetonecomb.cap.glif</string>
   <key>adieresis</key>
   <string>adieresis.glif</string>
   <key>adotacent</key>
@@ -540,6 +560,8 @@
   <string>brevecomb.cap.glif</string>
   <key>brevecomb.narrow</key>
   <string>brevecomb.narrow.glif</string>
+  <key>breveinvertedbelowcomb</key>
+  <string>breveinvertedbelowcomb.glif</string>
   <key>breveinvertedcomb</key>
   <string>breveinvertedcomb.glif</string>
   <key>breveinvertedcomb.cap</key>
@@ -578,12 +600,16 @@
   <string>cedillacomb.glif</string>
   <key>cent</key>
   <string>cent.glif</string>
+  <key>cent.2</key>
+  <string>cent.2.glif</string>
   <key>chi.Latin</key>
   <string>chi.L_atin.glif</string>
   <key>chiLatin</key>
   <string>chiL_atin.glif</string>
   <key>circumflex</key>
   <string>circumflex.glif</string>
+  <key>circumflexbelowcomb</key>
+  <string>circumflexbelowcomb.glif</string>
   <key>circumflexcomb</key>
   <string>circumflexcomb.glif</string>
   <key>circumflexcomb.cap</key>
@@ -608,8 +634,16 @@
   <string>commaaccentturnedabovecomb.cap.glif</string>
   <key>commarightcomb</key>
   <string>commarightcomb.glif</string>
-  <key>commarightcomb.case</key>
-  <string>commarightcomb.case.glif</string>
+  <key>commarightcomb.cap</key>
+  <string>commarightcomb.cap.glif</string>
+  <key>commarightcomb.sp</key>
+  <string>commarightcomb.sp.glif</string>
+  <key>commarightcomb.spcase</key>
+  <string>commarightcomb.spcase.glif</string>
+  <key>commarightcomb.spn</key>
+  <string>commarightcomb.spn.glif</string>
+  <key>commarightcomb.spncap</key>
+  <string>commarightcomb.spncap.glif</string>
   <key>copyright</key>
   <string>copyright.glif</string>
   <key>cslash</key>
@@ -660,6 +694,8 @@
   <string>dotlessiogonek.alt2.glif</string>
   <key>dotlessj</key>
   <string>dotlessj.glif</string>
+  <key>dotsinological</key>
+  <string>dotsinological.glif</string>
   <key>e</key>
   <string>e.glif</string>
   <key>eacute</key>
@@ -694,6 +730,8 @@
   <string>emacron.glif</string>
   <key>emacronacute</key>
   <string>emacronacute.glif</string>
+  <key>emacrongrave</key>
+  <string>emacrongrave.glif</string>
   <key>emdash</key>
   <string>emdash.glif</string>
   <key>emdash.case</key>
@@ -760,6 +798,8 @@
   <string>g.glif</string>
   <key>g.2</key>
   <string>g.2.glif</string>
+  <key>gamma.Latin</key>
+  <string>gamma.L_atin.glif</string>
   <key>gammaLatin</key>
   <string>gammaL_atin.glif</string>
   <key>gbar</key>
@@ -808,6 +848,10 @@
   <string>gravecomb.glif</string>
   <key>gravecomb.cap</key>
   <string>gravecomb.cap.glif</string>
+  <key>gravetonecomb</key>
+  <string>gravetonecomb.glif</string>
+  <key>gravetonecomb.cap</key>
+  <string>gravetonecomb.cap.glif</string>
   <key>greater</key>
   <string>greater.glif</string>
   <key>gscript</key>
@@ -836,6 +880,8 @@
   <string>halflongsign.glif</string>
   <key>halflongsign.alt</key>
   <string>halflongsign.alt.glif</string>
+  <key>halfringleftmodifier</key>
+  <string>halfringleftmodifier.glif</string>
   <key>halfringrightmodifier</key>
   <string>halfringrightmodifier.glif</string>
   <key>hbar</key>
@@ -1018,6 +1064,10 @@
   <string>micro.glif</string>
   <key>minus</key>
   <string>minus.glif</string>
+  <key>minusbelowcomb</key>
+  <string>minusbelowcomb.glif</string>
+  <key>mturned</key>
+  <string>mturned.glif</string>
   <key>multiply</key>
   <string>multiply.glif</string>
   <key>n</key>
@@ -1086,6 +1136,8 @@
   <string>ograve.glif</string>
   <key>ohungarumlaut</key>
   <string>ohungarumlaut.glif</string>
+  <key>omacongrave</key>
+  <string>omacongrave.glif</string>
   <key>omacron</key>
   <string>omacron.glif</string>
   <key>omacronacute</key>
@@ -1250,6 +1302,10 @@
   <string>slash.glif</string>
   <key>slashcomb</key>
   <string>slashcomb.glif</string>
+  <key>slinebelow</key>
+  <string>slinebelow.glif</string>
+  <key>smacronbelow</key>
+  <string>smacronbelow.glif</string>
   <key>softhyphen</key>
   <string>softhyphen.glif</string>
   <key>space</key>
@@ -1264,6 +1320,8 @@
   <string>tcaron.glif</string>
   <key>tcedilla</key>
   <string>tcedilla.glif</string>
+  <key>tcircumflexbelow</key>
+  <string>tcircumflexbelow.glif</string>
   <key>tcommaaccent</key>
   <string>tcommaaccent.glif</string>
   <key>tdotaccent</key>

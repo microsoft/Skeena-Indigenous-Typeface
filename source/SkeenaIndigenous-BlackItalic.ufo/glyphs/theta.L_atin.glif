@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="theta.Latin" format="2">
   <advance width="1262"/>
+  <unicode hex="03B8"/>
   <anchor x="815" y="1417" name="top"/>
   <anchor x="566" y="0" name="bottom"/>
+  <anchor x="1394" y="1417" name="topright"/>
   <outline>
     <contour>
       <point x="568" y="-24" type="curve" smooth="yes"/>

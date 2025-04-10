@@ -4,6 +4,7 @@
   <unicode hex="03BB"/>
   <anchor x="705" y="1417" name="top"/>
   <anchor x="507" y="0" name="bottom"/>
+  <anchor x="1170" y="946" name="topright"/>
   <outline>
     <component base="lambdaLatin"/>
   </outline>

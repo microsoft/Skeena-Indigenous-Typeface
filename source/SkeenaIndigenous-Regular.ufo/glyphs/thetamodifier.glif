@@ -2,8 +2,9 @@
 <glyph name="thetamodifier" format="2">
   <advance width="707"/>
   <unicode hex="1DBF"/>
-  <anchor x="353" y="1426" name="top"/>
+  <anchor x="353" y="1419" name="top"/>
   <anchor x="353" y="571" name="bottom"/>
+  <anchor x="707" y="1419" name="topright"/>
   <outline>
     <contour>
       <point x="342" y="556" type="curve" smooth="yes"/>

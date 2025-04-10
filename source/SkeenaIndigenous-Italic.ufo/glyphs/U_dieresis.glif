@@ -3,7 +3,9 @@
   <advance width="1279"/>
   <unicode hex="00DC"/>
   <anchor x="577" y="0" name="bottom"/>
+  <anchor x="1486" y="1314" name="topright"/>
   <anchor x="936" y="1617" name="top.mkmk"/>
+  <anchor x="1170" y="1617" name="topright.mkmk"/>
   <outline>
     <component base="U"/>
     <component base="dieresiscomb.cap" xOffset="654"/>

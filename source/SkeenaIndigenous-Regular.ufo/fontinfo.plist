@@ -24,46 +24,6 @@
     <key>y</key>
     <integer>486</integer>
   </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>asc-o</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>1441</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>cap</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>1307</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>supsbase</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>571</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>x-height</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>952</integer>
-  </dict>
   </array>
   <key>italicAngle</key>
   <integer>0</integer>

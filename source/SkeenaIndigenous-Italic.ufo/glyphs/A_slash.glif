@@ -4,6 +4,7 @@
   <unicode hex="023A"/>
   <anchor x="461" y="-89" name="bottom"/>
   <anchor x="815" y="1418" name="top"/>
+  <anchor x="1362" y="1418" name="topright"/>
   <outline>
     <contour>
       <point x="1213" y="1414" type="line"/>

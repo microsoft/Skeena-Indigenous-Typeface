@@ -3,7 +3,9 @@
   <advance width="1026"/>
   <unicode hex="1E6A"/>
   <anchor x="513" y="0" name="bottom"/>
+  <anchor x="1086" y="1314" name="topright"/>
   <anchor x="514" y="1621" name="top.mkmk"/>
+  <anchor x="755" y="1621" name="topright.mkmk"/>
   <outline>
     <component base="T"/>
     <component base="dotaccentcomb.cap" xOffset="514"/>

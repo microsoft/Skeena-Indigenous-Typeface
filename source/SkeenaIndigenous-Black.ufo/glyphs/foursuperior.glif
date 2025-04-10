@@ -5,20 +5,20 @@
   <outline>
     <contour>
       <point x="42" y="723" type="line"/>
-      <point x="42" y="885" type="line"/>
-      <point x="433" y="1425" type="line"/>
-      <point x="718" y="1425" type="line"/>
-      <point x="718" y="571" type="line"/>
-      <point x="383" y="571" type="line"/>
-      <point x="383" y="1051" type="line" smooth="yes"/>
-      <point x="383" y="1085"/>
-      <point x="382" y="1112"/>
-      <point x="386" y="1150" type="curve"/>
-      <point x="380" y="1150" type="line"/>
-      <point x="203" y="906" type="line"/>
-      <point x="203" y="900" type="line"/>
-      <point x="822" y="900" type="line"/>
       <point x="797" y="723" type="line"/>
+      <point x="822" y="900" type="line"/>
+      <point x="203" y="900" type="line"/>
+      <point x="203" y="906" type="line"/>
+      <point x="380" y="1150" type="line"/>
+      <point x="386" y="1150" type="line"/>
+      <point x="382" y="1112"/>
+      <point x="383" y="1085"/>
+      <point x="383" y="1051" type="curve" smooth="yes"/>
+      <point x="383" y="571" type="line"/>
+      <point x="718" y="571" type="line"/>
+      <point x="718" y="1425" type="line"/>
+      <point x="433" y="1425" type="line"/>
+      <point x="42" y="885" type="line"/>
     </contour>
   </outline>
   <guideline angle="52.6709" color="1,0,0,1" x="-157.639" y="0"/>

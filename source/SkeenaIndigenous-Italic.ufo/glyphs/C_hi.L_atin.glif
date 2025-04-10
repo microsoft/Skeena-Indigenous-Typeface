@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Chi.Latin" format="2">
   <advance width="1101"/>
+  <unicode hex="03A7"/>
   <anchor x="324" y="-419" name="bottom"/>
   <anchor x="764" y="1314" name="top"/>
+  <anchor x="1368" y="1314" name="topright"/>
   <outline>
     <component base="ChiLatin"/>
   </outline>

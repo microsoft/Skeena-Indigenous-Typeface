@@ -4,6 +4,7 @@
   <anchor x="115" y="946" name="_top"/>
   <anchor x="121" y="970" name="_top.mkmk"/>
   <anchor x="250" y="1487" name="top.mkmk"/>
+  <anchor x="612" y="1487" name="topright.mkmk"/>
   <outline>
     <contour>
       <point x="662" y="1362" type="line"/>

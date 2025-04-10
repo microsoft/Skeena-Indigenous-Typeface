@@ -2,7 +2,9 @@
 <glyph name="aringacute" format="2">
   <advance width="1198"/>
   <unicode hex="01FB"/>
-  <anchor x="581" y="0" name="bottom"/>
+  <anchor x="601" y="0" name="bottom"/>
+  <anchor x="1168" y="955" name="topright"/>
+  <anchor x="924" y="1987" name="topright.mkmk"/>
   <anchor x="614" y="1987" name="top.mkmk"/>
   <outline>
     <component base="a"/>

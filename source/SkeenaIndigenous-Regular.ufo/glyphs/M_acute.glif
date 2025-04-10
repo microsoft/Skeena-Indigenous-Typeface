@@ -3,7 +3,9 @@
   <advance width="1671"/>
   <unicode hex="1E3E"/>
   <anchor x="818" y="0" name="bottom"/>
+  <anchor x="1651" y="1314" name="topright"/>
   <anchor x="840" y="1707" name="top.mkmk"/>
+  <anchor x="1130" y="1707" name="topright.mkmk"/>
   <outline>
     <component base="M"/>
     <component base="acutecomb.cap" xOffset="840"/>

@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="napostrophe" format="2">
-  <advance width="1791"/>
+  <advance width="1793"/>
   <unicode hex="0149"/>
-  <anchor x="1056" y="0" name="bottom"/>
-  <anchor x="1274" y="946" name="top"/>
+  <anchor x="1058" y="0" name="bottom"/>
+  <anchor x="1276" y="946" name="top"/>
+  <anchor x="1858" y="946" name="topright"/>
   <outline>
-    <component base="quoteright" xOffset="2"/>
-    <component base="n" xOffset="533"/>
+    <component base="quoteright"/>
+    <component base="n" xOffset="535"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.metricsRight</key>
   <string>n</string>
   <key>com.fontlab.recipe</key>

@@ -3,7 +3,9 @@
   <advance width="895"/>
   <unicode hex="010D"/>
   <anchor x="424" y="0" name="bottom"/>
+  <anchor x="998" y="938" name="topright"/>
   <anchor x="738" y="1416" name="top.mkmk"/>
+  <anchor x="1008" y="1416" name="topright.mkmk"/>
   <outline>
     <component base="c"/>
     <component base="caroncomb" xOffset="505"/>

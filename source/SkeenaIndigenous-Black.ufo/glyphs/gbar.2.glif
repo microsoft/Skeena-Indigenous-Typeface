@@ -3,6 +3,7 @@
   <advance width="1287"/>
   <anchor x="635" y="-433" name="bottom"/>
   <anchor x="664" y="955" name="top"/>
+  <anchor x="1277" y="955" name="topright"/>
   <outline>
     <contour>
       <point x="622" y="-447" type="curve" smooth="yes"/>

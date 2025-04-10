@@ -3,23 +3,24 @@
   <advance width="1244"/>
   <anchor x="535" y="0" name="bottom"/>
   <anchor x="862" y="1314" name="top"/>
+  <anchor x="1421" y="1314" name="topright"/>
   <outline>
     <contour>
       <point x="479" y="0" type="line"/>
-      <point x="662" y="727" type="line" smooth="yes"/>
-      <point x="676" y="782"/>
-      <point x="698" y="866"/>
-      <point x="712" y="906" type="curve"/>
-      <point x="703" y="906" type="line"/>
-      <point x="317" y="507" type="line"/>
-      <point x="315" y="498" type="line"/>
-      <point x="1221" y="498" type="line"/>
-      <point x="1125" y="253" type="line"/>
-      <point x="0" y="253" type="line"/>
-      <point x="57" y="478" type="line"/>
-      <point x="862" y="1314" type="line"/>
-      <point x="1253" y="1314" type="line"/>
       <point x="925" y="0" type="line"/>
+      <point x="1253" y="1314" type="line"/>
+      <point x="862" y="1314" type="line"/>
+      <point x="57" y="478" type="line"/>
+      <point x="0" y="253" type="line"/>
+      <point x="1125" y="253" type="line"/>
+      <point x="1221" y="498" type="line"/>
+      <point x="315" y="498" type="line"/>
+      <point x="317" y="507" type="line"/>
+      <point x="703" y="906" type="line"/>
+      <point x="712" y="906" type="line"/>
+      <point x="698" y="866"/>
+      <point x="676" y="782"/>
+      <point x="662" y="727" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <guideline angle="46.0917" x="-208.963" y="0"/>

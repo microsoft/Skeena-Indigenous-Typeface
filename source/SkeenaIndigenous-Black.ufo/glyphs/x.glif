@@ -4,24 +4,25 @@
   <unicode hex="0078"/>
   <anchor x="587" y="0" name="bottom"/>
   <anchor x="612" y="955" name="top"/>
+  <anchor x="1218" y="955" name="topright"/>
   <outline>
     <contour>
       <point x="676" y="0" type="line"/>
-      <point x="22" y="953" type="line"/>
-      <point x="524" y="953" type="line"/>
       <point x="1179" y="0" type="line"/>
+      <point x="524" y="953" type="line"/>
+      <point x="22" y="953" type="line"/>
     </contour>
     <contour>
       <point x="9" y="0" type="line"/>
-      <point x="390" y="467" type="line"/>
-      <point x="537" y="259" type="line"/>
       <point x="338" y="0" type="line"/>
+      <point x="537" y="259" type="line"/>
+      <point x="390" y="467" type="line"/>
     </contour>
     <contour>
       <point x="798" y="502" type="line"/>
-      <point x="654" y="711" type="line"/>
-      <point x="840" y="953" type="line"/>
       <point x="1166" y="953" type="line"/>
+      <point x="840" y="953" type="line"/>
+      <point x="654" y="711" type="line"/>
     </contour>
   </outline>
   <guideline angle="90" x="48" y="0"/>

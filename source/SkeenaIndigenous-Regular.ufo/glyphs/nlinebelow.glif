@@ -2,6 +2,7 @@
 <glyph name="nlinebelow" format="2">
   <advance width="1104"/>
   <anchor x="547" y="946" name="top"/>
+  <anchor x="1074" y="946" name="topright"/>
   <anchor x="557" y="-319" name="bottom.mkmk"/>
   <outline>
     <component base="n"/>
@@ -14,7 +15,7 @@
   <key>com.fontlab.recipe</key>
   <string>n+lowlinecomb.M</string>
   <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
+  <string>0.604,0.6,1,1</string>
   </dict>
   </lib>
 </glyph>

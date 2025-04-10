@@ -542,8 +542,8 @@
 540,,,commarightcomb.cap,uni0315.cap,PNWIL,,,
 541,,,commarightcomb.spn,uni0315.spn,PNWIL,,,Narrow spacing variant; non-mark
 542,,,commarightcomb.spncap,uni0315.spncap,PNWIL,,,Narrow spacing variant; non-mark
-543,,,commarightcomb.spasc,uni0315,PNWIL,,,Spacing variant for use after ascenders; non-mark
-544,,,commarightcomb.spcase,uni0315.case,PNWIL,,,Spacing variant for all-caps only; non-mark
+543,,,commarightcomb.sp,uni0315.sp,PNWIL,,,Full spacing variant; non-mark
+544,,,commarightcomb.spcase,uni0315.case,PNWIL,,,Full spacing variant for all-caps only; non-mark
 545,0x0312,̒,commaaccentturnedabovecomb,uni0312,Euro,COMBINING TURNED COMMA ABOVE,,Component ingredient for /gcommaaccent
 546,,,commaaccentturnedabovecomb.cap,uni0312.cap,Euro,,,
 547,0x0361,͡,breveinvertedtiecomb,uni0361,NA+,COMBINING DOUBLE INVERTED BREVE,,TQ-INAT p.106 Yupik (illustration incorrect; should span letters)

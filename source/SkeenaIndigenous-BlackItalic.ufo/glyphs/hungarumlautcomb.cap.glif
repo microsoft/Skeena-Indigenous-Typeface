@@ -3,6 +3,7 @@
   <anchor x="207" y="1314" name="_top"/>
   <anchor x="208" y="1320" name="_top.mkmk"/>
   <anchor x="327" y="1798" name="top.mkmk"/>
+  <anchor x="722" y="1798" name="topright.mkmk"/>
   <outline>
     <contour>
       <point x="348" y="1630" type="line"/>

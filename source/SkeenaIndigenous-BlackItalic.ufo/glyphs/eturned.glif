@@ -4,6 +4,7 @@
   <unicode hex="01DD"/>
   <anchor x="393" y="0" name="bottom"/>
   <anchor x="581" y="946" name="top"/>
+  <anchor x="1137" y="946" name="topright"/>
   <outline>
     <component base="schwa"/>
   </outline>

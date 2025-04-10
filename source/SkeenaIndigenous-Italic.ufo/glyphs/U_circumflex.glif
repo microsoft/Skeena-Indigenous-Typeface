@@ -3,7 +3,9 @@
   <advance width="1279"/>
   <unicode hex="00DB"/>
   <anchor x="577" y="0" name="bottom"/>
+  <anchor x="1486" y="1314" name="topright"/>
   <anchor x="963" y="1722" name="top.mkmk"/>
+  <anchor x="1228" y="1722" name="topright.mkmk"/>
   <outline>
     <component base="U"/>
     <component base="circumflexcomb.cap" xOffset="654"/>

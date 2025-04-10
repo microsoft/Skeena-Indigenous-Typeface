@@ -4,6 +4,7 @@
   <unicode hex="023C"/>
   <anchor x="536" y="-90" name="bottom"/>
   <anchor x="531" y="1053" name="top"/>
+  <anchor x="948" y="1053" name="topright"/>
   <outline>
     <contour>
       <point x="558" y="-22" type="curve" smooth="yes"/>

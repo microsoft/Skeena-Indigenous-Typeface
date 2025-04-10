@@ -5,15 +5,15 @@
   <outline>
     <contour>
       <point x="61" y="774" type="line"/>
-      <point x="258" y="971" type="line"/>
-      <point x="1056" y="172" type="line"/>
       <point x="860" y="-24" type="line"/>
+      <point x="1056" y="172" type="line"/>
+      <point x="258" y="971" type="line"/>
     </contour>
     <contour>
       <point x="61" y="172" type="line"/>
-      <point x="860" y="971" type="line"/>
-      <point x="1056" y="774" type="line"/>
       <point x="258" y="-24" type="line"/>
+      <point x="1056" y="774" type="line"/>
+      <point x="860" y="971" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -4,12 +4,13 @@
   <unicode hex="0049"/>
   <anchor x="252" y="0" name="bottom"/>
   <anchor x="252" y="1314" name="top"/>
+  <anchor x="504" y="1314" name="topright"/>
   <outline>
     <contour>
       <point x="160" y="0" type="line"/>
-      <point x="160" y="1314" type="line"/>
-      <point x="344" y="1314" type="line"/>
       <point x="344" y="0" type="line"/>
+      <point x="344" y="1314" type="line"/>
+      <point x="160" y="1314" type="line"/>
     </contour>
   </outline>
   <lib>

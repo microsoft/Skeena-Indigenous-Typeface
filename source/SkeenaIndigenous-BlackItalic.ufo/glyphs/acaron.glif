@@ -2,8 +2,10 @@
 <glyph name="acaron" format="2">
   <advance width="1276"/>
   <unicode hex="01CE"/>
-  <anchor x="567" y="0" name="bottom"/>
+  <anchor x="575" y="0" name="bottom"/>
+  <anchor x="1391" y="946" name="topright"/>
   <anchor x="878" y="1462" name="top.mkmk"/>
+  <anchor x="1178" y="1462" name="topright.mkmk"/>
   <outline>
     <component base="a"/>
     <component base="caroncomb" xOffset="635"/>

@@ -4,22 +4,23 @@
   <unicode hex="005A"/>
   <anchor x="519" y="0" name="bottom"/>
   <anchor x="530" y="1314" name="top"/>
+  <anchor x="1078" y="1314" name="topright"/>
   <outline>
     <contour>
       <point x="41" y="0" type="line"/>
-      <point x="41" y="120" type="line"/>
-      <point x="762" y="1180" type="line"/>
-      <point x="762" y="1226" type="line"/>
-      <point x="812" y="1185" type="line"/>
-      <point x="76" y="1185" type="line"/>
-      <point x="76" y="1314" type="line"/>
-      <point x="983" y="1314" type="line"/>
-      <point x="983" y="1194" type="line"/>
-      <point x="264" y="133" type="line"/>
-      <point x="264" y="89" type="line"/>
-      <point x="215" y="129" type="line"/>
-      <point x="993" y="129" type="line"/>
       <point x="974" y="0" type="line"/>
+      <point x="993" y="129" type="line"/>
+      <point x="215" y="129" type="line"/>
+      <point x="264" y="89" type="line"/>
+      <point x="264" y="133" type="line"/>
+      <point x="983" y="1194" type="line"/>
+      <point x="983" y="1314" type="line"/>
+      <point x="76" y="1314" type="line"/>
+      <point x="76" y="1185" type="line"/>
+      <point x="812" y="1185" type="line"/>
+      <point x="762" y="1226" type="line"/>
+      <point x="762" y="1180" type="line"/>
+      <point x="41" y="120" type="line"/>
     </contour>
   </outline>
   <guideline angle="90" x="974" y="0"/>

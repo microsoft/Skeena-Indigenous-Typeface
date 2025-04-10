@@ -2,7 +2,9 @@
 <glyph name="gcommaaccent.2" format="2">
   <advance width="1268"/>
   <anchor x="626" y="-433" name="bottom"/>
+  <anchor x="1268" y="955" name="topright"/>
   <anchor x="655" y="1528" name="top.mkmk"/>
+  <anchor x="916" y="1528" name="topright.mkmk"/>
   <outline>
     <component base="g.2"/>
     <component base="commaaccentturnedabovecomb" xOffset="655" yOffset="2"/>

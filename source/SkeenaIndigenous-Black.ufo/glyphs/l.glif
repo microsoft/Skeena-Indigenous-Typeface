@@ -4,15 +4,18 @@
   <unicode hex="006C"/>
   <anchor x="316" y="0" name="bottom"/>
   <anchor x="316" y="1417" name="top"/>
+  <anchor x="628" y="1417" name="topright"/>
   <outline>
     <contour>
       <point x="94" y="0" type="line"/>
-      <point x="94" y="1389" type="line"/>
-      <point x="534" y="1443" type="line"/>
       <point x="534" y="0" type="line"/>
+      <point x="534" y="1443" type="line"/>
+      <point x="94" y="1389" type="line"/>
     </contour>
   </outline>
   <guideline angle="8.96176" x="-2" y="1378"/>
+  <guideline angle="0" x="0" y="0"/>
+  <guideline angle="0" x="0" y="0"/>
   <lib>
   <dict>
   <key>public.markColor</key>

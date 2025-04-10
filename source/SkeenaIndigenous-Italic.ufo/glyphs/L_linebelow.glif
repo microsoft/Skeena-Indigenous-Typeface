@@ -2,6 +2,7 @@
 <glyph name="Llinebelow" format="2">
   <advance width="944"/>
   <anchor x="461" y="1314" name="top"/>
+  <anchor x="1081" y="1314" name="topright"/>
   <anchor x="342" y="-319" name="bottom.mkmk"/>
   <outline>
     <component base="L"/>

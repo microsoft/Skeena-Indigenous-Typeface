@@ -2,6 +2,7 @@
 <glyph name="dlinebelow" format="2">
   <advance width="1268"/>
   <anchor x="626" y="1417" name="top"/>
+  <anchor x="1268" y="1417" name="topright"/>
   <anchor x="649" y="-376" name="bottom.mkmk"/>
   <outline>
     <component base="d"/>

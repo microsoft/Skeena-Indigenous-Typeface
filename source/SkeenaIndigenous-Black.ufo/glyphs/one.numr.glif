@@ -4,17 +4,17 @@
   <outline>
     <contour>
       <point x="217" y="552" type="line"/>
-      <point x="217" y="1124" type="line"/>
-      <point x="168" y="1102"/>
-      <point x="102" y="1081"/>
-      <point x="33" y="1066" type="curve"/>
-      <point x="27" y="1070" type="line"/>
-      <point x="27" y="1201" type="line"/>
-      <point x="130" y="1243"/>
-      <point x="192" y="1275"/>
-      <point x="243" y="1314" type="curve"/>
-      <point x="522" y="1314" type="line"/>
       <point x="522" y="552" type="line"/>
+      <point x="522" y="1314" type="line"/>
+      <point x="243" y="1314" type="line"/>
+      <point x="192" y="1275"/>
+      <point x="130" y="1243"/>
+      <point x="27" y="1201" type="curve"/>
+      <point x="27" y="1070" type="line"/>
+      <point x="33" y="1066" type="line"/>
+      <point x="102" y="1081"/>
+      <point x="168" y="1102"/>
+      <point x="217" y="1124" type="curve"/>
     </contour>
   </outline>
   <lib>

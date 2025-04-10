@@ -2,9 +2,10 @@
 <glyph name="dotlessiogonek" format="2">
   <advance width="486"/>
   <anchor x="243" y="946" name="top"/>
+  <anchor x="486" y="946" name="topright"/>
   <anchor x="243" y="-413" name="bottom.mkmk"/>
   <outline>
-    <component base="dotlessi"/>
+    <component base="i.dotless"/>
     <component base="ogonekcomb" xOffset="243"/>
   </outline>
   <lib>
@@ -12,7 +13,7 @@
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>dotlessi+ogonekcomb</string>
+  <string>i.dotless+ogonekcomb</string>
   <key>public.markColor</key>
   <string>0.604,0.6,1,1</string>
   </dict>

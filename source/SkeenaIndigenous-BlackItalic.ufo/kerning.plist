@@ -24,12 +24,14 @@
     <integer>-75</integer>
     <key>comma</key>
     <integer>10</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-20</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>-20</integer>
     <key>degree</key>
     <integer>-30</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>-10</integer>
     <key>halfringrightmodifier</key>
     <integer>-15</integer>
     <key>idieresis</key>
@@ -87,6 +89,56 @@
     <key>public.kern2._punc_quoteright_2ND</key>
     <integer>-20</integer>
   </dict>
+  <key>Ccaron</key>
+  <dict>
+    <key>commarightcomb.spncap</key>
+    <integer>70</integer>
+  </dict>
+  <key>Ccircumflex</key>
+  <dict>
+    <key>commarightcomb.spncap</key>
+    <integer>30</integer>
+  </dict>
+  <key>Cslash</key>
+  <dict>
+    <key>commarightcomb.spncap</key>
+    <integer>50</integer>
+  </dict>
+  <key>Ebreve</key>
+  <dict>
+    <key>commarightcomb.spncap</key>
+    <integer>115</integer>
+  </dict>
+  <key>Ecaron</key>
+  <dict>
+    <key>commarightcomb.spncap</key>
+    <integer>140</integer>
+  </dict>
+  <key>Ecircumflex</key>
+  <dict>
+    <key>commarightcomb.spncap</key>
+    <integer>100</integer>
+  </dict>
+  <key>Edieresis</key>
+  <dict>
+    <key>commarightcomb.spncap</key>
+    <integer>140</integer>
+  </dict>
+  <key>Emacron</key>
+  <dict>
+    <key>commarightcomb.spncap</key>
+    <integer>70</integer>
+  </dict>
+  <key>Emacronacute</key>
+  <dict>
+    <key>commarightcomb.spncap</key>
+    <integer>70</integer>
+  </dict>
+  <key>Emacrongrave</key>
+  <dict>
+    <key>commarightcomb.spncap</key>
+    <integer>70</integer>
+  </dict>
   <key>F</key>
   <dict>
     <key>Eopen</key>
@@ -95,16 +147,20 @@
     <integer>-30</integer>
     <key>comma</key>
     <integer>-80</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>20</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>35</integer>
+    <key>commarightcomb.spncap</key>
+    <integer>20</integer>
     <key>degree</key>
     <integer>20</integer>
     <key>eopen</key>
     <integer>-50</integer>
     <key>glottal</key>
     <integer>20</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>60</integer>
     <key>glottalstop</key>
     <integer>-25</integer>
     <key>halfringrightmodifier</key>
@@ -190,9 +246,9 @@
     <integer>-60</integer>
     <key>comma</key>
     <integer>-10</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-75</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>-40</integer>
     <key>lslash</key>
     <integer>20</integer>
@@ -235,11 +291,21 @@
     <key>public.kern2._x_sups_BOTH</key>
     <integer>10</integer>
   </dict>
+  <key>Gbreve</key>
+  <dict>
+    <key>commarightcomb.spncap</key>
+    <integer>20</integer>
+  </dict>
+  <key>Gcaron</key>
+  <dict>
+    <key>commarightcomb.spncap</key>
+    <integer>40</integer>
+  </dict>
   <key>Germandbls</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-35</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>-35</integer>
     <key>public.kern2._L_uc_AE_2ND</key>
     <integer>-10</integer>
@@ -282,9 +348,9 @@
     <integer>-95</integer>
     <key>comma</key>
     <integer>-125</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>25</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>25</integer>
     <key>eopen</key>
     <integer>-15</integer>
@@ -369,13 +435,18 @@
     <key>public.kern2._x_sups_BOTH</key>
     <integer>45</integer>
   </dict>
+  <key>Gmacron</key>
+  <dict>
+    <key>commarightcomb.spncap</key>
+    <integer>10</integer>
+  </dict>
   <key>Hbar</key>
   <dict>
     <key>comma</key>
     <integer>-20</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>50</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>50</integer>
     <key>eopen</key>
     <integer>-20</integer>
@@ -449,8 +520,15 @@
   </dict>
   <key>IJacute</key>
   <dict>
+    <key>commarightcomb.spncap</key>
+    <integer>170</integer>
     <key>vturned</key>
     <integer>-10</integer>
+  </dict>
+  <key>Iacute</key>
+  <dict>
+    <key>commarightcomb.spncap</key>
+    <integer>170</integer>
   </dict>
   <key>Ibar</key>
   <dict>
@@ -463,10 +541,14 @@
   </dict>
   <key>Ibarred</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>30</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>35</integer>
+    <key>commarightcomb.spncap</key>
+    <integer>10</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>65</integer>
     <key>public.kern2._L_uc_O_2ND</key>
     <integer>-5</integer>
     <key>public.kern2._x_sups_BOTH</key>
@@ -474,32 +556,52 @@
   </dict>
   <key>Ibreve</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>40</integer>
+    <key>commarightcomb.spncap</key>
+    <integer>290</integer>
   </dict>
   <key>Icaron</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>10</integer>
+    <key>commarightcomb.spncap</key>
+    <integer>315</integer>
   </dict>
   <key>Icircumflex</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>90</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>10</integer>
+    <key>commarightcomb.spncap</key>
+    <integer>270</integer>
   </dict>
   <key>Idieresis</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>115</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>10</integer>
+    <key>commarightcomb.spncap</key>
+    <integer>320</integer>
+  </dict>
+  <key>Idotaccent</key>
+  <dict>
+    <key>commarightcomb.spncap</key>
+    <integer>110</integer>
+  </dict>
+  <key>Igrave</key>
+  <dict>
+    <key>commarightcomb.spncap</key>
+    <integer>140</integer>
   </dict>
   <key>Imacron</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>45</integer>
+    <key>commarightcomb.spncap</key>
+    <integer>245</integer>
   </dict>
   <key>IotaLatin</key>
   <dict>
@@ -531,12 +633,14 @@
     <integer>-35</integer>
     <key>comma</key>
     <integer>10</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-190</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>-190</integer>
     <key>glottal</key>
     <integer>-70</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>-180</integer>
     <key>glottalreversed</key>
     <integer>-140</integer>
     <key>glottalstop</key>
@@ -616,8 +720,10 @@
   </dict>
   <key>Itilde</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>65</integer>
+    <key>commarightcomb.spncap</key>
+    <integer>330</integer>
   </dict>
   <key>Jbar</key>
   <dict>
@@ -628,13 +734,17 @@
   </dict>
   <key>Jcaron</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>10</integer>
+    <key>commarightcomb.spncap</key>
+    <integer>320</integer>
   </dict>
   <key>Jcircumflex</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>90</integer>
+    <key>commarightcomb.spncap</key>
+    <integer>270</integer>
   </dict>
   <key>L</key>
   <dict>
@@ -670,11 +780,15 @@
     <integer>-90</integer>
     <key>comma</key>
     <integer>35</integer>
+    <key>eightsuperior</key>
+    <integer>-75</integer>
+    <key>fivesuperior</key>
+    <integer>-75</integer>
+    <key>foursuperior</key>
+    <integer>-75</integer>
     <key>glottal</key>
     <integer>-45</integer>
     <key>glottalmodifier</key>
-    <integer>-85</integer>
-    <key>glottalmodifier.alt</key>
     <integer>-85</integer>
     <key>glottalreversed</key>
     <integer>-75</integer>
@@ -700,12 +814,28 @@
     <integer>-10</integer>
     <key>lwavybar</key>
     <integer>-60</integer>
+    <key>ninesuperior</key>
+    <integer>-75</integer>
+    <key>onesuperior</key>
+    <integer>-75</integer>
+    <key>registered</key>
+    <integer>-75</integer>
     <key>seven.LP</key>
     <integer>-100</integer>
+    <key>sevensuperior</key>
+    <integer>-75</integer>
+    <key>sixsuperior</key>
+    <integer>-75</integer>
     <key>theta.Latin</key>
     <integer>-35</integer>
     <key>thetamodifier</key>
     <integer>-85</integer>
+    <key>threesuperior</key>
+    <integer>-75</integer>
+    <key>trademark</key>
+    <integer>-75</integer>
+    <key>twosuperior</key>
+    <integer>-75</integer>
     <key>upsilonLatin</key>
     <integer>10</integer>
     <key>v</key>
@@ -716,6 +846,8 @@
     <integer>-85</integer>
     <key>ymodifier</key>
     <integer>-55</integer>
+    <key>zerosuperior</key>
+    <integer>-75</integer>
     <key>zmodifier</key>
     <integer>-85</integer>
     <key>public.kern2._L_lc_chiLatin_2ND</key>
@@ -772,8 +904,6 @@
     <integer>20</integer>
     <key>public.kern2._x_subs_BOTH</key>
     <integer>45</integer>
-    <key>public.kern2._x_sups_BOTH</key>
-    <integer>-75</integer>
   </dict>
   <key>Lacute</key>
   <dict>
@@ -809,11 +939,15 @@
     <integer>-90</integer>
     <key>comma</key>
     <integer>35</integer>
+    <key>eightsuperior</key>
+    <integer>-75</integer>
+    <key>fivesuperior</key>
+    <integer>-75</integer>
+    <key>foursuperior</key>
+    <integer>-75</integer>
     <key>glottal</key>
     <integer>-45</integer>
     <key>glottalmodifier</key>
-    <integer>-85</integer>
-    <key>glottalmodifier.alt</key>
     <integer>-85</integer>
     <key>glottalreversed</key>
     <integer>-75</integer>
@@ -839,12 +973,28 @@
     <integer>-10</integer>
     <key>lwavybar</key>
     <integer>-60</integer>
+    <key>ninesuperior</key>
+    <integer>-75</integer>
+    <key>onesuperior</key>
+    <integer>-75</integer>
+    <key>registered</key>
+    <integer>-75</integer>
     <key>seven.LP</key>
     <integer>-100</integer>
+    <key>sevensuperior</key>
+    <integer>-75</integer>
+    <key>sixsuperior</key>
+    <integer>-75</integer>
     <key>theta.Latin</key>
     <integer>-35</integer>
     <key>thetamodifier</key>
     <integer>-85</integer>
+    <key>threesuperior</key>
+    <integer>-75</integer>
+    <key>trademark</key>
+    <integer>-75</integer>
+    <key>twosuperior</key>
+    <integer>-75</integer>
     <key>upsilonLatin</key>
     <integer>10</integer>
     <key>v</key>
@@ -855,6 +1005,8 @@
     <integer>-85</integer>
     <key>ymodifier</key>
     <integer>-55</integer>
+    <key>zerosuperior</key>
+    <integer>-75</integer>
     <key>zmodifier</key>
     <integer>-85</integer>
     <key>public.kern2._L_lc_chiLatin_2ND</key>
@@ -911,8 +1063,6 @@
     <integer>20</integer>
     <key>public.kern2._x_subs_BOTH</key>
     <integer>45</integer>
-    <key>public.kern2._x_sups_BOTH</key>
-    <integer>-75</integer>
   </dict>
   <key>LambdaLatin</key>
   <dict>
@@ -920,9 +1070,9 @@
     <integer>-85</integer>
     <key>comma</key>
     <integer>35</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-100</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>-100</integer>
     <key>exclam</key>
     <integer>20</integer>
@@ -979,21 +1129,21 @@
   </dict>
   <key>Lambdabar.alt</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-130</integer>
     <key>public.kern2._L_lc_chiLatin_2ND</key>
     <integer>-65</integer>
   </dict>
   <key>Lambdabarcommaabove.alt</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-130</integer>
     <key>public.kern2._L_lc_chiLatin_2ND</key>
     <integer>-65</integer>
   </dict>
   <key>Lbar</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-145</integer>
   </dict>
   <key>Lbelt</key>
@@ -1030,11 +1180,15 @@
     <integer>-90</integer>
     <key>comma</key>
     <integer>35</integer>
+    <key>eightsuperior</key>
+    <integer>-75</integer>
+    <key>fivesuperior</key>
+    <integer>-75</integer>
+    <key>foursuperior</key>
+    <integer>-75</integer>
     <key>glottal</key>
     <integer>-45</integer>
     <key>glottalmodifier</key>
-    <integer>-85</integer>
-    <key>glottalmodifier.alt</key>
     <integer>-85</integer>
     <key>glottalreversed</key>
     <integer>-75</integer>
@@ -1060,12 +1214,28 @@
     <integer>-10</integer>
     <key>lwavybar</key>
     <integer>-60</integer>
+    <key>ninesuperior</key>
+    <integer>-75</integer>
+    <key>onesuperior</key>
+    <integer>-75</integer>
+    <key>registered</key>
+    <integer>-75</integer>
     <key>seven.LP</key>
     <integer>-100</integer>
+    <key>sevensuperior</key>
+    <integer>-75</integer>
+    <key>sixsuperior</key>
+    <integer>-75</integer>
     <key>theta.Latin</key>
     <integer>-35</integer>
     <key>thetamodifier</key>
     <integer>-85</integer>
+    <key>threesuperior</key>
+    <integer>-75</integer>
+    <key>trademark</key>
+    <integer>-75</integer>
+    <key>twosuperior</key>
+    <integer>-75</integer>
     <key>upsilonLatin</key>
     <integer>10</integer>
     <key>v</key>
@@ -1076,6 +1246,8 @@
     <integer>-85</integer>
     <key>ymodifier</key>
     <integer>-55</integer>
+    <key>zerosuperior</key>
+    <integer>-75</integer>
     <key>zmodifier</key>
     <integer>-85</integer>
     <key>public.kern2._L_lc_chiLatin_2ND</key>
@@ -1132,8 +1304,6 @@
     <integer>20</integer>
     <key>public.kern2._x_subs_BOTH</key>
     <integer>45</integer>
-    <key>public.kern2._x_sups_BOTH</key>
-    <integer>-75</integer>
   </dict>
   <key>Lcaron</key>
   <dict>
@@ -1191,9 +1361,9 @@
     <integer>-90</integer>
     <key>comma</key>
     <integer>15</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-40</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>-30</integer>
     <key>degree</key>
     <integer>-45</integer>
@@ -1354,11 +1524,15 @@
     <integer>-90</integer>
     <key>comma</key>
     <integer>35</integer>
+    <key>eightsuperior</key>
+    <integer>-75</integer>
+    <key>fivesuperior</key>
+    <integer>-75</integer>
+    <key>foursuperior</key>
+    <integer>-75</integer>
     <key>glottal</key>
     <integer>-45</integer>
     <key>glottalmodifier</key>
-    <integer>-85</integer>
-    <key>glottalmodifier.alt</key>
     <integer>-85</integer>
     <key>glottalreversed</key>
     <integer>-75</integer>
@@ -1384,12 +1558,28 @@
     <integer>-10</integer>
     <key>lwavybar</key>
     <integer>-60</integer>
+    <key>ninesuperior</key>
+    <integer>-75</integer>
+    <key>onesuperior</key>
+    <integer>-75</integer>
+    <key>registered</key>
+    <integer>-75</integer>
     <key>seven.LP</key>
     <integer>-100</integer>
+    <key>sevensuperior</key>
+    <integer>-75</integer>
+    <key>sixsuperior</key>
+    <integer>-75</integer>
     <key>theta.Latin</key>
     <integer>-35</integer>
     <key>thetamodifier</key>
     <integer>-85</integer>
+    <key>threesuperior</key>
+    <integer>-75</integer>
+    <key>trademark</key>
+    <integer>-75</integer>
+    <key>twosuperior</key>
+    <integer>-75</integer>
     <key>upsilonLatin</key>
     <integer>10</integer>
     <key>v</key>
@@ -1400,6 +1590,8 @@
     <integer>-85</integer>
     <key>ymodifier</key>
     <integer>-55</integer>
+    <key>zerosuperior</key>
+    <integer>-75</integer>
     <key>zmodifier</key>
     <integer>-85</integer>
     <key>public.kern2._L_lc_chiLatin_2ND</key>
@@ -1456,8 +1648,6 @@
     <integer>20</integer>
     <key>public.kern2._x_subs_BOTH</key>
     <integer>45</integer>
-    <key>public.kern2._x_sups_BOTH</key>
-    <integer>-75</integer>
   </dict>
   <key>Ldblbar</key>
   <dict>
@@ -1493,11 +1683,15 @@
     <integer>-90</integer>
     <key>comma</key>
     <integer>35</integer>
+    <key>eightsuperior</key>
+    <integer>-75</integer>
+    <key>fivesuperior</key>
+    <integer>-75</integer>
+    <key>foursuperior</key>
+    <integer>-75</integer>
     <key>glottal</key>
     <integer>-45</integer>
     <key>glottalmodifier</key>
-    <integer>-85</integer>
-    <key>glottalmodifier.alt</key>
     <integer>-85</integer>
     <key>glottalreversed</key>
     <integer>-75</integer>
@@ -1523,12 +1717,28 @@
     <integer>-10</integer>
     <key>lwavybar</key>
     <integer>-60</integer>
+    <key>ninesuperior</key>
+    <integer>-75</integer>
+    <key>onesuperior</key>
+    <integer>-75</integer>
+    <key>registered</key>
+    <integer>-75</integer>
     <key>seven.LP</key>
     <integer>-100</integer>
+    <key>sevensuperior</key>
+    <integer>-75</integer>
+    <key>sixsuperior</key>
+    <integer>-75</integer>
     <key>theta.Latin</key>
     <integer>-35</integer>
     <key>thetamodifier</key>
     <integer>-85</integer>
+    <key>threesuperior</key>
+    <integer>-75</integer>
+    <key>trademark</key>
+    <integer>-75</integer>
+    <key>twosuperior</key>
+    <integer>-75</integer>
     <key>upsilonLatin</key>
     <integer>10</integer>
     <key>v</key>
@@ -1539,6 +1749,8 @@
     <integer>-85</integer>
     <key>ymodifier</key>
     <integer>-55</integer>
+    <key>zerosuperior</key>
+    <integer>-75</integer>
     <key>zmodifier</key>
     <integer>-85</integer>
     <key>public.kern2._L_lc_chiLatin_2ND</key>
@@ -1595,8 +1807,6 @@
     <integer>20</integer>
     <key>public.kern2._x_subs_BOTH</key>
     <integer>45</integer>
-    <key>public.kern2._x_sups_BOTH</key>
-    <integer>-75</integer>
   </dict>
   <key>Ldotbelow</key>
   <dict>
@@ -1632,11 +1842,15 @@
     <integer>-90</integer>
     <key>comma</key>
     <integer>35</integer>
+    <key>eightsuperior</key>
+    <integer>-75</integer>
+    <key>fivesuperior</key>
+    <integer>-75</integer>
+    <key>foursuperior</key>
+    <integer>-75</integer>
     <key>glottal</key>
     <integer>-45</integer>
     <key>glottalmodifier</key>
-    <integer>-85</integer>
-    <key>glottalmodifier.alt</key>
     <integer>-85</integer>
     <key>glottalreversed</key>
     <integer>-75</integer>
@@ -1662,12 +1876,28 @@
     <integer>-10</integer>
     <key>lwavybar</key>
     <integer>-60</integer>
+    <key>ninesuperior</key>
+    <integer>-75</integer>
+    <key>onesuperior</key>
+    <integer>-75</integer>
+    <key>registered</key>
+    <integer>-75</integer>
     <key>seven.LP</key>
     <integer>-100</integer>
+    <key>sevensuperior</key>
+    <integer>-75</integer>
+    <key>sixsuperior</key>
+    <integer>-75</integer>
     <key>theta.Latin</key>
     <integer>-35</integer>
     <key>thetamodifier</key>
     <integer>-85</integer>
+    <key>threesuperior</key>
+    <integer>-75</integer>
+    <key>trademark</key>
+    <integer>-75</integer>
+    <key>twosuperior</key>
+    <integer>-75</integer>
     <key>upsilonLatin</key>
     <integer>10</integer>
     <key>v</key>
@@ -1678,6 +1908,8 @@
     <integer>-85</integer>
     <key>ymodifier</key>
     <integer>-55</integer>
+    <key>zerosuperior</key>
+    <integer>-75</integer>
     <key>zmodifier</key>
     <integer>-85</integer>
     <key>public.kern2._L_lc_chiLatin_2ND</key>
@@ -1734,8 +1966,6 @@
     <integer>20</integer>
     <key>public.kern2._x_subs_BOTH</key>
     <integer>45</integer>
-    <key>public.kern2._x_sups_BOTH</key>
-    <integer>-75</integer>
   </dict>
   <key>Llinebelow</key>
   <dict>
@@ -1771,11 +2001,15 @@
     <integer>-90</integer>
     <key>comma</key>
     <integer>35</integer>
+    <key>eightsuperior</key>
+    <integer>-75</integer>
+    <key>fivesuperior</key>
+    <integer>-75</integer>
+    <key>foursuperior</key>
+    <integer>-75</integer>
     <key>glottal</key>
     <integer>-45</integer>
     <key>glottalmodifier</key>
-    <integer>-85</integer>
-    <key>glottalmodifier.alt</key>
     <integer>-85</integer>
     <key>glottalreversed</key>
     <integer>-75</integer>
@@ -1801,12 +2035,28 @@
     <integer>-10</integer>
     <key>lwavybar</key>
     <integer>-60</integer>
+    <key>ninesuperior</key>
+    <integer>-75</integer>
+    <key>onesuperior</key>
+    <integer>-75</integer>
+    <key>registered</key>
+    <integer>-75</integer>
     <key>seven.LP</key>
     <integer>-100</integer>
+    <key>sevensuperior</key>
+    <integer>-75</integer>
+    <key>sixsuperior</key>
+    <integer>-75</integer>
     <key>theta.Latin</key>
     <integer>-35</integer>
     <key>thetamodifier</key>
     <integer>-85</integer>
+    <key>threesuperior</key>
+    <integer>-75</integer>
+    <key>trademark</key>
+    <integer>-75</integer>
+    <key>twosuperior</key>
+    <integer>-75</integer>
     <key>upsilonLatin</key>
     <integer>10</integer>
     <key>v</key>
@@ -1817,6 +2067,8 @@
     <integer>-85</integer>
     <key>ymodifier</key>
     <integer>-55</integer>
+    <key>zerosuperior</key>
+    <integer>-75</integer>
     <key>zmodifier</key>
     <integer>-85</integer>
     <key>public.kern2._L_lc_chiLatin_2ND</key>
@@ -1873,8 +2125,6 @@
     <integer>20</integer>
     <key>public.kern2._x_subs_BOTH</key>
     <integer>45</integer>
-    <key>public.kern2._x_sups_BOTH</key>
-    <integer>-75</integer>
   </dict>
   <key>Lmacronbelow</key>
   <dict>
@@ -1910,11 +2160,15 @@
     <integer>-90</integer>
     <key>comma</key>
     <integer>35</integer>
+    <key>eightsuperior</key>
+    <integer>-75</integer>
+    <key>fivesuperior</key>
+    <integer>-75</integer>
+    <key>foursuperior</key>
+    <integer>-75</integer>
     <key>glottal</key>
     <integer>-45</integer>
     <key>glottalmodifier</key>
-    <integer>-85</integer>
-    <key>glottalmodifier.alt</key>
     <integer>-85</integer>
     <key>glottalreversed</key>
     <integer>-75</integer>
@@ -1940,12 +2194,28 @@
     <integer>-10</integer>
     <key>lwavybar</key>
     <integer>-60</integer>
+    <key>ninesuperior</key>
+    <integer>-75</integer>
+    <key>onesuperior</key>
+    <integer>-75</integer>
+    <key>registered</key>
+    <integer>-75</integer>
     <key>seven.LP</key>
     <integer>-100</integer>
+    <key>sevensuperior</key>
+    <integer>-75</integer>
+    <key>sixsuperior</key>
+    <integer>-75</integer>
     <key>theta.Latin</key>
     <integer>-35</integer>
     <key>thetamodifier</key>
     <integer>-85</integer>
+    <key>threesuperior</key>
+    <integer>-75</integer>
+    <key>trademark</key>
+    <integer>-75</integer>
+    <key>twosuperior</key>
+    <integer>-75</integer>
     <key>upsilonLatin</key>
     <integer>10</integer>
     <key>v</key>
@@ -1956,6 +2226,8 @@
     <integer>-85</integer>
     <key>ymodifier</key>
     <integer>-55</integer>
+    <key>zerosuperior</key>
+    <integer>-75</integer>
     <key>zmodifier</key>
     <integer>-85</integer>
     <key>public.kern2._L_lc_chiLatin_2ND</key>
@@ -2012,8 +2284,6 @@
     <integer>20</integer>
     <key>public.kern2._x_subs_BOTH</key>
     <integer>45</integer>
-    <key>public.kern2._x_sups_BOTH</key>
-    <integer>-75</integer>
   </dict>
   <key>Lslash</key>
   <dict>
@@ -2049,11 +2319,15 @@
     <integer>-90</integer>
     <key>comma</key>
     <integer>35</integer>
+    <key>eightsuperior</key>
+    <integer>-75</integer>
+    <key>fivesuperior</key>
+    <integer>-75</integer>
+    <key>foursuperior</key>
+    <integer>-75</integer>
     <key>glottal</key>
     <integer>-45</integer>
     <key>glottalmodifier</key>
-    <integer>-85</integer>
-    <key>glottalmodifier.alt</key>
     <integer>-85</integer>
     <key>glottalreversed</key>
     <integer>-75</integer>
@@ -2079,12 +2353,28 @@
     <integer>-10</integer>
     <key>lwavybar</key>
     <integer>-60</integer>
+    <key>ninesuperior</key>
+    <integer>-75</integer>
+    <key>onesuperior</key>
+    <integer>-75</integer>
+    <key>registered</key>
+    <integer>-75</integer>
     <key>seven.LP</key>
     <integer>-100</integer>
+    <key>sevensuperior</key>
+    <integer>-75</integer>
+    <key>sixsuperior</key>
+    <integer>-75</integer>
     <key>theta.Latin</key>
     <integer>-35</integer>
     <key>thetamodifier</key>
     <integer>-85</integer>
+    <key>threesuperior</key>
+    <integer>-75</integer>
+    <key>trademark</key>
+    <integer>-75</integer>
+    <key>twosuperior</key>
+    <integer>-75</integer>
     <key>upsilonLatin</key>
     <integer>10</integer>
     <key>v</key>
@@ -2095,6 +2385,8 @@
     <integer>-85</integer>
     <key>ymodifier</key>
     <integer>-55</integer>
+    <key>zerosuperior</key>
+    <integer>-75</integer>
     <key>zmodifier</key>
     <integer>-85</integer>
     <key>public.kern2._L_lc_chiLatin_2ND</key>
@@ -2151,8 +2443,6 @@
     <integer>20</integer>
     <key>public.kern2._x_subs_BOTH</key>
     <integer>45</integer>
-    <key>public.kern2._x_sups_BOTH</key>
-    <integer>-75</integer>
   </dict>
   <key>Lwavybar</key>
   <dict>
@@ -2188,11 +2478,15 @@
     <integer>-90</integer>
     <key>comma</key>
     <integer>35</integer>
+    <key>eightsuperior</key>
+    <integer>-75</integer>
+    <key>fivesuperior</key>
+    <integer>-75</integer>
+    <key>foursuperior</key>
+    <integer>-75</integer>
     <key>glottal</key>
     <integer>-45</integer>
     <key>glottalmodifier</key>
-    <integer>-85</integer>
-    <key>glottalmodifier.alt</key>
     <integer>-85</integer>
     <key>glottalreversed</key>
     <integer>-75</integer>
@@ -2218,12 +2512,28 @@
     <integer>-10</integer>
     <key>lwavybar</key>
     <integer>-60</integer>
+    <key>ninesuperior</key>
+    <integer>-75</integer>
+    <key>onesuperior</key>
+    <integer>-75</integer>
+    <key>registered</key>
+    <integer>-75</integer>
     <key>seven.LP</key>
     <integer>-100</integer>
+    <key>sevensuperior</key>
+    <integer>-75</integer>
+    <key>sixsuperior</key>
+    <integer>-75</integer>
     <key>theta.Latin</key>
     <integer>-35</integer>
     <key>thetamodifier</key>
     <integer>-85</integer>
+    <key>threesuperior</key>
+    <integer>-75</integer>
+    <key>trademark</key>
+    <integer>-75</integer>
+    <key>twosuperior</key>
+    <integer>-75</integer>
     <key>upsilonLatin</key>
     <integer>10</integer>
     <key>v</key>
@@ -2234,6 +2544,8 @@
     <integer>-85</integer>
     <key>ymodifier</key>
     <integer>-55</integer>
+    <key>zerosuperior</key>
+    <integer>-75</integer>
     <key>zmodifier</key>
     <integer>-85</integer>
     <key>public.kern2._L_lc_chiLatin_2ND</key>
@@ -2290,8 +2602,6 @@
     <integer>20</integer>
     <key>public.kern2._x_subs_BOTH</key>
     <integer>45</integer>
-    <key>public.kern2._x_sups_BOTH</key>
-    <integer>-75</integer>
   </dict>
   <key>M</key>
   <dict>
@@ -2326,7 +2636,7 @@
   </dict>
   <key>Nlongright</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-20</integer>
     <key>seven.LP</key>
     <integer>-20</integer>
@@ -2349,12 +2659,12 @@
   </dict>
   <key>Oslash</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-75</integer>
   </dict>
   <key>Oslashacute</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-75</integer>
   </dict>
   <key>P</key>
@@ -2387,12 +2697,14 @@
     <integer>-95</integer>
     <key>comma</key>
     <integer>-120</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>25</integer>
     <key>degree</key>
     <integer>15</integer>
     <key>eopen</key>
     <integer>-20</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>25</integer>
     <key>halfringrightmodifier</key>
     <integer>25</integer>
     <key>ibarred</key>
@@ -2484,20 +2796,24 @@
     <key>public.kern2._x_sups_BOTH</key>
     <integer>45</integer>
   </dict>
+  <key>Scaron</key>
+  <dict>
+    <key>commarightcomb.spncap</key>
+    <integer>100</integer>
+  </dict>
+  <key>Scircumflex</key>
+  <dict>
+    <key>commarightcomb.spncap</key>
+    <integer>60</integer>
+  </dict>
   <key>Tbar</key>
   <dict>
-    <key>Dcroat</key>
-    <integer>-10</integer>
     <key>Eopen</key>
     <integer>-35</integer>
-    <key>Eth</key>
-    <integer>-10</integer>
     <key>Germandbls</key>
     <integer>-20</integer>
     <key>Glottalstop</key>
     <integer>20</integer>
-    <key>Ibar</key>
-    <integer>-10</integer>
     <key>Lbelt</key>
     <integer>-40</integer>
     <key>Ldblbar</key>
@@ -2506,14 +2822,8 @@
     <integer>-30</integer>
     <key>Lwavybar</key>
     <integer>-60</integer>
-    <key>M</key>
-    <integer>-20</integer>
-    <key>Ubar</key>
-    <integer>-10</integer>
     <key>UpsilonLatin</key>
     <integer>-10</integer>
-    <key>V</key>
-    <integer>25</integer>
     <key>X</key>
     <integer>20</integer>
     <key>adieresis</key>
@@ -2526,10 +2836,12 @@
     <integer>-20</integer>
     <key>comma</key>
     <integer>-90</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>30</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>45</integer>
+    <key>commarightcomb.spncap</key>
+    <integer>10</integer>
     <key>degree</key>
     <integer>30</integer>
     <key>ecircumflex</key>
@@ -2541,7 +2853,7 @@
     <key>glottalmodifier</key>
     <integer>55</integer>
     <key>glottalmodifier.alt</key>
-    <integer>55</integer>
+    <integer>65</integer>
     <key>glottalreversed</key>
     <integer>10</integer>
     <key>glottalstop</key>
@@ -2572,8 +2884,6 @@
     <integer>80</integer>
     <key>jcircumflex</key>
     <integer>90</integer>
-    <key>kip</key>
-    <integer>-10</integer>
     <key>lambdaLatin</key>
     <integer>10</integer>
     <key>lambdabar</key>
@@ -2598,8 +2908,6 @@
     <integer>-55</integer>
     <key>oopen</key>
     <integer>-115</integer>
-    <key>rcaron</key>
-    <integer>-85</integer>
     <key>s</key>
     <integer>-90</integer>
     <key>scaron</key>
@@ -2705,6 +3013,11 @@
     <key>public.kern2._x_sups_BOTH</key>
     <integer>70</integer>
   </dict>
+  <key>Tcaron</key>
+  <dict>
+    <key>commarightcomb.spncap</key>
+    <integer>80</integer>
+  </dict>
   <key>Thorn</key>
   <dict>
     <key>Dcroat</key>
@@ -2733,12 +3046,14 @@
     <integer>35</integer>
     <key>comma</key>
     <integer>-90</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-90</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>-10</integer>
     <key>glottal</key>
     <integer>-50</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>-40</integer>
     <key>kip</key>
     <integer>35</integer>
     <key>lambdaLatin</key>
@@ -2808,6 +3123,31 @@
     <key>public.kern2._x_sups_BOTH</key>
     <integer>30</integer>
   </dict>
+  <key>Tslash</key>
+  <dict>
+    <key>commarightcomb.spncap</key>
+    <integer>30</integer>
+  </dict>
+  <key>Ubreve</key>
+  <dict>
+    <key>commarightcomb.spncap</key>
+    <integer>10</integer>
+  </dict>
+  <key>Ucaron</key>
+  <dict>
+    <key>commarightcomb.spncap</key>
+    <integer>10</integer>
+  </dict>
+  <key>Udieresis</key>
+  <dict>
+    <key>commarightcomb.spncap</key>
+    <integer>20</integer>
+  </dict>
+  <key>Uhungarumlaut</key>
+  <dict>
+    <key>commarightcomb.spncap</key>
+    <integer>65</integer>
+  </dict>
   <key>UpsilonLatin</key>
   <dict>
     <key>Eturned</key>
@@ -2816,10 +3156,12 @@
     <integer>-5</integer>
     <key>X</key>
     <integer>-30</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-40</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>-35</integer>
+    <key>commarightcomb.spncap</key>
+    <integer>10</integer>
     <key>lambdaLatin</key>
     <integer>-10</integer>
     <key>lambdabar</key>
@@ -2873,9 +3215,14 @@
     <key>public.kern2._x_sups_BOTH</key>
     <integer>20</integer>
   </dict>
+  <key>Utilde</key>
+  <dict>
+    <key>commarightcomb.spncap</key>
+    <integer>30</integer>
+  </dict>
   <key>Vhook</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-70</integer>
   </dict>
   <key>X</key>
@@ -2896,7 +3243,9 @@
     <integer>-30</integer>
     <key>comma</key>
     <integer>25</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
+    <integer>10</integer>
+    <key>commarightcomb.spncap</key>
     <integer>10</integer>
     <key>degree</key>
     <integer>20</integer>
@@ -2991,10 +3340,23 @@
     <key>public.kern2._x_sups_BOTH</key>
     <integer>25</integer>
   </dict>
+  <key>Ydieresis</key>
+  <dict>
+    <key>commarightcomb.spncap</key>
+    <integer>20</integer>
+  </dict>
+  <key>Zcaron</key>
+  <dict>
+    <key>commarightcomb.spncap</key>
+    <integer>85</integer>
+  </dict>
+  <key>Zcircumflex</key>
+  <dict>
+    <key>commarightcomb.spncap</key>
+    <integer>40</integer>
+  </dict>
   <key>a</key>
   <dict>
-    <key>glottalmodifier.alt</key>
-    <integer>-15</integer>
     <key>wmodifier</key>
     <integer>-15</integer>
     <key>ymodifier</key>
@@ -3004,8 +3366,6 @@
   <dict>
     <key>glottalmodifier</key>
     <integer>-5</integer>
-    <key>glottalmodifier.alt</key>
-    <integer>-15</integer>
     <key>wmodifier</key>
     <integer>-15</integer>
     <key>ymodifier</key>
@@ -3015,10 +3375,10 @@
   </dict>
   <key>abreve</key>
   <dict>
+    <key>commarightcomb.spn</key>
+    <integer>40</integer>
     <key>glottalmodifier</key>
     <integer>-5</integer>
-    <key>glottalmodifier.alt</key>
-    <integer>-15</integer>
     <key>wmodifier</key>
     <integer>-15</integer>
     <key>ymodifier</key>
@@ -3028,10 +3388,10 @@
   </dict>
   <key>acaron</key>
   <dict>
+    <key>commarightcomb.spn</key>
+    <integer>30</integer>
     <key>glottalmodifier</key>
     <integer>-5</integer>
-    <key>glottalmodifier.alt</key>
-    <integer>-15</integer>
     <key>wmodifier</key>
     <integer>-15</integer>
     <key>ymodifier</key>
@@ -3041,10 +3401,10 @@
   </dict>
   <key>acircumflex</key>
   <dict>
+    <key>commarightcomb.spn</key>
+    <integer>20</integer>
     <key>glottalmodifier</key>
     <integer>-5</integer>
-    <key>glottalmodifier.alt</key>
-    <integer>-15</integer>
     <key>wmodifier</key>
     <integer>-15</integer>
     <key>ymodifier</key>
@@ -3054,10 +3414,10 @@
   </dict>
   <key>adieresis</key>
   <dict>
+    <key>commarightcomb.spn</key>
+    <integer>50</integer>
     <key>glottalmodifier</key>
     <integer>-5</integer>
-    <key>glottalmodifier.alt</key>
-    <integer>-15</integer>
     <key>wmodifier</key>
     <integer>-15</integer>
     <key>ymodifier</key>
@@ -3069,8 +3429,6 @@
   <dict>
     <key>glottalmodifier</key>
     <integer>-5</integer>
-    <key>glottalmodifier.alt</key>
-    <integer>-15</integer>
     <key>wmodifier</key>
     <integer>-15</integer>
     <key>ymodifier</key>
@@ -3082,8 +3440,6 @@
   <dict>
     <key>glottalmodifier</key>
     <integer>-5</integer>
-    <key>glottalmodifier.alt</key>
-    <integer>-15</integer>
     <key>wmodifier</key>
     <integer>-15</integer>
     <key>ymodifier</key>
@@ -3095,8 +3451,6 @@
   <dict>
     <key>glottalmodifier</key>
     <integer>-5</integer>
-    <key>glottalmodifier.alt</key>
-    <integer>-15</integer>
     <key>wmodifier</key>
     <integer>-15</integer>
     <key>ymodifier</key>
@@ -3104,12 +3458,15 @@
     <key>zmodifier</key>
     <integer>15</integer>
   </dict>
+  <key>ampersand</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>10</integer>
+  </dict>
   <key>aogonek</key>
   <dict>
     <key>glottalmodifier</key>
     <integer>-5</integer>
-    <key>glottalmodifier.alt</key>
-    <integer>-15</integer>
     <key>wmodifier</key>
     <integer>-15</integer>
     <key>ymodifier</key>
@@ -3121,8 +3478,6 @@
   <dict>
     <key>glottalmodifier</key>
     <integer>-5</integer>
-    <key>glottalmodifier.alt</key>
-    <integer>-15</integer>
     <key>wmodifier</key>
     <integer>-15</integer>
     <key>ymodifier</key>
@@ -3134,8 +3489,6 @@
   <dict>
     <key>glottalmodifier</key>
     <integer>-5</integer>
-    <key>glottalmodifier.alt</key>
-    <integer>-15</integer>
     <key>wmodifier</key>
     <integer>-15</integer>
     <key>ymodifier</key>
@@ -3147,8 +3500,6 @@
   <dict>
     <key>glottalmodifier</key>
     <integer>-5</integer>
-    <key>glottalmodifier.alt</key>
-    <integer>-15</integer>
     <key>wmodifier</key>
     <integer>-15</integer>
     <key>ymodifier</key>
@@ -3160,8 +3511,6 @@
   <dict>
     <key>glottalmodifier</key>
     <integer>-5</integer>
-    <key>glottalmodifier.alt</key>
-    <integer>-15</integer>
     <key>wmodifier</key>
     <integer>-15</integer>
     <key>ymodifier</key>
@@ -3173,8 +3522,6 @@
   <dict>
     <key>glottalmodifier</key>
     <integer>-5</integer>
-    <key>glottalmodifier.alt</key>
-    <integer>-15</integer>
     <key>wmodifier</key>
     <integer>-15</integer>
     <key>ymodifier</key>
@@ -3184,10 +3531,10 @@
   </dict>
   <key>aslash</key>
   <dict>
+    <key>commarightcomb.spn</key>
+    <integer>50</integer>
     <key>glottalmodifier</key>
     <integer>-5</integer>
-    <key>glottalmodifier.alt</key>
-    <integer>-15</integer>
     <key>wmodifier</key>
     <integer>-15</integer>
     <key>ymodifier</key>
@@ -3197,10 +3544,10 @@
   </dict>
   <key>aslash.2</key>
   <dict>
+    <key>commarightcomb.spn</key>
+    <integer>50</integer>
     <key>glottalmodifier</key>
     <integer>-5</integer>
-    <key>glottalmodifier.alt</key>
-    <integer>-15</integer>
     <key>wmodifier</key>
     <integer>-15</integer>
     <key>ymodifier</key>
@@ -3210,10 +3557,10 @@
   </dict>
   <key>atilde</key>
   <dict>
+    <key>commarightcomb.spn</key>
+    <integer>70</integer>
     <key>glottalmodifier</key>
     <integer>-5</integer>
-    <key>glottalmodifier.alt</key>
-    <integer>-15</integer>
     <key>wmodifier</key>
     <integer>-15</integer>
     <key>ymodifier</key>
@@ -3221,15 +3568,40 @@
     <key>zmodifier</key>
     <integer>15</integer>
   </dict>
+  <key>cacute</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>60</integer>
+  </dict>
+  <key>ccaron</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>160</integer>
+  </dict>
+  <key>ccircumflex</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>120</integer>
+  </dict>
+  <key>cdotaccent</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>40</integer>
+  </dict>
+  <key>colonmodifier</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>10</integer>
+  </dict>
   <key>comma</key>
   <dict>
     <key>Tslash</key>
     <integer>-70</integer>
     <key>X</key>
     <integer>25</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-110</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>-110</integer>
     <key>glottalmodifier</key>
     <integer>-75</integer>
@@ -3276,7 +3648,7 @@
     <key>public.kern2._x_sups_BOTH</key>
     <integer>-120</integer>
   </dict>
-  <key>commarightcomb</key>
+  <key>commarightcomb.sp</key>
   <dict>
     <key>Hbar</key>
     <integer>25</integer>
@@ -3298,7 +3670,7 @@
     <integer>-160</integer>
     <key>X</key>
     <integer>25</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>40</integer>
     <key>glottalmodifier.alt</key>
     <integer>20</integer>
@@ -3319,7 +3691,7 @@
     <key>public.kern2._L_uc_Y_2ND</key>
     <integer>65</integer>
   </dict>
-  <key>commarightcomb.case</key>
+  <key>commarightcomb.spcase</key>
   <dict>
     <key>Hbar</key>
     <integer>40</integer>
@@ -3341,7 +3713,7 @@
     <integer>-70</integer>
     <key>X</key>
     <integer>-20</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>10</integer>
     <key>glottalmodifier.alt</key>
     <integer>40</integer>
@@ -3360,6 +3732,549 @@
     <key>public.kern2._L_uc_S_2ND</key>
     <integer>35</integer>
   </dict>
+  <key>commarightcomb.spn</key>
+  <dict>
+    <key>Euro</key>
+    <integer>110</integer>
+    <key>abreve</key>
+    <integer>30</integer>
+    <key>acaron</key>
+    <integer>20</integer>
+    <key>adieresis</key>
+    <integer>60</integer>
+    <key>amacron</key>
+    <integer>10</integer>
+    <key>ampersand</key>
+    <integer>205</integer>
+    <key>asterisk</key>
+    <integer>210</integer>
+    <key>at</key>
+    <integer>120</integer>
+    <key>atilde</key>
+    <integer>20</integer>
+    <key>backslash</key>
+    <integer>240</integer>
+    <key>bar</key>
+    <integer>120</integer>
+    <key>braceleft</key>
+    <integer>60</integer>
+    <key>braceleft.case</key>
+    <integer>60</integer>
+    <key>bracketleft</key>
+    <integer>230</integer>
+    <key>bracketleft.case</key>
+    <integer>240</integer>
+    <key>brokenbar</key>
+    <integer>140</integer>
+    <key>ccaron</key>
+    <integer>50</integer>
+    <key>ccircumflex</key>
+    <integer>30</integer>
+    <key>colonmodifier</key>
+    <integer>10</integer>
+    <key>copyright</key>
+    <integer>170</integer>
+    <key>dagger</key>
+    <integer>140</integer>
+    <key>daggerdbl</key>
+    <integer>140</integer>
+    <key>degree</key>
+    <integer>150</integer>
+    <key>dollar</key>
+    <integer>230</integer>
+    <key>dollar.2</key>
+    <integer>230</integer>
+    <key>dotsinological</key>
+    <integer>10</integer>
+    <key>ebreve</key>
+    <integer>60</integer>
+    <key>ecaron</key>
+    <integer>40</integer>
+    <key>ecircumflex</key>
+    <integer>30</integer>
+    <key>edieresis</key>
+    <integer>130</integer>
+    <key>eight</key>
+    <integer>190</integer>
+    <key>eight.LP</key>
+    <integer>180</integer>
+    <key>eight.numr</key>
+    <integer>250</integer>
+    <key>emacron</key>
+    <integer>30</integer>
+    <key>emacronacute</key>
+    <integer>30</integer>
+    <key>emacrongrave</key>
+    <integer>30</integer>
+    <key>eth</key>
+    <integer>110</integer>
+    <key>exclam</key>
+    <integer>190</integer>
+    <key>fhook</key>
+    <integer>195</integer>
+    <key>five</key>
+    <integer>190</integer>
+    <key>five.LP</key>
+    <integer>180</integer>
+    <key>five.numr</key>
+    <integer>250</integer>
+    <key>four</key>
+    <integer>190</integer>
+    <key>four.numr</key>
+    <integer>170</integer>
+    <key>gamma.Latin</key>
+    <integer>10</integer>
+    <key>gbreve</key>
+    <integer>20</integer>
+    <key>gcaron</key>
+    <integer>60</integer>
+    <key>gcircumflex</key>
+    <integer>30</integer>
+    <key>germandbls</key>
+    <integer>180</integer>
+    <key>glottal</key>
+    <integer>280</integer>
+    <key>glottalmodifier</key>
+    <integer>285</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>280</integer>
+    <key>glottalreversed</key>
+    <integer>260</integer>
+    <key>glottalstop</key>
+    <integer>10</integer>
+    <key>gmacron</key>
+    <integer>30</integer>
+    <key>halflongsign</key>
+    <integer>20</integer>
+    <key>halflongsign.alt</key>
+    <integer>10</integer>
+    <key>halfringleftmodifier</key>
+    <integer>190</integer>
+    <key>halfringrightmodifier</key>
+    <integer>230</integer>
+    <key>hbar</key>
+    <integer>280</integer>
+    <key>hmodifier</key>
+    <integer>270</integer>
+    <key>i.dotless</key>
+    <integer>230</integer>
+    <key>iacute</key>
+    <integer>120</integer>
+    <key>ibreve</key>
+    <integer>295</integer>
+    <key>icaron</key>
+    <integer>300</integer>
+    <key>icircumflex</key>
+    <integer>270</integer>
+    <key>idieresis</key>
+    <integer>370</integer>
+    <key>idotbelow.dotless</key>
+    <integer>240</integer>
+    <key>igrave</key>
+    <integer>210</integer>
+    <key>ijacute</key>
+    <integer>120</integer>
+    <key>imacron</key>
+    <integer>250</integer>
+    <key>iogonek.dotless</key>
+    <integer>240</integer>
+    <key>iogonek.dotless.alt</key>
+    <integer>240</integer>
+    <key>iogonek.dotless.alt2</key>
+    <integer>240</integer>
+    <key>itilde</key>
+    <integer>330</integer>
+    <key>j</key>
+    <integer>230</integer>
+    <key>j.dotless</key>
+    <integer>230</integer>
+    <key>jcaron</key>
+    <integer>300</integer>
+    <key>jcircumflex</key>
+    <integer>280</integer>
+    <key>lbelt</key>
+    <integer>10</integer>
+    <key>lbelt.alt</key>
+    <integer>200</integer>
+    <key>longsign</key>
+    <integer>20</integer>
+    <key>longsign.alt</key>
+    <integer>10</integer>
+    <key>lslash</key>
+    <integer>140</integer>
+    <key>lwavybar</key>
+    <integer>70</integer>
+    <key>ncaron</key>
+    <integer>10</integer>
+    <key>nine</key>
+    <integer>190</integer>
+    <key>nine.LP</key>
+    <integer>200</integer>
+    <key>nine.numr</key>
+    <integer>250</integer>
+    <key>ntilde</key>
+    <integer>20</integer>
+    <key>numero</key>
+    <integer>210</integer>
+    <key>obreve</key>
+    <integer>30</integer>
+    <key>ocaron</key>
+    <integer>20</integer>
+    <key>ocircumflex</key>
+    <integer>20</integer>
+    <key>odieresis</key>
+    <integer>100</integer>
+    <key>ohungarumlaut</key>
+    <integer>20</integer>
+    <key>omacongrave</key>
+    <integer>20</integer>
+    <key>omacron</key>
+    <integer>20</integer>
+    <key>omacronacute</key>
+    <integer>20</integer>
+    <key>one</key>
+    <integer>190</integer>
+    <key>one.LP</key>
+    <integer>220</integer>
+    <key>one.numr</key>
+    <integer>260</integer>
+    <key>onehalf</key>
+    <integer>250</integer>
+    <key>onequarter</key>
+    <integer>250</integer>
+    <key>oogonekmacron</key>
+    <integer>20</integer>
+    <key>oogonekmacron.alt</key>
+    <integer>20</integer>
+    <key>oogonekmacron.alt2</key>
+    <integer>20</integer>
+    <key>otilde</key>
+    <integer>50</integer>
+    <key>paragraph</key>
+    <integer>220</integer>
+    <key>parenleft</key>
+    <integer>90</integer>
+    <key>parenleft.case</key>
+    <integer>170</integer>
+    <key>percent</key>
+    <integer>220</integer>
+    <key>perthousand</key>
+    <integer>220</integer>
+    <key>question</key>
+    <integer>220</integer>
+    <key>quotedbl</key>
+    <integer>230</integer>
+    <key>quotesingle</key>
+    <integer>230</integer>
+    <key>racute</key>
+    <integer>20</integer>
+    <key>rcaron</key>
+    <integer>150</integer>
+    <key>scaron</key>
+    <integer>130</integer>
+    <key>scircumflex</key>
+    <integer>95</integer>
+    <key>section</key>
+    <integer>180</integer>
+    <key>seven</key>
+    <integer>190</integer>
+    <key>seven.LP</key>
+    <integer>240</integer>
+    <key>seven.numr</key>
+    <integer>290</integer>
+    <key>six</key>
+    <integer>190</integer>
+    <key>six.LP</key>
+    <integer>130</integer>
+    <key>six.numr</key>
+    <integer>250</integer>
+    <key>sterling</key>
+    <integer>170</integer>
+    <key>theta.Latin</key>
+    <integer>190</integer>
+    <key>three</key>
+    <integer>190</integer>
+    <key>three.LP</key>
+    <integer>220</integer>
+    <key>three.numr</key>
+    <integer>250</integer>
+    <key>threequarters</key>
+    <integer>250</integer>
+    <key>two</key>
+    <integer>190</integer>
+    <key>two.LP</key>
+    <integer>230</integer>
+    <key>two.numr</key>
+    <integer>250</integer>
+    <key>ubar</key>
+    <integer>10</integer>
+    <key>ubreve</key>
+    <integer>30</integer>
+    <key>ucaron</key>
+    <integer>20</integer>
+    <key>ucircumflex</key>
+    <integer>10</integer>
+    <key>udieresis</key>
+    <integer>85</integer>
+    <key>uhungarumlaut</key>
+    <integer>20</integer>
+    <key>umacron</key>
+    <integer>20</integer>
+    <key>uring</key>
+    <integer>10</integer>
+    <key>utilde</key>
+    <integer>40</integer>
+    <key>v</key>
+    <integer>10</integer>
+    <key>wmodifier</key>
+    <integer>250</integer>
+    <key>x</key>
+    <integer>10</integer>
+    <key>ydieresis</key>
+    <integer>85</integer>
+    <key>yen</key>
+    <integer>260</integer>
+    <key>zcaron</key>
+    <integer>90</integer>
+    <key>zcircumflex</key>
+    <integer>70</integer>
+    <key>zero</key>
+    <integer>190</integer>
+    <key>zero.LP</key>
+    <integer>160</integer>
+    <key>zero.numr</key>
+    <integer>220</integer>
+    <key>zmodifier</key>
+    <integer>290</integer>
+    <key>public.kern2._L_lc_chiLatin_2ND</key>
+    <integer>10</integer>
+    <key>public.kern2._L_lc_f_2ND</key>
+    <integer>195</integer>
+    <key>public.kern2._L_lc_i_2ND</key>
+    <integer>240</integer>
+    <key>public.kern2._L_lc_ibar.dotless_2ND</key>
+    <integer>150</integer>
+    <key>public.kern2._L_lc_ibar_2ND</key>
+    <integer>150</integer>
+    <key>public.kern2._L_lc_l_2ND</key>
+    <integer>245</integer>
+    <key>public.kern2._L_lc_lambdaLatin_2ND</key>
+    <integer>240</integer>
+    <key>public.kern2._L_lc_ldblbar_2ND</key>
+    <integer>165</integer>
+    <key>public.kern2._L_lc_schwa_2ND</key>
+    <integer>10</integer>
+    <key>public.kern2._L_lc_t_2ND</key>
+    <integer>220</integer>
+    <key>public.kern2._L_lc_w_2ND</key>
+    <integer>10</integer>
+    <key>public.kern2._L_lc_y_2ND</key>
+    <integer>10</integer>
+    <key>public.kern2._L_uc_Dcroat_2ND</key>
+    <integer>140</integer>
+    <key>public.kern2._punc_guillemotright_2ND</key>
+    <integer>20</integer>
+    <key>public.kern2._punc_parenright.cap_2ND</key>
+    <integer>250</integer>
+    <key>public.kern2._punc_parenright_2ND</key>
+    <integer>270</integer>
+    <key>public.kern2._punc_quoteleft_2ND</key>
+    <integer>180</integer>
+    <key>public.kern2._punc_quoteright_2ND</key>
+    <integer>220</integer>
+    <key>public.kern2._punc_semicolon_2ND</key>
+    <integer>15</integer>
+    <key>public.kern2._x_sups_BOTH</key>
+    <integer>300</integer>
+  </dict>
+  <key>commarightcomb.spncap</key>
+  <dict>
+    <key>Adieresis</key>
+    <integer>20</integer>
+    <key>Dcaron</key>
+    <integer>20</integer>
+    <key>Ebreve</key>
+    <integer>70</integer>
+    <key>Ecaron</key>
+    <integer>100</integer>
+    <key>Ecircumflex</key>
+    <integer>90</integer>
+    <key>Edieresis</key>
+    <integer>140</integer>
+    <key>Egrave</key>
+    <integer>15</integer>
+    <key>Emacron</key>
+    <integer>50</integer>
+    <key>Emacronacute</key>
+    <integer>50</integer>
+    <key>Emacrongrave</key>
+    <integer>50</integer>
+    <key>Eturned</key>
+    <integer>10</integer>
+    <key>Hcaron</key>
+    <integer>10</integer>
+    <key>Hcircumflex</key>
+    <integer>10</integer>
+    <key>IJacute</key>
+    <integer>240</integer>
+    <key>Iacute</key>
+    <integer>230</integer>
+    <key>Ibreve</key>
+    <integer>295</integer>
+    <key>Icaron</key>
+    <integer>330</integer>
+    <key>Icircumflex</key>
+    <integer>310</integer>
+    <key>Idieresis</key>
+    <integer>370</integer>
+    <key>Idotaccent</key>
+    <integer>155</integer>
+    <key>Igrave</key>
+    <integer>240</integer>
+    <key>Imacron</key>
+    <integer>270</integer>
+    <key>Itilde</key>
+    <integer>300</integer>
+    <key>Jcaron</key>
+    <integer>70</integer>
+    <key>Jcircumflex</key>
+    <integer>50</integer>
+    <key>Lacute</key>
+    <integer>230</integer>
+    <key>Oopen</key>
+    <integer>10</integer>
+    <key>Racute</key>
+    <integer>10</integer>
+    <key>Rcaron</key>
+    <integer>50</integer>
+    <key>Scircumflex</key>
+    <integer>35</integer>
+    <key>Tcaron</key>
+    <integer>80</integer>
+    <key>Udieresis</key>
+    <integer>20</integer>
+    <key>X</key>
+    <integer>10</integer>
+    <key>Ydieresis</key>
+    <integer>50</integer>
+    <key>Zacute</key>
+    <integer>10</integer>
+    <key>Zcaron</key>
+    <integer>90</integer>
+    <key>Zcircumflex</key>
+    <integer>75</integer>
+    <key>backslash</key>
+    <integer>120</integer>
+    <key>braceleft.case</key>
+    <integer>20</integer>
+    <key>bracketleft.case</key>
+    <integer>140</integer>
+    <key>eight.numr</key>
+    <integer>100</integer>
+    <key>exclam</key>
+    <integer>10</integer>
+    <key>five.numr</key>
+    <integer>100</integer>
+    <key>four.numr</key>
+    <integer>30</integer>
+    <key>glottal</key>
+    <integer>80</integer>
+    <key>glottalmodifier</key>
+    <integer>90</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>130</integer>
+    <key>hmodifier</key>
+    <integer>120</integer>
+    <key>iacute</key>
+    <integer>10</integer>
+    <key>ibreve</key>
+    <integer>190</integer>
+    <key>icaron</key>
+    <integer>200</integer>
+    <key>icircumflex</key>
+    <integer>50</integer>
+    <key>idieresis</key>
+    <integer>190</integer>
+    <key>igrave</key>
+    <integer>110</integer>
+    <key>imacron</key>
+    <integer>40</integer>
+    <key>itilde</key>
+    <integer>80</integer>
+    <key>jcaron</key>
+    <integer>210</integer>
+    <key>jcircumflex</key>
+    <integer>70</integer>
+    <key>lacute</key>
+    <integer>130</integer>
+    <key>nine.numr</key>
+    <integer>100</integer>
+    <key>one.numr</key>
+    <integer>100</integer>
+    <key>onehalf</key>
+    <integer>100</integer>
+    <key>onequarter</key>
+    <integer>100</integer>
+    <key>parenleft.case</key>
+    <integer>20</integer>
+    <key>percent</key>
+    <integer>100</integer>
+    <key>perthousand</key>
+    <integer>100</integer>
+    <key>question</key>
+    <integer>10</integer>
+    <key>rcaron</key>
+    <integer>60</integer>
+    <key>scaron</key>
+    <integer>30</integer>
+    <key>seven.numr</key>
+    <integer>100</integer>
+    <key>sevensuperior</key>
+    <integer>90</integer>
+    <key>six.numr</key>
+    <integer>100</integer>
+    <key>tdotaccent</key>
+    <integer>140</integer>
+    <key>three.numr</key>
+    <integer>100</integer>
+    <key>threequarters</key>
+    <integer>100</integer>
+    <key>two.numr</key>
+    <integer>100</integer>
+    <key>public.kern2._L_lc_i_2ND</key>
+    <integer>20</integer>
+    <key>public.kern2._L_lc_l_2ND</key>
+    <integer>50</integer>
+    <key>public.kern2._L_lc_lambdaLatin_2ND</key>
+    <integer>50</integer>
+    <key>public.kern2._L_uc_ChiLatin_2ND</key>
+    <integer>10</integer>
+    <key>public.kern2._L_uc_S_2ND</key>
+    <integer>40</integer>
+    <key>public.kern2._L_uc_T_2ND</key>
+    <integer>10</integer>
+    <key>public.kern2._L_uc_V_2ND</key>
+    <integer>10</integer>
+    <key>public.kern2._L_uc_W_2ND</key>
+    <integer>10</integer>
+    <key>public.kern2._L_uc_Y_2ND</key>
+    <integer>10</integer>
+    <key>public.kern2._punc_parenright.cap_2ND</key>
+    <integer>200</integer>
+    <key>public.kern2._punc_parenright_2ND</key>
+    <integer>100</integer>
+    <key>public.kern2._punc_quoteleft_2ND</key>
+    <integer>20</integer>
+    <key>public.kern2._punc_quoteright_2ND</key>
+    <integer>60</integer>
+    <key>public.kern2._x_sups_BOTH</key>
+    <integer>50</integer>
+  </dict>
+  <key>cslash</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>150</integer>
+  </dict>
   <key>d</key>
   <dict>
     <key>icircumflex</key>
@@ -3371,7 +4286,7 @@
   <dict>
     <key>comma</key>
     <integer>-160</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>30</integer>
     <key>eturned</key>
     <integer>-120</integer>
@@ -3418,10 +4333,12 @@
   <dict>
     <key>comma</key>
     <integer>-40</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>45</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>40</integer>
+    <key>commarightcomb.spn</key>
+    <integer>230</integer>
     <key>eopen</key>
     <integer>-40</integer>
     <key>exclam</key>
@@ -3493,11 +4410,60 @@
   <dict>
     <key>X</key>
     <integer>-115</integer>
+    <key>commarightcomb.spn</key>
+    <integer>120</integer>
     <key>v</key>
     <integer>40</integer>
   </dict>
+  <key>dlinebelow</key>
+  <dict>
+    <key>dotlessj</key>
+    <integer>160</integer>
+    <key>j</key>
+    <integer>160</integer>
+    <key>j.dotless</key>
+    <integer>160</integer>
+    <key>jbar</key>
+    <integer>80</integer>
+    <key>jbar.dotless</key>
+    <integer>80</integer>
+    <key>jcaron</key>
+    <integer>160</integer>
+    <key>jcircumflex</key>
+    <integer>160</integer>
+  </dict>
+  <key>dotlessi</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>10</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>-55</integer>
+  </dict>
+  <key>dotlessiogonek</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>10</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>-55</integer>
+  </dict>
+  <key>dotlessiogonek.alt</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>10</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>-55</integer>
+  </dict>
+  <key>dotlessiogonek.alt2</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>10</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>-55</integer>
+  </dict>
   <key>dotlessj</key>
   <dict>
+    <key>commarightcomb.spn</key>
+    <integer>10</integer>
     <key>glottalmodifier</key>
     <integer>-5</integer>
     <key>glottalmodifier.alt</key>
@@ -3509,8 +4475,40 @@
     <key>zmodifier</key>
     <integer>15</integer>
   </dict>
+  <key>dotsinological</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>10</integer>
+  </dict>
+  <key>ebreve</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>55</integer>
+  </dict>
+  <key>ecaron</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>40</integer>
+  </dict>
+  <key>ecircumflex</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>30</integer>
+  </dict>
+  <key>edieresis</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>60</integer>
+  </dict>
+  <key>eight</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>110</integer>
+  </dict>
   <key>eight.LP</key>
   <dict>
+    <key>commarightcomb.spn</key>
+    <integer>80</integer>
     <key>four.LP</key>
     <integer>10</integer>
     <key>seven.LP</key>
@@ -3549,7 +4547,7 @@
   </dict>
   <key>eth</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-105</integer>
     <key>glottal</key>
     <integer>-45</integer>
@@ -3628,8 +4626,15 @@
     <key>public.kern2._L_uc_Y_2ND</key>
     <integer>-15</integer>
   </dict>
+  <key>five</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>110</integer>
+  </dict>
   <key>five.LP</key>
   <dict>
+    <key>commarightcomb.spn</key>
+    <integer>80</integer>
     <key>five.LP</key>
     <integer>-10</integer>
     <key>four.LP</key>
@@ -3691,10 +4696,17 @@
     <key>sevensuperior</key>
     <integer>-20</integer>
   </dict>
+  <key>four</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>110</integer>
+  </dict>
   <key>four.LP</key>
   <dict>
     <key>comma</key>
     <integer>25</integer>
+    <key>commarightcomb.spn</key>
+    <integer>50</integer>
     <key>eight.LP</key>
     <integer>10</integer>
     <key>nine.LP</key>
@@ -3751,10 +4763,19 @@
     <key>zero.dnom</key>
     <integer>-65</integer>
   </dict>
+  <key>gamma.Latin</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>20</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>30</integer>
+  </dict>
   <key>germandbls</key>
   <dict>
     <key>comma</key>
     <integer>25</integer>
+    <key>commarightcomb.spn</key>
+    <integer>90</integer>
     <key>v</key>
     <integer>-85</integer>
     <key>public.kern2._L_lc_o_2ND</key>
@@ -3782,10 +4803,12 @@
   <dict>
     <key>comma</key>
     <integer>-140</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>30</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>40</integer>
+    <key>commarightcomb.spn</key>
+    <integer>200</integer>
     <key>fhook</key>
     <integer>25</integer>
     <key>icircumflex</key>
@@ -3841,9 +4864,9 @@
     <integer>35</integer>
     <key>comma</key>
     <integer>-45</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>45</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>45</integer>
     <key>fhook</key>
     <integer>40</integer>
@@ -3876,7 +4899,7 @@
     <key>public.kern2._L_lc_o_2ND</key>
     <integer>-40</integer>
     <key>public.kern2._L_lc_schwa_2ND</key>
-    <integer>-20</integer>
+    <integer>-10</integer>
     <key>public.kern2._L_lc_y_2ND</key>
     <integer>85</integer>
     <key>public.kern2._L_uc_O_2ND</key>
@@ -3912,58 +4935,122 @@
   </dict>
   <key>glottalmodifier.alt</key>
   <dict>
-    <key>Eth</key>
-    <integer>45</integer>
+    <key>Eopen</key>
+    <integer>-5</integer>
+    <key>Eturned</key>
+    <integer>25</integer>
+    <key>Ibarred</key>
+    <integer>60</integer>
+    <key>Lbelt</key>
+    <integer>-15</integer>
+    <key>Lslash</key>
+    <integer>10</integer>
+    <key>Lwavybar</key>
+    <integer>-10</integer>
     <key>X</key>
     <integer>40</integer>
-    <key>clickalveolar</key>
-    <integer>35</integer>
     <key>comma</key>
-    <integer>-45</integer>
-    <key>commarightcomb</key>
+    <integer>-125</integer>
+    <key>commarightcomb.sp</key>
+    <integer>10</integer>
+    <key>commarightcomb.spcase</key>
     <integer>45</integer>
-    <key>commarightcomb.case</key>
-    <integer>45</integer>
+    <key>commarightcomb.spn</key>
+    <integer>245</integer>
+    <key>eopen</key>
+    <integer>-75</integer>
     <key>fhook</key>
-    <integer>40</integer>
-    <key>lambdaLatin</key>
+    <integer>15</integer>
+    <key>gamma.Latin</key>
     <integer>35</integer>
-    <key>lambdabar</key>
-    <integer>35</integer>
-    <key>lambdabar.alt</key>
-    <integer>35</integer>
-    <key>lambdabarcommaabove</key>
-    <integer>35</integer>
-    <key>lambdabarcommaabove.alt</key>
-    <integer>35</integer>
+    <key>glottal</key>
+    <integer>70</integer>
+    <key>glottalreversed</key>
+    <integer>45</integer>
+    <key>glottalstop</key>
+    <integer>-30</integer>
+    <key>hmodifier</key>
+    <integer>50</integer>
+    <key>ibreve</key>
+    <integer>80</integer>
+    <key>icaron</key>
+    <integer>80</integer>
+    <key>jcaron</key>
+    <integer>90</integer>
+    <key>lbelt</key>
+    <integer>-110</integer>
+    <key>ldblbar</key>
+    <integer>-45</integer>
+    <key>lslash</key>
+    <integer>-90</integer>
+    <key>lwavybar</key>
+    <integer>-125</integer>
+    <key>mturned</key>
+    <integer>-40</integer>
+    <key>oopen</key>
+    <integer>-35</integer>
     <key>question</key>
     <integer>20</integer>
-    <key>v</key>
-    <integer>45</integer>
-    <key>vturned</key>
-    <integer>-105</integer>
-    <key>zmodifier</key>
-    <integer>40</integer>
-    <key>public.kern2._L_lc_f_2ND</key>
-    <integer>40</integer>
-    <key>public.kern2._L_lc_i_2ND</key>
+    <key>theta.Latin</key>
     <integer>10</integer>
+    <key>upsilonLatin</key>
+    <integer>-50</integer>
+    <key>v</key>
+    <integer>20</integer>
+    <key>vturned</key>
+    <integer>-190</integer>
+    <key>x</key>
+    <integer>-5</integer>
+    <key>public.kern2._L_lc_chiLatin_2ND</key>
+    <integer>-25</integer>
+    <key>public.kern2._L_lc_f_2ND</key>
+    <integer>15</integer>
+    <key>public.kern2._L_lc_i_2ND</key>
+    <integer>20</integer>
+    <key>public.kern2._L_lc_ibar.dotless_2ND</key>
+    <integer>-125</integer>
+    <key>public.kern2._L_lc_ibar_2ND</key>
+    <integer>-45</integer>
+    <key>public.kern2._L_lc_lambdaLatin_2ND</key>
+    <integer>35</integer>
+    <key>public.kern2._L_lc_ldblbar_2ND</key>
+    <integer>-55</integer>
+    <key>public.kern2._L_lc_n_2ND</key>
+    <integer>-15</integer>
     <key>public.kern2._L_lc_o_2ND</key>
-    <integer>-70</integer>
+    <integer>-120</integer>
+    <key>public.kern2._L_lc_s_2ND</key>
+    <integer>-60</integer>
     <key>public.kern2._L_lc_schwa_2ND</key>
-    <integer>-70</integer>
+    <integer>-90</integer>
+    <key>public.kern2._L_lc_u_2ND</key>
+    <integer>-40</integer>
+    <key>public.kern2._L_lc_w_2ND</key>
+    <integer>15</integer>
     <key>public.kern2._L_lc_y_2ND</key>
-    <integer>45</integer>
+    <integer>-65</integer>
+    <key>public.kern2._L_lc_z_2ND</key>
+    <integer>-20</integer>
     <key>public.kern2._L_uc_AE_2ND</key>
-    <integer>-140</integer>
+    <integer>-220</integer>
     <key>public.kern2._L_uc_A_2ND</key>
     <integer>-140</integer>
-    <key>public.kern2._L_uc_O_2ND</key>
+    <key>public.kern2._L_uc_Dcroat_2ND</key>
+    <integer>-25</integer>
+    <key>public.kern2._L_uc_J_2ND</key>
+    <integer>-190</integer>
+    <key>public.kern2._L_uc_LambdaLatin_2ND</key>
+    <integer>-135</integer>
+    <key>public.kern2._L_uc_M_2ND</key>
     <integer>-45</integer>
+    <key>public.kern2._L_uc_O_2ND</key>
+    <integer>10</integer>
     <key>public.kern2._L_uc_S_2ND</key>
     <integer>-5</integer>
+    <key>public.kern2._L_uc_Schwa_2ND</key>
+    <integer>-20</integer>
     <key>public.kern2._L_uc_T_2ND</key>
-    <integer>60</integer>
+    <integer>66</integer>
     <key>public.kern2._L_uc_U_2ND</key>
     <integer>10</integer>
     <key>public.kern2._L_uc_V_2ND</key>
@@ -3977,30 +5064,36 @@
     <key>public.kern2._punc_hyphen.cap_2ND</key>
     <integer>30</integer>
     <key>public.kern2._punc_hyphen_2ND</key>
-    <integer>20</integer>
+    <integer>-80</integer>
     <key>public.kern2._punc_parenright.cap_2ND</key>
     <integer>20</integer>
     <key>public.kern2._punc_parenright_2ND</key>
     <integer>40</integer>
     <key>public.kern2._punc_period_2ND</key>
-    <integer>-45</integer>
+    <integer>-140</integer>
     <key>public.kern2._punc_quoteleft_2ND</key>
     <integer>30</integer>
     <key>public.kern2._punc_quoteright_2ND</key>
     <integer>45</integer>
+    <key>public.kern2._punc_semicolon_2ND</key>
+    <integer>-40</integer>
   </dict>
   <key>glottalreversed</key>
   <dict>
     <key>comma</key>
     <integer>-75</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>35</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>35</integer>
+    <key>commarightcomb.spn</key>
+    <integer>255</integer>
     <key>eopen</key>
     <integer>-60</integer>
     <key>fhook</key>
     <integer>-25</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>65</integer>
     <key>hbar</key>
     <integer>50</integer>
     <key>ibreve</key>
@@ -4082,14 +5175,14 @@
   <dict>
     <key>comma</key>
     <integer>-30</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-65</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>15</integer>
     <key>glottalmodifier</key>
     <integer>10</integer>
     <key>glottalmodifier.alt</key>
-    <integer>-15</integer>
+    <integer>-25</integer>
     <key>lambdaLatin</key>
     <integer>-90</integer>
     <key>lambdabar</key>
@@ -4141,20 +5234,44 @@
     <key>public.kern2._x_sups_BOTH</key>
     <integer>45</integer>
   </dict>
+  <key>gscript</key>
+  <dict>
+    <key>glottalmodifier.alt</key>
+    <integer>-55</integer>
+  </dict>
   <key>gsmallcap</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-55</integer>
+    <key>commarightcomb.spn</key>
+    <integer>10</integer>
   </dict>
   <key>h</key>
   <dict>
     <key>glottal</key>
     <integer>-65</integer>
   </dict>
+  <key>halflongsign</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>10</integer>
+  </dict>
+  <key>halflongsign.alt</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>10</integer>
+  </dict>
+  <key>halfringleftmodifier</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>160</integer>
+  </dict>
   <key>halfringrightmodifier</key>
   <dict>
     <key>X</key>
     <integer>-100</integer>
+    <key>commarightcomb.spn</key>
+    <integer>120</integer>
     <key>v</key>
     <integer>35</integer>
     <key>x</key>
@@ -4202,13 +5319,41 @@
   </dict>
   <key>hlinebelow</key>
   <dict>
+    <key>dotlessj</key>
+    <integer>140</integer>
     <key>glottal</key>
     <integer>-65</integer>
+    <key>j</key>
+    <integer>140</integer>
+    <key>j.dotless</key>
+    <integer>140</integer>
+    <key>jbar</key>
+    <integer>60</integer>
+    <key>jbar.dotless</key>
+    <integer>60</integer>
+    <key>jcaron</key>
+    <integer>140</integer>
+    <key>jcircumflex</key>
+    <integer>140</integer>
   </dict>
   <key>hmacronbelow</key>
   <dict>
     <key>glottal</key>
     <integer>-65</integer>
+  </dict>
+  <key>hmodifier</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>175</integer>
+    <key>commarightcomb.spncap</key>
+    <integer>110</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>50</integer>
+  </dict>
+  <key>hyphen</key>
+  <dict>
+    <key>glottalmodifier.alt</key>
+    <integer>-50</integer>
   </dict>
   <key>i</key>
   <dict>
@@ -4229,17 +5374,33 @@
     <key>jcircumflex</key>
     <integer>20</integer>
   </dict>
+  <key>i.dotless</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>230</integer>
+  </dict>
+  <key>iacute</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>130</integer>
+  </dict>
   <key>ibarred</key>
   <dict>
+    <key>commarightcomb.spn</key>
+    <integer>10</integer>
     <key>public.kern2._x_sups_BOTH</key>
     <integer>40</integer>
   </dict>
   <key>ibreve</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>60</integer>
+    <key>commarightcomb.spn</key>
+    <integer>270</integer>
     <key>glottal</key>
     <integer>60</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>80</integer>
     <key>seven.LP</key>
     <integer>20</integer>
     <key>public.kern2._L_lc_i_2ND</key>
@@ -4253,10 +5414,14 @@
   </dict>
   <key>icaron</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>60</integer>
+    <key>commarightcomb.spn</key>
+    <integer>270</integer>
     <key>glottal</key>
     <integer>60</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>80</integer>
     <key>seven.LP</key>
     <integer>20</integer>
     <key>public.kern2._L_lc_i_2ND</key>
@@ -4268,8 +5433,10 @@
   </dict>
   <key>icircumflex</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>30</integer>
+    <key>commarightcomb.spn</key>
+    <integer>220</integer>
     <key>glottal</key>
     <integer>80</integer>
     <key>glottalreversed</key>
@@ -4285,8 +5452,10 @@
   </dict>
   <key>idieresis</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>115</integer>
+    <key>commarightcomb.spn</key>
+    <integer>310</integer>
     <key>fhook</key>
     <integer>65</integer>
     <key>glottal</key>
@@ -4316,13 +5485,27 @@
     <key>public.kern2._x_sups_BOTH</key>
     <integer>140</integer>
   </dict>
+  <key>idotbelow.dotless</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>210</integer>
+  </dict>
   <key>igrave</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-35</integer>
+    <key>commarightcomb.spn</key>
+    <integer>50</integer>
+  </dict>
+  <key>ijacute</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>130</integer>
   </dict>
   <key>imacron</key>
   <dict>
+    <key>commarightcomb.spn</key>
+    <integer>200</integer>
     <key>glottal</key>
     <integer>60</integer>
     <key>glottalreversed</key>
@@ -4331,17 +5514,36 @@
     <integer>20</integer>
     <key>public.kern2._L_lc_i_2ND</key>
     <integer>10</integer>
+    <key>public.kern2._punc_quoteright_2ND</key>
+    <integer>10</integer>
     <key>public.kern2._x_sups_BOTH</key>
     <integer>50</integer>
   </dict>
+  <key>iogonek.dotless</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>210</integer>
+  </dict>
+  <key>iogonek.dotless.alt</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>210</integer>
+  </dict>
+  <key>iogonek.dotless.alt2</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>210</integer>
+  </dict>
   <key>iotaLatin</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-140</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>-110</integer>
     <key>glottal</key>
     <integer>-80</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>-130</integer>
     <key>glottalreversed</key>
     <integer>-85</integer>
     <key>glottalstop</key>
@@ -4387,10 +5589,14 @@
   </dict>
   <key>itilde</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>110</integer>
+    <key>commarightcomb.spn</key>
+    <integer>320</integer>
     <key>glottal</key>
     <integer>130</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>150</integer>
     <key>glottalreversed</key>
     <integer>80</integer>
     <key>seven.LP</key>
@@ -4413,6 +5619,11 @@
     <key>idieresis</key>
     <integer>35</integer>
   </dict>
+  <key>j.dotless</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>230</integer>
+  </dict>
   <key>jbar.dotless</key>
   <dict>
     <key>public.kern2._punc_quoteright_2ND</key>
@@ -4420,10 +5631,14 @@
   </dict>
   <key>jcaron</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>60</integer>
+    <key>commarightcomb.spn</key>
+    <integer>270</integer>
     <key>glottal</key>
     <integer>60</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>80</integer>
     <key>idieresis</key>
     <integer>135</integer>
     <key>seven.LP</key>
@@ -4437,8 +5652,10 @@
   </dict>
   <key>jcircumflex</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>30</integer>
+    <key>commarightcomb.spn</key>
+    <integer>240</integer>
     <key>glottal</key>
     <integer>80</integer>
     <key>glottalreversed</key>
@@ -4453,6 +5670,23 @@
     <integer>40</integer>
     <key>public.kern2._x_sups_BOTH</key>
     <integer>130</integer>
+  </dict>
+  <key>klinebelow</key>
+  <dict>
+    <key>dotlessj</key>
+    <integer>140</integer>
+    <key>j</key>
+    <integer>140</integer>
+    <key>j.dotless</key>
+    <integer>140</integer>
+    <key>jbar</key>
+    <integer>60</integer>
+    <key>jbar.dotless</key>
+    <integer>60</integer>
+    <key>jcaron</key>
+    <integer>140</integer>
+    <key>jcircumflex</key>
+    <integer>140</integer>
   </dict>
   <key>l</key>
   <dict>
@@ -4471,6 +5705,8 @@
   </dict>
   <key>lambda.Latin</key>
   <dict>
+    <key>glottalmodifier.alt</key>
+    <integer>-170</integer>
     <key>glottalstop</key>
     <integer>-40</integer>
     <key>upsilonLatin</key>
@@ -4482,10 +5718,12 @@
   <dict>
     <key>comma</key>
     <integer>20</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>-90</integer>
     <key>glottal</key>
     <integer>-90</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>-170</integer>
     <key>glottalreversed</key>
     <integer>-150</integer>
     <key>glottalstop</key>
@@ -4541,12 +5779,22 @@
   <dict>
     <key>comma</key>
     <integer>20</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-125</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>-90</integer>
+    <key>commarightcomb.spn</key>
+    <integer>70</integer>
+    <key>eightsuperior</key>
+    <integer>-10</integer>
+    <key>fivesuperior</key>
+    <integer>-10</integer>
+    <key>foursuperior</key>
+    <integer>-10</integer>
     <key>glottal</key>
     <integer>-40</integer>
+    <key>glottalmodifier</key>
+    <integer>-10</integer>
     <key>glottalreversed</key>
     <integer>-80</integer>
     <key>lbar</key>
@@ -4555,14 +5803,40 @@
     <integer>-50</integer>
     <key>lwavybar</key>
     <integer>-20</integer>
+    <key>ninesuperior</key>
+    <integer>-10</integer>
+    <key>onesuperior</key>
+    <integer>-10</integer>
     <key>question</key>
     <integer>-30</integer>
+    <key>registered</key>
+    <integer>-10</integer>
+    <key>sevensuperior</key>
+    <integer>-10</integer>
+    <key>sixsuperior</key>
+    <integer>-10</integer>
     <key>theta.Latin</key>
     <integer>-30</integer>
+    <key>thetamodifier</key>
+    <integer>-10</integer>
+    <key>threesuperior</key>
+    <integer>-10</integer>
+    <key>trademark</key>
+    <integer>-10</integer>
+    <key>twosuperior</key>
+    <integer>-10</integer>
     <key>v</key>
     <integer>-30</integer>
+    <key>wmodifier</key>
+    <integer>-10</integer>
     <key>x</key>
     <integer>10</integer>
+    <key>ymodifier</key>
+    <integer>-10</integer>
+    <key>zerosuperior</key>
+    <integer>-10</integer>
+    <key>zmodifier</key>
+    <integer>-10</integer>
     <key>public.kern2._L_lc_chiLatin_2ND</key>
     <integer>-60</integer>
     <key>public.kern2._L_lc_ldblbar_2ND</key>
@@ -4587,33 +5861,67 @@
     <integer>-50</integer>
     <key>public.kern2._punc_quoteright_2ND</key>
     <integer>-90</integer>
-    <key>public.kern2._x_sups_BOTH</key>
-    <integer>-10</integer>
   </dict>
   <key>lambdabar.alt</key>
   <dict>
     <key>comma</key>
     <integer>20</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-60</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>-90</integer>
+    <key>commarightcomb.spn</key>
+    <integer>110</integer>
+    <key>eightsuperior</key>
+    <integer>-10</integer>
+    <key>fivesuperior</key>
+    <integer>-10</integer>
+    <key>foursuperior</key>
+    <integer>-10</integer>
     <key>glottal</key>
     <integer>-20</integer>
+    <key>glottalmodifier</key>
+    <integer>-10</integer>
     <key>glottalreversed</key>
     <integer>-10</integer>
     <key>lbelt</key>
     <integer>-50</integer>
     <key>lwavybar</key>
     <integer>-20</integer>
+    <key>ninesuperior</key>
+    <integer>-10</integer>
+    <key>onesuperior</key>
+    <integer>-10</integer>
     <key>question</key>
     <integer>-30</integer>
+    <key>registered</key>
+    <integer>-10</integer>
+    <key>sevensuperior</key>
+    <integer>-10</integer>
+    <key>sixsuperior</key>
+    <integer>-10</integer>
     <key>theta.Latin</key>
     <integer>-30</integer>
+    <key>thetamodifier</key>
+    <integer>-10</integer>
+    <key>threesuperior</key>
+    <integer>-10</integer>
+    <key>trademark</key>
+    <integer>-10</integer>
+    <key>twosuperior</key>
+    <integer>-10</integer>
     <key>v</key>
     <integer>-30</integer>
+    <key>wmodifier</key>
+    <integer>-10</integer>
     <key>x</key>
     <integer>10</integer>
+    <key>ymodifier</key>
+    <integer>-10</integer>
+    <key>zerosuperior</key>
+    <integer>-10</integer>
+    <key>zmodifier</key>
+    <integer>-10</integer>
     <key>public.kern2._L_lc_chiLatin_2ND</key>
     <integer>-50</integer>
     <key>public.kern2._L_lc_ldblbar_2ND</key>
@@ -4638,19 +5946,27 @@
     <integer>-50</integer>
     <key>public.kern2._punc_quoteright_2ND</key>
     <integer>-90</integer>
-    <key>public.kern2._x_sups_BOTH</key>
-    <integer>-10</integer>
   </dict>
   <key>lambdabarcommaabove</key>
   <dict>
     <key>comma</key>
     <integer>20</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-80</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>-90</integer>
+    <key>commarightcomb.spn</key>
+    <integer>140</integer>
+    <key>eightsuperior</key>
+    <integer>-10</integer>
+    <key>fivesuperior</key>
+    <integer>-10</integer>
+    <key>foursuperior</key>
+    <integer>-10</integer>
     <key>glottal</key>
     <integer>-20</integer>
+    <key>glottalmodifier</key>
+    <integer>-10</integer>
     <key>glottalreversed</key>
     <integer>-65</integer>
     <key>lbar</key>
@@ -4659,14 +5975,40 @@
     <integer>-50</integer>
     <key>lwavybar</key>
     <integer>-20</integer>
+    <key>ninesuperior</key>
+    <integer>-10</integer>
+    <key>onesuperior</key>
+    <integer>-10</integer>
     <key>question</key>
     <integer>-30</integer>
+    <key>registered</key>
+    <integer>-10</integer>
+    <key>sevensuperior</key>
+    <integer>-10</integer>
+    <key>sixsuperior</key>
+    <integer>-10</integer>
     <key>theta.Latin</key>
     <integer>-30</integer>
+    <key>thetamodifier</key>
+    <integer>-10</integer>
+    <key>threesuperior</key>
+    <integer>-10</integer>
+    <key>trademark</key>
+    <integer>-10</integer>
+    <key>twosuperior</key>
+    <integer>-10</integer>
     <key>v</key>
     <integer>-30</integer>
+    <key>wmodifier</key>
+    <integer>-10</integer>
     <key>x</key>
     <integer>10</integer>
+    <key>ymodifier</key>
+    <integer>-10</integer>
+    <key>zerosuperior</key>
+    <integer>-10</integer>
+    <key>zmodifier</key>
+    <integer>-10</integer>
     <key>public.kern2._L_lc_chiLatin_2ND</key>
     <integer>-60</integer>
     <key>public.kern2._L_lc_ldblbar_2ND</key>
@@ -4691,18 +6033,26 @@
     <integer>-50</integer>
     <key>public.kern2._punc_quoteright_2ND</key>
     <integer>-90</integer>
-    <key>public.kern2._x_sups_BOTH</key>
-    <integer>-10</integer>
   </dict>
   <key>lambdabarcommaabove.alt</key>
   <dict>
     <key>comma</key>
     <integer>20</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-70</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>-90</integer>
+    <key>commarightcomb.spn</key>
+    <integer>145</integer>
+    <key>eightsuperior</key>
+    <integer>-10</integer>
+    <key>fivesuperior</key>
+    <integer>-10</integer>
+    <key>foursuperior</key>
+    <integer>-10</integer>
     <key>glottal</key>
+    <integer>-10</integer>
+    <key>glottalmodifier</key>
     <integer>-10</integer>
     <key>glottalreversed</key>
     <integer>-10</integer>
@@ -4710,14 +6060,40 @@
     <integer>-50</integer>
     <key>lwavybar</key>
     <integer>-20</integer>
+    <key>ninesuperior</key>
+    <integer>-10</integer>
+    <key>onesuperior</key>
+    <integer>-10</integer>
     <key>question</key>
     <integer>-30</integer>
+    <key>registered</key>
+    <integer>-10</integer>
+    <key>sevensuperior</key>
+    <integer>-10</integer>
+    <key>sixsuperior</key>
+    <integer>-10</integer>
     <key>theta.Latin</key>
     <integer>-30</integer>
+    <key>thetamodifier</key>
+    <integer>-10</integer>
+    <key>threesuperior</key>
+    <integer>-10</integer>
+    <key>trademark</key>
+    <integer>-10</integer>
+    <key>twosuperior</key>
+    <integer>-10</integer>
     <key>v</key>
     <integer>-30</integer>
+    <key>wmodifier</key>
+    <integer>-10</integer>
     <key>x</key>
     <integer>10</integer>
+    <key>ymodifier</key>
+    <integer>-10</integer>
+    <key>zerosuperior</key>
+    <integer>-10</integer>
+    <key>zmodifier</key>
+    <integer>-10</integer>
     <key>public.kern2._L_lc_chiLatin_2ND</key>
     <integer>-50</integer>
     <key>public.kern2._L_lc_ldblbar_2ND</key>
@@ -4742,27 +6118,59 @@
     <integer>-50</integer>
     <key>public.kern2._punc_quoteright_2ND</key>
     <integer>-90</integer>
-    <key>public.kern2._x_sups_BOTH</key>
-    <integer>-10</integer>
   </dict>
   <key>lbar</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>20</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>20</integer>
+    <key>eightsuperior</key>
+    <integer>40</integer>
     <key>fhook</key>
+    <integer>40</integer>
+    <key>fivesuperior</key>
+    <integer>40</integer>
+    <key>foursuperior</key>
+    <integer>40</integer>
+    <key>glottalmodifier</key>
     <integer>40</integer>
     <key>glottalreversed</key>
     <integer>20</integer>
+    <key>ninesuperior</key>
+    <integer>40</integer>
+    <key>onesuperior</key>
+    <integer>40</integer>
+    <key>registered</key>
+    <integer>40</integer>
     <key>seven.LP</key>
     <integer>-40</integer>
+    <key>sevensuperior</key>
+    <integer>40</integer>
+    <key>sixsuperior</key>
+    <integer>40</integer>
+    <key>thetamodifier</key>
+    <integer>40</integer>
     <key>three.LP</key>
     <integer>-25</integer>
+    <key>threesuperior</key>
+    <integer>40</integer>
+    <key>trademark</key>
+    <integer>40</integer>
+    <key>twosuperior</key>
+    <integer>40</integer>
     <key>v</key>
     <integer>40</integer>
     <key>vturned</key>
     <integer>-20</integer>
+    <key>wmodifier</key>
+    <integer>40</integer>
+    <key>ymodifier</key>
+    <integer>40</integer>
+    <key>zerosuperior</key>
+    <integer>40</integer>
+    <key>zmodifier</key>
+    <integer>40</integer>
     <key>public.kern2._L_lc_f_2ND</key>
     <integer>40</integer>
     <key>public.kern2._L_lc_t_2ND</key>
@@ -4775,17 +6183,19 @@
     <integer>20</integer>
     <key>public.kern2._punc_quoteright_2ND</key>
     <integer>20</integer>
-    <key>public.kern2._x_sups_BOTH</key>
-    <integer>40</integer>
   </dict>
   <key>lbelt</key>
   <dict>
     <key>comma</key>
     <integer>-30</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-120</integer>
+    <key>commarightcomb.spn</key>
+    <integer>70</integer>
     <key>glottal</key>
     <integer>-40</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>-80</integer>
     <key>glottalreversed</key>
     <integer>-45</integer>
     <key>glottalstop</key>
@@ -4839,8 +6249,10 @@
   </dict>
   <key>lbelt.alt</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-50</integer>
+    <key>commarightcomb.spn</key>
+    <integer>110</integer>
     <key>glottalreversed</key>
     <integer>20</integer>
     <key>public.kern2._L_lc_ibar.dotless_2ND</key>
@@ -4852,14 +6264,55 @@
     <key>public.kern2._x_sups_BOTH</key>
     <integer>20</integer>
   </dict>
+  <key>ldblbar</key>
+  <dict>
+    <key>glottalmodifier.alt</key>
+    <integer>-30</integer>
+  </dict>
+  <key>llinebelow</key>
+  <dict>
+    <key>dotlessj</key>
+    <integer>220</integer>
+    <key>j</key>
+    <integer>220</integer>
+    <key>j.dotless</key>
+    <integer>220</integer>
+    <key>jbar</key>
+    <integer>140</integer>
+    <key>jbar.dotless</key>
+    <integer>140</integer>
+    <key>jcaron</key>
+    <integer>220</integer>
+    <key>jcircumflex</key>
+    <integer>220</integer>
+  </dict>
+  <key>lmacronbelow</key>
+  <dict>
+    <key>dotlessj</key>
+    <integer>230</integer>
+    <key>j</key>
+    <integer>230</integer>
+    <key>j.dotless</key>
+    <integer>230</integer>
+    <key>jbar</key>
+    <integer>150</integer>
+    <key>jbar.dotless</key>
+    <integer>160</integer>
+    <key>jcaron</key>
+    <integer>230</integer>
+    <key>jcircumflex</key>
+    <integer>230</integer>
+  </dict>
   <key>longs</key>
   <dict>
     <key>adieresis</key>
     <integer>20</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>170</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>160</integer>
+    <key>commarightcomb.spn</key>
+    <integer>430</integer>
     <key>exclam</key>
     <integer>160</integer>
     <key>glottal</key>
@@ -4947,6 +6400,16 @@
     <key>public.kern2._x_sups_BOTH</key>
     <integer>215</integer>
   </dict>
+  <key>longsign</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>20</integer>
+  </dict>
+  <key>longsign.alt</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>10</integer>
+  </dict>
   <key>lslash</key>
   <dict>
     <key>a</key>
@@ -4991,14 +6454,18 @@
     <integer>-20</integer>
     <key>comma</key>
     <integer>-80</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>50</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>50</integer>
+    <key>commarightcomb.spn</key>
+    <integer>100</integer>
     <key>fhook</key>
     <integer>35</integer>
     <key>glottal</key>
     <integer>-20</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>-5</integer>
     <key>glottalreversed</key>
     <integer>20</integer>
     <key>glottalstop</key>
@@ -5042,14 +6509,18 @@
   <dict>
     <key>comma</key>
     <integer>-110</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-100</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
+    <integer>30</integer>
+    <key>commarightcomb.spn</key>
     <integer>30</integer>
     <key>fhook</key>
     <integer>35</integer>
     <key>glottal</key>
     <integer>-40</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>-50</integer>
     <key>glottalreversed</key>
     <integer>20</integer>
     <key>glottalstop</key>
@@ -5100,6 +6571,11 @@
     <key>glottal</key>
     <integer>-65</integer>
   </dict>
+  <key>macroncomb.narrow</key>
+  <dict>
+    <key>public.kern2._punc_quoteright_2ND</key>
+    <integer>10</integer>
+  </dict>
   <key>macute</key>
   <dict>
     <key>glottal</key>
@@ -5109,6 +6585,11 @@
   <dict>
     <key>glottal</key>
     <integer>-65</integer>
+  </dict>
+  <key>mturned</key>
+  <dict>
+    <key>glottalmodifier.alt</key>
+    <integer>-30</integer>
   </dict>
   <key>n</key>
   <dict>
@@ -5140,10 +6621,17 @@
     <key>glottal</key>
     <integer>-65</integer>
   </dict>
+  <key>nine</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>110</integer>
+  </dict>
   <key>nine.LP</key>
   <dict>
     <key>comma</key>
     <integer>-10</integer>
+    <key>commarightcomb.spn</key>
+    <integer>50</integer>
     <key>nine.LP</key>
     <integer>-10</integer>
     <key>seven.LP</key>
@@ -5203,6 +6691,23 @@
     <key>twosuperior</key>
     <integer>-10</integer>
   </dict>
+  <key>nlinebelow</key>
+  <dict>
+    <key>dotlessj</key>
+    <integer>140</integer>
+    <key>j</key>
+    <integer>140</integer>
+    <key>j.dotless</key>
+    <integer>140</integer>
+    <key>jbar</key>
+    <integer>60</integer>
+    <key>jbar.dotless</key>
+    <integer>60</integer>
+    <key>jcaron</key>
+    <integer>140</integer>
+    <key>jcircumflex</key>
+    <integer>140</integer>
+  </dict>
   <key>nlongright</key>
   <dict>
     <key>glottal</key>
@@ -5210,19 +6715,38 @@
   </dict>
   <key>ntilde</key>
   <dict>
+    <key>commarightcomb.spn</key>
+    <integer>30</integer>
     <key>glottal</key>
     <integer>-65</integer>
+  </dict>
+  <key>ohungarumlaut</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>40</integer>
+  </dict>
+  <key>one</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>110</integer>
   </dict>
   <key>one.LP</key>
   <dict>
     <key>comma</key>
     <integer>25</integer>
+    <key>commarightcomb.spn</key>
+    <integer>130</integer>
+  </dict>
+  <key>otilde</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>10</integer>
   </dict>
   <key>period</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-110</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>-110</integer>
     <key>glottalmodifier</key>
     <integer>-75</integer>
@@ -5249,7 +6773,7 @@
   <dict>
     <key>comma</key>
     <integer>10</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-35</integer>
     <key>degree</key>
     <integer>-40</integer>
@@ -5308,12 +6832,49 @@
     <key>public.kern2._L_uc_Z_2ND</key>
     <integer>25</integer>
   </dict>
+  <key>quotedbl</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>190</integer>
+  </dict>
+  <key>quotesingle</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>190</integer>
+  </dict>
+  <key>racute</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>60</integer>
+  </dict>
   <key>rcaron</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>10</integer>
+    <key>commarightcomb.spn</key>
+    <integer>160</integer>
     <key>glottal</key>
     <integer>-20</integer>
+  </dict>
+  <key>sacute</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>40</integer>
+  </dict>
+  <key>scaron</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>105</integer>
+  </dict>
+  <key>scircumflex</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>50</integer>
+  </dict>
+  <key>seven</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>110</integer>
   </dict>
   <key>seven.LP</key>
   <dict>
@@ -5321,9 +6882,13 @@
     <integer>15</integer>
     <key>comma</key>
     <integer>-85</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>10</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
+    <integer>10</integer>
+    <key>commarightcomb.spn</key>
+    <integer>180</integer>
+    <key>commarightcomb.spncap</key>
     <integer>10</integer>
     <key>eight.LP</key>
     <integer>-20</integer>
@@ -5333,6 +6898,8 @@
     <integer>-30</integer>
     <key>four.LP</key>
     <integer>-130</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>15</integer>
     <key>ibreve</key>
     <integer>25</integer>
     <key>icaron</key>
@@ -5488,8 +7055,15 @@
     <key>zerosuperior</key>
     <integer>-20</integer>
   </dict>
+  <key>six</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>110</integer>
+  </dict>
   <key>six.LP</key>
   <dict>
+    <key>commarightcomb.spn</key>
+    <integer>50</integer>
     <key>nine.LP</key>
     <integer>-10</integer>
     <key>one.LP</key>
@@ -5551,19 +7125,57 @@
     <key>zerosuperior</key>
     <integer>-5</integer>
   </dict>
+  <key>slinebelow</key>
+  <dict>
+    <key>dotlessj</key>
+    <integer>190</integer>
+    <key>j</key>
+    <integer>190</integer>
+    <key>j.dotless</key>
+    <integer>190</integer>
+    <key>jbar</key>
+    <integer>120</integer>
+    <key>jbar.dotless</key>
+    <integer>120</integer>
+    <key>jcaron</key>
+    <integer>190</integer>
+    <key>jcircumflex</key>
+    <integer>190</integer>
+  </dict>
+  <key>smacronbelow</key>
+  <dict>
+    <key>dotlessj</key>
+    <integer>90</integer>
+    <key>j</key>
+    <integer>90</integer>
+    <key>j.dotless</key>
+    <integer>90</integer>
+    <key>jbar</key>
+    <integer>20</integer>
+    <key>jbar.dotless</key>
+    <integer>20</integer>
+    <key>jcaron</key>
+    <integer>90</integer>
+    <key>jcircumflex</key>
+    <integer>90</integer>
+  </dict>
   <key>tcaron</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>80</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>70</integer>
   </dict>
   <key>theta.Latin</key>
   <dict>
     <key>comma</key>
     <integer>-50</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-30</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>30</integer>
+    <key>commarightcomb.spn</key>
+    <integer>70</integer>
     <key>glottal</key>
     <integer>-25</integer>
     <key>glottalstop</key>
@@ -5629,9 +7241,9 @@
     <integer>35</integer>
     <key>comma</key>
     <integer>-45</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>35</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>45</integer>
     <key>eturned</key>
     <integer>10</integer>
@@ -5641,6 +7253,8 @@
     <integer>20</integer>
     <key>glottalstop</key>
     <integer>50</integer>
+    <key>lbelt</key>
+    <integer>70</integer>
     <key>question</key>
     <integer>20</integer>
     <key>schwaogonek</key>
@@ -5692,18 +7306,27 @@
     <key>public.kern2._punc_quoteright_2ND</key>
     <integer>45</integer>
   </dict>
+  <key>three</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>110</integer>
+  </dict>
   <key>three.LP</key>
   <dict>
     <key>X</key>
     <integer>-75</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-10</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>-10</integer>
+    <key>commarightcomb.spn</key>
+    <integer>80</integer>
     <key>four.LP</key>
     <integer>10</integer>
     <key>glottal</key>
     <integer>-25</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>10</integer>
     <key>glottalreversed</key>
     <integer>-10</integer>
     <key>seven.LP</key>
@@ -5783,14 +7406,50 @@
     <key>sevensuperior</key>
     <integer>-10</integer>
   </dict>
+  <key>tlinebelow</key>
+  <dict>
+    <key>dotlessj</key>
+    <integer>190</integer>
+    <key>j</key>
+    <integer>190</integer>
+    <key>j.dotless</key>
+    <integer>190</integer>
+    <key>jbar</key>
+    <integer>110</integer>
+    <key>jbar.dotless</key>
+    <integer>110</integer>
+    <key>jcaron</key>
+    <integer>190</integer>
+    <key>jcircumflex</key>
+    <integer>190</integer>
+  </dict>
+  <key>tmacronbelow</key>
+  <dict>
+    <key>dotlessj</key>
+    <integer>200</integer>
+    <key>j</key>
+    <integer>200</integer>
+    <key>j.dotless</key>
+    <integer>200</integer>
+    <key>jbar</key>
+    <integer>120</integer>
+    <key>jbar.dotless</key>
+    <integer>120</integer>
+    <key>jcaron</key>
+    <integer>200</integer>
+    <key>jcircumflex</key>
+    <integer>200</integer>
+  </dict>
   <key>tslash</key>
   <dict>
     <key>comma</key>
     <integer>-100</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>40</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>40</integer>
+    <key>commarightcomb.spn</key>
+    <integer>220</integer>
     <key>eopen</key>
     <integer>-15</integer>
     <key>exclam</key>
@@ -5860,10 +7519,17 @@
     <key>public.kern2._x_sups_BOTH</key>
     <integer>80</integer>
   </dict>
+  <key>two</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>110</integer>
+  </dict>
   <key>two.LP</key>
   <dict>
     <key>comma</key>
     <integer>25</integer>
+    <key>commarightcomb.spn</key>
+    <integer>80</integer>
     <key>four.LP</key>
     <integer>-20</integer>
     <key>seven.LP</key>
@@ -5917,19 +7583,90 @@
     <key>zerosuperior</key>
     <integer>-10</integer>
   </dict>
+  <key>u</key>
+  <dict>
+    <key>glottalmodifier.alt</key>
+    <integer>-30</integer>
+  </dict>
+  <key>uacute</key>
+  <dict>
+    <key>glottalmodifier.alt</key>
+    <integer>-30</integer>
+  </dict>
   <key>ubar</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-90</integer>
+  </dict>
+  <key>ubreve</key>
+  <dict>
+    <key>glottalmodifier.alt</key>
+    <integer>-30</integer>
+  </dict>
+  <key>ucaron</key>
+  <dict>
+    <key>glottalmodifier.alt</key>
+    <integer>-30</integer>
+  </dict>
+  <key>ucircumflex</key>
+  <dict>
+    <key>glottalmodifier.alt</key>
+    <integer>-30</integer>
+  </dict>
+  <key>udieresis</key>
+  <dict>
+    <key>glottalmodifier.alt</key>
+    <integer>-30</integer>
+  </dict>
+  <key>ugrave</key>
+  <dict>
+    <key>glottalmodifier.alt</key>
+    <integer>-30</integer>
+  </dict>
+  <key>uhungarumlaut</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>50</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>-30</integer>
+  </dict>
+  <key>umacron</key>
+  <dict>
+    <key>glottalmodifier.alt</key>
+    <integer>-30</integer>
+  </dict>
+  <key>uogonek</key>
+  <dict>
+    <key>glottalmodifier.alt</key>
+    <integer>-30</integer>
+  </dict>
+  <key>uogonek.alt</key>
+  <dict>
+    <key>glottalmodifier.alt</key>
+    <integer>-30</integer>
+  </dict>
+  <key>uogonek.alt2</key>
+  <dict>
+    <key>glottalmodifier.alt</key>
+    <integer>-30</integer>
+  </dict>
+  <key>uogonek.euro</key>
+  <dict>
+    <key>glottalmodifier.alt</key>
+    <integer>-30</integer>
   </dict>
   <key>upsilonLatin</key>
   <dict>
     <key>comma</key>
     <integer>10</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-60</integer>
+    <key>commarightcomb.spn</key>
+    <integer>10</integer>
     <key>glottal</key>
     <integer>-90</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>-50</integer>
     <key>glottalreversed</key>
     <integer>-40</integer>
     <key>glottalstop</key>
@@ -5969,16 +7706,28 @@
     <key>public.kern2._x_sups_BOTH</key>
     <integer>10</integer>
   </dict>
+  <key>uring</key>
+  <dict>
+    <key>glottalmodifier.alt</key>
+    <integer>-30</integer>
+  </dict>
+  <key>utilde</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>30</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>-30</integer>
+  </dict>
   <key>vhook</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-80</integer>
     <key>glottal</key>
     <integer>-60</integer>
     <key>glottalmodifier</key>
     <integer>25</integer>
     <key>glottalmodifier.alt</key>
-    <integer>-15</integer>
+    <integer>-65</integer>
     <key>glottalreversed</key>
     <integer>-40</integer>
     <key>glottalstop</key>
@@ -6024,12 +7773,14 @@
   <dict>
     <key>comma</key>
     <integer>20</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-190</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>-100</integer>
     <key>glottal</key>
     <integer>-90</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>-140</integer>
     <key>glottalreversed</key>
     <integer>-150</integer>
     <key>glottalstop</key>
@@ -6111,9 +7862,9 @@
     <integer>35</integer>
     <key>comma</key>
     <integer>-45</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>45</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>45</integer>
     <key>fhook</key>
     <integer>40</integer>
@@ -6130,7 +7881,7 @@
     <key>public.kern2._L_lc_o_2ND</key>
     <integer>-20</integer>
     <key>public.kern2._L_lc_schwa_2ND</key>
-    <integer>-40</integer>
+    <integer>-15</integer>
     <key>public.kern2._L_uc_O_2ND</key>
     <integer>20</integer>
     <key>public.kern2._L_uc_S_2ND</key>
@@ -6164,14 +7915,18 @@
   </dict>
   <key>x</key>
   <dict>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>30</integer>
+    <key>commarightcomb.spn</key>
+    <integer>10</integer>
     <key>degree</key>
     <integer>-15</integer>
     <key>eopen</key>
     <integer>-25</integer>
     <key>glottal</key>
     <integer>-50</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>-25</integer>
     <key>halfringrightmodifier</key>
     <integer>-10</integer>
     <key>lambdaLatin</key>
@@ -6221,6 +7976,16 @@
     <key>public.kern2._x_sups_BOTH</key>
     <integer>45</integer>
   </dict>
+  <key>ycircumflex</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>40</integer>
+  </dict>
+  <key>ydieresis</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>80</integer>
+  </dict>
   <key>ymodifier</key>
   <dict>
     <key>Eth</key>
@@ -6231,10 +7996,12 @@
     <integer>35</integer>
     <key>comma</key>
     <integer>-45</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>45</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>45</integer>
+    <key>commarightcomb.spn</key>
+    <integer>235</integer>
     <key>fhook</key>
     <integer>40</integer>
     <key>question</key>
@@ -6284,8 +8051,25 @@
     <key>public.kern2._punc_quoteright_2ND</key>
     <integer>45</integer>
   </dict>
+  <key>zcaron</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>60</integer>
+  </dict>
+  <key>zcircumflex</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>30</integer>
+  </dict>
+  <key>zero</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>110</integer>
+  </dict>
   <key>zero.LP</key>
   <dict>
+    <key>commarightcomb.spn</key>
+    <integer>60</integer>
     <key>nine.LP</key>
     <integer>-10</integer>
     <key>seven.LP</key>
@@ -6341,6 +8125,36 @@
     <key>twosuperior</key>
     <integer>-5</integer>
   </dict>
+  <key>zlinebelow</key>
+  <dict>
+    <key>dotlessj</key>
+    <integer>130</integer>
+    <key>j</key>
+    <integer>130</integer>
+    <key>j.dotless</key>
+    <integer>130</integer>
+    <key>jbar</key>
+    <integer>50</integer>
+    <key>jbar.dotless</key>
+    <integer>60</integer>
+    <key>jcaron</key>
+    <integer>130</integer>
+    <key>jcircumflex</key>
+    <integer>130</integer>
+  </dict>
+  <key>zmacronbelow</key>
+  <dict>
+    <key>dotlessj</key>
+    <integer>30</integer>
+    <key>j</key>
+    <integer>30</integer>
+    <key>j.dotless</key>
+    <integer>30</integer>
+    <key>jcaron</key>
+    <integer>30</integer>
+    <key>jcircumflex</key>
+    <integer>30</integer>
+  </dict>
   <key>zmodifier</key>
   <dict>
     <key>Eth</key>
@@ -6351,9 +8165,9 @@
     <integer>35</integer>
     <key>comma</key>
     <integer>-45</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>45</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>45</integer>
     <key>eturned</key>
     <integer>10</integer>
@@ -6378,7 +8192,7 @@
     <key>public.kern2._L_lc_i_2ND</key>
     <integer>10</integer>
     <key>public.kern2._L_lc_o_2ND</key>
-    <integer>20</integer>
+    <integer>25</integer>
     <key>public.kern2._L_uc_O_2ND</key>
     <integer>20</integer>
     <key>public.kern2._L_uc_S_2ND</key>
@@ -6412,12 +8226,14 @@
   </dict>
   <key>public.kern1._L_lc_a_1ST</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-35</integer>
     <key>degree</key>
     <integer>-40</integer>
     <key>glottal</key>
     <integer>-45</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>-65</integer>
     <key>glottalreversed</key>
     <integer>-20</integer>
     <key>seven.LP</key>
@@ -6435,10 +8251,12 @@
   </dict>
   <key>public.kern1._L_lc_c_1ST</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-40</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>-20</integer>
+    <key>commarightcomb.spn</key>
+    <integer>20</integer>
     <key>glottal</key>
     <integer>-60</integer>
     <key>glottalmodifier</key>
@@ -6480,8 +8298,10 @@
   <dict>
     <key>comma</key>
     <integer>20</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>30</integer>
+    <key>commarightcomb.spn</key>
+    <integer>10</integer>
     <key>eopen</key>
     <integer>-15</integer>
     <key>fhook</key>
@@ -6557,7 +8377,7 @@
   </dict>
   <key>public.kern1._L_lc_dcaron_1ST</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>65</integer>
     <key>eopen</key>
     <integer>-70</integer>
@@ -6622,9 +8442,9 @@
   </dict>
   <key>public.kern1._L_lc_e_1ST</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-95</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>-10</integer>
     <key>degree</key>
     <integer>-35</integer>
@@ -6633,7 +8453,7 @@
     <key>glottalmodifier</key>
     <integer>20</integer>
     <key>glottalmodifier.alt</key>
-    <integer>20</integer>
+    <integer>-55</integer>
     <key>glottalreversed</key>
     <integer>-30</integer>
     <key>lwavybar</key>
@@ -6677,10 +8497,12 @@
     <integer>75</integer>
     <key>comma</key>
     <integer>-40</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>80</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>65</integer>
+    <key>commarightcomb.spn</key>
+    <integer>310</integer>
     <key>degree</key>
     <integer>50</integer>
     <key>exclam</key>
@@ -6780,10 +8602,14 @@
   <dict>
     <key>comma</key>
     <integer>10</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-45</integer>
+    <key>commarightcomb.spn</key>
+    <integer>10</integer>
     <key>degree</key>
     <integer>-40</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>20</integer>
     <key>jbar.dotless</key>
     <integer>25</integer>
     <key>jcaron</key>
@@ -6799,8 +8625,17 @@
     <key>public.kern2._L_lc_ldblbar_2ND</key>
     <integer>20</integer>
   </dict>
+  <key>public.kern1._L_lc_i_1ST</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>180</integer>
+  </dict>
   <key>public.kern1._L_lc_ibar_1ST</key>
   <dict>
+    <key>commarightcomb.spn</key>
+    <integer>90</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>-40</integer>
     <key>glottalreversed</key>
     <integer>-20</integer>
     <key>glottalstop</key>
@@ -6834,14 +8669,18 @@
   </dict>
   <key>public.kern1._L_lc_k_1ST</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-105</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>-20</integer>
+    <key>commarightcomb.spn</key>
+    <integer>10</integer>
     <key>degree</key>
     <integer>-60</integer>
     <key>glottal</key>
     <integer>-65</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>-85</integer>
     <key>halfringrightmodifier</key>
     <integer>-30</integer>
     <key>lbar</key>
@@ -6885,10 +8724,17 @@
     <key>public.kern2._x_sups_BOTH</key>
     <integer>-25</integer>
   </dict>
+  <key>public.kern1._L_lc_l_1ST</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>210</integer>
+  </dict>
   <key>public.kern1._L_lc_lambdaLatin_1ST</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-180</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>-50</integer>
     <key>glottalstop</key>
     <integer>-55</integer>
     <key>seven.LP</key>
@@ -6906,13 +8752,17 @@
   <dict>
     <key>comma</key>
     <integer>-30</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>30</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>30</integer>
+    <key>commarightcomb.spn</key>
+    <integer>120</integer>
     <key>fhook</key>
     <integer>20</integer>
     <key>glottal</key>
+    <integer>-20</integer>
+    <key>glottalmodifier.alt</key>
     <integer>-20</integer>
     <key>glottalreversed</key>
     <integer>30</integer>
@@ -6961,12 +8811,14 @@
   </dict>
   <key>public.kern1._L_lc_n_1ST</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-90</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>-25</integer>
     <key>degree</key>
     <integer>-95</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>-80</integer>
     <key>glottalreversed</key>
     <integer>-60</integer>
     <key>halfringrightmodifier</key>
@@ -6988,18 +8840,16 @@
   </dict>
   <key>public.kern1._L_lc_o_1ST</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-120</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>-75</integer>
     <key>degree</key>
     <integer>-125</integer>
     <key>glottal</key>
     <integer>-90</integer>
-    <key>glottalmodifier</key>
-    <integer>25</integer>
     <key>glottalmodifier.alt</key>
-    <integer>-15</integer>
+    <integer>-65</integer>
     <key>glottalreversed</key>
     <integer>-80</integer>
     <key>glottalstop</key>
@@ -7037,13 +8887,13 @@
     <key>vturned</key>
     <integer>-20</integer>
     <key>wmodifier</key>
-    <integer>-15</integer>
+    <integer>-50</integer>
     <key>x</key>
     <integer>-60</integer>
     <key>ymodifier</key>
     <integer>25</integer>
     <key>zmodifier</key>
-    <integer>25</integer>
+    <integer>20</integer>
     <key>public.kern2._L_lc_ibar.dotless_2ND</key>
     <integer>20</integer>
     <key>public.kern2._L_lc_ibar_2ND</key>
@@ -7062,21 +8912,27 @@
     <integer>-75</integer>
     <key>public.kern2._punc_quoteright_2ND</key>
     <integer>-75</integer>
+    <key>public.kern2._x_sups_BOTH</key>
+    <integer>-20</integer>
   </dict>
   <key>public.kern1._L_lc_r_1ST</key>
   <dict>
     <key>comma</key>
     <integer>-60</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>5</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>75</integer>
+    <key>commarightcomb.spn</key>
+    <integer>20</integer>
     <key>degree</key>
     <integer>20</integer>
     <key>fhook</key>
     <integer>35</integer>
     <key>glottal</key>
     <integer>-50</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>25</integer>
     <key>glottalreversed</key>
     <integer>45</integer>
     <key>halfringrightmodifier</key>
@@ -7136,10 +8992,12 @@
   <dict>
     <key>Tslash</key>
     <integer>-105</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-100</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>-20</integer>
+    <key>commarightcomb.spn</key>
+    <integer>10</integer>
     <key>degree</key>
     <integer>-65</integer>
     <key>glottal</key>
@@ -7187,14 +9045,18 @@
   <dict>
     <key>comma</key>
     <integer>20</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-125</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
+    <integer>20</integer>
+    <key>commarightcomb.spn</key>
     <integer>20</integer>
     <key>degree</key>
     <integer>-20</integer>
     <key>glottal</key>
     <integer>-35</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>-30</integer>
     <key>halfringrightmodifier</key>
     <integer>10</integer>
     <key>lbelt.alt</key>
@@ -7228,16 +9090,18 @@
   <dict>
     <key>comma</key>
     <integer>-75</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>10</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>45</integer>
+    <key>commarightcomb.spn</key>
+    <integer>20</integer>
     <key>glottal</key>
     <integer>-50</integer>
     <key>glottalmodifier</key>
     <integer>50</integer>
     <key>glottalmodifier.alt</key>
-    <integer>50</integer>
+    <integer>30</integer>
     <key>glottalreversed</key>
     <integer>50</integer>
     <key>glottalstop</key>
@@ -7311,10 +9175,14 @@
   <dict>
     <key>comma</key>
     <integer>-40</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>10</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>45</integer>
+    <key>commarightcomb.spn</key>
+    <integer>10</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>15</integer>
     <key>glottalreversed</key>
     <integer>40</integer>
     <key>halfringrightmodifier</key>
@@ -7368,10 +9236,12 @@
   </dict>
   <key>public.kern1._L_lc_z_1ST</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-40</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>15</integer>
+    <key>commarightcomb.spn</key>
+    <integer>10</integer>
     <key>degree</key>
     <integer>-30</integer>
     <key>glottal</key>
@@ -7433,9 +9303,9 @@
     <integer>-90</integer>
     <key>comma</key>
     <integer>20</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-120</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>-110</integer>
     <key>degree</key>
     <integer>-145</integer>
@@ -7444,7 +9314,7 @@
     <key>glottalmodifier</key>
     <integer>-75</integer>
     <key>glottalmodifier.alt</key>
-    <integer>-75</integer>
+    <integer>-105</integer>
     <key>glottalreversed</key>
     <integer>-90</integer>
     <key>glottalstop</key>
@@ -7568,9 +9438,11 @@
     <integer>20</integer>
     <key>comma</key>
     <integer>25</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>20</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
+    <integer>10</integer>
+    <key>commarightcomb.spncap</key>
     <integer>10</integer>
     <key>glottalmodifier</key>
     <integer>30</integer>
@@ -7647,10 +9519,12 @@
     <integer>-90</integer>
     <key>UpsilonLatin</key>
     <integer>-20</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>25</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>25</integer>
+    <key>commarightcomb.spncap</key>
+    <integer>10</integer>
     <key>dotlessiogonek</key>
     <integer>-30</integer>
     <key>dotlessiogonek.alt</key>
@@ -7794,7 +9668,9 @@
     <integer>20</integer>
     <key>comma</key>
     <integer>40</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
+    <integer>10</integer>
+    <key>commarightcomb.spncap</key>
     <integer>10</integer>
     <key>icircumflex</key>
     <integer>20</integer>
@@ -7837,7 +9713,7 @@
   <dict>
     <key>comma</key>
     <integer>10</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-10</integer>
     <key>glottalmodifier</key>
     <integer>10</integer>
@@ -7899,9 +9775,9 @@
     <integer>80</integer>
     <key>comma</key>
     <integer>-50</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-60</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>10</integer>
     <key>eopen</key>
     <integer>20</integer>
@@ -7910,6 +9786,8 @@
     <key>fhook</key>
     <integer>70</integer>
     <key>glottal</key>
+    <integer>-15</integer>
+    <key>glottalmodifier.alt</key>
     <integer>-15</integer>
     <key>glottalreversed</key>
     <integer>20</integer>
@@ -7988,7 +9866,7 @@
   <dict>
     <key>comma</key>
     <integer>-15</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>10</integer>
     <key>idieresis</key>
     <integer>40</integer>
@@ -8035,16 +9913,18 @@
     <integer>-60</integer>
     <key>comma</key>
     <integer>35</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-30</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>-20</integer>
+    <key>commarightcomb.spncap</key>
+    <integer>10</integer>
     <key>degree</key>
     <integer>-30</integer>
     <key>glottalmodifier</key>
     <integer>-30</integer>
     <key>glottalmodifier.alt</key>
-    <integer>-30</integer>
+    <integer>-15</integer>
     <key>glottalreversed</key>
     <integer>-35</integer>
     <key>glottalstop</key>
@@ -8146,12 +10026,14 @@
   </dict>
   <key>public.kern1._L_uc_L_1ST</key>
   <dict>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-155</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>-155</integer>
     <key>degree</key>
     <integer>-175</integer>
+    <key>glottalmodifier.alt</key>
+    <integer>-85</integer>
     <key>halfringrightmodifier</key>
     <integer>-145</integer>
   </dict>
@@ -8183,9 +10065,9 @@
     <integer>-85</integer>
     <key>X</key>
     <integer>25</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-160</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>-90</integer>
     <key>glottal</key>
     <integer>-20</integer>
@@ -8252,9 +10134,11 @@
   <dict>
     <key>Eopen</key>
     <integer>-10</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-45</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
+    <integer>-30</integer>
+    <key>glottalmodifier.alt</key>
     <integer>-30</integer>
     <key>seven.LP</key>
     <integer>-50</integer>
@@ -8289,9 +10173,9 @@
     <integer>-105</integer>
     <key>comma</key>
     <integer>-35</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-95</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>-35</integer>
     <key>degree</key>
     <integer>-30</integer>
@@ -8300,7 +10184,7 @@
     <key>glottalmodifier</key>
     <integer>20</integer>
     <key>glottalmodifier.alt</key>
-    <integer>20</integer>
+    <integer>-80</integer>
     <key>halfringrightmodifier</key>
     <integer>-10</integer>
     <key>kip</key>
@@ -8406,9 +10290,9 @@
     <integer>-25</integer>
     <key>UpsilonLatin</key>
     <integer>-40</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-85</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>-70</integer>
     <key>degree</key>
     <integer>-50</integer>
@@ -8417,7 +10301,7 @@
     <key>glottalmodifier</key>
     <integer>-30</integer>
     <key>glottalmodifier.alt</key>
-    <integer>-30</integer>
+    <integer>-60</integer>
     <key>glottalstop</key>
     <integer>-20</integer>
     <key>halfringrightmodifier</key>
@@ -8505,10 +10389,12 @@
     <integer>-30</integer>
     <key>comma</key>
     <integer>20</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>-20</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>-25</integer>
+    <key>commarightcomb.spncap</key>
+    <integer>10</integer>
     <key>degree</key>
     <integer>-20</integer>
     <key>glottalmodifier</key>
@@ -8610,10 +10496,12 @@
     <integer>-170</integer>
     <key>comma</key>
     <integer>-90</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>30</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>45</integer>
+    <key>commarightcomb.spncap</key>
+    <integer>10</integer>
     <key>degree</key>
     <integer>30</integer>
     <key>ecircumflex</key>
@@ -8625,7 +10513,7 @@
     <key>glottalmodifier</key>
     <integer>55</integer>
     <key>glottalmodifier.alt</key>
-    <integer>55</integer>
+    <integer>65</integer>
     <key>glottalreversed</key>
     <integer>10</integer>
     <key>glottalstop</key>
@@ -8870,10 +10758,12 @@
     <integer>35</integer>
     <key>comma</key>
     <integer>-100</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>15</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>25</integer>
+    <key>commarightcomb.spncap</key>
+    <integer>10</integer>
     <key>degree</key>
     <integer>20</integer>
     <key>edieresis</key>
@@ -9035,10 +10925,12 @@
     <integer>35</integer>
     <key>comma</key>
     <integer>-80</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>25</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>25</integer>
+    <key>commarightcomb.spncap</key>
+    <integer>10</integer>
     <key>degree</key>
     <integer>20</integer>
     <key>eopen</key>
@@ -9184,10 +11076,12 @@
     <integer>35</integer>
     <key>comma</key>
     <integer>-110</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>35</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>55</integer>
+    <key>commarightcomb.spncap</key>
+    <integer>10</integer>
     <key>degree</key>
     <integer>35</integer>
     <key>ecircumflex</key>
@@ -9205,7 +11099,7 @@
     <key>glottalmodifier</key>
     <integer>85</integer>
     <key>glottalmodifier.alt</key>
-    <integer>75</integer>
+    <integer>85</integer>
     <key>glottalstop</key>
     <integer>-60</integer>
     <key>halfringrightmodifier</key>
@@ -9339,10 +11233,12 @@
     <integer>-10</integer>
     <key>comma</key>
     <integer>20</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>10</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>20</integer>
+    <key>commarightcomb.spncap</key>
+    <integer>10</integer>
     <key>degree</key>
     <integer>30</integer>
     <key>glottal</key>
@@ -9414,7 +11310,7 @@
     <key>public.kern2._x_sups_BOTH</key>
     <integer>35</integer>
   </dict>
-  <key>public.kern1._punc_commarightcomb_1ST</key>
+  <key>public.kern1._punc_commarightcomb.spasc_1ST</key>
   <dict>
     <key>Eturned</key>
     <integer>20</integer>
@@ -9428,7 +11324,7 @@
     <integer>-125</integer>
     <key>comma</key>
     <integer>-265</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>10</integer>
     <key>edieresis</key>
     <integer>-105</integer>
@@ -10047,6 +11943,8 @@
     <integer>20</integer>
     <key>comma</key>
     <integer>-240</integer>
+    <key>commarightcomb.spn</key>
+    <integer>140</integer>
     <key>eopen</key>
     <integer>-15</integer>
     <key>fhook</key>
@@ -10176,16 +12074,28 @@
     <integer>20</integer>
     <key>comma</key>
     <integer>-265</integer>
-    <key>commarightcomb</key>
+    <key>commarightcomb.sp</key>
     <integer>10</integer>
-    <key>commarightcomb.case</key>
+    <key>commarightcomb.spcase</key>
     <integer>10</integer>
+    <key>commarightcomb.spn</key>
+    <integer>150</integer>
     <key>glottal</key>
     <integer>25</integer>
     <key>glottalmodifier</key>
     <integer>40</integer>
     <key>glottalmodifier.alt</key>
     <integer>40</integer>
+    <key>idotbelow.dotless</key>
+    <integer>10</integer>
+    <key>imacron</key>
+    <integer>10</integer>
+    <key>iogonek.dotless</key>
+    <integer>10</integer>
+    <key>iogonek.dotless.alt</key>
+    <integer>10</integer>
+    <key>iogonek.dotless.alt2</key>
+    <integer>10</integer>
     <key>jcircumflex</key>
     <integer>50</integer>
     <key>lambdaLatin</key>
@@ -10337,19 +12247,23 @@
     <key>Lwavybar</key>
     <integer>40</integer>
     <key>Oopen</key>
-    <integer>30</integer>
+    <integer>40</integer>
     <key>Ubar</key>
     <integer>75</integer>
     <key>UpsilonLatin</key>
-    <integer>15</integer>
+    <integer>25</integer>
+    <key>commarightcomb.spn</key>
+    <integer>225</integer>
+    <key>commarightcomb.spncap</key>
+    <integer>110</integer>
     <key>glottal</key>
     <integer>40</integer>
     <key>glottalreversed</key>
-    <integer>55</integer>
+    <integer>65</integer>
     <key>glottalstop</key>
     <integer>20</integer>
     <key>hbar</key>
-    <integer>60</integer>
+    <integer>90</integer>
     <key>ibarred</key>
     <integer>40</integer>
     <key>ibreve</key>
@@ -10359,7 +12273,7 @@
     <key>icircumflex</key>
     <integer>110</integer>
     <key>idieresis</key>
-    <integer>135</integer>
+    <integer>145</integer>
     <key>imacron</key>
     <integer>50</integer>
     <key>itilde</key>
@@ -10389,9 +12303,9 @@
     <key>lwavybar</key>
     <integer>35</integer>
     <key>seven.LP</key>
-    <integer>20</integer>
-    <key>theta.Latin</key>
     <integer>30</integer>
+    <key>theta.Latin</key>
+    <integer>40</integer>
     <key>three.LP</key>
     <integer>-10</integer>
     <key>upsilonLatin</key>
@@ -10413,7 +12327,7 @@
     <key>public.kern2._L_lc_w_2ND</key>
     <integer>45</integer>
     <key>public.kern2._L_lc_y_2ND</key>
-    <integer>65</integer>
+    <integer>-35</integer>
     <key>public.kern2._L_uc_AE_2ND</key>
     <integer>-80</integer>
     <key>public.kern2._L_uc_A_2ND</key>

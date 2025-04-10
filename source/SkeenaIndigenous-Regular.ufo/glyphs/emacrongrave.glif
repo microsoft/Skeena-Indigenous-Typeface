@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emacrongrave" format="2">
+  <advance width="1039"/>
+  <unicode hex="1E15"/>
+  <anchor x="546" y="0" name="bottom"/>
+  <anchor x="999" y="946" name="topright"/>
+  <anchor x="776" y="1760" name="topright.mkmk"/>
+  <anchor x="536" y="1760" name="top.mkmk"/>
+  <outline>
+    <component base="e"/>
+    <component base="macroncomb" xOffset="536"/>
+    <component base="gravecomb" xOffset="536" yOffset="325"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>e+macroncomb+gravecomb</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

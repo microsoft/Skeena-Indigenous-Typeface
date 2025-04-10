@@ -3,7 +3,9 @@
   <advance width="1264"/>
   <unicode hex="0151"/>
   <anchor x="632" y="0" name="bottom"/>
+  <anchor x="1234" y="955" name="topright"/>
   <anchor x="631" y="1489" name="top.mkmk"/>
+  <anchor x="1003" y="1489" name="topright.mkmk"/>
   <outline>
     <component base="o"/>
     <component base="hungarumlautcomb" xOffset="631" yOffset="2"/>

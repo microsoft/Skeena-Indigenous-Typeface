@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gamma.Latin" format="2">
+  <advance width="1397"/>
+  <unicode hex="0393"/>
+  <anchor x="698" y="-419" name="bottom"/>
+  <anchor x="752" y="1314" name="top"/>
+  <anchor x="1417" y="1314" name="topright"/>
+  <outline>
+    <component base="GammaLatin"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>GammaLatin</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

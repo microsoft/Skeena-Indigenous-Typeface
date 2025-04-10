@@ -5,21 +5,21 @@
   <outline>
     <contour>
       <point x="195" y="-297" type="line"/>
-      <point x="597" y="1314" type="line"/>
-      <point x="1007" y="1314" type="line"/>
       <point x="618" y="-247" type="line"/>
+      <point x="1007" y="1314" type="line"/>
+      <point x="597" y="1314" type="line"/>
     </contour>
     <contour>
       <point x="-50" y="71" type="line"/>
-      <point x="32" y="401" type="line"/>
-      <point x="1115" y="401" type="line"/>
       <point x="1033" y="71" type="line"/>
+      <point x="1115" y="401" type="line"/>
+      <point x="32" y="401" type="line"/>
     </contour>
     <contour>
       <point x="90" y="632" type="line"/>
-      <point x="172" y="962" type="line"/>
-      <point x="1256" y="962" type="line"/>
       <point x="1173" y="632" type="line"/>
+      <point x="1256" y="962" type="line"/>
+      <point x="172" y="962" type="line"/>
     </contour>
   </outline>
   <guideline angle="76.0015" x="1015.49" y="0"/>

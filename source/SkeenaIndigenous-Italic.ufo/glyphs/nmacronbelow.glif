@@ -3,6 +3,7 @@
   <advance width="1084"/>
   <unicode hex="1E49"/>
   <anchor x="650" y="938" name="top"/>
+  <anchor x="1137" y="938" name="topright"/>
   <anchor x="354" y="-319" name="bottom.mkmk"/>
   <outline>
     <component base="n"/>
@@ -15,7 +16,7 @@
   <key>com.fontlab.recipe</key>
   <string>n+macronbelowcomb</string>
   <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
+  <string>0.604,0.6,1,1</string>
   </dict>
   </lib>
 </glyph>

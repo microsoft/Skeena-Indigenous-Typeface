@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexbelowcomb" format="2">
+  <unicode hex="032D"/>
+  <anchor x="-121" y="0" name="_bottom"/>
+  <anchor x="-232" y="-448" name="bottom.mkmk"/>
+  <anchor x="-130" y="-38" name="_bottom.mkmk"/>
+  <outline>
+    <contour>
+      <point x="-455" y="-467" type="line"/>
+      <point x="-145" y="-236" type="line"/>
+      <point x="-184" y="-236" type="line"/>
+      <point x="17" y="-467" type="line"/>
+      <point x="103" y="-410" type="line"/>
+      <point x="-62" y="-110" type="line"/>
+      <point x="-233" y="-110" type="line"/>
+      <point x="-529" y="-388" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="-130"/>
+  <guideline angle="0" x="0" y="-466"/>
+  <guideline angle="0" x="0" y="-255"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.801,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

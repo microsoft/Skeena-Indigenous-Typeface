@@ -5,9 +5,9 @@
   <outline>
     <contour>
       <point x="527" y="-209" type="line"/>
-      <point x="245" y="1414" type="line"/>
-      <point x="407" y="1414" type="line"/>
       <point x="689" y="-209" type="line"/>
+      <point x="407" y="1414" type="line"/>
+      <point x="245" y="1414" type="line"/>
     </contour>
   </outline>
   <guideline angle="76.0015" x="-77.9028" y="0"/>

@@ -4,19 +4,19 @@
   <unicode hex="2077"/>
   <outline>
     <contour>
-      <point x="208" y="571" type="line"/>
-      <point x="289" y="802"/>
-      <point x="474" y="1079"/>
-      <point x="704" y="1317" type="curve"/>
-      <point x="707" y="1346" type="line"/>
-      <point x="729" y="1322" type="line"/>
-      <point x="252" y="1322" type="line"/>
-      <point x="277" y="1425" type="line"/>
-      <point x="852" y="1425" type="line"/>
-      <point x="829" y="1331" type="line"/>
-      <point x="597" y="1073"/>
+      <point x="208" y="571" type="curve"/>
+      <point x="362" y="571" type="line"/>
       <point x="459" y="847"/>
-      <point x="362" y="571" type="curve"/>
+      <point x="597" y="1073"/>
+      <point x="829" y="1331" type="curve"/>
+      <point x="852" y="1425" type="line"/>
+      <point x="277" y="1425" type="line"/>
+      <point x="252" y="1322" type="line"/>
+      <point x="729" y="1322" type="line"/>
+      <point x="707" y="1346" type="line"/>
+      <point x="704" y="1317" type="line"/>
+      <point x="474" y="1079"/>
+      <point x="289" y="802"/>
     </contour>
   </outline>
   <guideline angle="76.2727" x="412" y="0"/>

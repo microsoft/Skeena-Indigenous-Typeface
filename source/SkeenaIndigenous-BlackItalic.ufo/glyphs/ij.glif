@@ -4,6 +4,7 @@
   <unicode hex="0133"/>
   <anchor x="864" y="1410" name="top.mkmk"/>
   <anchor x="406" y="-419" name="bottom"/>
+  <anchor x="1494" y="1410" name="topright"/>
   <outline>
     <component base="i"/>
     <component base="j" xOffset="632"/>

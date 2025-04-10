@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Oogonekmacron.alt2" format="2">
   <advance width="1434"/>
+  <anchor x="1541" y="1314" name="topright"/>
   <anchor x="514" y="-458" name="bottom.mkmk"/>
   <anchor x="995" y="1590" name="top.mkmk"/>
+  <anchor x="1282" y="1590" name="topright.mkmk"/>
   <outline>
     <component base="O"/>
     <component base="ogonekcomb.alt2" xOffset="750"/>

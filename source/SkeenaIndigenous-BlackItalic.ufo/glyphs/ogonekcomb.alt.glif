@@ -5,30 +5,30 @@
   <anchor x="-109" y="47" name="_bottom.mkmk"/>
   <outline>
     <contour>
-      <point x="7" y="-403" type="line"/>
-      <point x="-68" y="-435"/>
-      <point x="-148" y="-447"/>
-      <point x="-216" y="-447" type="curve" smooth="yes"/>
-      <point x="-393" y="-447"/>
-      <point x="-452" y="-363"/>
-      <point x="-452" y="-286" type="curve" smooth="yes"/>
-      <point x="-452" y="-148"/>
-      <point x="-298" y="-70"/>
-      <point x="-140" y="-73" type="curve"/>
-      <point x="-177" y="-109" type="line"/>
-      <point x="-139" y="41" type="line"/>
-      <point x="18" y="41" type="line"/>
-      <point x="-36" y="-170" type="line"/>
-      <point x="-123" y="-174"/>
-      <point x="-189" y="-208"/>
-      <point x="-189" y="-260" type="curve" smooth="yes"/>
-      <point x="-189" y="-293"/>
-      <point x="-159" y="-313"/>
-      <point x="-100" y="-313" type="curve" smooth="yes"/>
-      <point x="-52" y="-313"/>
-      <point x="11" y="-300"/>
-      <point x="58" y="-280" type="curve"/>
+      <point x="7" y="-403" type="curve"/>
       <point x="65" y="-286" type="line"/>
+      <point x="58" y="-280" type="line"/>
+      <point x="11" y="-300"/>
+      <point x="-52" y="-313"/>
+      <point x="-100" y="-313" type="curve" smooth="yes"/>
+      <point x="-159" y="-313"/>
+      <point x="-189" y="-293"/>
+      <point x="-189" y="-260" type="curve" smooth="yes"/>
+      <point x="-189" y="-208"/>
+      <point x="-123" y="-174"/>
+      <point x="-36" y="-170" type="curve"/>
+      <point x="18" y="41" type="line"/>
+      <point x="-139" y="41" type="line"/>
+      <point x="-177" y="-109" type="line"/>
+      <point x="-140" y="-73" type="line"/>
+      <point x="-298" y="-70"/>
+      <point x="-452" y="-148"/>
+      <point x="-452" y="-286" type="curve" smooth="yes"/>
+      <point x="-452" y="-363"/>
+      <point x="-393" y="-447"/>
+      <point x="-216" y="-447" type="curve" smooth="yes"/>
+      <point x="-148" y="-447"/>
+      <point x="-68" y="-435"/>
     </contour>
   </outline>
   <guideline angle="63.96" x="767" y="0"/>

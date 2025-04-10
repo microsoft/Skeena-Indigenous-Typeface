@@ -24,66 +24,6 @@
     <key>y</key>
     <integer>486</integer>
   </dict>
-  <dict>
-    <key>angle</key>
-    <integer>90</integer>
-    <key>name</key>
-    <string>f1</string>
-    <key>x</key>
-    <integer>-121</integer>
-    <key>y</key>
-    <integer>0</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>90</integer>
-    <key>name</key>
-    <string>f2</string>
-    <key>x</key>
-    <integer>825</integer>
-    <key>y</key>
-    <integer>0</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>f2.1</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>486</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>f4</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>1611</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>f5</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>486</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>f6</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>1169</integer>
-  </dict>
   </array>
   <key>italicAngle</key>
   <integer>-14</integer>
