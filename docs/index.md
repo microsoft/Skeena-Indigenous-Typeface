@@ -5,6 +5,8 @@ layout: home
 
 <img src="images/banner.svg" alt="Skeena Indigenous"/>
 
+**NOTE: This documentation has not yet been updated to cover changes to v0.91 of the beta fonts.**
+
 Every font is the outcome of many decisions, large and small. This document explains key decisions in the making of the Skeena Indigenous font family, from the inception of the design to its release under the [Open Font License v1.1](https://openfontlicense.org/open-font-license-official-text/) as a focal point for engagement with indigenous language communities. The document discusses both design and implementation decisions and, importantly, explains how things might be done differently: what other decisions could have been made, and why those decisions might be more suitable to other projects.
 
 ## Origins
