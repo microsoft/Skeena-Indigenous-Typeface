@@ -5,8 +5,6 @@ layout: home
 
 <img src="images/banner.svg" alt="Skeena Indigenous"/>
 
-**NOTE: This documentation has not yet been updated to cover changes to v0.91 of the beta fonts.**
-
 Every font is the outcome of many decisions, large and small. This document explains key decisions in the making of the Skeena Indigenous font family, from the inception of the design to its release under the [Open Font License v1.1](https://openfontlicense.org/open-font-license-official-text/) as a focal point for engagement with indigenous language communities. The document discusses both design and implementation decisions and, importantly, explains how things might be done differently: what other decisions could have been made, and why those decisions might be more suitable to other projects.
 
 ## Origins
@@ -98,27 +96,27 @@ Unicode includes a number of small, raised punctuation or mark characters that a
 
 Many indigenous orthographies utilize one or more of these characters, most often to indicate glottalization, so their confusability affects many languages.
 
-<img src="images/Kwak02BC.svg" alt="Kwakʼwala"/>
+<img src="images/Kwak02BC.svg" alt="awaḵʼwa̱s"/>
 
 <span style="color:#bf2229">U+02BC MODIFIER LETTER APOSTROPHE</span> is a spacing sign that Unicode classifies as a letter. It is the recommended encoding for a spacing glottalization sign of this form (there are multiple other glottalization letters used in various alphabets that do not resemble the apostrophe: **ʔ ɂ ˀ 7**). In Skeena Indigenous, this character is identical to the right quote punctuation sign (U+2019). It is kerned to preceding and following glyphs to provide balanced spacing.
 
-<img src="images/Kwak2019.svg" alt="Kwak’wala"/>
+<img src="images/Kwak2019.svg" alt="awaḵ’wa̱s"/>
 
 <span style="color:#bf2229">U+2019 RIGHT SINGLE QUOTATION MARK</span> is a spacing punctuation sign that is used in many orthographies as both a closing quotation sign and as the apostrophe. Because this character is identical to the modifier letter apostrophe (U+02BC), it is the most directly confusable of the apostrophe-like characters. It may occur in text either from direct keyboard input or as a result of software algorithmically substituting it for the generic apostrophe/quote sign (U+0027).
 
-<img src="images/Kwak0027.svg" alt="Kwak'wala"/>
+<img src="images/Kwak0027.svg" alt="awaḵ'wa̱s"/>
 
 <span style="color:#bf2229">U+0027 APOSTROPHE</span> is a legacy of typewriters on which the apostrophe and opening and closing quotation punctuation were all input as a single character, which might also represent the prime or minute sign. Its design is generic and usually a straight vertical shape. In typography, the opening and closing quotation punctuation are conventionally curved and rotated or mirrored to face in opposite directions. The generic, straight apostrophe/quote sign is included on many keyboard layouts, and some word processing and page layout software may algorithmically substitute appropriate curved “typographer’s quotes”, resulting in the character U+2019 being stored and displayed.
 
-<img src="images/Kwak02C8.svg" alt="Kwakˈwala"/>
+<img src="images/Kwak02C8.svg" alt="awaḵˈwa̱s"/>
 
 <span style="color:#bf2229">U+02C8 MODIFIER LETTER VERTICAL LINE</span> is a spacing sign that Unicode classifies as a letter. It is less frequently encountered than the other characters in this set and is most obviously confusable with the generic apostrophe U+0027.
 
-<img src="images/Kwak0315.svg" alt="Kwak̕wala"/>
+<img src="images/Kwak0315.svg" alt="awaḵ̕wa̱s"/>
 
-<span style="color:#bf2229">U+0315 COMBINING COMMA ABOVE RIGHT</span> is classified by Unicode as a combining mark, but it is positioned to the right of the base letter to which it is applied and behaves much like a spacing sign. In Skeena Indigenous, this character is actually treated as a spacing glyph and is not classed as a mark in the font [GDEF](https://learn.microsoft.com/en-us/typography/opentype/spec/gdef) table; this makes it easier to manage its horizontal position and spacing relative to the preceding base letter and following glyphs. For consistency with related marks, this character is coordinated in size and vertical alignment with marks that sit above x-height letters, notably U+0313; in fact, the shape of U+031 and U+0313 is identical and only their positioning behavior differs.
+<span style="color:#bf2229">U+0315 COMBINING COMMA ABOVE RIGHT</span> is classified by Unicode as a combining mark, but it is positioned to the right of the base letter to which it is applied and behaves much like a spacing sign. In Skeena Indigenous, this character is actually treated as a narrow spacing glyph and is not classed as a mark in the font [GDEF](https://learn.microsoft.com/en-us/typography/opentype/spec/gdef) table; this makes it easier to manage its horizontal position and spacing relative to the preceding base letter and following glyphs. For consistency with related marks, this character is coordinated in size and vertical alignment with marks that sit above x-height letters, notably U+0313; in fact, the shape of U+031 and U+0313 is identical and only their positioning behavior differs.
 
-<img src="images/Kwak0313.svg" alt="Kwak̓wala"/>
+<img src="images/Kwak0313.svg" alt="awaḵ̓wa̱s"/>
 
 <span style="color:#bf2229">U+0313 COMBINING COMMA ABOVE</span> is a combining mark character that sits above the preceding base letter. It’s exact positioning may differ between fonts, and its shape and size might be contextually reduced—as in Skeena Indigenous—if it occurs over uppercase or ascending letters. Language communities may have local preferences for the positioning of U+0313 relative to some letters. Some fonts might nest the mark above the x-height portion of a letter like **k**, making it more easily confused with U+0315 or one of the other apostrophe-like signs. Note that some orthographies employ both U+0313 and U+0315, positioning the mark above x-height letters but beside ascending letters; for example, in the hən̓q̓əmin̓əm̓ language of the Musqueam First Nation, U+0313 is used above several letters, but U+0315 is used beside **l**.
 
@@ -126,13 +124,13 @@ In addition to the confusables shown here, care should be taken to distinguish U
 
 #### Colon-like signs
 
-The colon may occur as a punctuation sign, but is often used in indigenous orthographies as a vowel length indicator. This is derived from IPA and NAPA practice, but in the former the long vowel marker officially uses triangular dots and is encoded as such. In indigenous language texts, the dots are conventionally round, regardless of the encoding, meaning that any of these three characters might be encountered and may render identically.
+The colon may occur as a punctuation sign, but is often used in indigenous orthographies as a vowel length indicator. This is derived from IPA and NAPA practice, but in the former the long vowel marker officially uses triangular dots and is encoded as such. In indigenous language texts, the dots are most often round, so U+A789 is the recommended encoding. The default form of U+02D0 i with triangular dots, but a stylistic variant with round dots is provided for compatibility with local conventions.
 
 * ꞉ U+A789 COLON LETTER MODIFIER
 * ː U+02D0 MODIFIER LETTER TRIANGULAR COLON
 * : U+003A COLON
 
-In Skeena Indigenous, the default forms of all three characters use round dots. The U+003A colon character is spaced as punctuation, with a slight offset to the right; to ensure it is evenly spaced used between letters, the colon modifier glyph is substituted in that context.
+The U+003A colon character is spaced as punctuation, with a slight offset to the right; to ensure it is evenly spaced used between letters, the colon modifier glyph is substituted in that context.
 
 #### Barred letters
 
@@ -142,10 +140,15 @@ A number of diacritics in indigenous alphabets are distinguished by one or two h
 * ɫ U+026B LATIN SMALL LETTER L WITH MIDDLE TILDE
 * ł U+0142 LATIN SMALL LETTER L WITH STROKE
 
-In Skeena Indigenous, these are clearly distinguished in design, to discourage their use interchangeably. Conversely, the design of two other confusable characters is coordinated in Skeena Indigenous, since the choice of encoding differs between communities for what, in this style of type, are identical forms (in a traditional serif typeface, they might more obviously be distinguished):
+In Skeena Indigenous, these are clearly distinguished in design, to discourage their use interchangeably. Likewise, the design of two other confusable characters is distinguished in the design, exposing the underlying encoding, even though either or both may appear in some texts.
 
-* ⱡ U+2C61 LATIN SMALL LETTER L WITH DOUBLE BAR
-* ǂ U+01C2 LATIN LETTER ALVEOLAR CLICK
+<img src="images/Ktun2C61.svg" alt="hakqsaⱡa"/>
+
+<span style="color:#bf2229">U+2C61 LATIN SMALL LETTER L WITH DOUBLE BAR</span>
+
+<img src="images/Ktun01C2.svg" alt="hakqsaǂa"/>
+
+<span style="color:#bf2229">U+01C2 LATIN LETTER ALVEOLAR CLICK</span>
 
 The choice of character by a community ideally takes into account casing properties (the double-barred l has an uppercase equivalent; the alveolar click is unicase), as well as how these letters are conventionally interpreted in different styles of type.
 
@@ -202,7 +205,15 @@ A few uppercase letters are cross-script confusable, such as the Greek Lambda **
 
 Some diacritic letters in Unicode bear resemblance to currency or other symbols, and may be encountered as such in indigenous language texts, either by accident or because they have been selected as standard encodings by a community on the basis of convenience or because they most closely correspond to the locally expected the form of the letter. As in other cases of confusable characters, font makers need to decide whether to accommodate those encodings by tailoring the form of the symbol characters to match community expectations, or to differentiate the symbols from the similar letters and encourage use of the latter. There is no easy or obviously correct decision given that some of these symbol characters are enshrined as letters in specific orthographies.
 
-The cent currency symbol **¢** (U+00A2) is frequently designed with a vertical bar, but occurs in some orthographies in place of the diagonally slashed-c **ȼ** (U+023C). In Skeena Indigenous, the cent is given a diagonal stroke to match the diacritic letter.
+The cent currency symbol **¢** (U+00A2) occurs in some orthographies in place of the Americanist slashed-c **ȼ** (U+023C). The cent symbol is frequently designed with a vertical bar, however, and in some fonts may be smaller than lowercase letters or raised off the baseline; for this reason, U+023C is the recommended encoding. The two characters are clearly distinguished in Skeena Indigenous by the angle of the intersecting stroke.
+
+<img src="images/Ktun023C.svg" alt="hakqsaⱡa"/>
+
+<span style="color:#bf2229">U+023C LATIN SMALL LETTER C WITH STROKE</span>
+
+<img src="images/Ktun00A2.svg" alt="hakqsaǂa"/>
+
+<span style="color:#bf2229">U+00A2 CENT SIGN</span>
 
 Unicode includes a barred-K diacritic **Ꝁ** (U+A740). In most typefaces the bar is a short stroke through the upper part of the vertical, so this character was not selected for inclusion in the alphabet of the SENĆOŦEN (Saanich) language of southern Vancouver Island; rather, the currency symbol for the Lao kip ₭ (U+20AD) was chosen because its shape—with a long bar through the middle of the letter—corresponded with community expectations. Since the barred K diacritic in SENĆOŦEN is unique among North American indigenous orthographies, Skeena Indigenous contains only the kip character, and not U+A740 or its lowercase equivalent U+A741.
 
@@ -480,9 +491,11 @@ The remaining stylistic set features in Skeena Indigenous provide overrides or t
 * `ss05` toggles barred-Lambda/lambda form
 * `ss06` toggles belted-l form
 * `ss07` toggles glottal modifier form
-* `ss08` substitutes triangular vowel length marker
+* `ss08` substitutes round vowel length marker dots
+* `ss09` substitutes anchored above right comma mark
+* `ss10` substitutes spacing above right comma
 
-This stylistic set features can be used to override localized forms, or to activate them in software where automated LangSys mapping is not available or where the language of a text is not tagged.
+The stylistic set features can be used to override localized forms, or to activate them in software where automated LangSys mapping is not available or where the language of a text is not tagged. The last two features change the behaviour of the U+0315 apostrophe-like above right sign, which may correspond more closely to expectations of this character in certain orthographies.
 
 The Skeena Indigenous build configuration YAML file includes [Feature Parameter](https://learn.microsoft.com/en-us/typography/opentype/otspec184/chapter2#feature-table) name entries for these stylistic set features:
 
@@ -495,7 +508,9 @@ featureparams:
   ss05: Barred-Lambda/lambda toggle
   ss06: Belted-l toggle
   ss07: Glottal modifier toggle
-  ss08: Triangular long vowel marker
+  ss08: Round vowel length signs
+  ss09: Anchored comma above-right (U+0315)
+  ss10: Spacing comma above-right (U+0315)
 ```
 These names may be displayed in the user interface of software that provides access to the features.
 
