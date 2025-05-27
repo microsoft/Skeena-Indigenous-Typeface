@@ -25,8 +25,6 @@
   <guideline angle="66.8436" x="270.369" y="0"/>
   <lib>
   <dict>
-  <key>note</key>
-  <real>14</real>
   <key>public.markColor</key>
   <string>0.6,1,0.602,1</string>
   </dict>

@@ -550,11 +550,6 @@
     <string>Zlinebelow</string>
     <string>Zmacronbelow</string>
   </array>
-  <key>public.kern1._punc_commarightcomb.spasc_1ST</key>
-  <array>
-    <string>commarightcomb.sp</string>
-    <string>commarightcomb.spcase</string>
-  </array>
   <key>public.kern1._punc_degree_1ST</key>
   <array>
     <string>degree</string>

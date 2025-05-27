@@ -125,9 +125,6 @@ END_GROUP
 DEF_GROUP "KERN_L_uc_Z_1ST"
  ENUM GLYPH "Z" GLYPH "Zacute" GLYPH "Zcaron" GLYPH "Zcircumflex" GLYPH "Zdotaccent" GLYPH "Zlinebelow" GLYPH "Zmacronbelow" END_ENUM
 END_GROUP
-DEF_GROUP "KERN_punc_commarightcomb.spasc_1ST"
- ENUM GLYPH "commarightcomb.sp" GLYPH "commarightcomb.spcase" END_ENUM
-END_GROUP
 DEF_GROUP "KERN_punc_degree_1ST"
  ENUM GLYPH "degree" END_ENUM
 END_GROUP
