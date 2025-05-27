@@ -11,7 +11,7 @@
     <string>acedilla</string>
     <string>acircumflex</string>
     <string>adieresis</string>
-    <string>adotacent</string>
+    <string>adotaccent</string>
     <string>agrave</string>
     <string>amacron</string>
     <string>aogonek</string>
@@ -299,7 +299,7 @@
     <string>Acaron</string>
     <string>Acircumflex</string>
     <string>Adieresis</string>
-    <string>Adotacent</string>
+    <string>Adotaccent</string>
     <string>Agrave</string>
     <string>Amacron</string>
     <string>Aogonek</string>
@@ -684,7 +684,7 @@
     <string>acedilla</string>
     <string>acircumflex</string>
     <string>adieresis</string>
-    <string>adotacent</string>
+    <string>adotaccent</string>
     <string>ae</string>
     <string>aeacute</string>
     <string>agrave</string>
@@ -969,7 +969,7 @@
     <string>Acaron</string>
     <string>Acircumflex</string>
     <string>Adieresis</string>
-    <string>Adotacent</string>
+    <string>Adotaccent</string>
     <string>Agrave</string>
     <string>Amacron</string>
     <string>Aogonek</string>

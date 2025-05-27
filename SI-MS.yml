@@ -1,5 +1,5 @@
 names:
-  5: Version 0.910 BETA
+  5: Version 0.92 BETA 
   
 formats: [ttf, woff2]
 
@@ -88,8 +88,6 @@ fonts:
       ss06: Cursive belted-l (Lushootseed)
       ss07: Glottal modifier toggle
       ss08: Round vowel length signs
-      ss09: Anchored comma above-right (U+0315)
-      ss10: Spacing comma above-right (U+0315)
       cv01:
         label: Barred-Lambda/lambda
         tooltip: Wavy barred-lambda form
@@ -213,8 +211,6 @@ fonts:
       ss06: Cursive belted-l (Lushootseed)
       ss07: Glottal modifier toggle
       ss08: Round vowel length signs
-      ss09: Anchored comma above-right (U+0315)
-      ss10: Spacing comma above-right (U+0315)
       cv01:
         label: Barred-Lambda/lambda
         tooltip: Wavy barred-lambda form

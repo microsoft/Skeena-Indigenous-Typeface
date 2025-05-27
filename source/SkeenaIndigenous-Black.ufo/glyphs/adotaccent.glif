@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="adotacent" format="2">
-  <advance width="1020"/>
+<glyph name="adotaccent" format="2">
+  <advance width="1198"/>
   <unicode hex="0227"/>
-  <anchor x="504" y="0" name="bottom"/>
-  <anchor x="980" y="946" name="topright"/>
-  <anchor x="504" y="1319" name="top.mkmk"/>
-  <anchor x="750" y="1319" name="topright.mkmk"/>
+  <anchor x="601" y="0" name="bottom"/>
+  <anchor x="1168" y="955" name="topright"/>
+  <anchor x="614" y="1418" name="top.mkmk"/>
+  <anchor x="930" y="1418" name="topright.mkmk"/>
   <outline>
     <component base="a"/>
-    <component base="dotaccentcomb" xOffset="504"/>
+    <component base="dotaccentcomb" xOffset="614"/>
   </outline>
   <lib>
   <dict>

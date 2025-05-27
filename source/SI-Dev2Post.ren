@@ -1,6 +1,6 @@
 %%FONTLAB RENAMING SCHEME: Skeena Indigenous dev-to-post
 %
-% 4 April 2025
+% 27 May 2025
 % 
 .notdef .notdef
 NULL NULL
@@ -43,7 +43,7 @@ Amacron Amacron
 Abreve Abreve
 Aring Aring
 Aringacute Aringacute
-Adotacent uni0226
+Adotaccent uni0226
 Aogonek Aogonek
 Aogonek.euro Aogonek.euro
 Aogonek.alt Aogonek.alt
@@ -271,7 +271,7 @@ amacron amacron
 abreve abreve
 aring aring
 aringacute aringacute
-adotacent uni0227
+adotaccent uni0227
 acedilla uni00610327
 aogonek aogonek
 aogonek.euro aogonek.euro
@@ -545,8 +545,6 @@ commarightcomb uni0315
 commarightcomb.cap uni0315.cap
 commarightcomb.spn uni0315.spn
 commarightcomb.spncap uni0315.spncap
-commarightcomb.sp uni0315.sp
-commarightcomb.spcase uni0315.case
 commaaccentturnedabovecomb uni0312
 commaaccentturnedabovecomb.cap uni0312.cap
 breveinvertedtiecomb uni0361

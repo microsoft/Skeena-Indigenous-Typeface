@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
   <key>ascender</key>
-  <integer>1583</integer>
+  <integer>1890</integer>
   <key>capHeight</key>
   <integer>1314</integer>
   <key>copyright</key>
   <string>© 2020 &amp; 2024 Microsoft Corporation, with Reserved Font Name Skeena.</string>
   <key>descender</key>
-  <integer>-465</integer>
+  <integer>-770</integer>
   <key>familyName</key>
   <string>Skeena Indigenous</string>
   <key>guidelines</key>
@@ -49,13 +49,13 @@
   <array>
   </array>
   <key>openTypeHheaAscender</key>
-  <integer>1583</integer>
+  <integer>1890</integer>
   <key>openTypeHheaCaretOffset</key>
   <integer>-0</integer>
   <key>openTypeHheaDescender</key>
-  <integer>-465</integer>
+  <integer>-770</integer>
   <key>openTypeHheaLineGap</key>
-  <integer>410</integer>
+  <integer>-0</integer>
   <key>openTypeNameDescription</key>
   <string>Skeena is a contemporary humanist sans serif with a pronounced modulation of thick and thin strokes and a distinctive oblique slice applied to ascenders, terminals and other features. Skeena Indigenous is a libre release fork of the Skeena design with added support for a significant number of North American indigenous language orthographies, and an indigenous-first approach to diacritic design.
 
@@ -167,11 +167,11 @@ THE FONT SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS
   <array>
   </array>
   <key>openTypeOS2TypoAscender</key>
-  <integer>1583</integer>
+  <integer>1890</integer>
   <key>openTypeOS2TypoDescender</key>
-  <integer>-465</integer>
+  <integer>-770</integer>
   <key>openTypeOS2TypoLineGap</key>
-  <integer>410</integer>
+  <integer>-0</integer>
   <key>openTypeOS2UnicodeRanges</key>
   <array>
     <integer>0</integer>
@@ -192,9 +192,9 @@ THE FONT SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
-  <integer>1788</integer>
+  <integer>1890</integer>
   <key>openTypeOS2WinDescent</key>
-  <integer>670</integer>
+  <integer>770</integer>
   <key>postscriptBlueFuzz</key>
   <integer>1</integer>
   <key>postscriptBlueScale</key>

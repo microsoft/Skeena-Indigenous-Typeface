@@ -1,7 +1,7 @@
 {
   "version":8,
   "font":{
-    "glyphsCount":738,
+    "glyphsCount":736,
     "upm":2048,
     "glyphs":[
       {
@@ -259,7 +259,7 @@
       {
         "name":"A",
         "unicode":"0041",
-        "lastModified":"2025-04-09 22:22:50",
+        "lastModified":"2025-05-27 22:41:24",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -549,7 +549,7 @@
       {
         "name":"C",
         "unicode":"0043",
-        "lastModified":"2025-04-06 20:33:58",
+        "lastModified":"2025-05-27 22:41:24",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -785,7 +785,7 @@
       {
         "name":"E",
         "unicode":"0045",
-        "lastModified":"2025-04-08 00:07:44",
+        "lastModified":"2025-05-27 22:41:24",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -1015,7 +1015,7 @@
       {
         "name":"G",
         "unicode":"0047",
-        "lastModified":"2025-04-06 20:39:05",
+        "lastModified":"2025-05-27 22:41:24",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -1158,7 +1158,7 @@
       {
         "name":"H",
         "unicode":"0048",
-        "lastModified":"2025-04-07 22:09:35",
+        "lastModified":"2025-05-27 22:41:24",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -1315,7 +1315,7 @@
       {
         "name":"I",
         "unicode":"0049",
-        "lastModified":"2025-04-09 22:22:50",
+        "lastModified":"2025-05-27 22:41:24",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -1517,7 +1517,7 @@
       {
         "name":"K",
         "unicode":"004b",
-        "lastModified":"2025-04-07 22:09:35",
+        "lastModified":"2025-05-27 22:41:24",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -1644,7 +1644,7 @@
       {
         "name":"L",
         "unicode":"004c",
-        "lastModified":"2025-04-07 22:09:35",
+        "lastModified":"2025-05-27 22:41:24",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -2009,7 +2009,7 @@
       {
         "name":"O",
         "unicode":"004f",
-        "lastModified":"2025-04-06 20:52:16",
+        "lastModified":"2025-05-27 22:41:24",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -2774,7 +2774,7 @@
       {
         "name":"U",
         "unicode":"0055",
-        "lastModified":"2025-04-08 00:07:43",
+        "lastModified":"2025-05-27 22:41:24",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -2893,7 +2893,7 @@
       {
         "name":"V",
         "unicode":"0056",
-        "lastModified":"2025-04-06 20:46:42",
+        "lastModified":"2025-05-27 22:41:24",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -3531,7 +3531,7 @@
       {
         "name":"Agrave",
         "unicode":"00c0",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -3630,7 +3630,7 @@
       {
         "name":"Aacute",
         "unicode":"00c1",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -3729,7 +3729,7 @@
       {
         "name":"Acircumflex",
         "unicode":"00c2",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -3828,7 +3828,7 @@
       {
         "name":"Acaron",
         "unicode":"01cd",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -3925,7 +3925,7 @@
       {
         "name":"Atilde",
         "unicode":"00c3",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -4024,7 +4024,7 @@
       {
         "name":"Adieresis",
         "unicode":"00c4",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -4123,7 +4123,7 @@
       {
         "name":"Amacron",
         "unicode":"0100",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -4220,7 +4220,7 @@
       {
         "name":"Abreve",
         "unicode":"0102",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -4317,7 +4317,7 @@
       {
         "name":"Aring",
         "unicode":"00c5",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -4416,7 +4416,7 @@
       {
         "name":"Aringacute",
         "unicode":"01fa",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -4531,9 +4531,9 @@
         ]
       },
       {
-        "name":"Adotacent",
+        "name":"Adotaccent",
         "unicode":"0226",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -4630,7 +4630,7 @@
       {
         "name":"Aogonek",
         "unicode":"0104",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -4890,7 +4890,7 @@
       },
       {
         "name":"Aogonek.alt",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -4978,7 +4978,7 @@
       },
       {
         "name":"Aogonek.alt2",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -5391,7 +5391,7 @@
       {
         "name":"AEacute",
         "unicode":"01fc",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -5488,7 +5488,7 @@
       {
         "name":"Cacute",
         "unicode":"0106",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -5585,7 +5585,7 @@
       {
         "name":"Ccircumflex",
         "unicode":"0108",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -5682,7 +5682,7 @@
       {
         "name":"Ccaron",
         "unicode":"010c",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -5779,7 +5779,7 @@
       {
         "name":"Cdotaccent",
         "unicode":"010a",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -5876,7 +5876,7 @@
       {
         "name":"Ccedilla",
         "unicode":"00c7",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -6118,7 +6118,7 @@
       {
         "name":"Dcaron",
         "unicode":"010e",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -6215,7 +6215,7 @@
       {
         "name":"Dmacronbelow",
         "unicode":"1e0e",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -6303,7 +6303,7 @@
       },
       {
         "name":"Dlinebelow",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -6392,7 +6392,7 @@
       {
         "name":"Dcroat",
         "unicode":"0110",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -6465,7 +6465,7 @@
       {
         "name":"Egrave",
         "unicode":"00c8",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -6564,7 +6564,7 @@
       {
         "name":"Eacute",
         "unicode":"00c9",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -6663,7 +6663,7 @@
       {
         "name":"Ecircumflex",
         "unicode":"00ca",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -6762,7 +6762,7 @@
       {
         "name":"Ecaron",
         "unicode":"011a",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -6859,7 +6859,7 @@
       {
         "name":"Edieresis",
         "unicode":"00cb",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -6958,7 +6958,7 @@
       {
         "name":"Emacron",
         "unicode":"0112",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -7055,7 +7055,7 @@
       {
         "name":"Emacrongrave",
         "unicode":"1e14",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":181,
         "layers":[
           {
@@ -7172,7 +7172,7 @@
       {
         "name":"Emacronacute",
         "unicode":"1e16",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -7289,7 +7289,7 @@
       {
         "name":"Ebreve",
         "unicode":"0114",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -7386,7 +7386,7 @@
       {
         "name":"Edotaccent",
         "unicode":"0116",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -7483,7 +7483,7 @@
       {
         "name":"Eogonek",
         "unicode":"0118",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -7729,7 +7729,7 @@
       },
       {
         "name":"Eogonek.alt",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -7817,7 +7817,7 @@
       },
       {
         "name":"Eogonek.alt2",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -7906,7 +7906,7 @@
       {
         "name":"Gcircumflex",
         "unicode":"011c",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -8003,7 +8003,7 @@
       {
         "name":"Gcaron",
         "unicode":"01e6",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -8100,7 +8100,7 @@
       {
         "name":"Gmacron",
         "unicode":"1e20",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -8197,7 +8197,7 @@
       {
         "name":"Gbreve",
         "unicode":"011e",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -8294,7 +8294,7 @@
       {
         "name":"Gdotaccent",
         "unicode":"0120",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -8391,7 +8391,7 @@
       {
         "name":"Gcommaaccent",
         "unicode":"0122",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -8641,7 +8641,7 @@
       {
         "name":"Hcircumflex",
         "unicode":"0124",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -8738,7 +8738,7 @@
       {
         "name":"Hcaron",
         "unicode":"021e",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -8835,7 +8835,7 @@
       {
         "name":"Hdotbelow",
         "unicode":"1e24",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -9080,7 +9080,7 @@
       {
         "name":"Igrave",
         "unicode":"00cc",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -9179,7 +9179,7 @@
       {
         "name":"Iacute",
         "unicode":"00cd",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -9278,7 +9278,7 @@
       {
         "name":"Icircumflex",
         "unicode":"00ce",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -9377,7 +9377,7 @@
       {
         "name":"Icaron",
         "unicode":"01cf",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -9474,7 +9474,7 @@
       {
         "name":"Itilde",
         "unicode":"0128",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -9571,7 +9571,7 @@
       {
         "name":"Idieresis",
         "unicode":"00cf",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -9670,7 +9670,7 @@
       {
         "name":"Imacron",
         "unicode":"012a",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -9767,7 +9767,7 @@
       {
         "name":"Ibreve",
         "unicode":"012c",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -9864,7 +9864,7 @@
       {
         "name":"Idotaccent",
         "unicode":"0130",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -9961,7 +9961,7 @@
       {
         "name":"Iogonek",
         "unicode":"012e",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -10049,7 +10049,7 @@
       },
       {
         "name":"Iogonek.alt",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -10137,7 +10137,7 @@
       },
       {
         "name":"Iogonek.alt2",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -10226,7 +10226,7 @@
       {
         "name":"Idotbelow",
         "unicode":"1eca",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -10449,7 +10449,7 @@
       {
         "name":"Jcircumflex",
         "unicode":"0134",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -10545,7 +10545,7 @@
       },
       {
         "name":"Jcaron",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -10771,7 +10771,7 @@
       {
         "name":"Kacute",
         "unicode":"1e30",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -10868,7 +10868,7 @@
       {
         "name":"Kcommaaccent",
         "unicode":"0136",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -10957,7 +10957,7 @@
       {
         "name":"Kmacronbelow",
         "unicode":"1e34",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -11045,7 +11045,7 @@
       },
       {
         "name":"Klinebelow",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -11134,7 +11134,7 @@
       {
         "name":"Kdotbelow",
         "unicode":"1e32",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -11223,7 +11223,7 @@
       {
         "name":"Lacute",
         "unicode":"0139",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -11405,7 +11405,7 @@
       {
         "name":"Lcommaaccent",
         "unicode":"013b",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -11494,7 +11494,7 @@
       {
         "name":"Lmacronbelow",
         "unicode":"1e3a",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -11582,7 +11582,7 @@
       },
       {
         "name":"Llinebelow",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -11671,7 +11671,7 @@
       {
         "name":"Ldotbelow",
         "unicode":"1e36",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -12540,7 +12540,7 @@
       {
         "name":"Macute",
         "unicode":"1e3e",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -12637,7 +12637,7 @@
       {
         "name":"Mdotbelow",
         "unicode":"1e42",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -12726,7 +12726,7 @@
       {
         "name":"Nacute",
         "unicode":"0143",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -12823,7 +12823,7 @@
       {
         "name":"Ncaron",
         "unicode":"0147",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -12920,7 +12920,7 @@
       {
         "name":"Ntilde",
         "unicode":"00d1",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":240,
         "layers":[
@@ -13019,7 +13019,7 @@
       {
         "name":"Ncommaaccent",
         "unicode":"0145",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -13108,7 +13108,7 @@
       {
         "name":"Nmacronbelow",
         "unicode":"1e48",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -13196,7 +13196,7 @@
       },
       {
         "name":"Nlinebelow",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -13285,7 +13285,7 @@
       {
         "name":"Ndotbelow",
         "unicode":"1e46",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -13374,7 +13374,7 @@
       {
         "name":"Ograve",
         "unicode":"00d2",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -13473,7 +13473,7 @@
       {
         "name":"Oacute",
         "unicode":"00d3",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -13572,7 +13572,7 @@
       {
         "name":"Ocircumflex",
         "unicode":"00d4",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -13671,7 +13671,7 @@
       {
         "name":"Ocaron",
         "unicode":"01d1",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -13768,7 +13768,7 @@
       {
         "name":"Otilde",
         "unicode":"00d5",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -13867,7 +13867,7 @@
       {
         "name":"Odieresis",
         "unicode":"00d6",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -13966,7 +13966,7 @@
       {
         "name":"Omacron",
         "unicode":"014c",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -14063,7 +14063,7 @@
       {
         "name":"Omacrongrave",
         "unicode":"1e50",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":181,
         "layers":[
           {
@@ -14180,7 +14180,7 @@
       {
         "name":"Omacronacute",
         "unicode":"1e52",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -14297,7 +14297,7 @@
       {
         "name":"Obreve",
         "unicode":"014e",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -14394,7 +14394,7 @@
       {
         "name":"Ohungarumlaut",
         "unicode":"0150",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -14491,7 +14491,7 @@
       {
         "name":"Odotaccent",
         "unicode":"022e",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -14588,7 +14588,7 @@
       {
         "name":"Oogonek",
         "unicode":"01ea",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -14676,7 +14676,7 @@
       },
       {
         "name":"Oogonek.alt",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -14764,7 +14764,7 @@
       },
       {
         "name":"Oogonek.alt2",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -14853,7 +14853,7 @@
       {
         "name":"Oogonekmacron",
         "unicode":"01ec",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -14965,7 +14965,7 @@
       },
       {
         "name":"Oogonekmacron.alt",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -15077,7 +15077,7 @@
       },
       {
         "name":"Oogonekmacron.alt2",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -15319,7 +15319,7 @@
       {
         "name":"Oslashacute",
         "unicode":"01fe",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -15702,7 +15702,7 @@
       {
         "name":"Racute",
         "unicode":"0154",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -15799,7 +15799,7 @@
       {
         "name":"Rcaron",
         "unicode":"0158",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -15896,7 +15896,7 @@
       {
         "name":"Rcommaaccent",
         "unicode":"0156",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -15985,7 +15985,7 @@
       {
         "name":"Sacute",
         "unicode":"015a",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -16082,7 +16082,7 @@
       {
         "name":"Scircumflex",
         "unicode":"015c",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -16179,7 +16179,7 @@
       {
         "name":"Scaron",
         "unicode":"0160",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -16278,7 +16278,7 @@
       {
         "name":"Scedilla",
         "unicode":"015e",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -16367,7 +16367,7 @@
       {
         "name":"Scommaaccent",
         "unicode":"0218",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -16455,7 +16455,7 @@
       },
       {
         "name":"Smacronbelow",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":181,
         "layers":[
           {
@@ -16543,7 +16543,7 @@
       },
       {
         "name":"Slinebelow",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":181,
         "layers":[
           {
@@ -16632,7 +16632,7 @@
       {
         "name":"Sdotbelow",
         "unicode":"1e62",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -16860,7 +16860,7 @@
       {
         "name":"Tcaron",
         "unicode":"0164",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -16957,7 +16957,7 @@
       {
         "name":"Tdotaccent",
         "unicode":"1e6a",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -17054,7 +17054,7 @@
       {
         "name":"Tcedilla",
         "unicode":"0162",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -17143,7 +17143,7 @@
       {
         "name":"Tcommaaccent",
         "unicode":"021a",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -17232,7 +17232,7 @@
       {
         "name":"Tcircumflexbelow",
         "unicode":"1e70",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":181,
         "layers":[
           {
@@ -17321,7 +17321,7 @@
       {
         "name":"Tmacronbelow",
         "unicode":"1e6e",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -17409,7 +17409,7 @@
       },
       {
         "name":"Tlinebelow",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -17780,7 +17780,7 @@
       {
         "name":"Ugrave",
         "unicode":"00d9",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -17879,7 +17879,7 @@
       {
         "name":"Uacute",
         "unicode":"00da",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -17978,7 +17978,7 @@
       {
         "name":"Ucircumflex",
         "unicode":"00db",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -18077,7 +18077,7 @@
       {
         "name":"Ucaron",
         "unicode":"01d3",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -18174,7 +18174,7 @@
       {
         "name":"Utilde",
         "unicode":"0168",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -18271,7 +18271,7 @@
       {
         "name":"Udieresis",
         "unicode":"00dc",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -18370,7 +18370,7 @@
       {
         "name":"Umacron",
         "unicode":"016a",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -18467,7 +18467,7 @@
       {
         "name":"Ubreve",
         "unicode":"016c",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -18564,7 +18564,7 @@
       {
         "name":"Uring",
         "unicode":"016e",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -18661,7 +18661,7 @@
       {
         "name":"Uhungarumlaut",
         "unicode":"0170",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -18758,7 +18758,7 @@
       {
         "name":"Uogonek",
         "unicode":"0172",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -19090,7 +19090,7 @@
       },
       {
         "name":"Uogonek.alt",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -19178,7 +19178,7 @@
       },
       {
         "name":"Uogonek.alt2",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -19409,7 +19409,7 @@
       {
         "name":"Wgrave",
         "unicode":"1e80",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -19506,7 +19506,7 @@
       {
         "name":"Wacute",
         "unicode":"1e82",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -19603,7 +19603,7 @@
       {
         "name":"Wcircumflex",
         "unicode":"0174",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -19700,7 +19700,7 @@
       {
         "name":"Wdieresis",
         "unicode":"1e84",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -19797,7 +19797,7 @@
       {
         "name":"Ygrave",
         "unicode":"1ef2",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -19894,7 +19894,7 @@
       {
         "name":"Yacute",
         "unicode":"00dd",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -19993,7 +19993,7 @@
       {
         "name":"Ycircumflex",
         "unicode":"0176",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -20090,7 +20090,7 @@
       {
         "name":"Ydieresis",
         "unicode":"0178",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -20189,7 +20189,7 @@
       {
         "name":"Zacute",
         "unicode":"0179",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -20286,7 +20286,7 @@
       {
         "name":"Zcircumflex",
         "unicode":"1e90",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -20383,7 +20383,7 @@
       {
         "name":"Zcaron",
         "unicode":"017d",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -20482,7 +20482,7 @@
       {
         "name":"Zdotaccent",
         "unicode":"017b",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -20579,7 +20579,7 @@
       {
         "name":"Zmacronbelow",
         "unicode":"1e94",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -20667,7 +20667,7 @@
       },
       {
         "name":"Zlinebelow",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -20859,7 +20859,7 @@
       {
         "name":"Lambda.Latin",
         "unicode":"039b",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -21054,7 +21054,7 @@
       },
       {
         "name":"Schwaogonek",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -21142,7 +21142,7 @@
       },
       {
         "name":"Schwaogonek.alt",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -21230,7 +21230,7 @@
       },
       {
         "name":"Schwaogonek.alt2",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -21818,7 +21818,7 @@
       {
         "name":"Gamma.Latin",
         "unicode":"0393",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":181,
         "layers":[
           {
@@ -22568,7 +22568,7 @@
       },
       {
         "name":"Lambdabarcommaabove",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -22664,7 +22664,7 @@
       },
       {
         "name":"Lambdabarcommaabove.alt",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -23669,7 +23669,7 @@
       {
         "name":"Theta.Latin",
         "unicode":"0398",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -24156,7 +24156,7 @@
       {
         "name":"Chi.Latin",
         "unicode":"03a7",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -24576,7 +24576,7 @@
       {
         "name":"a",
         "unicode":"0061",
-        "lastModified":"2025-04-09 22:24:16",
+        "lastModified":"2025-05-27 22:41:24",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -24900,7 +24900,7 @@
       {
         "name":"c",
         "unicode":"0063",
-        "lastModified":"2025-04-06 22:21:28",
+        "lastModified":"2025-05-27 22:41:24",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -25188,7 +25188,7 @@
       {
         "name":"e",
         "unicode":"0065",
-        "lastModified":"2025-04-06 22:21:38",
+        "lastModified":"2025-05-27 22:41:24",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -25454,7 +25454,7 @@
       {
         "name":"g",
         "unicode":"0067",
-        "lastModified":"2025-04-06 22:21:38",
+        "lastModified":"2025-05-27 22:41:24",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -26387,7 +26387,7 @@
       {
         "name":"k",
         "unicode":"006b",
-        "lastModified":"2025-04-06 22:21:38",
+        "lastModified":"2025-05-27 22:39:48",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -26422,6 +26422,12 @@
                   ]
                 },
                 "active":true
+              }
+            ],
+            "guidelines":[
+              {
+                "horizontal":true,
+                "position":1890
               }
             ],
             "anchors":[
@@ -26916,7 +26922,7 @@
       {
         "name":"o",
         "unicode":"006f",
-        "lastModified":"2025-04-06 22:21:38",
+        "lastModified":"2025-05-27 22:41:24",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -27041,7 +27047,7 @@
       {
         "name":"p",
         "unicode":"0070",
-        "lastModified":"2025-04-07 19:06:23",
+        "lastModified":"2025-05-27 22:41:24",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -27193,7 +27199,7 @@
       {
         "name":"q",
         "unicode":"0071",
-        "lastModified":"2025-04-06 22:21:38",
+        "lastModified":"2025-05-27 22:41:24",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -27853,7 +27859,7 @@
       {
         "name":"v",
         "unicode":"0076",
-        "lastModified":"2025-04-06 22:21:38",
+        "lastModified":"2025-05-27 22:41:24",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -27954,7 +27960,7 @@
       {
         "name":"w",
         "unicode":"0077",
-        "lastModified":"2025-04-06 22:21:38",
+        "lastModified":"2025-05-27 22:41:24",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -28111,7 +28117,7 @@
       {
         "name":"x",
         "unicode":"0078",
-        "lastModified":"2025-04-06 22:21:38",
+        "lastModified":"2025-05-27 22:41:24",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -28261,7 +28267,7 @@
       {
         "name":"y",
         "unicode":"0079",
-        "lastModified":"2025-04-06 22:21:38",
+        "lastModified":"2025-05-27 22:41:24",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -28541,7 +28547,7 @@
       {
         "name":"agrave",
         "unicode":"00e0",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -28640,7 +28646,7 @@
       {
         "name":"aacute",
         "unicode":"00e1",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -28739,7 +28745,7 @@
       {
         "name":"acircumflex",
         "unicode":"00e2",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -28838,7 +28844,7 @@
       {
         "name":"acaron",
         "unicode":"01ce",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -28935,7 +28941,7 @@
       {
         "name":"atilde",
         "unicode":"00e3",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -29034,7 +29040,7 @@
       {
         "name":"adieresis",
         "unicode":"00e4",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -29133,7 +29139,7 @@
       {
         "name":"amacron",
         "unicode":"0101",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -29230,7 +29236,7 @@
       {
         "name":"abreve",
         "unicode":"0103",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -29327,7 +29333,7 @@
       {
         "name":"aring",
         "unicode":"00e5",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -29426,7 +29432,7 @@
       {
         "name":"aringacute",
         "unicode":"01fb",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:39:48",
         "colorFlag":241,
         "layers":[
           {
@@ -29541,9 +29547,9 @@
         ]
       },
       {
-        "name":"adotacent",
+        "name":"adotaccent",
         "unicode":"0227",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -30390,7 +30396,7 @@
       },
       {
         "name":"aogonek.alt2",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -31100,7 +31106,7 @@
       {
         "name":"aeacute",
         "unicode":"01fd",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -31197,7 +31203,7 @@
       {
         "name":"cacute",
         "unicode":"0107",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -31294,7 +31300,7 @@
       {
         "name":"ccircumflex",
         "unicode":"0109",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -31391,7 +31397,7 @@
       {
         "name":"ccaron",
         "unicode":"010d",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -31488,7 +31494,7 @@
       {
         "name":"cdotaccent",
         "unicode":"010b",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -31585,7 +31591,7 @@
       {
         "name":"ccedilla",
         "unicode":"00e7",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -31909,7 +31915,7 @@
       {
         "name":"dmacronbelow",
         "unicode":"1e0f",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -31997,7 +32003,7 @@
       },
       {
         "name":"dlinebelow",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -32255,7 +32261,7 @@
       {
         "name":"egrave",
         "unicode":"00e8",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -32354,7 +32360,7 @@
       {
         "name":"eacute",
         "unicode":"00e9",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -32453,7 +32459,7 @@
       {
         "name":"ecircumflex",
         "unicode":"00ea",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -32552,7 +32558,7 @@
       {
         "name":"ecaron",
         "unicode":"011b",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -32649,7 +32655,7 @@
       {
         "name":"edieresis",
         "unicode":"00eb",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -32748,7 +32754,7 @@
       {
         "name":"emacron",
         "unicode":"0113",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -32845,7 +32851,7 @@
       {
         "name":"emacrongrave",
         "unicode":"1e15",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":181,
         "layers":[
           {
@@ -32962,7 +32968,7 @@
       {
         "name":"emacronacute",
         "unicode":"1e17",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -33079,7 +33085,7 @@
       {
         "name":"ebreve",
         "unicode":"0115",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -33176,7 +33182,7 @@
       {
         "name":"edotaccent",
         "unicode":"0117",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -33273,7 +33279,7 @@
       {
         "name":"eogonek",
         "unicode":"0119",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -33517,7 +33523,7 @@
       },
       {
         "name":"eogonek.alt",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -33605,7 +33611,7 @@
       },
       {
         "name":"eogonek.alt2",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -33825,7 +33831,7 @@
       {
         "name":"gcircumflex",
         "unicode":"011d",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -33921,7 +33927,7 @@
       },
       {
         "name":"gcircumflex.2",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -34018,7 +34024,7 @@
       {
         "name":"gcaron",
         "unicode":"01e7",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -34114,7 +34120,7 @@
       },
       {
         "name":"gcaron.2",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -34211,7 +34217,7 @@
       {
         "name":"gmacron",
         "unicode":"1e21",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -34307,7 +34313,7 @@
       },
       {
         "name":"gmacron.2",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -34404,7 +34410,7 @@
       {
         "name":"gbreve",
         "unicode":"011f",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -34500,7 +34506,7 @@
       },
       {
         "name":"gbreve.2",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -34597,7 +34603,7 @@
       {
         "name":"gdotaccent",
         "unicode":"0121",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -34693,7 +34699,7 @@
       },
       {
         "name":"gdotaccent.2",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -34790,7 +34796,7 @@
       {
         "name":"gcommaaccent",
         "unicode":"0123",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -34887,7 +34893,7 @@
       },
       {
         "name":"gcommaaccent.2",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -35346,7 +35352,7 @@
       {
         "name":"gscript",
         "unicode":"0261",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -35419,7 +35425,7 @@
       {
         "name":"hcircumflex",
         "unicode":"0125",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -35518,7 +35524,7 @@
       {
         "name":"hcaron",
         "unicode":"021f",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -35617,7 +35623,7 @@
       {
         "name":"hmacronbelow",
         "unicode":"1e96",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -35705,7 +35711,7 @@
       },
       {
         "name":"hlinebelow",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -35794,7 +35800,7 @@
       {
         "name":"hdotbelow",
         "unicode":"1e25",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -36037,7 +36043,7 @@
       {
         "name":"dotlessi",
         "unicode":"0131",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -36109,7 +36115,7 @@
       },
       {
         "name":"dotlessiogonek",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -36197,7 +36203,7 @@
       },
       {
         "name":"dotlessiogonek.alt",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -36285,7 +36291,7 @@
       },
       {
         "name":"dotlessiogonek.alt2",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -36374,7 +36380,7 @@
       {
         "name":"igrave",
         "unicode":"00ec",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -36473,7 +36479,7 @@
       {
         "name":"iacute",
         "unicode":"00ed",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -36572,7 +36578,7 @@
       {
         "name":"icircumflex",
         "unicode":"00ee",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -36671,7 +36677,7 @@
       {
         "name":"icaron",
         "unicode":"01d0",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -36770,7 +36776,7 @@
       {
         "name":"itilde",
         "unicode":"0129",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -36869,7 +36875,7 @@
       {
         "name":"idieresis",
         "unicode":"00ef",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -36968,7 +36974,7 @@
       {
         "name":"imacron",
         "unicode":"012b",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -37067,7 +37073,7 @@
       {
         "name":"ibreve",
         "unicode":"012d",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -37166,7 +37172,7 @@
       {
         "name":"iogonek",
         "unicode":"012f",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -37252,7 +37258,7 @@
       },
       {
         "name":"iogonek.dotless",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -37340,7 +37346,7 @@
       },
       {
         "name":"iogonek.alt",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -37426,7 +37432,7 @@
       },
       {
         "name":"iogonek.dotless.alt",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -37514,7 +37520,7 @@
       },
       {
         "name":"iogonek.alt2",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -37600,7 +37606,7 @@
       },
       {
         "name":"iogonek.dotless.alt2",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -37689,7 +37695,7 @@
       {
         "name":"idotbelow",
         "unicode":"1ecb",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -37775,7 +37781,7 @@
       },
       {
         "name":"idotbelow.dotless",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -38136,7 +38142,7 @@
       {
         "name":"dotlessj",
         "unicode":"0237",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -38209,7 +38215,7 @@
       {
         "name":"jcircumflex",
         "unicode":"0135",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -38306,7 +38312,7 @@
       {
         "name":"jcaron",
         "unicode":"01f0",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -38669,7 +38675,7 @@
       {
         "name":"kacute",
         "unicode":"1e31",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -38768,7 +38774,7 @@
       {
         "name":"kcommaaccent",
         "unicode":"0137",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -38857,7 +38863,7 @@
       {
         "name":"kmacronbelow",
         "unicode":"1e35",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -38945,7 +38951,7 @@
       },
       {
         "name":"klinebelow",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -39034,7 +39040,7 @@
       {
         "name":"kdotbelow",
         "unicode":"1e33",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -39236,7 +39242,7 @@
       {
         "name":"lacute",
         "unicode":"013a",
-        "lastModified":"2025-04-15 19:08:23",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -39417,7 +39423,7 @@
       {
         "name":"lcommaaccent",
         "unicode":"013c",
-        "lastModified":"2025-04-15 19:08:23",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -39506,7 +39512,7 @@
       {
         "name":"lmacronbelow",
         "unicode":"1e3b",
-        "lastModified":"2025-04-15 19:08:23",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -39594,7 +39600,7 @@
       },
       {
         "name":"llinebelow",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -39683,7 +39689,7 @@
       {
         "name":"ldotbelow",
         "unicode":"1e37",
-        "lastModified":"2025-04-15 19:08:23",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -40858,7 +40864,7 @@
       {
         "name":"macute",
         "unicode":"1e3f",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -40955,7 +40961,7 @@
       {
         "name":"mdotbelow",
         "unicode":"1e43",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -41044,7 +41050,7 @@
       {
         "name":"nacute",
         "unicode":"0144",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -41141,7 +41147,7 @@
       {
         "name":"ncaron",
         "unicode":"0148",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -41238,7 +41244,7 @@
       {
         "name":"ntilde",
         "unicode":"00f1",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -41337,7 +41343,7 @@
       {
         "name":"ncommaaccent",
         "unicode":"0146",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -41426,7 +41432,7 @@
       {
         "name":"nmacronbelow",
         "unicode":"1e49",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -41514,7 +41520,7 @@
       },
       {
         "name":"nlinebelow",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -41603,7 +41609,7 @@
       {
         "name":"ndotbelow",
         "unicode":"1e47",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -41692,7 +41698,7 @@
       {
         "name":"napostrophe",
         "unicode":"0149",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":301,
         "layers":[
           {
@@ -41785,7 +41791,7 @@
       {
         "name":"ograve",
         "unicode":"00f2",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -41884,7 +41890,7 @@
       {
         "name":"oacute",
         "unicode":"00f3",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -41983,7 +41989,7 @@
       {
         "name":"ocircumflex",
         "unicode":"00f4",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -42082,7 +42088,7 @@
       {
         "name":"ocaron",
         "unicode":"01d2",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -42179,7 +42185,7 @@
       {
         "name":"otilde",
         "unicode":"00f5",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -42278,7 +42284,7 @@
       {
         "name":"odieresis",
         "unicode":"00f6",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -42377,7 +42383,7 @@
       {
         "name":"omacron",
         "unicode":"014d",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -42474,7 +42480,7 @@
       {
         "name":"omacongrave",
         "unicode":"1e51",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":181,
         "layers":[
           {
@@ -42591,7 +42597,7 @@
       {
         "name":"omacronacute",
         "unicode":"1e53",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -42708,7 +42714,7 @@
       {
         "name":"obreve",
         "unicode":"014f",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -42805,7 +42811,7 @@
       {
         "name":"ohungarumlaut",
         "unicode":"0151",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -42903,7 +42909,7 @@
       {
         "name":"odotaccent",
         "unicode":"022f",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -43000,7 +43006,7 @@
       {
         "name":"oogonek",
         "unicode":"01eb",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -43088,7 +43094,7 @@
       },
       {
         "name":"oogonek.alt",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -43176,7 +43182,7 @@
       },
       {
         "name":"oogonek.alt2",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -43265,7 +43271,7 @@
       {
         "name":"oogonekmacron",
         "unicode":"01ed",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -43377,7 +43383,7 @@
       },
       {
         "name":"oogonekmacron.alt",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -43489,7 +43495,7 @@
       },
       {
         "name":"oogonekmacron.alt2",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -43747,7 +43753,7 @@
       {
         "name":"oslashacute",
         "unicode":"01ff",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -44126,7 +44132,7 @@
       {
         "name":"racute",
         "unicode":"0155",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -44223,7 +44229,7 @@
       {
         "name":"rcaron",
         "unicode":"0159",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -44320,7 +44326,7 @@
       {
         "name":"rcommaaccent",
         "unicode":"0157",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -44409,7 +44415,7 @@
       {
         "name":"sacute",
         "unicode":"015b",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -44506,7 +44512,7 @@
       {
         "name":"scircumflex",
         "unicode":"015d",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -44603,7 +44609,7 @@
       {
         "name":"scaron",
         "unicode":"0161",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -44702,7 +44708,7 @@
       {
         "name":"scedilla",
         "unicode":"015f",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -44791,7 +44797,7 @@
       {
         "name":"scommaaccent",
         "unicode":"0219",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -44879,7 +44885,7 @@
       },
       {
         "name":"smacronbelow",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":181,
         "layers":[
           {
@@ -44967,7 +44973,7 @@
       },
       {
         "name":"slinebelow",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":181,
         "layers":[
           {
@@ -45056,7 +45062,7 @@
       {
         "name":"sdotbelow",
         "unicode":"1e63",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -45477,7 +45483,7 @@
       {
         "name":"tdotaccent",
         "unicode":"1e6b",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -45576,7 +45582,7 @@
       {
         "name":"tcedilla",
         "unicode":"0163",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -45665,7 +45671,7 @@
       {
         "name":"tcommaaccent",
         "unicode":"021b",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -45754,7 +45760,7 @@
       {
         "name":"tcircumflexbelow",
         "unicode":"1e71",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":181,
         "layers":[
           {
@@ -45843,7 +45849,7 @@
       {
         "name":"tmacronbelow",
         "unicode":"1e6f",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -45931,7 +45937,7 @@
       },
       {
         "name":"tlinebelow",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -46336,7 +46342,7 @@
       {
         "name":"ugrave",
         "unicode":"00f9",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -46435,7 +46441,7 @@
       {
         "name":"uacute",
         "unicode":"00fa",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -46534,7 +46540,7 @@
       {
         "name":"ucircumflex",
         "unicode":"00fb",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -46633,7 +46639,7 @@
       {
         "name":"ucaron",
         "unicode":"01d4",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -46730,7 +46736,7 @@
       {
         "name":"utilde",
         "unicode":"0169",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -46827,7 +46833,7 @@
       {
         "name":"udieresis",
         "unicode":"00fc",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -46926,7 +46932,7 @@
       {
         "name":"umacron",
         "unicode":"016b",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -47023,7 +47029,7 @@
       {
         "name":"ubreve",
         "unicode":"016d",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -47120,7 +47126,7 @@
       {
         "name":"uring",
         "unicode":"016f",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -47217,7 +47223,7 @@
       {
         "name":"uhungarumlaut",
         "unicode":"0171",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -47777,7 +47783,7 @@
       },
       {
         "name":"uogonek.alt2",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -48026,7 +48032,7 @@
       {
         "name":"wgrave",
         "unicode":"1e81",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -48123,7 +48129,7 @@
       {
         "name":"wacute",
         "unicode":"1e83",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -48220,7 +48226,7 @@
       {
         "name":"wcircumflex",
         "unicode":"0175",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -48317,7 +48323,7 @@
       {
         "name":"wdieresis",
         "unicode":"1e85",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -48414,7 +48420,7 @@
       {
         "name":"ygrave",
         "unicode":"1ef3",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -48511,7 +48517,7 @@
       {
         "name":"yacute",
         "unicode":"00fd",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -48610,7 +48616,7 @@
       {
         "name":"ycircumflex",
         "unicode":"0177",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -48707,7 +48713,7 @@
       {
         "name":"ydieresis",
         "unicode":"00ff",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -48806,7 +48812,7 @@
       {
         "name":"zacute",
         "unicode":"017a",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -48903,7 +48909,7 @@
       {
         "name":"zcircumflex",
         "unicode":"1e91",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -49000,7 +49006,7 @@
       {
         "name":"zcaron",
         "unicode":"017e",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -49099,7 +49105,7 @@
       {
         "name":"zdotaccent",
         "unicode":"017c",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -49196,7 +49202,7 @@
       {
         "name":"zmacronbelow",
         "unicode":"1e95",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -49284,7 +49290,7 @@
       },
       {
         "name":"zlinebelow",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -49594,7 +49600,7 @@
       },
       {
         "name":"schwaogonek",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -49682,7 +49688,7 @@
       },
       {
         "name":"schwaogonek.alt",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -49770,7 +49776,7 @@
       },
       {
         "name":"schwaogonek.alt2",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -49859,7 +49865,7 @@
       {
         "name":"eturned",
         "unicode":"01dd",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -50353,7 +50359,7 @@
       {
         "name":"gamma.Latin",
         "unicode":"03b3",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":181,
         "layers":[
           {
@@ -50842,7 +50848,7 @@
       {
         "name":"lambda.Latin",
         "unicode":"03bb",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -52900,7 +52906,7 @@
       {
         "name":"chi.Latin",
         "unicode":"03c7",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -54722,7 +54728,7 @@
       {
         "name":"apostropheturnedmodifier",
         "unicode":"02bb",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -54765,7 +54771,7 @@
       {
         "name":"apostrophemodifier",
         "unicode":"02bc",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":241,
         "layers":[
           {
@@ -55312,7 +55318,7 @@
       },
       {
         "name":"halflongsign.alt",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "colorFlag":181,
         "layers":[
           {
@@ -60015,238 +60021,6 @@
         ]
       },
       {
-        "name":"commarightcomb.sp",
-        "lastModified":"2025-04-10 01:15:26",
-        "colorFlag":31,
-        "layers":[
-          {
-            "name":"Black",
-            "colorFlag":31,
-            "flags":0,
-            "advanceWidth":439,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "214 1541 s",
-                        "103 1541  25 1474  25 1378 s",
-                        "25 1298  79 1246  163 1246 s",
-                        "208 1246  243 1261  262 1289",
-                        "214 1333",
-                        "222 1319  226 1302  226 1282 s",
-                        "226 1208  170 1163  47 1138",
-                        "115 1024",
-                        "297 1050  419 1172  419 1330 s",
-                        "419 1458  338 1541 c"
-                      ]
-                    }
-                  ]
-                },
-                "active":true
-              }
-            ],
-            "guidelines":[
-              {
-                "horizontal":true,
-                "position":1545
-              },
-              {
-                "horizontal":true,
-                "position":1024
-              },
-              {
-                "vertical":true,
-                "position":251
-              },
-              {
-                "center":"278 1090",
-                "vector":"-23.022 97.3139"
-              },
-              {
-                "center":"54 1075",
-                "vector":"-26.223 96.5005"
-              },
-              {
-                "horizontal":true,
-                "position":1605
-              }
-            ],
-            "color":"#00cce5",
-            "active":true
-          },
-          {
-            "name":"Regular",
-            "colorFlag":31,
-            "flags":0,
-            "advanceWidth":272,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "133 1440 s",
-                        "63 1440  16 1398  16 1335 s",
-                        "16 1279  53 1241  109 1241 s",
-                        "143 1241  172 1255  193 1281",
-                        "129 1312",
-                        "141 1288  146 1268  146 1244 s",
-                        "146 1174  104 1132  7 1104",
-                        "54 1030",
-                        "189 1065  272 1161  272 1282 s",
-                        "272 1378  218 1440 c"
-                      ]
-                    }
-                  ]
-                },
-                "active":true
-              }
-            ],
-            "guidelines":[
-              {
-                "horizontal":true,
-                "position":1030
-              },
-              {
-                "horizontal":true,
-                "position":1455
-              },
-              {
-                "vertical":true,
-                "position":167
-              },
-              {
-                "center":"15 1075",
-                "vector":"-26.223 96.5005"
-              },
-              {
-                "horizontal":true,
-                "position":1513
-              }
-            ],
-            "color":"#00cce5"
-          }
-        ]
-      },
-      {
-        "name":"commarightcomb.spcase",
-        "lastModified":"2025-04-09 21:55:19",
-        "colorFlag":31,
-        "layers":[
-          {
-            "name":"Black",
-            "colorFlag":31,
-            "flags":0,
-            "advanceWidth":469,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "229 1333 s",
-                        "118 1333  40 1266  40 1170 s",
-                        "40 1090  94 1038  178 1038 s",
-                        "223 1038  258 1053  277 1081",
-                        "229 1125",
-                        "237 1111  241 1094  241 1074 s",
-                        "241 1000  185 955  62 930",
-                        "130 816",
-                        "312 842  434 964  434 1122 s",
-                        "434 1250  353 1333 c"
-                      ]
-                    }
-                  ]
-                },
-                "active":true
-              }
-            ],
-            "guidelines":[
-              {
-                "horizontal":true,
-                "position":1545
-              },
-              {
-                "horizontal":true,
-                "position":1024
-              },
-              {
-                "vertical":true,
-                "position":267
-              },
-              {
-                "center":"294 1090",
-                "vector":"-23.022 97.3139"
-              },
-              {
-                "center":"70 1075",
-                "vector":"-26.223 96.5005"
-              },
-              {
-                "horizontal":true,
-                "position":1605
-              }
-            ],
-            "color":"#00cce5",
-            "active":true
-          },
-          {
-            "name":"Regular",
-            "colorFlag":31,
-            "flags":0,
-            "advanceWidth":337,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "168 1335 s",
-                        "98 1335  51 1293  51 1230 s",
-                        "51 1174  88 1136  144 1136 s",
-                        "178 1136  207 1150  228 1176",
-                        "164 1207",
-                        "176 1183  181 1163  181 1139 s",
-                        "181 1069  139 1027  42 999",
-                        "89 925",
-                        "224 960  307 1056  307 1177 s",
-                        "307 1273  253 1335 c"
-                      ]
-                    }
-                  ]
-                },
-                "active":true
-              }
-            ],
-            "guidelines":[
-              {
-                "horizontal":true,
-                "position":1030
-              },
-              {
-                "horizontal":true,
-                "position":1455
-              },
-              {
-                "vertical":true,
-                "position":202
-              },
-              {
-                "center":"50 1075",
-                "vector":"-26.223 96.5005"
-              },
-              {
-                "horizontal":true,
-                "position":1513
-              }
-            ],
-            "color":"#00cce5"
-          }
-        ]
-      },
-      {
         "name":"commaaccentturnedabovecomb",
         "unicode":"0312",
         "lastModified":"2025-04-09 21:55:19",
@@ -60741,7 +60515,7 @@
       {
         "name":"gravetonecomb",
         "unicode":"0340",
-        "lastModified":"2025-04-09 22:24:16",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":3,
         "colorFlag":181,
         "layers":[
@@ -60822,7 +60596,7 @@
       },
       {
         "name":"gravetonecomb.cap",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":3,
         "colorFlag":181,
         "layers":[
@@ -60904,7 +60678,7 @@
       {
         "name":"acutetonecomb",
         "unicode":"0341",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":3,
         "colorFlag":181,
         "layers":[
@@ -60985,7 +60759,7 @@
       },
       {
         "name":"acutetonecomb.cap",
-        "lastModified":"2025-04-09 22:24:03",
+        "lastModified":"2025-05-27 22:37:35",
         "openTypeGlyphClass":3,
         "colorFlag":181,
         "layers":[
@@ -77267,16 +77041,15 @@
           "width_name":"Normal",
           "slope_name":"Plain",
           "fontNote":"Spacing line height = 530",
-          "ascender":1583,
-          "descender":-465,
+          "ascender":1890,
+          "descender":-770,
           "xHeight":946,
           "capsHeight":1314,
           "measurement":486,
           "weight":400,
           "width":5,
-          "lineGap":410,
-          "safeTop":1788,
-          "safeBottom":670,
+          "safeTop":1890,
+          "safeBottom":770,
           "underlineThickness":119,
           "underlinePosition":-101,
           "cornerTension":0.67,
@@ -77309,9 +77082,9 @@
             "TtaSharpDw":false,
             "TtaSharpGdi":true,
             "TtaSharpGray":false,
-            "hhea_ascender":1583,
-            "hhea_descender":-465,
-            "hhea_line_gap":410,
+            "hhea_ascender":1890,
+            "hhea_descender":-770,
+            "hhea_line_gap":0,
             "hhea_use_custom":false,
             "strikeout_position":486,
             "strikeout_size":93,
@@ -77381,7 +77154,7 @@
                   "Acaron",
                   "Acircumflex",
                   "Adieresis",
-                  "Adotacent",
+                  "Adotaccent",
                   "Agrave",
                   "Amacron",
                   "Aogonek",
@@ -77670,7 +77443,7 @@
                   "acedilla",
                   "acircumflex",
                   "adieresis",
-                  "adotacent",
+                  "adotaccent",
                   "agrave",
                   "amacron",
                   "aogonek",
@@ -78012,7 +77785,7 @@
                   "Acaron",
                   "Acircumflex",
                   "Adieresis",
-                  "Adotacent",
+                  "Adotaccent",
                   "Agrave",
                   "Amacron",
                   "Aogonek",
@@ -78181,7 +77954,7 @@
                   "acedilla",
                   "acircumflex",
                   "adieresis",
-                  "adotacent",
+                  "adotaccent",
                   "ae",
                   "aeacute",
                   "agrave",
@@ -78960,8 +78733,6 @@
                 "@_punc_hyphen_2ND":"10",
                 "@_punc_quoteleft_2ND":"-15",
                 "@_punc_quoteright_2ND":"-30",
-                "commarightcomb.sp":"-90",
-                "commarightcomb.spcase":"-30",
                 "glottal":"-45",
                 "glottalmodifier":"-25",
                 "glottalmodifier.alt":"-60",
@@ -78987,7 +78758,6 @@
                 "@_punc_quoteright_2ND":"20",
                 "@_x_subs_BOTH":"20",
                 "@_x_sups_BOTH":"15",
-                "commarightcomb.spcase":"20",
                 "commarightcomb.spn":"20",
                 "glottal":"-40",
                 "seven.LP":"-100",
@@ -79009,8 +78779,6 @@
                 "@_punc_quoteright_2ND":"30",
                 "@_x_sups_BOTH":"10",
                 "comma":"20",
-                "commarightcomb.sp":"20",
-                "commarightcomb.spcase":"30",
                 "commarightcomb.spn":"10",
                 "eopen":"-15",
                 "glottal":"-60",
@@ -79053,8 +78821,6 @@
                 "@_punc_quoteright_2ND":"60",
                 "@_x_sups_BOTH":"110",
                 "comma":"-80",
-                "commarightcomb.sp":"100",
-                "commarightcomb.spcase":"60",
                 "eopen":"-10",
                 "exclam":"20",
                 "glottal":"120",
@@ -79088,7 +78854,6 @@
                 "@_punc_hyphen_2ND":"20",
                 "@_punc_quoteright_2ND":"-10",
                 "@_x_sups_BOTH":"10",
-                "commarightcomb.sp":"-90",
                 "glottal":"-25",
                 "glottalmodifier.alt":"-35",
                 "glottalreversed":"-16",
@@ -79125,8 +78890,6 @@
                 "@_x_sups_BOTH":"135",
                 "asterisk":"55",
                 "comma":"-65",
-                "commarightcomb.sp":"110",
-                "commarightcomb.spcase":"65",
                 "commarightcomb.spn":"245",
                 "exclam":"20",
                 "glottal":"100",
@@ -79156,7 +78919,6 @@
               },
               "@_L_lc_g.2_1ST":{
                 "@_punc_degree_2ND":"-30",
-                "commarightcomb.sp":"-50",
                 "commarightcomb.spn":"10",
                 "glottalmodifier.alt":"-40",
                 "seven.LP":"-85"
@@ -79175,7 +78937,6 @@
                 "@_punc_quoteright_2ND":"55",
                 "@_x_sups_BOTH":"35",
                 "comma":"5",
-                "commarightcomb.spcase":"55",
                 "commarightcomb.spn":"10",
                 "fhook":"35",
                 "halfringrightmodifier":"15",
@@ -79196,7 +78957,6 @@
                 "@_L_lc_schwa_2ND":"15",
                 "@_punc_quoteright_2ND":"-20",
                 "@_x_sups_BOTH":"50",
-                "commarightcomb.sp":"-30",
                 "commarightcomb.spn":"100",
                 "glottalmodifier.alt":"-30",
                 "glottalreversed":"-20",
@@ -79223,8 +78983,6 @@
                 "@_punc_quoteright_2ND":"10",
                 "@_x_subs_BOTH":"20",
                 "@_x_sups_BOTH":"20",
-                "commarightcomb.sp":"-20",
-                "commarightcomb.spcase":"10",
                 "commarightcomb.spn":"10",
                 "glottal":"-45",
                 "glottalmodifier.alt":"-10",
@@ -79253,8 +79011,6 @@
                 "@_punc_quoteright_2ND":"-90",
                 "@_x_sups_BOTH":"-10",
                 "comma":"20",
-                "commarightcomb.sp":"-100",
-                "commarightcomb.spcase":"-90",
                 "glottal":"-50",
                 "glottalreversed":"-60",
                 "glottalstop":"-20",
@@ -79280,8 +79036,6 @@
                 "@_punc_quoteright_2ND":"20",
                 "@_x_sups_BOTH":"40",
                 "comma":"-20",
-                "commarightcomb.sp":"10",
-                "commarightcomb.spcase":"20",
                 "commarightcomb.spn":"80",
                 "glottal":"-20",
                 "glottalmodifier.alt":"5",
@@ -79300,8 +79054,6 @@
                 "@_punc_degree_2ND":"-75",
                 "@_punc_quoteleft_2ND":"-10",
                 "@_punc_quoteright_2ND":"-15",
-                "commarightcomb.sp":"-100",
-                "commarightcomb.spcase":"-15",
                 "glottal":"-45",
                 "glottalmodifier.alt":"-65",
                 "glottalreversed":"-50",
@@ -79329,8 +79081,6 @@
                 "@_punc_quoteright_2ND":"-25",
                 "@_x_sups_BOTH":"15",
                 "comma":"-25",
-                "commarightcomb.sp":"-95",
-                "commarightcomb.spcase":"-25",
                 "glottal":"-35",
                 "glottalmodifier":"-5",
                 "glottalmodifier.alt":"-55",
@@ -79367,8 +79117,6 @@
                 "@_x_subs_BOTH":"-75",
                 "@_x_sups_BOTH":"65",
                 "comma":"-80",
-                "commarightcomb.sp":"40",
-                "commarightcomb.spcase":"80",
                 "commarightcomb.spn":"10",
                 "glottal":"-35",
                 "glottalreversed":"30",
@@ -79398,8 +79146,6 @@
                 "Tbar":"-120",
                 "Tslash":"-100",
                 "X":"-20",
-                "commarightcomb.sp":"-60",
-                "commarightcomb.spcase":"20",
                 "commarightcomb.spn":"10",
                 "glottal":"-40",
                 "halfringrightmodifier":"10",
@@ -79421,8 +79167,6 @@
                 "@_punc_quoteright_2ND":"60",
                 "@_x_subs_BOTH":"20",
                 "@_x_sups_BOTH":"25",
-                "commarightcomb.sp":"-55",
-                "commarightcomb.spcase":"60",
                 "commarightcomb.spn":"10",
                 "glottal":"-25",
                 "halfringrightmodifier":"10",
@@ -79431,7 +79175,6 @@
                 "seven.LP":"-30"
               },
               "@_L_lc_u_1ST":{
-                "commarightcomb.sp":"-50",
                 "glottal":"-40",
                 "glottalmodifier.alt":"-20",
                 "seven.LP":"-90"
@@ -79455,8 +79198,6 @@
                 "@_x_subs_BOTH":"-65",
                 "@_x_sups_BOTH":"50",
                 "comma":"-100",
-                "commarightcomb.sp":"40",
-                "commarightcomb.spcase":"85",
                 "commarightcomb.spn":"20",
                 "glottal":"-35",
                 "glottalreversed":"30",
@@ -79487,8 +79228,6 @@
                 "@_punc_quoteright_2ND":"85",
                 "@_x_sups_BOTH":"35",
                 "comma":"-65",
-                "commarightcomb.sp":"30",
-                "commarightcomb.spcase":"85",
                 "commarightcomb.spn":"10",
                 "glottalreversed":"20",
                 "halfringrightmodifier":"15",
@@ -79511,7 +79250,6 @@
                 "@_punc_hyphen_2ND":"-10",
                 "@_punc_quoteleft_2ND":"35",
                 "@_punc_quoteright_2ND":"45",
-                "commarightcomb.spcase":"45",
                 "commarightcomb.spn":"10",
                 "glottal":"-40",
                 "halfringrightmodifier":"5",
@@ -79560,8 +79298,6 @@
                 "ampersand":"-10",
                 "asterisk":"-75",
                 "comma":"25",
-                "commarightcomb.sp":"-100",
-                "commarightcomb.spcase":"-100",
                 "glottal":"-20",
                 "glottalmodifier.alt":"-120",
                 "glottalreversed":"-100",
@@ -79599,8 +79335,6 @@
                 "UpsilonLatin":"-25",
                 "X":"20",
                 "comma":"10",
-                "commarightcomb.sp":"10",
-                "commarightcomb.spcase":"20",
                 "commarightcomb.spncap":"10",
                 "lbelt":"-50",
                 "lslash":"-15",
@@ -79641,8 +79375,6 @@
                 "Lbelt":"-60",
                 "Lwavybar":"-30",
                 "UpsilonLatin":"-15",
-                "commarightcomb.sp":"40",
-                "commarightcomb.spcase":"25",
                 "commarightcomb.spncap":"10",
                 "dotlessj":"150",
                 "eopen":"-60",
@@ -79732,7 +79464,6 @@
                 "Lbelt":"20",
                 "Lwavybar":"20",
                 "comma":"-30",
-                "commarightcomb.spcase":"-20",
                 "eopen":"5",
                 "exclam":"10",
                 "glottal":"-10",
@@ -79797,8 +79528,6 @@
                 "ampersand":"-20",
                 "asterisk":"-20",
                 "comma":"25",
-                "commarightcomb.sp":"-10",
-                "commarightcomb.spcase":"-10",
                 "commarightcomb.spncap":"10",
                 "glottalmodifier.alt":"10",
                 "glottalreversed":"-20",
@@ -79858,8 +79587,6 @@
                 "UpsilonLatin":"-25",
                 "asterisk":"-75",
                 "comma":"25",
-                "commarightcomb.sp":"-100",
-                "commarightcomb.spcase":"-100",
                 "glottal":"-20",
                 "glottalreversed":"-55",
                 "glottalstop":"-20",
@@ -79912,8 +79639,6 @@
                 "UpsilonLatin":"-40",
                 "X":"10",
                 "comma":"35",
-                "commarightcomb.sp":"-90",
-                "commarightcomb.spcase":"-100",
                 "exclam":"10",
                 "glottal":"-20",
                 "glottalreversed":"-100",
@@ -79944,8 +79669,6 @@
                 "Eopen":"-10",
                 "Glottalstop":"-10",
                 "Lbelt":"-5",
-                "commarightcomb.sp":"-30",
-                "commarightcomb.spcase":"-20",
                 "glottalmodifier.alt":"-45",
                 "halfringrightmodifier":"-10",
                 "seven.LP":"-45",
@@ -80026,7 +79749,6 @@
                 "UpsilonLatin":"-30",
                 "ampersand":"-10",
                 "comma":"20",
-                "commarightcomb.sp":"-10",
                 "glottal":"-20",
                 "glottalmodifier.alt":"-30",
                 "glottalstop":"-10",
@@ -80116,8 +79838,6 @@
                 "asterisk":"25",
                 "atilde":"-130",
                 "comma":"-100",
-                "commarightcomb.sp":"35",
-                "commarightcomb.spcase":"35",
                 "commarightcomb.spncap":"10",
                 "eopen":"-160",
                 "glottal":"30",
@@ -80211,8 +79931,6 @@
                 "ampersand":"-45",
                 "asterisk":"20",
                 "comma":"-120",
-                "commarightcomb.sp":"45",
-                "commarightcomb.spcase":"30",
                 "commarightcomb.spncap":"10",
                 "eopen":"-80",
                 "glottal":"40",
@@ -80281,8 +79999,6 @@
                 "ampersand":"-45",
                 "asterisk":"20",
                 "comma":"-90",
-                "commarightcomb.sp":"45",
-                "commarightcomb.spcase":"25",
                 "commarightcomb.spncap":"10",
                 "eopen":"-45",
                 "glottal":"40",
@@ -80353,8 +80069,6 @@
                 "ampersand":"-65",
                 "asterisk":"10",
                 "comma":"-120",
-                "commarightcomb.sp":"70",
-                "commarightcomb.spcase":"40",
                 "commarightcomb.spncap":"10",
                 "eopen":"-95",
                 "glottal":"60",
@@ -80408,7 +80122,6 @@
                 "UpsilonLatin":"-20",
                 "ampersand":"-10",
                 "comma":"10",
-                "commarightcomb.spcase":"10",
                 "commarightcomb.spncap":"10",
                 "glottal":"30",
                 "glottalmodifier":"55",
@@ -80470,8 +80183,6 @@
                 "at":"-100",
                 "atilde":"-140",
                 "comma":"-185",
-                "commarightcomb.sp":"25",
-                "commarightcomb.spcase":"20",
                 "dotlessj":"-10",
                 "ebreve":"-140",
                 "ecaron":"-140",
@@ -80831,7 +80542,6 @@
                 "UpsilonLatin":"-20",
                 "X":"20",
                 "comma":"-225",
-                "commarightcomb.spcase":"20",
                 "commarightcomb.spn":"140",
                 "glottal":"25",
                 "idotbelow.dotless":"20",
@@ -80922,8 +80632,6 @@
                 "UpsilonLatin":"10",
                 "X":"30",
                 "comma":"-120",
-                "commarightcomb.sp":"50",
-                "commarightcomb.spcase":"60",
                 "commarightcomb.spn":"185",
                 "commarightcomb.spncap":"110",
                 "glottal":"40",
@@ -80978,8 +80686,6 @@
                 "UpsilonLatin":"-15",
                 "X":"-25",
                 "comma":"-10",
-                "commarightcomb.sp":"-10",
-                "commarightcomb.spcase":"-10",
                 "halfringrightmodifier":"-10",
                 "seven.LP":"-40",
                 "three.LP":"-25",
@@ -81046,8 +80752,6 @@
                 "ampersand":"-20",
                 "asterisk":"20",
                 "comma":"-90",
-                "commarightcomb.sp":"35",
-                "commarightcomb.spcase":"20",
                 "commarightcomb.spncap":"10",
                 "eopen":"-25",
                 "glottal":"20",
@@ -81085,8 +80789,6 @@
                 "Glottalstop":"-25",
                 "Tbar":"-40",
                 "comma":"-20",
-                "commarightcomb.sp":"-50",
-                "commarightcomb.spcase":"-70",
                 "seven.LP":"-40",
                 "v":"-20",
                 "ymodifier":"20"
@@ -81101,9 +80803,7 @@
                 "@_punc_hyphen_2ND":"40",
                 "@_punc_quoteleft_2ND":"-45",
                 "@_punc_quoteright_2ND":"-35",
-                "asterisk":"-20",
-                "commarightcomb.sp":"-35",
-                "commarightcomb.spcase":"-35"
+                "asterisk":"-20"
               },
               "Glottalstop":{
                 "@_L_lc_a_2ND":"-45",
@@ -81140,8 +80840,6 @@
                 "UpsilonLatin":"-15",
                 "X":"-40",
                 "comma":"-135",
-                "commarightcomb.sp":"25",
-                "commarightcomb.spcase":"25",
                 "eopen":"-15",
                 "ibarred":"20",
                 "icircumflex":"50",
@@ -81174,8 +80872,6 @@
                 "@_x_sups_BOTH":"30",
                 "Eopen":"-15",
                 "comma":"-20",
-                "commarightcomb.sp":"25",
-                "commarightcomb.spcase":"20",
                 "glottalreversed":"15",
                 "lslash":"-10",
                 "lwavybar":"-10",
@@ -81194,7 +80890,6 @@
               "Ibarred":{
                 "@_L_uc_O_2ND":"-15",
                 "@_x_sups_BOTH":"25",
-                "commarightcomb.sp":"40",
                 "commarightcomb.spncap":"10",
                 "glottalmodifier.alt":"45"
               },
@@ -81205,23 +80900,18 @@
                 "commarightcomb.spncap":"270"
               },
               "Icircumflex":{
-                "commarightcomb.sp":"100",
-                "commarightcomb.spcase":"15",
                 "commarightcomb.spncap":"270"
               },
               "Idieresis":{
-                "commarightcomb.sp":"30",
                 "commarightcomb.spncap":"190"
               },
               "Idotaccent":{
                 "commarightcomb.spncap":"20"
               },
               "Igrave":{
-                "commarightcomb.sp":"10",
                 "commarightcomb.spncap":"160"
               },
               "Imacron":{
-                "commarightcomb.sp":"30",
                 "commarightcomb.spncap":"210"
               },
               "IotaLatin":{
@@ -81259,8 +80949,6 @@
                 "Tslash":"-70",
                 "Ubar":"-35",
                 "UpsilonLatin":"-45",
-                "commarightcomb.sp":"-100",
-                "commarightcomb.spcase":"-115",
                 "glottal":"-40",
                 "glottalmodifier.alt":"-100",
                 "glottalreversed":"-80",
@@ -81276,7 +80964,6 @@
                 "ymodifier":"-70"
               },
               "Itilde":{
-                "commarightcomb.sp":"20",
                 "commarightcomb.spncap":"280"
               },
               "Jbar":{
@@ -81288,7 +80975,6 @@
                 "commarightcomb.spncap":"280"
               },
               "Jcircumflex":{
-                "commarightcomb.spcase":"20",
                 "commarightcomb.spncap":"280"
               },
               "LambdaLatin":{
@@ -81297,7 +80983,6 @@
                 "@_L_uc_Y_2ND":"-110",
                 "@_punc_hyphen.cap_2ND":"-90",
                 "@_x_sups_BOTH":"-200",
-                "commarightcomb.spcase":"-120",
                 "ymodifier":"-105"
               },
               "Lcaron":{
@@ -81341,8 +81026,6 @@
                 "UpsilonLatin":"-25",
                 "asterisk":"-75",
                 "comma":"25",
-                "commarightcomb.sp":"-100",
-                "commarightcomb.spcase":"-100",
                 "glottal":"-20",
                 "glottalreversed":"-55",
                 "glottalstop":"-20",
@@ -81415,8 +81098,6 @@
                 "ampersand":"-25",
                 "asterisk":"25",
                 "comma":"-135",
-                "commarightcomb.sp":"25",
-                "commarightcomb.spcase":"25",
                 "eopen":"-15",
                 "glottalmodifier.alt":"15",
                 "ibarred":"25",
@@ -81503,8 +81184,6 @@
                 "asterisk":"25",
                 "atilde":"-130",
                 "comma":"-100",
-                "commarightcomb.sp":"35",
-                "commarightcomb.spcase":"35",
                 "commarightcomb.spncap":"10",
                 "eopen":"-100",
                 "glottal":"30",
@@ -81646,8 +81325,6 @@
                 "UpsilonLatin":"-30",
                 "ampersand":"-10",
                 "comma":"25",
-                "commarightcomb.sp":"40",
-                "commarightcomb.spcase":"20",
                 "commarightcomb.spncap":"10",
                 "glottalmodifier":"60",
                 "glottalmodifier.alt":"50",
@@ -81680,39 +81357,25 @@
                 "@_L_uc_V_2ND":"-80",
                 "@_L_uc_W_2ND":"-65",
                 "@_L_uc_Y_2ND":"-105",
-                "@_L_uc_Z_2ND":"35",
-                "commarightcomb.sp":"-60"
+                "@_L_uc_Z_2ND":"35"
               },
               "aslash":{
-                "commarightcomb.sp":"-70",
                 "commarightcomb.spn":"50"
               },
               "aslash.2":{
-                "commarightcomb.sp":"-70",
                 "commarightcomb.spn":"50"
               },
               "atilde":{
                 "commarightcomb.spn":"10"
               },
-              "c":{
-                "commarightcomb.sp":"-20"
-              },
               "cacute":{
-                "commarightcomb.sp":"-20",
                 "commarightcomb.spn":"30"
               },
               "ccaron":{
-                "commarightcomb.sp":"-20",
                 "commarightcomb.spn":"90"
-              },
-              "ccedilla":{
-                "commarightcomb.sp":"-20"
               },
               "ccircumflex":{
                 "commarightcomb.spn":"100"
-              },
-              "cdotaccent":{
-                "commarightcomb.sp":"-20"
               },
               "colonmodifier":{
                 "commarightcomb.spn":"10"
@@ -81732,30 +81395,10 @@
                 "@_x_sups_BOTH":"-120",
                 "Tslash":"-70",
                 "X":"10",
-                "commarightcomb.spcase":"-90",
                 "one.LP":"-65",
                 "seven.LP":"-25",
                 "six.LP":"-10",
                 "zero.LP":"-10"
-              },
-              "commarightcomb.sp":{
-                "@_L_uc_ChiLatin_2ND":"50",
-                "IJacute":"15",
-                "Iacute":"15",
-                "Icircumflex":"90",
-                "Idieresis":"30",
-                "Imacron":"30",
-                "Itilde":"100",
-                "Jcircumflex":"-120",
-                "Lacute":"15",
-                "Lbelt":"-70",
-                "thetamodifier":"40",
-                "wmodifier":"32",
-                "ymodifier":"42"
-              },
-              "commarightcomb.spcase":{
-                "Lbelt":"-10",
-                "thetamodifier":"52"
               },
               "commarightcomb.spn":{
                 "@_L_lc_chiLatin_2ND":"10",
@@ -81947,7 +81590,6 @@
                 "two.numr":"100"
               },
               "cslash":{
-                "commarightcomb.sp":"-10",
                 "commarightcomb.spn":"60"
               },
               "dcroat":{
@@ -81970,8 +81612,6 @@
                 "@_punc_quoteright_2ND":"20",
                 "@_x_sups_BOTH":"50",
                 "comma":"-15",
-                "commarightcomb.sp":"40",
-                "commarightcomb.spcase":"20",
                 "commarightcomb.spn":"170",
                 "eopen":"-15",
                 "glottalreversed":"30",
@@ -82011,7 +81651,6 @@
                 "glottal":"-45"
               },
               "dotlessj":{
-                "commarightcomb.sp":"-50",
                 "commarightcomb.spn":"10",
                 "glottal":"-45"
               },
@@ -82045,9 +81684,6 @@
                 "foursuperior":"5",
                 "sevensuperior":"-10"
               },
-              "eopen":{
-                "commarightcomb.sp":"-20"
-              },
               "eth":{
                 "@_L_lc_a_2ND":"-10",
                 "@_L_lc_ibar.dotless_2ND":"15",
@@ -82061,8 +81697,6 @@
                 "@_punc_quoteright_2ND":"-15",
                 "@_x_sups_BOTH":"15",
                 "comma":"-30",
-                "commarightcomb.sp":"-65",
-                "commarightcomb.spcase":"-15",
                 "glottal":"-30",
                 "glottalreversed":"-20",
                 "lwavybar":"10",
@@ -82168,8 +81802,6 @@
                 "@_punc_quoteright_2ND":"-5",
                 "@_punc_semicolon_2ND":"10",
                 "comma":"10",
-                "commarightcomb.sp":"-45",
-                "commarightcomb.spcase":"-5",
                 "j":"10",
                 "jbar":"10",
                 "jbar.dotless":"10",
@@ -82196,8 +81828,6 @@
                 "@_punc_quoteright_2ND":"40",
                 "@_x_sups_BOTH":"30",
                 "comma":"-130",
-                "commarightcomb.sp":"45",
-                "commarightcomb.spcase":"40",
                 "commarightcomb.spn":"180",
                 "icaron":"20",
                 "icircumflex":"100",
@@ -82217,7 +81847,6 @@
                 "@_L_lc_lambdaLatin_2ND":"30",
                 "@_L_lc_o_2ND":"-60",
                 "@_L_lc_schwa_2ND":"-50",
-                "commarightcomb.sp":"60",
                 "thetamodifier":"55",
                 "vturned":"-90",
                 "wmodifier":"55",
@@ -82266,7 +81895,6 @@
                 "Lwavybar":"-90",
                 "X":"40",
                 "comma":"-135",
-                "commarightcomb.sp":"60",
                 "eopen":"-90",
                 "glottal":"70",
                 "glottalstop":"-30",
@@ -82304,8 +81932,6 @@
                 "@_punc_quoteright_2ND":"40",
                 "@_x_sups_BOTH":"35",
                 "comma":"-80",
-                "commarightcomb.sp":"45",
-                "commarightcomb.spcase":"40",
                 "commarightcomb.spn":"175",
                 "eopen":"-30",
                 "glottalmodifier.alt":"65",
@@ -82346,8 +81972,6 @@
                 "@_punc_quoteright_2ND":"10",
                 "@_x_sups_BOTH":"30",
                 "comma":"-80",
-                "commarightcomb.sp":"-55",
-                "commarightcomb.spcase":"10",
                 "glottalmodifier.alt":"-10",
                 "lambdaLatin":"-80",
                 "lbelt":"25",
@@ -82361,9 +81985,6 @@
                 "vturned":"-35",
                 "wmodifier":"5",
                 "x":"-25"
-              },
-              "gsmallcap":{
-                "commarightcomb.sp":"-60"
               },
               "halflongsign":{
                 "commarightcomb.spn":"10"
@@ -82383,9 +82004,6 @@
                 "jcaron":"30",
                 "jcircumflex":"30"
               },
-              "hmodifier":{
-                "commarightcomb.sp":"30"
-              },
               "hyphen":{
                 "@_x_sups_BOTH":"-35"
               },
@@ -82398,25 +82016,21 @@
                 "jcircumflex":"10"
               },
               "i.dotless":{
-                "commarightcomb.sp":"20",
                 "commarightcomb.spn":"150"
               },
               "iacute":{
                 "@_L_lc_lambdaLatin_2ND":"20",
-                "commarightcomb.sp":"30",
                 "commarightcomb.spn":"170",
                 "glottalmodifier.alt":"60"
               },
               "ibarred":{
                 "@_x_sups_BOTH":"30",
-                "commarightcomb.sp":"25",
                 "commarightcomb.spn":"10"
               },
               "ibreve":{
                 "@_L_lc_i_2ND":"10",
                 "@_punc_quoteright_2ND":"30",
                 "@_x_sups_BOTH":"100",
-                "commarightcomb.sp":"80",
                 "commarightcomb.spn":"210",
                 "glottal":"80",
                 "seven.LP":"35"
@@ -82425,7 +82039,6 @@
                 "@_L_lc_i_2ND":"10",
                 "@_punc_quoteright_2ND":"40",
                 "@_x_sups_BOTH":"120",
-                "commarightcomb.sp":"110",
                 "commarightcomb.spn":"240",
                 "glottal":"100",
                 "seven.LP":"50"
@@ -82434,7 +82047,6 @@
                 "@_L_lc_i_2ND":"10",
                 "@_punc_quoteright_2ND":"60",
                 "@_x_sups_BOTH":"130",
-                "commarightcomb.sp":"120",
                 "commarightcomb.spn":"250",
                 "glottal":"30",
                 "glottalreversed":"90",
@@ -82444,7 +82056,6 @@
                 "@_L_lc_i_2ND":"30",
                 "@_punc_quoteright_2ND":"25",
                 "@_x_sups_BOTH":"100",
-                "commarightcomb.sp":"70",
                 "commarightcomb.spn":"180",
                 "glottal":"80",
                 "glottalreversed":"20",
@@ -82455,35 +82066,28 @@
                 "seven.LP":"40"
               },
               "idotbelow.dotless":{
-                "commarightcomb.sp":"20",
                 "commarightcomb.spn":"150"
               },
               "igrave":{
-                "commarightcomb.sp":"-40",
                 "commarightcomb.spn":"70"
               },
               "ijacute":{
-                "commarightcomb.sp":"40",
                 "commarightcomb.spn":"170"
               },
               "imacron":{
                 "@_punc_quoteright_2ND":"10",
                 "@_x_sups_BOTH":"70",
-                "commarightcomb.sp":"50",
                 "commarightcomb.spn":"150",
                 "glottal":"60",
                 "seven.LP":"10"
               },
               "iogonek.dotless":{
-                "commarightcomb.sp":"20",
                 "commarightcomb.spn":"150"
               },
               "iogonek.dotless.alt":{
-                "commarightcomb.sp":"20",
                 "commarightcomb.spn":"150"
               },
               "iogonek.dotless.alt2":{
-                "commarightcomb.sp":"20",
                 "commarightcomb.spn":"150"
               },
               "iotaLatin":{
@@ -82494,8 +82098,6 @@
                 "@_punc_hyphen_2ND":"-15",
                 "@_punc_quoteright_2ND":"-20",
                 "@_x_sups_BOTH":"-15",
-                "commarightcomb.sp":"-60",
-                "commarightcomb.spcase":"-20",
                 "glottal":"-20",
                 "glottalreversed":"-20",
                 "glottalstop":"-10",
@@ -82512,7 +82114,6 @@
                 "@_L_lc_i_2ND":"20",
                 "@_punc_quoteright_2ND":"70",
                 "@_x_sups_BOTH":"160",
-                "commarightcomb.sp":"140",
                 "commarightcomb.spn":"270",
                 "glottal":"140",
                 "glottalreversed":"40",
@@ -82529,7 +82130,6 @@
                 "@_L_lc_i_2ND":"10",
                 "@_punc_quoteright_2ND":"40",
                 "@_x_sups_BOTH":"70",
-                "commarightcomb.sp":"120",
                 "commarightcomb.spn":"240",
                 "glottal":"100",
                 "glottalmodifier.alt":"120",
@@ -82540,7 +82140,6 @@
                 "@_L_lc_i_2ND":"10",
                 "@_punc_quoteright_2ND":"60",
                 "@_x_sups_BOTH":"130",
-                "commarightcomb.sp":"120",
                 "commarightcomb.spn":"250",
                 "glottal":"30",
                 "glottalreversed":"90",
@@ -82572,14 +82171,12 @@
                 "glottalmodifier.alt":"-50"
               },
               "lambdabar.alt":{
-                "commarightcomb.sp":"-70",
                 "commarightcomb.spn":"70"
               },
               "lambdabarcommaabove":{
                 "commarightcomb.spn":"30"
               },
               "lambdabarcommaabove.alt":{
-                "commarightcomb.sp":"-60",
                 "commarightcomb.spn":"70"
               },
               "lbar":{
@@ -82587,8 +82184,6 @@
                 "@_L_lc_ibar_2ND":"15",
                 "@_L_lc_y_2ND":"30",
                 "@_punc_quoteright_2ND":"10",
-                "commarightcomb.sp":"-10",
-                "commarightcomb.spcase":"10",
                 "v":"30"
               },
               "lbelt":{
@@ -82605,8 +82200,6 @@
                 "@_punc_quoteright_2ND":"-20",
                 "@_x_sups_BOTH":"30",
                 "comma":"-40",
-                "commarightcomb.sp":"-50",
-                "commarightcomb.spcase":"-20",
                 "commarightcomb.spn":"60",
                 "glottal":"-20",
                 "glottalmodifier.alt":"-30",
@@ -82660,8 +82253,6 @@
                 "abreve":"20",
                 "acaron":"20",
                 "ccaron":"15",
-                "commarightcomb.sp":"195",
-                "commarightcomb.spcase":"150",
                 "commarightcomb.spn":"330",
                 "ecaron":"10",
                 "exclam":"105",
@@ -82715,8 +82306,6 @@
                 "@_punc_quoteright_2ND":"20",
                 "@_x_sups_BOTH":"55",
                 "comma":"-40",
-                "commarightcomb.sp":"-20",
-                "commarightcomb.spcase":"20",
                 "commarightcomb.spn":"60",
                 "glottal":"-20",
                 "glottalmodifier.alt":"15",
@@ -82745,8 +82334,6 @@
                 "@_punc_quoteright_2ND":"10",
                 "@_x_sups_BOTH":"50",
                 "comma":"-70",
-                "commarightcomb.sp":"-40",
-                "commarightcomb.spcase":"10",
                 "commarightcomb.spn":"30",
                 "glottal":"-20",
                 "glottalmodifier.alt":"10",
@@ -82807,7 +82394,6 @@
                 "jcircumflex":"30"
               },
               "ohungarumlaut":{
-                "commarightcomb.sp":"-75",
                 "commarightcomb.spn":"40"
               },
               "one":{
@@ -82818,26 +82404,39 @@
                 "commarightcomb.spn":"130"
               },
               "oslash":{
-                "commarightcomb.sp":"-65",
                 "commarightcomb.spn":"30"
               },
               "oslashacute":{
-                "commarightcomb.sp":"-65",
                 "commarightcomb.spn":"30"
               },
               "period":{
+                "@_L_lc_a_2ND":"-15",
+                "@_L_lc_g_2ND":"-30",
+                "@_L_lc_o_2ND":"-35",
+                "@_L_lc_t_2ND":"-40",
+                "@_L_lc_u_2ND":"-40",
+                "@_L_lc_w_2ND":"-75",
+                "@_L_lc_y_2ND":"-100",
+                "@_L_uc_A_2ND":"10",
+                "@_L_uc_J_2ND":"15",
+                "@_L_uc_O_2ND":"-80",
+                "@_L_uc_T_2ND":"-100",
+                "@_L_uc_U_2ND":"-60",
+                "@_L_uc_V_2ND":"-140",
+                "@_L_uc_W_2ND":"-120",
+                "@_L_uc_Y_2ND":"-120",
+                "@_L_uc_Z_2ND":"10",
                 "@_punc_quoteleft_2ND":"-90",
                 "@_punc_quoteright_2ND":"-90",
                 "@_x_sups_BOTH":"-120",
-                "commarightcomb.spcase":"-90",
                 "one.LP":"-55",
                 "seven.LP":"-20",
                 "six.LP":"-10",
-                "two.LP":"20"
+                "two.LP":"20",
+                "v":"-110"
               },
               "q":{
                 "@_punc_degree_2ND":"-30",
-                "commarightcomb.sp":"-40",
                 "glottal":"-40",
                 "j":"30",
                 "j.dotless":"30",
@@ -82881,7 +82480,6 @@
               },
               "rcaron":{
                 "@_L_lc_lambdaLatin_2ND":"30",
-                "commarightcomb.sp":"80",
                 "commarightcomb.spn":"210",
                 "glottal":"65"
               },
@@ -82889,11 +82487,9 @@
                 "commarightcomb.spn":"20"
               },
               "scaron":{
-                "commarightcomb.sp":"-40",
                 "commarightcomb.spn":"90"
               },
               "scircumflex":{
-                "commarightcomb.sp":"-40",
                 "commarightcomb.spn":"100"
               },
               "seven":{
@@ -82923,7 +82519,6 @@
                 "@_punc_period_2ND":"-130",
                 "@_x_sups_BOTH":"20",
                 "comma":"-120",
-                "commarightcomb.sp":"20",
                 "commarightcomb.spn":"150",
                 "commarightcomb.spncap":"10",
                 "eight.LP":"-20",
@@ -83046,11 +82641,7 @@
                 "jcaron":"40",
                 "jcircumflex":"40"
               },
-              "tbar":{
-                "commarightcomb.sp":"-75"
-              },
               "tcaron":{
-                "commarightcomb.sp":"30",
                 "glottalmodifier.alt":"40"
               },
               "theta.Latin":{
@@ -83068,7 +82659,6 @@
                 "@_punc_quoteright_2ND":"20",
                 "@_x_sups_BOTH":"20",
                 "comma":"-50",
-                "commarightcomb.spcase":"20",
                 "commarightcomb.spn":"130",
                 "glottal":"-15",
                 "glottalstop":"10",
@@ -83116,8 +82706,6 @@
                 "@_punc_quoteright_2ND":"-10",
                 "@_x_sups_BOTH":"-5",
                 "X":"-25",
-                "commarightcomb.sp":"-10",
-                "commarightcomb.spcase":"-10",
                 "commarightcomb.spn":"110",
                 "four.LP":"10",
                 "glottal":"-20",
@@ -83179,8 +82767,6 @@
                 "@_punc_quoteright_2ND":"60",
                 "@_x_sups_BOTH":"80",
                 "comma":"-85",
-                "commarightcomb.sp":"85",
-                "commarightcomb.spcase":"60",
                 "commarightcomb.spn":"220",
                 "exclam":"30",
                 "glottalreversed":"60",
@@ -83235,7 +82821,6 @@
                 "zerosuperior":"-10"
               },
               "ubar":{
-                "commarightcomb.sp":"-50",
                 "commarightcomb.spn":"20"
               },
               "uhungarumlaut":{
@@ -83252,7 +82837,6 @@
                 "@_punc_period_2ND":"-25",
                 "@_x_sups_BOTH":"10",
                 "comma":"-15",
-                "commarightcomb.sp":"-25",
                 "commarightcomb.spn":"10",
                 "glottal":"-80",
                 "glottalmodifier.alt":"-10",
@@ -83279,8 +82863,6 @@
                 "@_punc_quoteright_2ND":"-90",
                 "@_x_sups_BOTH":"-60",
                 "comma":"30",
-                "commarightcomb.sp":"-100",
-                "commarightcomb.spcase":"-90",
                 "glottal":"-50",
                 "glottalmodifier.alt":"-90",
                 "glottalreversed":"-100",
@@ -83321,8 +82903,6 @@
                 "@_punc_quoteright_2ND":"30",
                 "@_x_subs_BOTH":"45",
                 "@_x_sups_BOTH":"45",
-                "commarightcomb.sp":"20",
-                "commarightcomb.spcase":"30",
                 "commarightcomb.spn":"10",
                 "eopen":"-5",
                 "glottal":"-50",
@@ -83558,16 +83138,15 @@
           "width_name":"Normal",
           "slope_name":"Plain",
           "fontNote":"Spacing line height = 530",
-          "ascender":1583,
-          "descender":-465,
+          "ascender":1890,
+          "descender":-770,
           "xHeight":953,
           "capsHeight":1314,
           "measurement":486,
           "weight":900,
           "width":5,
-          "lineGap":410,
-          "safeTop":1788,
-          "safeBottom":670,
+          "safeTop":1890,
+          "safeBottom":770,
           "underlineThickness":144,
           "underlinePosition":-102,
           "cornerTension":0.67,
@@ -83600,9 +83179,9 @@
             "TtaSharpDw":false,
             "TtaSharpGdi":true,
             "TtaSharpGray":false,
-            "hhea_ascender":1583,
-            "hhea_descender":-465,
-            "hhea_line_gap":410,
+            "hhea_ascender":1890,
+            "hhea_descender":-770,
+            "hhea_line_gap":0,
             "hhea_use_custom":false,
             "strikeout_position":486,
             "strikeout_size":93,
@@ -83672,7 +83251,7 @@
                   "Acaron",
                   "Acircumflex",
                   "Adieresis",
-                  "Adotacent",
+                  "Adotaccent",
                   "Agrave",
                   "Amacron",
                   "Aogonek",
@@ -83961,7 +83540,7 @@
                   "acedilla",
                   "acircumflex",
                   "adieresis",
-                  "adotacent",
+                  "adotaccent",
                   "agrave",
                   "amacron",
                   "aogonek",
@@ -84303,7 +83882,7 @@
                   "Acaron",
                   "Acircumflex",
                   "Adieresis",
-                  "Adotacent",
+                  "Adotaccent",
                   "Agrave",
                   "Amacron",
                   "Aogonek",
@@ -84472,7 +84051,7 @@
                   "acedilla",
                   "acircumflex",
                   "adieresis",
-                  "adotacent",
+                  "adotaccent",
                   "ae",
                   "aeacute",
                   "agrave",
@@ -85250,8 +84829,6 @@
                 "@_punc_hyphen_2ND":"10",
                 "@_punc_quoteright_2ND":"-5",
                 "@_x_sups_BOTH":"15",
-                "commarightcomb.sp":"-85",
-                "commarightcomb.spcase":"-5",
                 "glottal":"-45",
                 "glottalmodifier":"-5",
                 "glottalmodifier.alt":"-65",
@@ -85274,7 +84851,6 @@
                 "@_punc_quoteright_2ND":"20",
                 "@_x_subs_BOTH":"10",
                 "@_x_sups_BOTH":"20",
-                "commarightcomb.spcase":"20",
                 "commarightcomb.spn":"20",
                 "glottal":"-60",
                 "seven.LP":"-60",
@@ -85298,8 +84874,6 @@
                 "@_punc_quoteright_2ND":"30",
                 "@_x_sups_BOTH":"20",
                 "comma":"30",
-                "commarightcomb.sp":"10",
-                "commarightcomb.spcase":"30",
                 "commarightcomb.spn":"10",
                 "eopen":"-20",
                 "glottal":"-60",
@@ -85342,8 +84916,6 @@
                 "@_punc_quoteright_2ND":"30",
                 "@_x_sups_BOTH":"60",
                 "comma":"-160",
-                "commarightcomb.sp":"65",
-                "commarightcomb.spcase":"30",
                 "eopen":"-70",
                 "exclam":"30",
                 "glottal":"60",
@@ -85382,7 +84954,6 @@
                 "@_punc_degree_2ND":"-60",
                 "@_punc_hyphen_2ND":"20",
                 "@_x_sups_BOTH":"20",
-                "commarightcomb.sp":"-90",
                 "glottal":"-55",
                 "glottalmodifier.alt":"-55",
                 "glottalreversed":"-30",
@@ -85417,8 +84988,6 @@
                 "@_x_sups_BOTH":"110",
                 "asterisk":"55",
                 "comma":"-50",
-                "commarightcomb.sp":"95",
-                "commarightcomb.spcase":"60",
                 "commarightcomb.spn":"310",
                 "exclam":"50",
                 "glottal":"100",
@@ -85451,7 +85020,6 @@
                 "@_L_lc_ibar_2ND":"20",
                 "@_L_lc_j_2ND":"30",
                 "comma":"10",
-                "commarightcomb.sp":"-35",
                 "commarightcomb.spn":"10",
                 "glottalmodifier.alt":"-55",
                 "jcaron":"30",
@@ -85474,8 +85042,6 @@
                 "@_punc_quoteright_2ND":"45",
                 "@_x_sups_BOTH":"40",
                 "comma":"20",
-                "commarightcomb.sp":"-10",
-                "commarightcomb.spcase":"45",
                 "commarightcomb.spn":"10",
                 "fhook":"55",
                 "glottalmodifier.alt":"20",
@@ -85497,7 +85063,6 @@
                 "@_L_lc_schwa_2ND":"15",
                 "@_punc_quoteright_2ND":"-40",
                 "@_x_sups_BOTH":"60",
-                "commarightcomb.sp":"-80",
                 "commarightcomb.spn":"100",
                 "glottalmodifier.alt":"-40",
                 "glottalreversed":"-20",
@@ -85527,8 +85092,6 @@
                 "@_x_subs_BOTH":"35",
                 "@_x_sups_BOTH":"-25",
                 "comma":"20",
-                "commarightcomb.sp":"-90",
-                "commarightcomb.spcase":"-10",
                 "commarightcomb.spn":"10",
                 "glottal":"-65",
                 "glottalmodifier.alt":"-85",
@@ -85563,8 +85126,6 @@
                 "@_punc_quoteright_2ND":"-90",
                 "@_x_sups_BOTH":"-10",
                 "comma":"20",
-                "commarightcomb.sp":"-180",
-                "commarightcomb.spcase":"-90",
                 "glottal":"-20",
                 "glottalmodifier.alt":"-50",
                 "glottalreversed":"-10",
@@ -85595,8 +85156,6 @@
                 "@_punc_quoteright_2ND":"30",
                 "@_x_sups_BOTH":"50",
                 "comma":"-30",
-                "commarightcomb.sp":"-50",
-                "commarightcomb.spcase":"30",
                 "commarightcomb.spn":"120",
                 "glottal":"-20",
                 "glottalmodifier.alt":"-20",
@@ -85613,7 +85172,6 @@
                 "@_L_lc_w_2ND":"-10",
                 "@_L_lc_y_2ND":"-40",
                 "@_punc_degree_2ND":"-45",
-                "commarightcomb.sp":"-70",
                 "glottal":"-65",
                 "glottalmodifier.alt":"-80",
                 "glottalreversed":"-35",
@@ -85640,8 +85198,6 @@
                 "@_punc_quoteright_2ND":"-10",
                 "@_x_sups_BOTH":"25",
                 "comma":"-15",
-                "commarightcomb.sp":"-100",
-                "commarightcomb.spcase":"-10",
                 "glottal":"-60",
                 "glottalmodifier.alt":"-65",
                 "glottalreversed":"-40",
@@ -85678,8 +85234,6 @@
                 "@_x_subs_BOTH":"-90",
                 "@_x_sups_BOTH":"55",
                 "comma":"-70",
-                "commarightcomb.sp":"20",
-                "commarightcomb.spcase":"90",
                 "commarightcomb.spn":"20",
                 "glottal":"-50",
                 "glottalmodifier.alt":"25",
@@ -85710,8 +85264,6 @@
                 "Tbar":"-105",
                 "Tslash":"-85",
                 "X":"-25",
-                "commarightcomb.sp":"-60",
-                "commarightcomb.spcase":"20",
                 "commarightcomb.spn":"10",
                 "glottal":"-60",
                 "halfringrightmodifier":"15",
@@ -85732,8 +85284,6 @@
                 "@_x_subs_BOTH":"20",
                 "@_x_sups_BOTH":"20",
                 "comma":"20",
-                "commarightcomb.sp":"-100",
-                "commarightcomb.spcase":"30",
                 "commarightcomb.spn":"20",
                 "glottal":"-35",
                 "glottalmodifier.alt":"-30",
@@ -85743,7 +85293,6 @@
                 "seven.LP":"-20"
               },
               "@_L_lc_u_1ST":{
-                "commarightcomb.sp":"-40",
                 "glottal":"-50",
                 "glottalmodifier.alt":"-30",
                 "seven.LP":"-40"
@@ -85767,8 +85316,6 @@
                 "@_x_subs_BOTH":"-75",
                 "@_x_sups_BOTH":"50",
                 "comma":"-85",
-                "commarightcomb.sp":"10",
-                "commarightcomb.spcase":"55",
                 "commarightcomb.spn":"20",
                 "glottal":"-50",
                 "glottalmodifier.alt":"30",
@@ -85805,8 +85352,6 @@
                 "@_x_subs_BOTH":"-10",
                 "@_x_sups_BOTH":"35",
                 "comma":"-50",
-                "commarightcomb.sp":"10",
-                "commarightcomb.spcase":"55",
                 "commarightcomb.spn":"10",
                 "glottalmodifier.alt":"15",
                 "glottalreversed":"40",
@@ -85828,8 +85373,6 @@
                 "@_punc_quoteleft_2ND":"35",
                 "@_punc_quoteright_2ND":"40",
                 "comma":"10",
-                "commarightcomb.sp":"-10",
-                "commarightcomb.spcase":"40",
                 "commarightcomb.spn":"10",
                 "glottal":"-50",
                 "glottalstop":"10",
@@ -85880,8 +85423,6 @@
                 "ampersand":"-10",
                 "asterisk":"-75",
                 "comma":"25",
-                "commarightcomb.sp":"-100",
-                "commarightcomb.spcase":"-100",
                 "glottal":"-30",
                 "glottalmodifier.alt":"-105",
                 "glottalreversed":"-90",
@@ -85923,8 +85464,6 @@
                 "UpsilonLatin":"-10",
                 "X":"20",
                 "comma":"25",
-                "commarightcomb.sp":"20",
-                "commarightcomb.spcase":"10",
                 "commarightcomb.spncap":"10",
                 "icircumflex":"25",
                 "idieresis":"75",
@@ -85966,8 +85505,6 @@
                 "Lbelt":"-70",
                 "Lwavybar":"-90",
                 "UpsilonLatin":"-20",
-                "commarightcomb.sp":"35",
-                "commarightcomb.spcase":"25",
                 "commarightcomb.spncap":"10",
                 "dotlessj":"200",
                 "eopen":"-100",
@@ -86026,7 +85563,6 @@
                 "Lwavybar":"-10",
                 "X":"20",
                 "comma":"40",
-                "commarightcomb.sp":"10",
                 "commarightcomb.spncap":"10",
                 "icircumflex":"20",
                 "idieresis":"75",
@@ -86043,7 +85579,6 @@
                 "@_punc_period_2ND":"10",
                 "@_x_sups_BOTH":"10",
                 "comma":"10",
-                "commarightcomb.sp":"-10",
                 "idieresis":"20",
                 "seven.LP":"-15",
                 "v":"-25"
@@ -86083,8 +85618,6 @@
                 "Lslash":"45",
                 "Lwavybar":"70",
                 "comma":"-50",
-                "commarightcomb.sp":"-60",
-                "commarightcomb.spcase":"20",
                 "eopen":"15",
                 "exclam":"20",
                 "glottal":"-15",
@@ -86155,8 +85688,6 @@
                 "ampersand":"-20",
                 "asterisk":"-20",
                 "comma":"45",
-                "commarightcomb.sp":"-20",
-                "commarightcomb.spcase":"-20",
                 "commarightcomb.spncap":"10",
                 "glottalmodifier.alt":"-15",
                 "glottalreversed":"-35",
@@ -86220,8 +85751,6 @@
                 "UpsilonLatin":"-10",
                 "asterisk":"-75",
                 "comma":"35",
-                "commarightcomb.sp":"-145",
-                "commarightcomb.spcase":"-145",
                 "glottal":"-25",
                 "glottalreversed":"-65",
                 "glottalstop":"-20",
@@ -86279,8 +85808,6 @@
                 "UpsilonLatin":"-75",
                 "X":"25",
                 "comma":"35",
-                "commarightcomb.sp":"-160",
-                "commarightcomb.spcase":"-90",
                 "exclam":"20",
                 "glottal":"-20",
                 "glottalreversed":"-70",
@@ -86312,8 +85839,6 @@
                 "@_punc_quoteright_2ND":"-10",
                 "Eopen":"-10",
                 "Glottalstop":"-10",
-                "commarightcomb.sp":"-40",
-                "commarightcomb.spcase":"-15",
                 "eightsuperior":"-10",
                 "fivesuperior":"-10",
                 "foursuperior":"-10",
@@ -86367,7 +85892,6 @@
                 "Oopen":"-15",
                 "X":"-105",
                 "comma":"-75",
-                "commarightcomb.sp":"-30",
                 "glottal":"-15",
                 "glottalmodifier.alt":"-50",
                 "lbelt.alt":"-5",
@@ -86414,8 +85938,6 @@
                 "UpsilonLatin":"-40",
                 "ampersand":"-20",
                 "comma":"20",
-                "commarightcomb.sp":"-50",
-                "commarightcomb.spcase":"-40",
                 "glottal":"-30",
                 "glottalmodifier.alt":"-60",
                 "glottalstop":"-20",
@@ -86512,8 +86034,6 @@
                 "asterisk":"25",
                 "atilde":"-145",
                 "comma":"-100",
-                "commarightcomb.sp":"50",
-                "commarightcomb.spcase":"35",
                 "commarightcomb.spncap":"10",
                 "eopen":"-185",
                 "glottal":"50",
@@ -86621,8 +86141,6 @@
                 "ampersand":"-45",
                 "asterisk":"20",
                 "comma":"-120",
-                "commarightcomb.sp":"25",
-                "commarightcomb.spcase":"25",
                 "commarightcomb.spncap":"10",
                 "eopen":"-100",
                 "glottal":"30",
@@ -86698,8 +86216,6 @@
                 "ampersand":"-45",
                 "asterisk":"20",
                 "comma":"-90",
-                "commarightcomb.sp":"25",
-                "commarightcomb.spcase":"25",
                 "commarightcomb.spncap":"10",
                 "eopen":"-65",
                 "glottal":"30",
@@ -86777,8 +86293,6 @@
                 "ampersand":"-65",
                 "asterisk":"10",
                 "comma":"-120",
-                "commarightcomb.sp":"80",
-                "commarightcomb.spcase":"45",
                 "commarightcomb.spncap":"10",
                 "ecircumflex":"-210",
                 "eopen":"-155",
@@ -86839,8 +86353,6 @@
                 "UpsilonLatin":"-10",
                 "ampersand":"-10",
                 "comma":"35",
-                "commarightcomb.sp":"10",
-                "commarightcomb.spcase":"20",
                 "commarightcomb.spncap":"10",
                 "glottal":"20",
                 "glottalmodifier":"55",
@@ -87269,7 +86781,6 @@
                 "UpsilonLatin":"-20",
                 "X":"20",
                 "comma":"-275",
-                "commarightcomb.spcase":"45",
                 "commarightcomb.spn":"170",
                 "glottal":"25",
                 "idotbelow.dotless":"10",
@@ -87361,8 +86872,6 @@
                 "UpsilonLatin":"15",
                 "X":"25",
                 "comma":"-75",
-                "commarightcomb.sp":"10",
-                "commarightcomb.spcase":"45",
                 "commarightcomb.spn":"225",
                 "commarightcomb.spncap":"110",
                 "glottal":"50",
@@ -87418,8 +86927,6 @@
                 "UpsilonLatin":"-5",
                 "X":"-80",
                 "comma":"-10",
-                "commarightcomb.sp":"-20",
-                "commarightcomb.spcase":"-10",
                 "halfringrightmodifier":"-10",
                 "idieresis":"10",
                 "lbelt":"-10",
@@ -87493,8 +87000,6 @@
                 "ampersand":"-45",
                 "asterisk":"10",
                 "comma":"-100",
-                "commarightcomb.sp":"40",
-                "commarightcomb.spcase":"20",
                 "commarightcomb.spncap":"20",
                 "eopen":"-50",
                 "glottal":"20",
@@ -87534,8 +87039,6 @@
                 "Glottalstop":"-35",
                 "Tbar":"-60",
                 "comma":"-10",
-                "commarightcomb.sp":"-90",
-                "commarightcomb.spcase":"-80",
                 "lslash":"20",
                 "seven.LP":"-50",
                 "v":"-10",
@@ -87560,9 +87063,7 @@
                 "@_punc_hyphen_2ND":"55",
                 "@_punc_quoteleft_2ND":"-45",
                 "@_punc_quoteright_2ND":"-35",
-                "asterisk":"-20",
-                "commarightcomb.sp":"-35",
-                "commarightcomb.spcase":"-35"
+                "asterisk":"-20"
               },
               "Glottalstop":{
                 "@_L_lc_a_2ND":"-65",
@@ -87598,8 +87099,6 @@
                 "UpsilonLatin":"-20",
                 "X":"-86",
                 "comma":"-125",
-                "commarightcomb.sp":"25",
-                "commarightcomb.spcase":"25",
                 "eopen":"-20",
                 "ibarred":"15",
                 "icircumflex":"20",
@@ -87637,8 +87136,6 @@
                 "@_punc_quoteright_2ND":"50",
                 "@_x_sups_BOTH":"50",
                 "comma":"-20",
-                "commarightcomb.sp":"50",
-                "commarightcomb.spcase":"50",
                 "eopen":"-20",
                 "exclam":"20",
                 "glottalreversed":"45",
@@ -87661,8 +87158,6 @@
               "Ibarred":{
                 "@_L_uc_O_2ND":"-5",
                 "@_x_sups_BOTH":"45",
-                "commarightcomb.sp":"30",
-                "commarightcomb.spcase":"25",
                 "commarightcomb.spncap":"10",
                 "glottalmodifier.alt":"65"
               },
@@ -87673,11 +87168,9 @@
                 "commarightcomb.spncap":"315"
               },
               "Icircumflex":{
-                "commarightcomb.sp":"85",
                 "commarightcomb.spncap":"290"
               },
               "Idieresis":{
-                "commarightcomb.sp":"85",
                 "commarightcomb.spncap":"305"
               },
               "Idotaccent":{
@@ -87687,7 +87180,6 @@
                 "commarightcomb.spncap":"160"
               },
               "Imacron":{
-                "commarightcomb.sp":"30",
                 "commarightcomb.spncap":"235"
               },
               "IotaLatin":{
@@ -87728,8 +87220,6 @@
                 "Ubar":"-40",
                 "UpsilonLatin":"-35",
                 "comma":"10",
-                "commarightcomb.sp":"-190",
-                "commarightcomb.spcase":"-180",
                 "glottal":"-70",
                 "glottalmodifier.alt":"-180",
                 "glottalreversed":"-140",
@@ -87746,7 +87236,6 @@
                 "ymodifier":"-60"
               },
               "Itilde":{
-                "commarightcomb.sp":"25",
                 "commarightcomb.spncap":"330"
               },
               "Jbar":{
@@ -87756,7 +87245,6 @@
                 "commarightcomb.spncap":"320"
               },
               "Jcircumflex":{
-                "commarightcomb.sp":"85",
                 "commarightcomb.spncap":"280"
               },
               "LambdaLatin":{
@@ -87767,14 +87255,7 @@
                 "@_punc_hyphen.cap_2ND":"-70",
                 "@_punc_hyphen_2ND":"-40",
                 "@_x_sups_BOTH":"-130",
-                "commarightcomb.sp":"-190",
                 "ymodifier":"-90"
-              },
-              "Lambdabar.alt":{
-                "commarightcomb.sp":"-110"
-              },
-              "Lambdabarcommaabove.alt":{
-                "commarightcomb.sp":"-120"
               },
               "Lbelt":{
                 "@_L_uc_T_2ND":"-175",
@@ -87820,8 +87301,6 @@
                 "Ubar":"-30",
                 "asterisk":"-75",
                 "comma":"35",
-                "commarightcomb.sp":"-35",
-                "commarightcomb.spcase":"-40",
                 "glottalreversed":"-30",
                 "glottalstop":"-20",
                 "lbelt":"-95",
@@ -87870,11 +87349,9 @@
                 "commarightcomb.spncap":"10"
               },
               "Oslash":{
-                "commarightcomb.sp":"-20",
                 "commarightcomb.spncap":"10"
               },
               "Oslashacute":{
-                "commarightcomb.sp":"-20",
                 "commarightcomb.spncap":"10"
               },
               "P":{
@@ -87920,8 +87397,6 @@
                 "ampersand":"-35",
                 "asterisk":"25",
                 "comma":"-135",
-                "commarightcomb.sp":"25",
-                "commarightcomb.spcase":"25",
                 "eopen":"-20",
                 "glottalmodifier.alt":"25",
                 "halfringrightmodifier":"25",
@@ -88011,8 +87486,6 @@
                 "ampersand":"-45",
                 "asterisk":"25",
                 "comma":"-100",
-                "commarightcomb.sp":"50",
-                "commarightcomb.spcase":"40",
                 "commarightcomb.spncap":"10",
                 "eopen":"-125",
                 "glottal":"50",
@@ -88078,7 +87551,6 @@
                 "Oopen":"-35",
                 "ampersand":"-10",
                 "comma":"-90",
-                "commarightcomb.sp":"-50",
                 "glottal":"-40",
                 "glottalmodifier.alt":"-40",
                 "lbelt":"25",
@@ -88128,9 +87600,6 @@
               "Utilde":{
                 "commarightcomb.spncap":"10"
               },
-              "Vhook":{
-                "commarightcomb.sp":"-20"
-              },
               "X":{
                 "@_L_lc_chiLatin_2ND":"-100",
                 "@_L_lc_ldblbar_2ND":"-30",
@@ -88165,8 +87634,6 @@
                 "UpsilonLatin":"-30",
                 "ampersand":"-20",
                 "comma":"45",
-                "commarightcomb.sp":"30",
-                "commarightcomb.spcase":"10",
                 "commarightcomb.spncap":"10",
                 "eopen":"-10",
                 "glottalmodifier":"50",
@@ -88218,36 +87685,24 @@
                 "commarightcomb.spn":"20"
               },
               "aslash":{
-                "commarightcomb.sp":"-75",
                 "commarightcomb.spn":"50"
               },
               "aslash.2":{
-                "commarightcomb.sp":"-75",
                 "commarightcomb.spn":"50"
               },
               "atilde":{
                 "commarightcomb.spn":"70"
               },
-              "c":{
-                "commarightcomb.sp":"-10"
-              },
               "cacute":{
-                "commarightcomb.sp":"-10",
                 "commarightcomb.spn":"60"
               },
               "ccaron":{
-                "commarightcomb.sp":"-10",
                 "commarightcomb.spn":"160"
               },
-              "ccedilla":{
-                "commarightcomb.sp":"-10"
-              },
               "ccircumflex":{
-                "commarightcomb.sp":"-10",
                 "commarightcomb.spn":"120"
               },
               "cdotaccent":{
-                "commarightcomb.sp":"-10",
                 "commarightcomb.spn":"40"
               },
               "colonmodifier":{
@@ -88268,43 +87723,10 @@
                 "@_x_sups_BOTH":"-75",
                 "Tslash":"-70",
                 "X":"25",
-                "commarightcomb.spcase":"-90",
                 "one.LP":"-65",
                 "seven.LP":"-20",
                 "six.LP":"-10",
                 "zero.LP":"-10"
-              },
-              "commarightcomb.sp":{
-                "@_L_uc_ChiLatin_2ND":"40",
-                "Icircumflex":"70",
-                "Idieresis":"75",
-                "Imacron":"20",
-                "Itilde":"85",
-                "Lbelt":"-85",
-                "Ldblbar":"-50",
-                "UpsilonLatin":"-20",
-                "X":"20",
-                "commarightcomb.sp":"40",
-                "commarightcomb.spcase":"45",
-                "glottal":"25",
-                "glottalmodifier.alt":"30",
-                "jcircumflex":"40",
-                "lwavybar":"-140",
-                "oopen":"-60",
-                "thetamodifier":"10",
-                "upsilonLatin":"-75",
-                "vturned":"-190",
-                "wmodifier":"10",
-                "x":"-35",
-                "ymodifier":"20"
-              },
-              "commarightcomb.spcase":{
-                "Lbelt":"-25",
-                "glottalmodifier.alt":"40",
-                "thetamodifier":"40",
-                "wmodifier":"40",
-                "ymodifier":"40",
-                "zmodifier":"40"
               },
               "commarightcomb.spn":{
                 "@_L_lc_chiLatin_2ND":"10",
@@ -88548,8 +87970,6 @@
                 "@_punc_quoteright_2ND":"40",
                 "@_x_sups_BOTH":"80",
                 "comma":"-40",
-                "commarightcomb.sp":"50",
-                "commarightcomb.spcase":"40",
                 "commarightcomb.spn":"230",
                 "eopen":"-40",
                 "exclam":"20",
@@ -88589,7 +88009,6 @@
                 "glottal":"-65"
               },
               "dotlessj":{
-                "commarightcomb.sp":"-20",
                 "commarightcomb.spn":"10",
                 "glottal":"-65"
               },
@@ -88635,8 +88054,7 @@
               "eopen":{
                 "@_L_lc_o_2ND":"-15",
                 "@_punc_period_2ND":"10",
-                "comma":"20",
-                "commarightcomb.sp":"-10"
+                "comma":"20"
               },
               "eth":{
                 "@_L_lc_a_2ND":"-10",
@@ -88651,8 +88069,6 @@
                 "@_punc_quoteright_2ND":"10",
                 "@_x_sups_BOTH":"25",
                 "comma":"-20",
-                "commarightcomb.sp":"-60",
-                "commarightcomb.spcase":"10",
                 "commarightcomb.spn":"50",
                 "glottal":"-45",
                 "glottalreversed":"-25",
@@ -88759,7 +88175,6 @@
                 "@_L_lc_n_2ND":"10",
                 "@_punc_semicolon_2ND":"20",
                 "comma":"20",
-                "commarightcomb.sp":"-40",
                 "j":"30",
                 "j.dotless":"10",
                 "jbar":"30",
@@ -88796,8 +88211,6 @@
                 "@_punc_quoteright_2ND":"40",
                 "@_x_sups_BOTH":"45",
                 "comma":"-140",
-                "commarightcomb.sp":"30",
-                "commarightcomb.spcase":"40",
                 "commarightcomb.spn":"220",
                 "icircumflex":"70",
                 "idieresis":"90",
@@ -88813,7 +88226,6 @@
                 "@_L_lc_lambdaLatin_2ND":"45",
                 "@_L_lc_o_2ND":"-40",
                 "@_L_lc_schwa_2ND":"-25",
-                "commarightcomb.sp":"30",
                 "commarightcomb.spn":"245",
                 "lbelt.alt":"10",
                 "thetamodifier":"55",
@@ -88896,8 +88308,6 @@
                 "@_punc_quoteright_2ND":"35",
                 "@_x_sups_BOTH":"45",
                 "comma":"-90",
-                "commarightcomb.sp":"40",
-                "commarightcomb.spcase":"35",
                 "commarightcomb.spn":"255",
                 "eopen":"-60",
                 "glottalmodifier.alt":"65",
@@ -88936,8 +88346,6 @@
                 "@_punc_quoteright_2ND":"15",
                 "@_x_sups_BOTH":"45",
                 "comma":"-30",
-                "commarightcomb.sp":"-65",
-                "commarightcomb.spcase":"15",
                 "glottalmodifier.alt":"-25",
                 "lambdaLatin":"-90",
                 "lbelt":"30",
@@ -88992,7 +88400,6 @@
                 "jcircumflex":"20"
               },
               "i.dotless":{
-                "commarightcomb.sp":"20",
                 "commarightcomb.spn":"230"
               },
               "iacute":{
@@ -89003,14 +88410,12 @@
               },
               "ibarred":{
                 "@_x_sups_BOTH":"40",
-                "commarightcomb.sp":"20",
                 "commarightcomb.spn":"10"
               },
               "ibreve":{
                 "@_L_lc_i_2ND":"15",
                 "@_punc_quoteright_2ND":"10",
                 "@_x_sups_BOTH":"80",
-                "commarightcomb.sp":"55",
                 "commarightcomb.spn":"270",
                 "glottal":"40",
                 "seven.LP":"20"
@@ -89019,7 +88424,6 @@
                 "@_L_lc_i_2ND":"20",
                 "@_punc_quoteright_2ND":"20",
                 "@_x_sups_BOTH":"80",
-                "commarightcomb.sp":"70",
                 "commarightcomb.spn":"290",
                 "glottal":"60",
                 "seven.LP":"20"
@@ -89028,7 +88432,6 @@
                 "@_L_lc_i_2ND":"20",
                 "@_punc_quoteright_2ND":"50",
                 "@_x_sups_BOTH":"130",
-                "commarightcomb.sp":"50",
                 "commarightcomb.spn":"260",
                 "glottal":"90",
                 "glottalreversed":"60",
@@ -89039,7 +88442,6 @@
                 "@_L_lc_l_2ND":"50",
                 "@_punc_quoteright_2ND":"70",
                 "@_x_sups_BOTH":"140",
-                "commarightcomb.sp":"100",
                 "commarightcomb.spn":"310",
                 "glottal":"130",
                 "glottalreversed":"80",
@@ -89051,11 +88453,9 @@
                 "seven.LP":"90"
               },
               "idotbelow.dotless":{
-                "commarightcomb.sp":"20",
                 "commarightcomb.spn":"230"
               },
               "igrave":{
-                "commarightcomb.sp":"-40",
                 "commarightcomb.spn":"70"
               },
               "ijacute":{
@@ -89065,22 +88465,18 @@
                 "@_L_lc_i_2ND":"10",
                 "@_punc_quoteright_2ND":"10",
                 "@_x_sups_BOTH":"50",
-                "commarightcomb.sp":"30",
                 "commarightcomb.spn":"200",
                 "glottal":"60",
                 "glottalreversed":"20",
                 "seven.LP":"20"
               },
               "iogonek.dotless":{
-                "commarightcomb.sp":"20",
                 "commarightcomb.spn":"230"
               },
               "iogonek.dotless.alt":{
-                "commarightcomb.sp":"20",
                 "commarightcomb.spn":"230"
               },
               "iogonek.dotless.alt2":{
-                "commarightcomb.sp":"20",
                 "commarightcomb.spn":"230"
               },
               "iotaLatin":{
@@ -89095,8 +88491,6 @@
                 "@_punc_quoteleft_2ND":"-100",
                 "@_punc_quoteright_2ND":"-110",
                 "@_x_sups_BOTH":"-100",
-                "commarightcomb.sp":"-140",
-                "commarightcomb.spcase":"-110",
                 "glottal":"-60",
                 "glottalmodifier.alt":"-130",
                 "glottalreversed":"-85",
@@ -89114,7 +88508,6 @@
                 "@_L_lc_l_2ND":"80",
                 "@_punc_quoteright_2ND":"75",
                 "@_x_sups_BOTH":"150",
-                "commarightcomb.sp":"120",
                 "commarightcomb.spn":"340",
                 "glottal":"110",
                 "glottalreversed":"30",
@@ -89125,7 +88518,6 @@
                 "idieresis":"35"
               },
               "j.dotless":{
-                "commarightcomb.sp":"20",
                 "commarightcomb.spn":"230"
               },
               "jbar.dotless":{
@@ -89135,7 +88527,6 @@
                 "@_L_lc_i_2ND":"20",
                 "@_punc_quoteright_2ND":"20",
                 "@_x_sups_BOTH":"50",
-                "commarightcomb.sp":"70",
                 "commarightcomb.spn":"290",
                 "glottal":"60",
                 "glottalmodifier.alt":"80",
@@ -89146,7 +88537,6 @@
                 "@_L_lc_i_2ND":"20",
                 "@_punc_quoteright_2ND":"50",
                 "@_x_sups_BOTH":"130",
-                "commarightcomb.sp":"55",
                 "commarightcomb.spn":"260",
                 "glottal":"90",
                 "glottalreversed":"60",
@@ -89186,19 +88576,15 @@
                 "ymodifier":"-70"
               },
               "lambdabar":{
-                "commarightcomb.sp":"-110",
                 "commarightcomb.spn":"80"
               },
               "lambdabar.alt":{
-                "commarightcomb.sp":"-70",
                 "commarightcomb.spn":"110"
               },
               "lambdabarcommaabove":{
-                "commarightcomb.sp":"-65",
                 "commarightcomb.spn":"130"
               },
               "lambdabarcommaabove.alt":{
-                "commarightcomb.sp":"-60",
                 "commarightcomb.spn":"130"
               },
               "lbar":{
@@ -89207,8 +88593,6 @@
                 "@_L_lc_y_2ND":"45",
                 "@_punc_hyphen_2ND":"20",
                 "@_punc_quoteright_2ND":"25",
-                "commarightcomb.sp":"-70",
-                "commarightcomb.spcase":"25",
                 "v":"45"
               },
               "lbelt":{
@@ -89224,7 +88608,6 @@
                 "@_punc_period_2ND":"-30",
                 "@_x_sups_BOTH":"50",
                 "comma":"-30",
-                "commarightcomb.sp":"-130",
                 "commarightcomb.spn":"70",
                 "glottal":"-40",
                 "glottalmodifier.alt":"-80",
@@ -89279,8 +88662,6 @@
                 "@_punc_quoteright_2ND":"160",
                 "@_x_sups_BOTH":"215",
                 "adieresis":"20",
-                "commarightcomb.sp":"200",
-                "commarightcomb.spcase":"160",
                 "commarightcomb.spn":"430",
                 "exclam":"160",
                 "glottal":"200",
@@ -89331,8 +88712,6 @@
                 "@_punc_quoteright_2ND":"50",
                 "@_x_sups_BOTH":"45",
                 "comma":"-80",
-                "commarightcomb.sp":"-20",
-                "commarightcomb.spcase":"50",
                 "commarightcomb.spn":"100",
                 "glottal":"-20",
                 "glottalmodifier.alt":"-5",
@@ -89363,8 +88742,6 @@
                 "@_punc_quoteright_2ND":"30",
                 "@_x_sups_BOTH":"50",
                 "comma":"-110",
-                "commarightcomb.sp":"-110",
-                "commarightcomb.spcase":"30",
                 "commarightcomb.spn":"50",
                 "glottal":"-40",
                 "glottalmodifier.alt":"-50",
@@ -89442,33 +88819,41 @@
                 "lbelt.alt":"10"
               },
               "oslash":{
-                "commarightcomb.sp":"-80",
                 "commarightcomb.spn":"30"
               },
               "oslashacute":{
-                "commarightcomb.sp":"-80",
                 "commarightcomb.spn":"30"
               },
               "otilde":{
                 "commarightcomb.spn":"30"
               },
               "period":{
+                "@_L_lc_o_2ND":"-20",
+                "@_L_lc_t_2ND":"-19",
+                "@_L_lc_u_2ND":"-15",
+                "@_L_lc_w_2ND":"-60",
+                "@_L_lc_y_2ND":"-85",
+                "@_L_uc_A_2ND":"15",
+                "@_L_uc_J_2ND":"15",
+                "@_L_uc_O_2ND":"-80",
+                "@_L_uc_V_2ND":"-145",
+                "@_L_uc_W_2ND":"-100",
+                "@_L_uc_Y_2ND":"-120",
+                "@_L_uc_Z_2ND":"5",
                 "@_punc_quoteleft_2ND":"-90",
                 "@_punc_quoteright_2ND":"-90",
                 "@_x_sups_BOTH":"-75",
-                "commarightcomb.spcase":"-90",
                 "one.LP":"-65",
                 "seven.LP":"-10",
                 "six.LP":"-10",
-                "two.LP":"10"
+                "two.LP":"10",
+                "v":"-95"
               },
               "q":{
                 "@_punc_degree_2ND":"-30",
                 "@_punc_quoteleft_2ND":"10",
                 "@_punc_quoteright_2ND":"10",
                 "comma":"20",
-                "commarightcomb.sp":"-30",
-                "commarightcomb.spcase":"10",
                 "dotlessj":"75",
                 "glottal":"-60",
                 "j":"75",
@@ -89523,7 +88908,6 @@
                 "commarightcomb.spn":"40"
               },
               "scaron":{
-                "commarightcomb.sp":"-50",
                 "commarightcomb.spn":"135"
               },
               "scircumflex":{
@@ -89557,8 +88941,6 @@
                 "@_x_sups_BOTH":"15",
                 "Hbar":"10",
                 "comma":"-90",
-                "commarightcomb.sp":"10",
-                "commarightcomb.spcase":"10",
                 "commarightcomb.spn":"180",
                 "commarightcomb.spncap":"10",
                 "eight.LP":"-20",
@@ -89682,7 +89064,6 @@
                 "jcircumflex":"70"
               },
               "tcaron":{
-                "commarightcomb.sp":"70",
                 "glottalmodifier.alt":"70"
               },
               "theta.Latin":{
@@ -89700,8 +89081,6 @@
                 "@_punc_quoteright_2ND":"35",
                 "@_x_sups_BOTH":"30",
                 "comma":"-50",
-                "commarightcomb.sp":"-15",
-                "commarightcomb.spcase":"35",
                 "commarightcomb.spn":"130",
                 "glottal":"-15",
                 "glottalstop":"25",
@@ -89722,7 +89101,6 @@
                 "@_L_uc_W_2ND":"45",
                 "@_L_uc_Y_2ND":"40",
                 "X":"10",
-                "commarightcomb.sp":"35",
                 "glottalmodifier":"20",
                 "glottalstop":"30",
                 "lbelt.alt":"10",
@@ -89755,8 +89133,6 @@
                 "@_x_sups_BOTH":"10",
                 "X":"-75",
                 "comma":"-10",
-                "commarightcomb.sp":"-10",
-                "commarightcomb.spcase":"-10",
                 "commarightcomb.spn":"120",
                 "four.LP":"10",
                 "glottal":"-25",
@@ -89823,8 +89199,6 @@
                 "@_punc_quoteright_2ND":"40",
                 "@_x_sups_BOTH":"80",
                 "comma":"-100",
-                "commarightcomb.sp":"50",
-                "commarightcomb.spcase":"40",
                 "commarightcomb.spn":"240",
                 "eopen":"-15",
                 "exclam":"30",
@@ -89882,9 +89256,6 @@
                 "sixsuperior":"-5",
                 "zerosuperior":"-10"
               },
-              "ubar":{
-                "commarightcomb.sp":"-100"
-              },
               "uhungarumlaut":{
                 "commarightcomb.spn":"100"
               },
@@ -89897,7 +89268,6 @@
                 "@_punc_hyphen_2ND":"20",
                 "@_punc_quoteleft_2ND":"10",
                 "@_x_sups_BOTH":"10",
-                "commarightcomb.sp":"-20",
                 "commarightcomb.spn":"10",
                 "glottal":"-90",
                 "glottalmodifier.alt":"-50",
@@ -89930,8 +89300,6 @@
                 "@_punc_quoteright_2ND":"-100",
                 "@_x_sups_BOTH":"-90",
                 "comma":"20",
-                "commarightcomb.sp":"-160",
-                "commarightcomb.spcase":"-100",
                 "glottal":"-90",
                 "glottalmodifier.alt":"-140",
                 "glottalreversed":"-140",
@@ -89972,8 +89340,6 @@
                 "@_punc_quoteright_2ND":"10",
                 "@_x_subs_BOTH":"55",
                 "@_x_sups_BOTH":"45",
-                "commarightcomb.sp":"-10",
-                "commarightcomb.spcase":"10",
                 "commarightcomb.spn":"10",
                 "eopen":"-25",
                 "glottal":"-50",
@@ -89998,7 +89364,6 @@
                 "@_L_lc_a_2ND":"-85",
                 "@_L_lc_o_2ND":"-40",
                 "@_L_lc_schwa_2ND":"-50",
-                "commarightcomb.sp":"25",
                 "commarightcomb.spn":"235",
                 "lbelt.alt":"10",
                 "upsilonLatin":"-10",

@@ -1,7 +1,7 @@
 {
   "version":8,
   "font":{
-    "glyphsCount":730,
+    "glyphsCount":728,
     "upm":2048,
     "glyphs":[
       {
@@ -259,7 +259,7 @@
       {
         "name":"A",
         "unicode":"0041",
-        "lastModified":"2025-04-07 20:36:18",
+        "lastModified":"2025-05-27 22:41:46",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -558,7 +558,7 @@
       {
         "name":"C",
         "unicode":"0043",
-        "lastModified":"2025-04-07 19:14:07",
+        "lastModified":"2025-05-27 22:41:46",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -804,7 +804,7 @@
       {
         "name":"E",
         "unicode":"0045",
-        "lastModified":"2025-04-07 19:14:07",
+        "lastModified":"2025-05-27 22:41:46",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -1080,7 +1080,7 @@
       {
         "name":"G",
         "unicode":"0047",
-        "lastModified":"2025-04-07 19:14:07",
+        "lastModified":"2025-05-27 22:41:46",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -1219,7 +1219,7 @@
       {
         "name":"H",
         "unicode":"0048",
-        "lastModified":"2025-04-07 19:14:07",
+        "lastModified":"2025-05-27 22:41:46",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -1358,7 +1358,7 @@
       {
         "name":"I",
         "unicode":"0049",
-        "lastModified":"2025-04-09 22:19:32",
+        "lastModified":"2025-05-27 22:41:46",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -1579,7 +1579,7 @@
       {
         "name":"K",
         "unicode":"004b",
-        "lastModified":"2025-04-07 21:43:44",
+        "lastModified":"2025-05-27 22:41:46",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -1714,7 +1714,7 @@
       {
         "name":"L",
         "unicode":"004c",
-        "lastModified":"2025-04-07 19:14:07",
+        "lastModified":"2025-05-27 22:41:46",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -2094,7 +2094,7 @@
       {
         "name":"O",
         "unicode":"004f",
-        "lastModified":"2025-04-07 19:14:07",
+        "lastModified":"2025-05-27 22:41:46",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -2891,7 +2891,7 @@
       {
         "name":"U",
         "unicode":"0055",
-        "lastModified":"2025-04-08 15:23:21",
+        "lastModified":"2025-05-27 22:41:46",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -3020,7 +3020,7 @@
       {
         "name":"V",
         "unicode":"0056",
-        "lastModified":"2025-04-07 19:14:07",
+        "lastModified":"2025-05-27 22:41:46",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -4662,9 +4662,9 @@
         ]
       },
       {
-        "name":"Adotacent",
+        "name":"Adotaccent",
         "unicode":"0226",
-        "lastModified":"2025-04-09 22:19:38",
+        "lastModified":"2025-05-27 22:30:25",
         "colorFlag":241,
         "layers":[
           {
@@ -24516,7 +24516,7 @@
       {
         "name":"a",
         "unicode":"0061",
-        "lastModified":"2025-04-09 22:19:32",
+        "lastModified":"2025-05-27 22:41:46",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -24814,7 +24814,7 @@
       {
         "name":"c",
         "unicode":"0063",
-        "lastModified":"2025-04-07 19:14:07",
+        "lastModified":"2025-05-27 22:41:46",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -25072,7 +25072,7 @@
       {
         "name":"e",
         "unicode":"0065",
-        "lastModified":"2025-04-07 19:14:07",
+        "lastModified":"2025-05-27 22:41:46",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -25363,7 +25363,7 @@
       {
         "name":"g",
         "unicode":"0067",
-        "lastModified":"2025-04-07 19:14:07",
+        "lastModified":"2025-05-27 22:39:56",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -26670,7 +26670,7 @@
       {
         "name":"o",
         "unicode":"006f",
-        "lastModified":"2025-04-07 19:14:07",
+        "lastModified":"2025-05-27 22:39:56",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -26795,7 +26795,7 @@
       {
         "name":"p",
         "unicode":"0070",
-        "lastModified":"2025-04-08 17:33:30",
+        "lastModified":"2025-05-27 22:39:56",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -26934,7 +26934,7 @@
       {
         "name":"q",
         "unicode":"0071",
-        "lastModified":"2025-04-07 19:14:07",
+        "lastModified":"2025-05-27 22:39:56",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -27601,7 +27601,7 @@
       {
         "name":"v",
         "unicode":"0076",
-        "lastModified":"2025-04-07 19:14:07",
+        "lastModified":"2025-05-27 22:41:46",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -27702,7 +27702,7 @@
       {
         "name":"w",
         "unicode":"0077",
-        "lastModified":"2025-04-07 19:14:07",
+        "lastModified":"2025-05-27 22:41:46",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -27843,7 +27843,7 @@
       {
         "name":"x",
         "unicode":"0078",
-        "lastModified":"2025-04-07 19:14:07",
+        "lastModified":"2025-05-27 22:41:46",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -27992,7 +27992,7 @@
       {
         "name":"y",
         "unicode":"0079",
-        "lastModified":"2025-04-09 22:19:32",
+        "lastModified":"2025-05-27 22:41:46",
         "openTypeGlyphClass":1,
         "colorFlag":121,
         "layers":[
@@ -29260,9 +29260,9 @@
         ]
       },
       {
-        "name":"adotacent",
+        "name":"adotaccent",
         "unicode":"0227",
-        "lastModified":"2025-04-09 22:19:38",
+        "lastModified":"2025-05-27 22:30:29",
         "colorFlag":241,
         "layers":[
           {
@@ -34981,16 +34981,13 @@
             "autoRecipe":"dotlessi+ogonekcomb",
             "colorFlag":241,
             "flags":16,
-            "advanceWidth":586,
+            "advanceWidth":632,
             "metricsLeft":"i@300",
             "metricsRight":"i@300",
             "elements":[
               {
                 "component":{
                   "glyphName":"dotlessi"
-                },
-                "transform":{
-                  "xOffset":-26
                 }
               },
               {
@@ -34998,7 +34995,7 @@
                   "glyphName":"ogonekcomb"
                 },
                 "transform":{
-                  "xOffset":290
+                  "xOffset":316
                 },
                 "nonSpacing":true
               }
@@ -35006,17 +35003,17 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"408 946",
+                "point":"434 946",
                 "appearance":5
               },
               {
                 "name":"topright",
-                "point":"721 946",
+                "point":"747 946",
                 "appearance":5
               },
               {
                 "name":"bottom.mkmk",
-                "point":"60 -437"
+                "point":"86 -437"
               }
             ],
             "color":"#bac000",
@@ -35027,16 +35024,13 @@
             "autoRecipe":"dotlessi+ogonekcomb",
             "colorFlag":241,
             "flags":16,
-            "advanceWidth":434,
+            "advanceWidth":484,
             "metricsLeft":"i@300",
             "metricsRight":"i@300",
             "elements":[
               {
                 "component":{
                   "glyphName":"dotlessi"
-                },
-                "transform":{
-                  "xOffset":-27
                 }
               },
               {
@@ -35044,7 +35038,7 @@
                   "glyphName":"ogonekcomb"
                 },
                 "transform":{
-                  "xOffset":215
+                  "xOffset":242
                 },
                 "nonSpacing":true
               }
@@ -35052,17 +35046,17 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"332 938",
+                "point":"359 938",
                 "appearance":5
               },
               {
                 "name":"topright",
-                "point":"570 938",
+                "point":"597 938",
                 "appearance":5
               },
               {
                 "name":"bottom.mkmk",
-                "point":"-8 -413"
+                "point":"19 -413"
               }
             ],
             "color":"#00cce5"
@@ -58767,210 +58761,6 @@
         ]
       },
       {
-        "name":"commarightcomb.sp",
-        "lastModified":"2025-04-10 01:16:07",
-        "colorFlag":31,
-        "layers":[
-          {
-            "name":"Black Italic",
-            "colorFlag":31,
-            "flags":0,
-            "advanceWidth":462,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "457 1531 s",
-                        "340 1531  253 1458  253 1360 s",
-                        "253 1287  303 1236  375 1236 s",
-                        "417 1236  461 1255  484 1283",
-                        "438 1298",
-                        "438 1209  367 1153  223 1128",
-                        "291 1014",
-                        "496 1046  644 1187  644 1349 s",
-                        "644 1461  572 1531 c"
-                      ]
-                    }
-                  ]
-                },
-                "active":true
-              }
-            ],
-            "guidelines":[
-              {
-                "horizontal":true,
-                "position":1545
-              },
-              {
-                "horizontal":true,
-                "position":1014
-              },
-              {
-                "horizontal":true,
-                "position":1168
-              },
-              {
-                "horizontal":true,
-                "position":1250
-              }
-            ],
-            "color":"#bac000",
-            "active":true
-          },
-          {
-            "name":"Italic",
-            "colorFlag":31,
-            "flags":0,
-            "advanceWidth":306,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "359 1429 s",
-                        "286 1429  231 1380  231 1315 s",
-                        "231 1264  265 1230  314 1230 s",
-                        "344 1230  370 1243  397 1271",
-                        "356 1260",
-                        "356 1177  300 1124  179 1093",
-                        "226 1019",
-                        "380 1056  484 1165  484 1291 s",
-                        "484 1376  436 1429 c"
-                      ]
-                    }
-                  ]
-                },
-                "active":true
-              }
-            ],
-            "guidelines":[
-              {
-                "horizontal":true,
-                "position":1019
-              },
-              {
-                "horizontal":true,
-                "position":1455
-              },
-              {
-                "horizontal":true,
-                "position":1256
-              },
-              {
-                "horizontal":true,
-                "position":1246
-              }
-            ],
-            "color":"#00cce5"
-          }
-        ]
-      },
-      {
-        "name":"commarightcomb.spcase",
-        "lastModified":"2025-04-09 22:16:25",
-        "colorFlag":31,
-        "layers":[
-          {
-            "name":"Black Italic",
-            "colorFlag":31,
-            "flags":0,
-            "advanceWidth":483,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "418 1333 s",
-                        "301 1333  214 1260  214 1162 s",
-                        "214 1089  264 1038  336 1038 s",
-                        "378 1038  422 1057  445 1085",
-                        "399 1100",
-                        "399 1011  328 955  184 930",
-                        "252 816",
-                        "457 848  605 989  605 1151 s",
-                        "605 1263  533 1333 c"
-                      ]
-                    }
-                  ]
-                },
-                "active":true
-              }
-            ],
-            "guidelines":[
-              {
-                "horizontal":true,
-                "position":1545
-              },
-              {
-                "horizontal":true,
-                "position":1014
-              },
-              {
-                "horizontal":true,
-                "position":1168
-              },
-              {
-                "horizontal":true,
-                "position":1250
-              }
-            ],
-            "color":"#bac000",
-            "active":true
-          },
-          {
-            "name":"Italic",
-            "colorFlag":31,
-            "flags":0,
-            "advanceWidth":345,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "360 1335 s",
-                        "287 1335  232 1286  232 1221 s",
-                        "232 1170  266 1136  315 1136 s",
-                        "345 1136  371 1149  398 1177",
-                        "357 1166",
-                        "357 1083  301 1030  180 999",
-                        "227 925",
-                        "381 962  485 1071  485 1197 s",
-                        "485 1282  437 1335 c"
-                      ]
-                    }
-                  ]
-                },
-                "active":true
-              }
-            ],
-            "guidelines":[
-              {
-                "horizontal":true,
-                "position":1019
-              },
-              {
-                "horizontal":true,
-                "position":1455
-              },
-              {
-                "horizontal":true,
-                "position":1256
-              },
-              {
-                "horizontal":true,
-                "position":1246
-              }
-            ],
-            "color":"#00cce5"
-          }
-        ]
-      },
-      {
         "name":"commaaccentturnedabovecomb",
         "unicode":"0312",
         "lastModified":"2025-04-09 22:16:25",
@@ -76709,17 +76499,16 @@
           "width_name":"Normal",
           "slope_name":"Italic",
           "fontNote":"Spacing line height = 530",
-          "ascender":1583,
-          "descender":-465,
+          "ascender":1890,
+          "descender":-770,
           "xHeight":938,
           "capsHeight":1314,
           "measurement":486,
           "weight":400,
           "width":5,
           "italic_angle":-14,
-          "lineGap":410,
-          "safeTop":1788,
-          "safeBottom":670,
+          "safeTop":1890,
+          "safeBottom":770,
           "underlineThickness":119,
           "underlinePosition":-101,
           "caretOffset":-121,
@@ -76754,9 +76543,9 @@
             "TtaSharpDw":false,
             "TtaSharpGdi":true,
             "TtaSharpGray":false,
-            "hhea_ascender":1583,
-            "hhea_descender":-465,
-            "hhea_line_gap":410,
+            "hhea_ascender":1890,
+            "hhea_descender":-770,
+            "hhea_line_gap":0,
             "hhea_use_custom":false,
             "strikeout_position":486,
             "strikeout_size":93,
@@ -76825,7 +76614,7 @@
                   "Acaron",
                   "Acircumflex",
                   "Adieresis",
-                  "Adotacent",
+                  "Adotaccent",
                   "Agrave",
                   "Amacron",
                   "Aogonek",
@@ -77414,7 +77203,7 @@
                   "Acaron",
                   "Acircumflex",
                   "Adieresis",
-                  "Adotacent",
+                  "Adotaccent",
                   "Agrave",
                   "Amacron",
                   "Aogonek",
@@ -77657,7 +77446,7 @@
                   "acedilla",
                   "acircumflex",
                   "adieresis",
-                  "adotacent",
+                  "adotaccent",
                   "ae",
                   "aeacute",
                   "agrave",
@@ -78166,7 +77955,7 @@
                   "acedilla",
                   "acircumflex",
                   "adieresis",
-                  "adotacent",
+                  "adotaccent",
                   "agrave",
                   "amacron",
                   "aogonek",
@@ -78354,7 +78143,6 @@
             "pairs":{
               "@_L_lc_a_1ST":{
                 "@_x_sups_BOTH":"-25",
-                "commarightcomb.sp":"-55",
                 "degree":"-30",
                 "glottal":"-45",
                 "glottalmodifier.alt":"-60",
@@ -78372,7 +78160,6 @@
                 "@_punc_hyphen_2ND":"-20",
                 "@_x_subs_BOTH":"20",
                 "@_x_sups_BOTH":"20",
-                "commarightcomb.sp":"-15",
                 "commarightcomb.spn":"20",
                 "glottal":"-40",
                 "glottalmodifier":"15",
@@ -78398,7 +78185,6 @@
                 "@_punc_quoteright_2ND":"30",
                 "@_x_sups_BOTH":"10",
                 "comma":"20",
-                "commarightcomb.spcase":"30",
                 "commarightcomb.spn":"10",
                 "dlinebelow":"-30",
                 "eopen":"-15",
@@ -78428,7 +78214,6 @@
                 "@_L_lc_lambdaLatin_2ND":"100",
                 "@_L_lc_schwa_2ND":"-30",
                 "@_x_sups_BOTH":"110",
-                "commarightcomb.sp":"110",
                 "eopen":"-10",
                 "glottal":"130",
                 "glottalreversed":"90",
@@ -78456,8 +78241,6 @@
                 "@_punc_hyphen_2ND":"20",
                 "@_punc_quoteleft_2ND":"-15",
                 "@_punc_quoteright_2ND":"-10",
-                "commarightcomb.sp":"-75",
-                "commarightcomb.spcase":"-10",
                 "degree":"-20",
                 "glottal":"-50",
                 "glottalmodifier":"10",
@@ -78493,8 +78276,6 @@
                 "@_x_sups_BOTH":"135",
                 "asterisk":"65",
                 "comma":"-55",
-                "commarightcomb.sp":"110",
-                "commarightcomb.spcase":"75",
                 "commarightcomb.spn":"245",
                 "degree":"30",
                 "exclam":"20",
@@ -78527,7 +78308,6 @@
               "@_L_lc_g_1ST":{
                 "@_L_lc_ldblbar_2ND":"10",
                 "comma":"25",
-                "commarightcomb.sp":"-60",
                 "commarightcomb.spn":"10",
                 "degree":"-30",
                 "glottalmodifier.alt":"35",
@@ -78547,7 +78327,6 @@
                 "@_L_lc_schwa_2ND":"15",
                 "@_punc_quoteright_2ND":"-20",
                 "@_x_sups_BOTH":"50",
-                "commarightcomb.sp":"-70",
                 "glottalmodifier.alt":"-30",
                 "glottalreversed":"-20",
                 "glottalstop":"-15",
@@ -78572,8 +78351,6 @@
                 "@_punc_quoteright_2ND":"-15",
                 "@_x_subs_BOTH":"20",
                 "@_x_sups_BOTH":"20",
-                "commarightcomb.sp":"-45",
-                "commarightcomb.spcase":"-15",
                 "commarightcomb.spn":"10",
                 "degree":"-20",
                 "glottal":"-55",
@@ -78604,8 +78381,6 @@
                 "@_punc_quoteright_2ND":"-90",
                 "@_x_sups_BOTH":"-10",
                 "comma":"20",
-                "commarightcomb.sp":"-130",
-                "commarightcomb.spcase":"-90",
                 "glottal":"-70",
                 "glottalreversed":"-60",
                 "glottalstop":"-30",
@@ -78647,8 +78422,6 @@
                 "@_L_lc_y_2ND":"-30",
                 "@_punc_quoteleft_2ND":"-75",
                 "@_punc_quoteright_2ND":"-75",
-                "commarightcomb.sp":"-115",
-                "commarightcomb.spcase":"-75",
                 "degree":"-80",
                 "glottalmodifier.alt":"-65",
                 "glottalreversed":"-90",
@@ -78671,8 +78444,6 @@
                 "@_punc_quoteleft_2ND":"-90",
                 "@_punc_quoteright_2ND":"-80",
                 "comma":"-20",
-                "commarightcomb.sp":"-100",
-                "commarightcomb.spcase":"-80",
                 "degree":"-110",
                 "glottal":"-85",
                 "glottalmodifier":"-40",
@@ -78711,8 +78482,6 @@
                 "@_x_subs_BOTH":"-75",
                 "@_x_sups_BOTH":"65",
                 "comma":"-75",
-                "commarightcomb.sp":"55",
-                "commarightcomb.spcase":"60",
                 "commarightcomb.spn":"10",
                 "degree":"30",
                 "fhook":"20",
@@ -78748,8 +78517,6 @@
                 "@_punc_quoteleft_2ND":"-45",
                 "@_punc_quoteright_2ND":"-20",
                 "Tslash":"-100",
-                "commarightcomb.sp":"-75",
-                "commarightcomb.spcase":"-20",
                 "commarightcomb.spn":"10",
                 "degree":"-40",
                 "glottal":"-45",
@@ -78772,8 +78539,6 @@
                 "@_punc_quoteright_2ND":"30",
                 "@_x_subs_BOTH":"20",
                 "@_x_sups_BOTH":"25",
-                "commarightcomb.sp":"-85",
-                "commarightcomb.spcase":"30",
                 "commarightcomb.spn":"10",
                 "degree":"10",
                 "glottal":"-25",
@@ -78797,8 +78562,6 @@
                 "@_x_subs_BOTH":"-65",
                 "@_x_sups_BOTH":"55",
                 "comma":"-90",
-                "commarightcomb.sp":"25",
-                "commarightcomb.spcase":"70",
                 "commarightcomb.spn":"20",
                 "glottal":"-35",
                 "glottalmodifier":"50",
@@ -78832,8 +78595,6 @@
                 "@_punc_quoteright_2ND":"70",
                 "@_x_sups_BOTH":"35",
                 "comma":"-55",
-                "commarightcomb.sp":"30",
-                "commarightcomb.spcase":"70",
                 "commarightcomb.spn":"10",
                 "glottalreversed":"20",
                 "halfringrightmodifier":"10",
@@ -78855,8 +78616,6 @@
                 "@_punc_guillemotleft_2ND":"-25",
                 "@_punc_hyphen_2ND":"-15",
                 "@_punc_quoteright_2ND":"20",
-                "commarightcomb.sp":"-10",
-                "commarightcomb.spcase":"20",
                 "commarightcomb.spn":"10",
                 "degree":"-25",
                 "glottal":"-40",
@@ -78904,8 +78663,6 @@
                 "UpsilonLatin":"-30",
                 "asterisk":"-110",
                 "comma":"10",
-                "commarightcomb.sp":"-120",
-                "commarightcomb.spcase":"-120",
                 "degree":"-145",
                 "glottal":"-20",
                 "glottalmodifier":"-80",
@@ -78953,8 +78710,6 @@
                 "UpsilonLatin":"-25",
                 "X":"20",
                 "comma":"20",
-                "commarightcomb.sp":"10",
-                "commarightcomb.spcase":"20",
                 "commarightcomb.spncap":"10",
                 "glottalmodifier":"20",
                 "glottalmodifier.alt":"20",
@@ -78998,8 +78753,6 @@
                 "@_punc_quoteleft_2ND":"10",
                 "@_punc_quoteright_2ND":"25",
                 "@_x_sups_BOTH":"50",
-                "commarightcomb.sp":"25",
-                "commarightcomb.spcase":"25",
                 "commarightcomb.spncap":"10",
                 "dotlessiogonek":"20",
                 "dotlessiogonek.alt":"10",
@@ -79088,8 +78841,6 @@
                 "Lbelt":"20",
                 "Lwavybar":"20",
                 "comma":"-30",
-                "commarightcomb.sp":"-50",
-                "commarightcomb.spcase":"-30",
                 "eopen":"5",
                 "exclam":"10",
                 "fhook":"10",
@@ -79110,7 +78861,7 @@
                 "@_L_uc_A_2ND":"-20",
                 "@_L_uc_J_2ND":"-90",
                 "@_L_uc_M_2ND":"-5",
-                "@_punc_period_2ND":"-10",
+                "@_punc_period_2ND":"-20",
                 "@_x_subs_BOTH":"-10",
                 "comma":"-20",
                 "vturned":"-10",
@@ -79152,8 +78903,6 @@
                 "Ubar":"-40",
                 "UpsilonLatin":"-50",
                 "asterisk":"-10",
-                "commarightcomb.sp":"-10",
-                "commarightcomb.spcase":"-10",
                 "commarightcomb.spncap":"10",
                 "degree":"-20",
                 "glottalmodifier":"-30",
@@ -79217,8 +78966,6 @@
                 "UpsilonLatin":"-25",
                 "asterisk":"-100",
                 "comma":"20",
-                "commarightcomb.sp":"-110",
-                "commarightcomb.spcase":"-110",
                 "degree":"-165",
                 "glottal":"-80",
                 "glottalmodifier":"-95",
@@ -79255,7 +79002,6 @@
                 "Lwavybar":"-70",
                 "UpsilonLatin":"-105",
                 "X":"10",
-                "commarightcomb.spcase":"-100",
                 "glottal":"-40",
                 "glottalmodifier":"-75",
                 "glottalmodifier.alt":"-75",
@@ -79289,8 +79035,6 @@
                 "Eopen":"-10",
                 "Glottalstop":"-10",
                 "Lbelt":"-5",
-                "commarightcomb.sp":"-10",
-                "commarightcomb.spcase":"-30",
                 "glottalmodifier.alt":"-45",
                 "halfringrightmodifier":"-10",
                 "seven.LP":"-45",
@@ -79322,7 +79066,7 @@
                 "@_punc_hyphen_2ND":"30",
                 "@_punc_parenright.cap_2ND":"-45",
                 "@_punc_parenright_2ND":"-45",
-                "@_punc_period_2ND":"-25",
+                "@_punc_period_2ND":"-20",
                 "@_punc_quoteleft_2ND":"-20",
                 "@_punc_quoteright_2ND":"-20",
                 "@_x_subs_BOTH":"20",
@@ -79332,9 +79076,7 @@
                 "Ibarred":"-15",
                 "Oopen":"-20",
                 "X":"-60",
-                "comma":"-20",
-                "commarightcomb.sp":"-55",
-                "commarightcomb.spcase":"-25",
+                "comma":"-15",
                 "degree":"-20",
                 "glottal":"-10",
                 "glottalmodifier":"10",
@@ -79378,8 +79120,6 @@
                 "Lwavybar":"-25",
                 "Ubar":"-15",
                 "UpsilonLatin":"-30",
-                "commarightcomb.sp":"-15",
-                "commarightcomb.spcase":"-15",
                 "degree":"-20",
                 "glottal":"-20",
                 "glottalmodifier":"-10",
@@ -79423,8 +79163,6 @@
                 "Lbelt":"-20",
                 "UpsilonLatin":"-10",
                 "comma":"25",
-                "commarightcomb.sp":"-15",
-                "commarightcomb.spcase":"-10",
                 "commarightcomb.spncap":"15",
                 "degree":"-10",
                 "halfringrightmodifier":"-10",
@@ -79478,8 +79216,6 @@
                 "asterisk":"55",
                 "atilde":"-150",
                 "comma":"-80",
-                "commarightcomb.sp":"25",
-                "commarightcomb.spcase":"35",
                 "commarightcomb.spncap":"10",
                 "degree":"20",
                 "ecircumflex":"-150",
@@ -79532,9 +79268,9 @@
                 "@_L_uc_LambdaLatin_2ND":"-25",
                 "@_L_uc_M_2ND":"-10",
                 "@_L_uc_S_2ND":"5",
-                "@_punc_period_2ND":"-45",
+                "@_punc_period_2ND":"-40",
                 "@_x_subs_BOTH":"20",
-                "comma":"-45",
+                "comma":"-40",
                 "glottalmodifier":"15",
                 "glottalmodifier.alt":"15",
                 "icircumflex":"20",
@@ -79588,8 +79324,6 @@
                 "UpsilonLatin":"-20",
                 "asterisk":"35",
                 "comma":"-90",
-                "commarightcomb.sp":"35",
-                "commarightcomb.spcase":"30",
                 "commarightcomb.spncap":"10",
                 "degree":"20",
                 "edieresis":"-100",
@@ -79659,8 +79393,6 @@
                 "UpsilonLatin":"-15",
                 "asterisk":"35",
                 "comma":"-75",
-                "commarightcomb.sp":"25",
-                "commarightcomb.spcase":"25",
                 "commarightcomb.spncap":"10",
                 "degree":"20",
                 "eopen":"-45",
@@ -79728,8 +79460,6 @@
                 "X":"10",
                 "asterisk":"35",
                 "comma":"-110",
-                "commarightcomb.sp":"40",
-                "commarightcomb.spcase":"40",
                 "commarightcomb.spncap":"10",
                 "degree":"35",
                 "eopen":"-95",
@@ -79782,7 +79512,6 @@
                 "Oopen":"10",
                 "UpsilonLatin":"-20",
                 "comma":"10",
-                "commarightcomb.spcase":"10",
                 "commarightcomb.spncap":"10",
                 "degree":"30",
                 "glottal":"30",
@@ -79839,8 +79568,6 @@
                 "atilde":"-120",
                 "ccircumflex":"-120",
                 "comma":"-210",
-                "commarightcomb.sp":"20",
-                "commarightcomb.spcase":"20",
                 "dotlessj":"5",
                 "ebreve":"-115",
                 "ecaron":"-125",
@@ -80170,8 +79897,6 @@
                 "UpsilonLatin":"-20",
                 "X":"20",
                 "comma":"-210",
-                "commarightcomb.sp":"20",
-                "commarightcomb.spcase":"20",
                 "commarightcomb.spn":"140",
                 "glottal":"25",
                 "glottalmodifier":"60",
@@ -80304,8 +80029,6 @@
                 "UpsilonLatin":"-15",
                 "X":"-20",
                 "comma":"15",
-                "commarightcomb.sp":"-25",
-                "commarightcomb.spcase":"-20",
                 "degree":"-20",
                 "glottalmodifier":"-10",
                 "glottalmodifier.alt":"-10",
@@ -80401,8 +80124,6 @@
                 "Germandbls":"-25",
                 "asterisk":"20",
                 "comma":"-75",
-                "commarightcomb.sp":"35",
-                "commarightcomb.spcase":"20",
                 "commarightcomb.spncap":"10",
                 "degree":"20",
                 "eopen":"-25",
@@ -80443,8 +80164,6 @@
                 "Glottalstop":"-25",
                 "Tbar":"-40",
                 "comma":"-20",
-                "commarightcomb.sp":"-50",
-                "commarightcomb.spcase":"-30",
                 "seven.LP":"-40",
                 "v":"-20",
                 "ymodifier":"20"
@@ -80458,9 +80177,7 @@
                 "@_L_uc_W_2ND":"-40",
                 "@_punc_quoteleft_2ND":"-45",
                 "@_punc_quoteright_2ND":"-35",
-                "asterisk":"-20",
-                "commarightcomb.sp":"-35",
-                "commarightcomb.spcase":"-35"
+                "asterisk":"-20"
               },
               "Glottalstop":{
                 "@_L_lc_chiLatin_2ND":"40",
@@ -80496,8 +80213,6 @@
                 "UpsilonLatin":"-15",
                 "X":"-50",
                 "comma":"-135",
-                "commarightcomb.sp":"25",
-                "commarightcomb.spcase":"25",
                 "eopen":"-15",
                 "ibarred":"20",
                 "icircumflex":"50",
@@ -80529,8 +80244,6 @@
                 "@_x_sups_BOTH":"30",
                 "Eopen":"-15",
                 "comma":"-20",
-                "commarightcomb.sp":"25",
-                "commarightcomb.spcase":"20",
                 "fhook":"10",
                 "glottalreversed":"15",
                 "lslash":"-10",
@@ -80552,36 +80265,28 @@
               "Ibarred":{
                 "@_L_uc_O_2ND":"-15",
                 "@_x_sups_BOTH":"25",
-                "commarightcomb.sp":"40",
-                "commarightcomb.spcase":"10",
                 "commarightcomb.spncap":"10",
                 "glottalmodifier.alt":"45"
               },
               "Ibreve":{
-                "commarightcomb.sp":"20",
                 "commarightcomb.spncap":"240"
               },
               "Icaron":{
                 "commarightcomb.spncap":"280"
               },
               "Icircumflex":{
-                "commarightcomb.sp":"110",
-                "commarightcomb.spcase":"25",
                 "commarightcomb.spncap":"250"
               },
               "Idieresis":{
-                "commarightcomb.sp":"60",
                 "commarightcomb.spncap":"200"
               },
               "Idotaccent":{
                 "commarightcomb.spncap":"30"
               },
               "Igrave":{
-                "commarightcomb.sp":"20",
                 "commarightcomb.spncap":"150"
               },
               "Imacron":{
-                "commarightcomb.sp":"55",
                 "commarightcomb.spncap":"210"
               },
               "IotaLatin":{
@@ -80618,8 +80323,6 @@
                 "Tslash":"-70",
                 "Ubar":"-75",
                 "UpsilonLatin":"-45",
-                "commarightcomb.sp":"-100",
-                "commarightcomb.spcase":"-100",
                 "fhook":"-20",
                 "glottal":"-40",
                 "glottalmodifier.alt":"-100",
@@ -80637,7 +80340,6 @@
                 "ymodifier":"-70"
               },
               "Itilde":{
-                "commarightcomb.sp":"60",
                 "commarightcomb.spncap":"290"
               },
               "Jbar":{
@@ -80649,8 +80351,6 @@
                 "commarightcomb.spncap":"280"
               },
               "Jcircumflex":{
-                "commarightcomb.sp":"120",
-                "commarightcomb.spcase":"25",
                 "commarightcomb.spncap":"250"
               },
               "LambdaLatin":{
@@ -80676,8 +80376,6 @@
                 "@_punc_quoteright_2ND":"-110",
                 "@_x_sups_BOTH":"-130",
                 "comma":"35",
-                "commarightcomb.sp":"-110",
-                "commarightcomb.spcase":"-110",
                 "exclam":"10",
                 "glottalmodifier.alt":"-200",
                 "seven.LP":"-90",
@@ -80725,8 +80423,6 @@
                 "UpsilonLatin":"-25",
                 "asterisk":"-100",
                 "comma":"20",
-                "commarightcomb.sp":"-110",
-                "commarightcomb.spcase":"-110",
                 "degree":"-165",
                 "glottal":"-80",
                 "glottalreversed":"-105",
@@ -80751,18 +80447,11 @@
                 "@_punc_hyphen.cap_2ND":"10",
                 "@_punc_hyphen_2ND":"10",
                 "@_x_sups_BOTH":"5",
-                "commarightcomb.sp":"-15",
                 "glottalmodifier.alt":"-35",
                 "seven.LP":"-20"
               },
               "OE":{
                 "glottalmodifier.alt":"20"
-              },
-              "Oslash":{
-                "commarightcomb.sp":"-45"
-              },
-              "Oslashacute":{
-                "commarightcomb.sp":"-45"
               },
               "P":{
                 "@_L_lc_chiLatin_2ND":"45",
@@ -80806,8 +80495,6 @@
                 "X":"-35",
                 "asterisk":"25",
                 "comma":"-120",
-                "commarightcomb.sp":"25",
-                "commarightcomb.spcase":"25",
                 "degree":"25",
                 "eopen":"-15",
                 "glottalmodifier.alt":"15",
@@ -80874,8 +80561,6 @@
                 "asterisk":"55",
                 "atilde":"-150",
                 "comma":"-80",
-                "commarightcomb.sp":"35",
-                "commarightcomb.spcase":"35",
                 "commarightcomb.spncap":"10",
                 "degree":"20",
                 "ecircumflex":"-150",
@@ -80990,17 +80675,12 @@
                 "Glottalstop":"-10",
                 "X":"-30",
                 "comma":"-65",
-                "commarightcomb.sp":"-60",
-                "commarightcomb.spcase":"-50",
                 "commarightcomb.spncap":"10",
                 "lbelt.alt":"-10",
                 "seven.LP":"-50",
                 "v":"-10",
                 "vturned":"-15",
                 "x":"-10"
-              },
-              "Vhook":{
-                "commarightcomb.sp":"-30"
               },
               "X":{
                 "@_L_lc_chiLatin_2ND":"-20",
@@ -81030,7 +80710,6 @@
                 "Lwavybar":"-50",
                 "Oopen":"20",
                 "UpsilonLatin":"-30",
-                "commarightcomb.sp":"35",
                 "commarightcomb.spncap":"10",
                 "degree":"20",
                 "glottalmodifier":"60",
@@ -81081,17 +80760,13 @@
                 "commarightcomb.spn":"30"
               },
               "ccaron":{
-                "commarightcomb.sp":"-20",
                 "commarightcomb.spn":"90"
               },
               "ccircumflex":{
-                "commarightcomb.sp":"-10",
                 "commarightcomb.spn":"90"
               },
               "clickalveolar":{
-                "@_punc_quoteright_2ND":"20",
-                "commarightcomb.sp":"20",
-                "commarightcomb.spcase":"20"
+                "@_punc_quoteright_2ND":"20"
               },
               "colonmodifier":{
                 "commarightcomb.spn":"10"
@@ -81099,9 +80774,9 @@
               "comma":{
                 "@_L_uc_A_2ND":"10",
                 "@_L_uc_J_2ND":"15",
-                "@_L_uc_O_2ND":"-80",
+                "@_L_uc_O_2ND":"-85",
                 "@_L_uc_T_2ND":"-100",
-                "@_L_uc_U_2ND":"-60",
+                "@_L_uc_U_2ND":"-65",
                 "@_L_uc_V_2ND":"-120",
                 "@_L_uc_W_2ND":"-100",
                 "@_L_uc_Y_2ND":"-120",
@@ -81111,8 +80786,6 @@
                 "@_x_sups_BOTH":"-165",
                 "Tslash":"-70",
                 "X":"10",
-                "commarightcomb.sp":"-110",
-                "commarightcomb.spcase":"-110",
                 "glottalmodifier":"-120",
                 "glottalmodifier.alt":"-120",
                 "one.LP":"-65",
@@ -81123,35 +80796,6 @@
                 "ymodifier":"-120",
                 "zero.LP":"-10",
                 "zmodifier":"-120"
-              },
-              "commarightcomb.sp":{
-                "@_L_lc_s_2ND":"-55",
-                "@_L_uc_O_2ND":"-20",
-                "@_L_uc_T_2ND":"55",
-                "@_L_uc_V_2ND":"45",
-                "@_L_uc_W_2ND":"30",
-                "@_L_uc_Y_2ND":"55",
-                "IJacute":"10",
-                "Iacute":"10",
-                "Icircumflex":"70",
-                "Idieresis":"10",
-                "Imacron":"10",
-                "Itilde":"80",
-                "Lacute":"10",
-                "Lbelt":"-70",
-                "X":"35",
-                "thetamodifier":"67",
-                "wmodifier":"40",
-                "ymodifier":"55",
-                "zmodifier":"35"
-              },
-              "commarightcomb.spcase":{
-                "Lbelt":"-10",
-                "X":"10",
-                "thetamodifier":"50",
-                "wmodifier":"60",
-                "ymodifier":"60",
-                "zmodifier":"55"
               },
               "commarightcomb.spn":{
                 "@_L_lc_chiLatin_2ND":"10",
@@ -81384,7 +81028,6 @@
                 "@_punc_quoteleft_2ND":"50",
                 "@_punc_quoteright_2ND":"60",
                 "comma":"-80",
-                "commarightcomb.spcase":"60",
                 "exclam":"20",
                 "j":"10",
                 "question":"40",
@@ -81408,8 +81051,6 @@
                 "@_punc_quoteright_2ND":"20",
                 "@_x_sups_BOTH":"50",
                 "comma":"-15",
-                "commarightcomb.sp":"30",
-                "commarightcomb.spcase":"20",
                 "commarightcomb.spn":"170",
                 "eopen":"-15",
                 "glottalreversed":"30",
@@ -81506,7 +81147,6 @@
                 "@_L_lc_ibar_2ND":"15",
                 "@_L_lc_lambdaLatin_2ND":"-40",
                 "@_L_lc_ldblbar_2ND":"15",
-                "commarightcomb.sp":"-80",
                 "glottal":"-30",
                 "glottalmodifier":"15",
                 "glottalmodifier.alt":"15",
@@ -81638,8 +81278,6 @@
                 "@_punc_quoteright_2ND":"40",
                 "@_x_sups_BOTH":"30",
                 "comma":"-130",
-                "commarightcomb.sp":"40",
-                "commarightcomb.spcase":"40",
                 "commarightcomb.spn":"160",
                 "icaron":"20",
                 "icircumflex":"100",
@@ -81680,8 +81318,6 @@
                 "@_punc_quoteright_2ND":"60",
                 "X":"30",
                 "comma":"-90",
-                "commarightcomb.sp":"60",
-                "commarightcomb.spcase":"60",
                 "fhook":"10",
                 "question":"10",
                 "seven.LP":"15",
@@ -81744,8 +81380,6 @@
                 "ccaron":"-115",
                 "ccircumflex":"-135",
                 "comma":"-135",
-                "commarightcomb.sp":"60",
-                "commarightcomb.spcase":"60",
                 "ebreve":"-85",
                 "ecaron":"-95",
                 "ecircumflex":"-135",
@@ -81805,8 +81439,6 @@
                 "@_punc_quoteright_2ND":"40",
                 "@_x_sups_BOTH":"40",
                 "comma":"-75",
-                "commarightcomb.sp":"40",
-                "commarightcomb.spcase":"40",
                 "commarightcomb.spn":"175",
                 "eopen":"-30",
                 "fhook":"-30",
@@ -81847,8 +81479,6 @@
                 "@_punc_quoteright_2ND":"10",
                 "@_x_sups_BOTH":"30",
                 "comma":"-80",
-                "commarightcomb.sp":"-55",
-                "commarightcomb.spcase":"10",
                 "glottalmodifier":"-5",
                 "glottalmodifier.alt":"-10",
                 "lambdaLatin":"-80",
@@ -81866,9 +81496,6 @@
               },
               "gscript":{
                 "glottalmodifier.alt":"-40"
-              },
-              "gsmallcap":{
-                "commarightcomb.sp":"-15"
               },
               "h":{
                 "glottal":"-45"
@@ -81939,7 +81566,6 @@
                 "commarightcomb.spn":"130"
               },
               "iacute":{
-                "commarightcomb.sp":"10",
                 "commarightcomb.spn":"150",
                 "glottalmodifier.alt":"60"
               },
@@ -81952,14 +81578,12 @@
               },
               "ibarred":{
                 "@_x_sups_BOTH":"30",
-                "commarightcomb.sp":"15",
                 "commarightcomb.spn":"10"
               },
               "ibreve":{
                 "@_L_lc_i_2ND":"10",
                 "@_punc_quoteright_2ND":"40",
                 "@_x_sups_BOTH":"80",
-                "commarightcomb.sp":"80",
                 "commarightcomb.spn":"210",
                 "glottal":"85",
                 "glottalmodifier.alt":"100",
@@ -81969,7 +81593,6 @@
                 "@_L_lc_i_2ND":"10",
                 "@_punc_quoteright_2ND":"50",
                 "@_x_sups_BOTH":"70",
-                "commarightcomb.sp":"105",
                 "commarightcomb.spn":"250",
                 "glottal":"100",
                 "glottalmodifier.alt":"120",
@@ -81979,7 +81602,6 @@
                 "@_L_lc_i_2ND":"10",
                 "@_punc_quoteright_2ND":"60",
                 "@_x_sups_BOTH":"130",
-                "commarightcomb.sp":"100",
                 "commarightcomb.spn":"230",
                 "glottal":"30",
                 "glottalreversed":"90",
@@ -81989,7 +81611,6 @@
                 "@_L_lc_i_2ND":"30",
                 "@_punc_quoteright_2ND":"40",
                 "@_x_sups_BOTH":"100",
-                "commarightcomb.sp":"70",
                 "commarightcomb.spn":"180",
                 "glottal":"80",
                 "glottalreversed":"60",
@@ -82004,17 +81625,14 @@
                 "commarightcomb.spn":"130"
               },
               "igrave":{
-                "commarightcomb.sp":"-20",
                 "commarightcomb.spn":"70"
               },
               "ijacute":{
-                "commarightcomb.sp":"10",
                 "commarightcomb.spn":"150"
               },
               "imacron":{
                 "@_punc_quoteright_2ND":"10",
                 "@_x_sups_BOTH":"70",
-                "commarightcomb.sp":"40",
                 "commarightcomb.spn":"150",
                 "glottal":"60",
                 "seven.LP":"10"
@@ -82036,8 +81654,6 @@
                 "@_punc_hyphen_2ND":"-15",
                 "@_punc_quoteright_2ND":"-20",
                 "@_x_sups_BOTH":"-15",
-                "commarightcomb.sp":"-60",
-                "commarightcomb.spcase":"-20",
                 "glottal":"-45",
                 "glottalreversed":"-20",
                 "glottalstop":"-10",
@@ -82053,7 +81669,6 @@
                 "@_L_lc_i_2ND":"20",
                 "@_punc_quoteright_2ND":"90",
                 "@_x_sups_BOTH":"130",
-                "commarightcomb.sp":"125",
                 "commarightcomb.spn":"270",
                 "glottal":"140",
                 "glottalmodifier.alt":"160",
@@ -82078,7 +81693,6 @@
                 "@_L_lc_i_2ND":"10",
                 "@_punc_quoteright_2ND":"50",
                 "@_x_sups_BOTH":"70",
-                "commarightcomb.sp":"110",
                 "commarightcomb.spn":"240",
                 "glottal":"100",
                 "glottalmodifier.alt":"120",
@@ -82089,7 +81703,6 @@
                 "@_L_lc_i_2ND":"10",
                 "@_punc_quoteright_2ND":"60",
                 "@_x_sups_BOTH":"130",
-                "commarightcomb.sp":"100",
                 "commarightcomb.spn":"230",
                 "glottal":"30",
                 "glottalreversed":"90",
@@ -82120,21 +81733,17 @@
                 "ymodifier":"-50"
               },
               "lambdabar":{
-                "commarightcomb.sp":"-90",
                 "commarightcomb.spn":"30",
                 "glottalmodifier.alt":"-50"
               },
               "lambdabar.alt":{
-                "commarightcomb.sp":"-50",
                 "commarightcomb.spn":"70"
               },
               "lambdabarcommaabove":{
-                "commarightcomb.sp":"-90",
                 "commarightcomb.spn":"30",
                 "glottal":"-50"
               },
               "lambdabarcommaabove.alt":{
-                "commarightcomb.sp":"-80",
                 "commarightcomb.spn":"70",
                 "glottal":"-40"
               },
@@ -82172,8 +81781,6 @@
                 "@_punc_quoteright_2ND":"-60",
                 "@_x_sups_BOTH":"30",
                 "comma":"-40",
-                "commarightcomb.sp":"-50",
-                "commarightcomb.spcase":"-20",
                 "commarightcomb.spn":"40",
                 "glottal":"-20",
                 "glottalmodifier.alt":"-30",
@@ -82193,15 +81800,12 @@
                 "@_L_lc_ibar_2ND":"25",
                 "@_punc_quoteright_2ND":"-20",
                 "@_x_sups_BOTH":"10",
-                "commarightcomb.sp":"-40",
                 "commarightcomb.spn":"90",
                 "glottalmodifier.alt":"-5",
                 "seven.LP":"-30"
               },
               "ldblbar":{
-                "@_punc_quoteright_2ND":"20",
-                "commarightcomb.sp":"20",
-                "commarightcomb.spcase":"20"
+                "@_punc_quoteright_2ND":"20"
               },
               "llinebelow":{
                 "dotlessj":"160",
@@ -82235,8 +81839,6 @@
                 "abreve":"20",
                 "acaron":"20",
                 "ccaron":"15",
-                "commarightcomb.sp":"185",
-                "commarightcomb.spcase":"150",
                 "commarightcomb.spn":"330",
                 "ebreve":"5",
                 "ecaron":"10",
@@ -82290,8 +81892,6 @@
                 "@_punc_quoteright_2ND":"20",
                 "@_x_sups_BOTH":"55",
                 "comma":"-40",
-                "commarightcomb.sp":"20",
-                "commarightcomb.spcase":"20",
                 "commarightcomb.spn":"60",
                 "fhook":"15",
                 "glottal":"-20",
@@ -82320,8 +81920,6 @@
                 "@_punc_quoteright_2ND":"10",
                 "@_x_sups_BOTH":"50",
                 "comma":"-70",
-                "commarightcomb.sp":"-40",
-                "commarightcomb.spcase":"10",
                 "commarightcomb.spn":"10",
                 "fhook":"10",
                 "glottal":"-20",
@@ -82428,27 +82026,35 @@
                 "comma":"5",
                 "commarightcomb.spn":"110"
               },
-              "oslash":{
-                "commarightcomb.sp":"-85"
-              },
-              "oslashacute":{
-                "commarightcomb.sp":"-85"
-              },
               "period":{
+                "@_L_lc_o_2ND":"-65",
+                "@_L_lc_s_2ND":"-20",
+                "@_L_lc_t_2ND":"-65",
+                "@_L_lc_u_2ND":"-90",
+                "@_L_lc_w_2ND":"-75",
+                "@_L_lc_y_2ND":"-90",
+                "@_L_lc_z_2ND":"10",
+                "@_L_uc_J_2ND":"-10",
+                "@_L_uc_O_2ND":"-85",
+                "@_L_uc_T_2ND":"-80",
+                "@_L_uc_U_2ND":"-65",
+                "@_L_uc_V_2ND":"-140",
+                "@_L_uc_W_2ND":"-115",
+                "@_L_uc_Y_2ND":"-120",
+                "@_L_uc_Z_2ND":"10",
                 "@_punc_quoteleft_2ND":"-130",
                 "@_punc_quoteright_2ND":"-110",
                 "@_x_sups_BOTH":"-165",
-                "commarightcomb.sp":"-110",
-                "commarightcomb.spcase":"-110",
+                "X":"10",
                 "glottalmodifier":"-120",
                 "glottalmodifier.alt":"-120",
                 "thetamodifier":"-120",
+                "v":"-120",
                 "wmodifier":"-120",
                 "ymodifier":"-120",
                 "zmodifier":"-120"
               },
               "q":{
-                "commarightcomb.sp":"-50",
                 "degree":"-30",
                 "glottal":"-40",
                 "j":"30",
@@ -82482,13 +82088,11 @@
               },
               "racute":{
                 "@_L_lc_lambdaLatin_2ND":"-30",
-                "commarightcomb.sp":"65",
                 "commarightcomb.spn":"110",
                 "glottal":"5"
               },
               "rcaron":{
                 "@_L_lc_lambdaLatin_2ND":"30",
-                "commarightcomb.sp":"70",
                 "commarightcomb.spn":"210",
                 "glottal":"65"
               },
@@ -82496,11 +82100,9 @@
                 "commarightcomb.spn":"20"
               },
               "scaron":{
-                "commarightcomb.sp":"-65",
                 "commarightcomb.spn":"70"
               },
               "scircumflex":{
-                "commarightcomb.sp":"-65",
                 "commarightcomb.spn":"60"
               },
               "seven":{
@@ -82649,7 +82251,6 @@
                 "jcircumflex":"50"
               },
               "tcaron":{
-                "commarightcomb.sp":"35",
                 "glottalmodifier.alt":"40"
               },
               "theta.Latin":{
@@ -82665,8 +82266,6 @@
                 "@_punc_quoteright_2ND":"10",
                 "@_x_sups_BOTH":"20",
                 "comma":"-50",
-                "commarightcomb.sp":"-45",
-                "commarightcomb.spcase":"10",
                 "commarightcomb.spn":"70",
                 "glottal":"-25",
                 "glottalstop":"10",
@@ -82702,8 +82301,6 @@
                 "@_punc_quoteright_2ND":"60",
                 "X":"10",
                 "comma":"-90",
-                "commarightcomb.sp":"60",
-                "commarightcomb.spcase":"60",
                 "fhook":"10",
                 "glottalmodifier":"15",
                 "glottalstop":"40",
@@ -82738,8 +82335,6 @@
                 "@_punc_quoteright_2ND":"-10",
                 "@_x_sups_BOTH":"-15",
                 "X":"-25",
-                "commarightcomb.sp":"-10",
-                "commarightcomb.spcase":"-10",
                 "commarightcomb.spn":"70",
                 "four.LP":"10",
                 "glottal":"-20",
@@ -82800,8 +82395,6 @@
                 "@_punc_quoteright_2ND":"60",
                 "@_x_sups_BOTH":"80",
                 "comma":"-85",
-                "commarightcomb.sp":"60",
-                "commarightcomb.spcase":"60",
                 "commarightcomb.spn":"200",
                 "exclam":"30",
                 "fhook":"10",
@@ -82866,7 +82459,6 @@
                 "@_punc_hyphen_2ND":"20",
                 "@_punc_period_2ND":"-10",
                 "@_x_sups_BOTH":"10",
-                "commarightcomb.sp":"-40",
                 "commarightcomb.spn":"10",
                 "glottal":"-60",
                 "glottalmodifier.alt":"-10",
@@ -82886,7 +82478,6 @@
                 "@_L_lc_ibar_2ND":"10",
                 "@_L_lc_lambdaLatin_2ND":"-40",
                 "@_L_lc_ldblbar_2ND":"15",
-                "commarightcomb.sp":"-100",
                 "glottal":"-35",
                 "glottalmodifier":"-5",
                 "glottalmodifier.alt":"-55",
@@ -82917,8 +82508,6 @@
                 "@_punc_quoteright_2ND":"-90",
                 "@_x_sups_BOTH":"-65",
                 "comma":"30",
-                "commarightcomb.sp":"-120",
-                "commarightcomb.spcase":"-90",
                 "glottal":"-55",
                 "glottalmodifier.alt":"-90",
                 "glottalreversed":"-110",
@@ -82959,8 +82548,6 @@
                 "@_punc_quoteright_2ND":"60",
                 "X":"30",
                 "comma":"-90",
-                "commarightcomb.sp":"60",
-                "commarightcomb.spcase":"60",
                 "fhook":"10",
                 "glottal":"5",
                 "glottalmodifier":"35",
@@ -82983,8 +82570,6 @@
                 "@_punc_quoteright_2ND":"35",
                 "@_x_subs_BOTH":"45",
                 "@_x_sups_BOTH":"45",
-                "commarightcomb.sp":"20",
-                "commarightcomb.spcase":"35",
                 "commarightcomb.spn":"10",
                 "degree":"-15",
                 "eopen":"-5",
@@ -83023,8 +82608,6 @@
                 "@_punc_quoteright_2ND":"60",
                 "X":"30",
                 "comma":"-90",
-                "commarightcomb.sp":"60",
-                "commarightcomb.spcase":"60",
                 "fhook":"10",
                 "glottalmodifier":"35",
                 "question":"10",
@@ -83115,8 +82698,6 @@
                 "@_punc_quoteright_2ND":"60",
                 "X":"30",
                 "comma":"-90",
-                "commarightcomb.sp":"60",
-                "commarightcomb.spcase":"60",
                 "fhook":"10",
                 "glottalmodifier":"30",
                 "question":"10",
@@ -83301,17 +82882,16 @@
           "width_name":"Normal",
           "slope_name":"Italic",
           "fontNote":"Spacing line height = 530",
-          "ascender":1583,
-          "descender":-465,
+          "ascender":1890,
+          "descender":-770,
           "xHeight":946,
           "capsHeight":1314,
           "measurement":486,
           "weight":900,
           "width":5,
           "italic_angle":-14,
-          "lineGap":410,
-          "safeTop":1788,
-          "safeBottom":670,
+          "safeTop":1890,
+          "safeBottom":770,
           "underlineThickness":144,
           "underlinePosition":-102,
           "caretOffset":-121,
@@ -83355,9 +82935,9 @@
             "TtaSharpDw":false,
             "TtaSharpGdi":true,
             "TtaSharpGray":false,
-            "hhea_ascender":1583,
-            "hhea_descender":-465,
-            "hhea_line_gap":410,
+            "hhea_ascender":1890,
+            "hhea_descender":-770,
+            "hhea_line_gap":0,
             "hhea_use_custom":false,
             "strikeout_position":486,
             "strikeout_size":93,
@@ -83426,7 +83006,7 @@
                   "Acaron",
                   "Acircumflex",
                   "Adieresis",
-                  "Adotacent",
+                  "Adotaccent",
                   "Agrave",
                   "Amacron",
                   "Aogonek",
@@ -84015,7 +83595,7 @@
                   "Acaron",
                   "Acircumflex",
                   "Adieresis",
-                  "Adotacent",
+                  "Adotaccent",
                   "Agrave",
                   "Amacron",
                   "Aogonek",
@@ -84258,7 +83838,7 @@
                   "acedilla",
                   "acircumflex",
                   "adieresis",
-                  "adotacent",
+                  "adotaccent",
                   "ae",
                   "aeacute",
                   "agrave",
@@ -84767,7 +84347,7 @@
                   "acedilla",
                   "acircumflex",
                   "adieresis",
-                  "adotacent",
+                  "adotaccent",
                   "agrave",
                   "amacron",
                   "aogonek",
@@ -84955,7 +84535,6 @@
             "pairs":{
               "@_L_lc_a_1ST":{
                 "@_x_sups_BOTH":"-10",
-                "commarightcomb.sp":"-35",
                 "degree":"-40",
                 "glottal":"-45",
                 "glottalmodifier.alt":"-65",
@@ -84976,8 +84555,6 @@
                 "@_punc_quoteright_2ND":"-20",
                 "@_x_subs_BOTH":"10",
                 "@_x_sups_BOTH":"10",
-                "commarightcomb.sp":"-40",
-                "commarightcomb.spcase":"-20",
                 "commarightcomb.spn":"20",
                 "glottal":"-60",
                 "glottalmodifier":"20",
@@ -85006,7 +84583,6 @@
                 "@_punc_quoteright_2ND":"30",
                 "@_x_sups_BOTH":"20",
                 "comma":"20",
-                "commarightcomb.spcase":"30",
                 "commarightcomb.spn":"10",
                 "eopen":"-15",
                 "fhook":"225",
@@ -85037,7 +84613,6 @@
                 "@_L_lc_lambdaLatin_2ND":"40",
                 "@_L_lc_ldblbar_2ND":"-40",
                 "@_x_sups_BOTH":"60",
-                "commarightcomb.sp":"65",
                 "eopen":"-70",
                 "glottal":"70",
                 "glottalreversed":"25",
@@ -85072,8 +84647,6 @@
                 "@_punc_hyphen_2ND":"20",
                 "@_punc_quoteleft_2ND":"-10",
                 "@_punc_quoteright_2ND":"-10",
-                "commarightcomb.sp":"-95",
-                "commarightcomb.spcase":"-10",
                 "degree":"-35",
                 "glottal":"-65",
                 "glottalmodifier":"20",
@@ -85108,8 +84681,6 @@
                 "@_x_sups_BOTH":"110",
                 "asterisk":"75",
                 "comma":"-40",
-                "commarightcomb.sp":"80",
-                "commarightcomb.spcase":"65",
                 "commarightcomb.spn":"310",
                 "degree":"50",
                 "exclam":"50",
@@ -85148,7 +84719,6 @@
                 "@_L_lc_j_2ND":"10",
                 "@_L_lc_ldblbar_2ND":"20",
                 "comma":"10",
-                "commarightcomb.sp":"-45",
                 "commarightcomb.spn":"10",
                 "degree":"-40",
                 "glottalmodifier.alt":"20",
@@ -85192,8 +84762,6 @@
                 "@_punc_quoteright_2ND":"-20",
                 "@_x_subs_BOTH":"35",
                 "@_x_sups_BOTH":"-25",
-                "commarightcomb.sp":"-105",
-                "commarightcomb.spcase":"-20",
                 "commarightcomb.spn":"10",
                 "degree":"-60",
                 "glottal":"-65",
@@ -85214,7 +84782,6 @@
               "@_L_lc_lambdaLatin_1ST":{
                 "@_L_lc_lambdaLatin_2ND":"10",
                 "@_L_lc_o_2ND":"-60",
-                "commarightcomb.sp":"-180",
                 "glottalmodifier.alt":"-50",
                 "glottalstop":"-55",
                 "seven.LP":"-40",
@@ -85237,8 +84804,6 @@
                 "@_punc_quoteright_2ND":"30",
                 "@_x_sups_BOTH":"50",
                 "comma":"-30",
-                "commarightcomb.sp":"30",
-                "commarightcomb.spcase":"30",
                 "commarightcomb.spn":"120",
                 "fhook":"20",
                 "glottal":"-20",
@@ -85257,8 +84822,6 @@
                 "@_L_lc_y_2ND":"-40",
                 "@_punc_quoteleft_2ND":"-25",
                 "@_punc_quoteright_2ND":"-25",
-                "commarightcomb.sp":"-90",
-                "commarightcomb.spcase":"-25",
                 "degree":"-95",
                 "glottalmodifier.alt":"-80",
                 "glottalreversed":"-60",
@@ -85278,8 +84841,6 @@
                 "@_punc_quoteleft_2ND":"-75",
                 "@_punc_quoteright_2ND":"-75",
                 "@_x_sups_BOTH":"-20",
-                "commarightcomb.sp":"-120",
-                "commarightcomb.spcase":"-75",
                 "degree":"-125",
                 "glottal":"-90",
                 "glottalmodifier.alt":"-65",
@@ -85320,8 +84881,6 @@
                 "@_x_subs_BOTH":"-90",
                 "@_x_sups_BOTH":"55",
                 "comma":"-60",
-                "commarightcomb.sp":"5",
-                "commarightcomb.spcase":"75",
                 "commarightcomb.spn":"20",
                 "degree":"20",
                 "fhook":"35",
@@ -85360,8 +84919,6 @@
                 "@_punc_quoteleft_2ND":"-10",
                 "@_punc_quoteright_2ND":"-20",
                 "Tslash":"-105",
-                "commarightcomb.sp":"-100",
-                "commarightcomb.spcase":"-20",
                 "commarightcomb.spn":"10",
                 "degree":"-65",
                 "glottal":"-60",
@@ -85382,8 +84939,6 @@
                 "@_x_subs_BOTH":"20",
                 "@_x_sups_BOTH":"20",
                 "comma":"20",
-                "commarightcomb.sp":"-125",
-                "commarightcomb.spcase":"20",
                 "commarightcomb.spn":"20",
                 "degree":"-20",
                 "glottal":"-35",
@@ -85408,8 +84963,6 @@
                 "@_x_subs_BOTH":"-75",
                 "@_x_sups_BOTH":"45",
                 "comma":"-75",
-                "commarightcomb.sp":"10",
-                "commarightcomb.spcase":"45",
                 "commarightcomb.spn":"20",
                 "glottal":"-50",
                 "glottalmodifier":"50",
@@ -85450,8 +85003,6 @@
                 "@_x_subs_BOTH":"-10",
                 "@_x_sups_BOTH":"35",
                 "comma":"-40",
-                "commarightcomb.sp":"10",
-                "commarightcomb.spcase":"45",
                 "commarightcomb.spn":"10",
                 "glottalmodifier.alt":"15",
                 "glottalreversed":"40",
@@ -85477,8 +85028,6 @@
                 "@_punc_hyphen_2ND":"-15",
                 "@_punc_quoteleft_2ND":"20",
                 "@_punc_quoteright_2ND":"15",
-                "commarightcomb.sp":"-40",
-                "commarightcomb.spcase":"15",
                 "commarightcomb.spn":"10",
                 "degree":"-30",
                 "glottal":"-50",
@@ -85531,8 +85080,6 @@
                 "UpsilonLatin":"-45",
                 "asterisk":"-90",
                 "comma":"20",
-                "commarightcomb.sp":"-120",
-                "commarightcomb.spcase":"-110",
                 "degree":"-145",
                 "glottal":"-30",
                 "glottalmodifier":"-75",
@@ -85591,8 +85138,6 @@
                 "UpsilonLatin":"-10",
                 "X":"20",
                 "comma":"25",
-                "commarightcomb.sp":"20",
-                "commarightcomb.spcase":"10",
                 "commarightcomb.spncap":"10",
                 "glottalmodifier":"30",
                 "glottalmodifier.alt":"30",
@@ -85642,8 +85187,6 @@
                 "Lbelt":"-70",
                 "Lwavybar":"-90",
                 "UpsilonLatin":"-20",
-                "commarightcomb.sp":"25",
-                "commarightcomb.spcase":"25",
                 "commarightcomb.spncap":"10",
                 "dotlessiogonek":"-30",
                 "dotlessiogonek.alt":"-10",
@@ -85701,7 +85244,6 @@
                 "Lwavybar":"-10",
                 "X":"20",
                 "comma":"40",
-                "commarightcomb.sp":"10",
                 "commarightcomb.spncap":"10",
                 "icircumflex":"20",
                 "idieresis":"75",
@@ -85717,7 +85259,6 @@
                 "@_punc_hyphen_2ND":"10",
                 "@_punc_period_2ND":"10",
                 "comma":"10",
-                "commarightcomb.sp":"-10",
                 "glottalmodifier":"10",
                 "glottalmodifier.alt":"10",
                 "idieresis":"20",
@@ -85766,8 +85307,6 @@
                 "Lwavybar":"70",
                 "Ubar":"80",
                 "comma":"-50",
-                "commarightcomb.sp":"-60",
-                "commarightcomb.spcase":"10",
                 "eopen":"20",
                 "exclam":"20",
                 "fhook":"70",
@@ -85794,7 +85333,6 @@
                 "@_punc_period_2ND":"-15",
                 "@_x_subs_BOTH":"-10",
                 "comma":"-15",
-                "commarightcomb.spcase":"10",
                 "idieresis":"40",
                 "vturned":"-15",
                 "x":"-10"
@@ -85842,8 +85380,6 @@
                 "Ubar":"-45",
                 "UpsilonLatin":"-60",
                 "comma":"35",
-                "commarightcomb.sp":"-30",
-                "commarightcomb.spcase":"-20",
                 "commarightcomb.spncap":"10",
                 "degree":"-30",
                 "glottalmodifier":"-30",
@@ -85869,8 +85405,6 @@
                 "zmodifier":"-30"
               },
               "@_L_uc_L_1ST":{
-                "commarightcomb.sp":"-155",
-                "commarightcomb.spcase":"-155",
                 "degree":"-175",
                 "glottalmodifier.alt":"-85",
                 "halfringrightmodifier":"-145"
@@ -85894,8 +85428,6 @@
                 "Ubar":"-10",
                 "UpsilonLatin":"-85",
                 "X":"25",
-                "commarightcomb.sp":"-160",
-                "commarightcomb.spcase":"-90",
                 "glottal":"-20",
                 "glottalmodifier":"-60",
                 "glottalmodifier.alt":"-60",
@@ -85927,8 +85459,6 @@
                 "@_L_uc_LambdaLatin_2ND":"10",
                 "@_x_sups_BOTH":"-10",
                 "Eopen":"-10",
-                "commarightcomb.sp":"-45",
-                "commarightcomb.spcase":"-30",
                 "glottalmodifier.alt":"-30",
                 "seven.LP":"-50"
               },
@@ -85953,7 +85483,7 @@
                 "@_punc_hyphen_2ND":"20",
                 "@_punc_parenright.cap_2ND":"-45",
                 "@_punc_parenright_2ND":"-45",
-                "@_punc_period_2ND":"-35",
+                "@_punc_period_2ND":"-20",
                 "@_punc_quoteright_2ND":"-20",
                 "@_x_subs_BOTH":"20",
                 "Dcroat":"25",
@@ -85966,9 +85496,7 @@
                 "Oopen":"-15",
                 "Ubar":"25",
                 "X":"-105",
-                "comma":"-35",
-                "commarightcomb.sp":"-95",
-                "commarightcomb.spcase":"-35",
+                "comma":"-20",
                 "degree":"-30",
                 "glottal":"-15",
                 "glottalmodifier":"20",
@@ -86026,8 +85554,6 @@
                 "Oopen":"10",
                 "Ubar":"-25",
                 "UpsilonLatin":"-40",
-                "commarightcomb.sp":"-85",
-                "commarightcomb.spcase":"-70",
                 "degree":"-50",
                 "glottal":"-30",
                 "glottalmodifier":"-30",
@@ -86073,8 +85599,6 @@
                 "UpsilonLatin":"5",
                 "X":"-30",
                 "comma":"20",
-                "commarightcomb.sp":"-20",
-                "commarightcomb.spcase":"-25",
                 "commarightcomb.spncap":"10",
                 "degree":"-20",
                 "glottalmodifier":"20",
@@ -86141,8 +85665,6 @@
                 "asterisk":"65",
                 "atilde":"-170",
                 "comma":"-90",
-                "commarightcomb.sp":"30",
-                "commarightcomb.spcase":"45",
                 "commarightcomb.spncap":"10",
                 "degree":"30",
                 "ecircumflex":"-170",
@@ -86206,10 +85728,10 @@
                 "@_L_uc_M_2ND":"-5",
                 "@_L_uc_S_2ND":"10",
                 "@_punc_hyphen_2ND":"10",
-                "@_punc_period_2ND":"-55",
+                "@_punc_period_2ND":"-45",
                 "@_x_subs_BOTH":"20",
                 "X":"-10",
-                "comma":"-55",
+                "comma":"-45",
                 "glottalmodifier":"10",
                 "glottalmodifier.alt":"10",
                 "icircumflex":"10",
@@ -86276,8 +85798,6 @@
                 "X":"-10",
                 "asterisk":"35",
                 "comma":"-100",
-                "commarightcomb.sp":"15",
-                "commarightcomb.spcase":"25",
                 "commarightcomb.spncap":"10",
                 "degree":"20",
                 "edieresis":"-100",
@@ -86354,8 +85874,6 @@
                 "UpsilonLatin":"-10",
                 "asterisk":"35",
                 "comma":"-80",
-                "commarightcomb.sp":"25",
-                "commarightcomb.spcase":"25",
                 "commarightcomb.spncap":"10",
                 "degree":"20",
                 "eopen":"-65",
@@ -86434,8 +85952,6 @@
                 "adieresis":"-135",
                 "asterisk":"35",
                 "comma":"-110",
-                "commarightcomb.sp":"35",
-                "commarightcomb.spcase":"55",
                 "commarightcomb.spncap":"10",
                 "degree":"35",
                 "ecircumflex":"-175",
@@ -86495,8 +86011,6 @@
                 "Oopen":"20",
                 "UpsilonLatin":"-10",
                 "comma":"20",
-                "commarightcomb.sp":"10",
-                "commarightcomb.spcase":"20",
                 "commarightcomb.spncap":"10",
                 "degree":"30",
                 "glottal":"20",
@@ -86553,7 +86067,6 @@
                 "Oopen":"20",
                 "adieresis":"-125",
                 "comma":"-265",
-                "commarightcomb.spcase":"10",
                 "edieresis":"-105",
                 "eopen":"-75",
                 "glottal":"40",
@@ -86926,8 +86439,6 @@
                 "UpsilonLatin":"-20",
                 "X":"20",
                 "comma":"-265",
-                "commarightcomb.sp":"10",
-                "commarightcomb.spcase":"10",
                 "commarightcomb.spn":"150",
                 "glottal":"25",
                 "glottalmodifier":"40",
@@ -87071,8 +86582,6 @@
                 "UpsilonLatin":"-5",
                 "X":"-75",
                 "comma":"10",
-                "commarightcomb.sp":"-20",
-                "commarightcomb.spcase":"-20",
                 "degree":"-30",
                 "glottalmodifier.alt":"-10",
                 "halfringrightmodifier":"-15",
@@ -87144,8 +86653,6 @@
                 "Eopen":"-15",
                 "Germandbls":"-30",
                 "comma":"-80",
-                "commarightcomb.sp":"20",
-                "commarightcomb.spcase":"35",
                 "commarightcomb.spncap":"20",
                 "degree":"20",
                 "eopen":"-50",
@@ -87188,8 +86695,6 @@
                 "Glottalstop":"-35",
                 "Tbar":"-60",
                 "comma":"-10",
-                "commarightcomb.sp":"-75",
-                "commarightcomb.spcase":"-40",
                 "lslash":"20",
                 "seven.LP":"-50",
                 "v":"-10",
@@ -87209,9 +86714,7 @@
                 "@_L_uc_V_2ND":"-50",
                 "@_L_uc_W_2ND":"-50",
                 "@_punc_quoteleft_2ND":"-45",
-                "@_punc_quoteright_2ND":"-35",
-                "commarightcomb.sp":"-35",
-                "commarightcomb.spcase":"-35"
+                "@_punc_quoteright_2ND":"-35"
               },
               "Glottalstop":{
                 "@_L_lc_ldblbar_2ND":"20",
@@ -87248,8 +86751,6 @@
                 "UpsilonLatin":"-20",
                 "X":"-95",
                 "comma":"-125",
-                "commarightcomb.sp":"25",
-                "commarightcomb.spcase":"25",
                 "eopen":"-15",
                 "ibarred":"15",
                 "icircumflex":"20",
@@ -87291,8 +86792,6 @@
                 "@_punc_quoteright_2ND":"50",
                 "@_x_sups_BOTH":"50",
                 "comma":"-20",
-                "commarightcomb.sp":"50",
-                "commarightcomb.spcase":"50",
                 "eopen":"-20",
                 "exclam":"20",
                 "fhook":"15",
@@ -87327,27 +86826,19 @@
               "Ibarred":{
                 "@_L_uc_O_2ND":"-5",
                 "@_x_sups_BOTH":"45",
-                "commarightcomb.sp":"30",
-                "commarightcomb.spcase":"35",
                 "commarightcomb.spncap":"10",
                 "glottalmodifier.alt":"65"
               },
               "Ibreve":{
-                "commarightcomb.sp":"40",
                 "commarightcomb.spncap":"290"
               },
               "Icaron":{
-                "commarightcomb.sp":"10",
                 "commarightcomb.spncap":"315"
               },
               "Icircumflex":{
-                "commarightcomb.sp":"90",
-                "commarightcomb.spcase":"10",
                 "commarightcomb.spncap":"270"
               },
               "Idieresis":{
-                "commarightcomb.sp":"115",
-                "commarightcomb.spcase":"10",
                 "commarightcomb.spncap":"320"
               },
               "Idotaccent":{
@@ -87357,7 +86848,6 @@
                 "commarightcomb.spncap":"140"
               },
               "Imacron":{
-                "commarightcomb.sp":"45",
                 "commarightcomb.spncap":"245"
               },
               "IotaLatin":{
@@ -87399,8 +86889,6 @@
                 "Ubar":"-75",
                 "UpsilonLatin":"-35",
                 "comma":"10",
-                "commarightcomb.sp":"-190",
-                "commarightcomb.spcase":"-190",
                 "glottal":"-70",
                 "glottalmodifier.alt":"-180",
                 "glottalreversed":"-140",
@@ -87419,7 +86907,6 @@
                 "ymodifier":"-60"
               },
               "Itilde":{
-                "commarightcomb.sp":"65",
                 "commarightcomb.spncap":"330"
               },
               "Jbar":{
@@ -87427,11 +86914,9 @@
                 "@_L_uc_A_2ND":"-40"
               },
               "Jcaron":{
-                "commarightcomb.sp":"10",
                 "commarightcomb.spncap":"320"
               },
               "Jcircumflex":{
-                "commarightcomb.sp":"90",
                 "commarightcomb.spncap":"270"
               },
               "L":{
@@ -87619,23 +87104,16 @@
                 "@_x_sups_BOTH":"-130",
                 "Glottalstop":"-85",
                 "comma":"35",
-                "commarightcomb.sp":"-100",
-                "commarightcomb.spcase":"-100",
                 "exclam":"20",
                 "question":"10",
                 "v":"-75",
                 "ymodifier":"-90"
               },
               "Lambdabar.alt":{
-                "@_L_lc_chiLatin_2ND":"-65",
-                "commarightcomb.sp":"-130"
+                "@_L_lc_chiLatin_2ND":"-65"
               },
               "Lambdabarcommaabove.alt":{
-                "@_L_lc_chiLatin_2ND":"-65",
-                "commarightcomb.sp":"-130"
-              },
-              "Lbar":{
-                "commarightcomb.sp":"-145"
+                "@_L_lc_chiLatin_2ND":"-65"
               },
               "Lbelt":{
                 "@_L_lc_chiLatin_2ND":"-85",
@@ -87774,8 +87252,6 @@
                 "X":"-10",
                 "asterisk":"-90",
                 "comma":"15",
-                "commarightcomb.sp":"-40",
-                "commarightcomb.spcase":"-30",
                 "degree":"-45",
                 "glottalmodifier":"15",
                 "glottalmodifier.alt":"15",
@@ -88396,14 +87872,7 @@
                 "@_punc_hyphen.cap_2ND":"10",
                 "@_punc_hyphen_2ND":"10",
                 "@_x_sups_BOTH":"10",
-                "commarightcomb.sp":"-20",
                 "seven.LP":"-20"
-              },
-              "Oslash":{
-                "commarightcomb.sp":"-75"
-              },
-              "Oslashacute":{
-                "commarightcomb.sp":"-75"
               },
               "P":{
                 "@_L_lc_ldblbar_2ND":"30",
@@ -88447,7 +87916,6 @@
                 "UpsilonLatin":"-15",
                 "X":"-95",
                 "comma":"-120",
-                "commarightcomb.spcase":"25",
                 "degree":"15",
                 "eopen":"-20",
                 "glottalmodifier.alt":"25",
@@ -88525,8 +87993,6 @@
                 "atilde":"-170",
                 "clickalveolar":"-20",
                 "comma":"-90",
-                "commarightcomb.sp":"30",
-                "commarightcomb.spcase":"45",
                 "commarightcomb.spncap":"10",
                 "degree":"30",
                 "ecircumflex":"-170",
@@ -88616,8 +88082,6 @@
                 "Oopen":"-35",
                 "Ubar":"35",
                 "comma":"-90",
-                "commarightcomb.sp":"-90",
-                "commarightcomb.spcase":"-10",
                 "glottal":"-50",
                 "glottalmodifier.alt":"-40",
                 "kip":"35",
@@ -88671,8 +88135,6 @@
                 "Eturned":"-10",
                 "Glottalstop":"-5",
                 "X":"-30",
-                "commarightcomb.sp":"-40",
-                "commarightcomb.spcase":"-35",
                 "commarightcomb.spncap":"10",
                 "lambdaLatin":"-10",
                 "lambdabar":"-10",
@@ -88687,9 +88149,6 @@
               },
               "Utilde":{
                 "commarightcomb.spncap":"30"
-              },
-              "Vhook":{
-                "commarightcomb.sp":"-70"
               },
               "X":{
                 "@_L_lc_chiLatin_2ND":"-110",
@@ -88724,7 +88183,6 @@
                 "Oopen":"20",
                 "UpsilonLatin":"-30",
                 "comma":"25",
-                "commarightcomb.spcase":"10",
                 "commarightcomb.spncap":"10",
                 "degree":"20",
                 "eopen":"-10",
@@ -88796,7 +88254,7 @@
                 "ymodifier":"15",
                 "zmodifier":"15"
               },
-              "adotacent":{
+              "adotaccent":{
                 "glottalmodifier":"-5",
                 "wmodifier":"-15",
                 "ymodifier":"15",
@@ -88892,9 +88350,9 @@
               "comma":{
                 "@_L_uc_A_2ND":"15",
                 "@_L_uc_J_2ND":"15",
-                "@_L_uc_O_2ND":"-80",
+                "@_L_uc_O_2ND":"-90",
                 "@_L_uc_T_2ND":"-100",
-                "@_L_uc_U_2ND":"-60",
+                "@_L_uc_U_2ND":"-70",
                 "@_L_uc_V_2ND":"-120",
                 "@_L_uc_W_2ND":"-100",
                 "@_L_uc_Y_2ND":"-120",
@@ -88904,8 +88362,6 @@
                 "@_x_sups_BOTH":"-120",
                 "Tslash":"-70",
                 "X":"25",
-                "commarightcomb.sp":"-110",
-                "commarightcomb.spcase":"-110",
                 "glottalmodifier":"-75",
                 "glottalmodifier.alt":"-75",
                 "one.LP":"-65",
@@ -88916,49 +88372,6 @@
                 "ymodifier":"-75",
                 "zero.LP":"-10",
                 "zmodifier":"-75"
-              },
-              "commarightcomb.sp":{
-                "@_L_uc_O_2ND":"-65",
-                "@_L_uc_V_2ND":"50",
-                "@_L_uc_W_2ND":"40",
-                "@_L_uc_Y_2ND":"65",
-                "Hbar":"25",
-                "Ibarred":"40",
-                "Icircumflex":"50",
-                "Idieresis":"40",
-                "Imacron":"10",
-                "Itilde":"50",
-                "Lbelt":"-60",
-                "Ldblbar":"-50",
-                "Lwavybar":"-160",
-                "X":"25",
-                "commarightcomb.sp":"40",
-                "glottalmodifier.alt":"20",
-                "thetamodifier":"55",
-                "wmodifier":"20",
-                "ymodifier":"35",
-                "zmodifier":"15"
-              },
-              "commarightcomb.spcase":{
-                "@_L_lc_schwa_2ND":"-40",
-                "@_L_uc_Dcroat_2ND":"-10",
-                "@_L_uc_S_2ND":"35",
-                "Hbar":"40",
-                "Ibarred":"30",
-                "Lambdabar":"-110",
-                "Lambdabar.alt":"-95",
-                "Lambdabarcommaabove":"-110",
-                "Lambdabarcommaabove.alt":"-95",
-                "Lbelt":"10",
-                "Ldblbar":"20",
-                "Lwavybar":"-70",
-                "X":"-20",
-                "commarightcomb.sp":"10",
-                "glottalmodifier.alt":"40",
-                "thetamodifier":"40",
-                "wmodifier":"40",
-                "ymodifier":"40",
-                "zmodifier":"35"
               },
               "commarightcomb.spn":{
                 "@_L_lc_chiLatin_2ND":"10",
@@ -89250,7 +88663,6 @@
                 "@_punc_quoteleft_2ND":"10",
                 "@_punc_quoteright_2ND":"30",
                 "comma":"-160",
-                "commarightcomb.spcase":"30",
                 "eturned":"-120",
                 "exclam":"30",
                 "question":"40",
@@ -89276,8 +88688,6 @@
                 "@_punc_quoteright_2ND":"40",
                 "@_x_sups_BOTH":"80",
                 "comma":"-40",
-                "commarightcomb.sp":"45",
-                "commarightcomb.spcase":"40",
                 "commarightcomb.spn":"230",
                 "eopen":"-40",
                 "exclam":"20",
@@ -89383,7 +88793,6 @@
                 "@_L_lc_ibar.dotless_2ND":"20",
                 "@_L_lc_ibar_2ND":"20",
                 "@_L_lc_ldblbar_2ND":"10",
-                "commarightcomb.sp":"-105",
                 "glottal":"-45",
                 "glottalmodifier":"25",
                 "glottalmodifier.alt":"25",
@@ -89529,8 +88938,6 @@
                 "@_punc_quoteright_2ND":"40",
                 "@_x_sups_BOTH":"45",
                 "comma":"-140",
-                "commarightcomb.sp":"30",
-                "commarightcomb.spcase":"40",
                 "commarightcomb.spn":"200",
                 "fhook":"25",
                 "icircumflex":"70",
@@ -89568,8 +88975,6 @@
                 "X":"25",
                 "clickalveolar":"35",
                 "comma":"-45",
-                "commarightcomb.sp":"45",
-                "commarightcomb.spcase":"45",
                 "fhook":"40",
                 "lambdaLatin":"45",
                 "lambdabar":"45",
@@ -89631,8 +89036,6 @@
                 "Lwavybar":"-10",
                 "X":"40",
                 "comma":"-125",
-                "commarightcomb.sp":"10",
-                "commarightcomb.spcase":"45",
                 "commarightcomb.spn":"245",
                 "eopen":"-75",
                 "fhook":"15",
@@ -89677,8 +89080,6 @@
                 "@_punc_quoteright_2ND":"35",
                 "@_x_sups_BOTH":"45",
                 "comma":"-75",
-                "commarightcomb.sp":"35",
-                "commarightcomb.spcase":"35",
                 "commarightcomb.spn":"255",
                 "eopen":"-60",
                 "fhook":"-25",
@@ -89716,8 +89117,6 @@
                 "@_punc_quoteright_2ND":"15",
                 "@_x_sups_BOTH":"45",
                 "comma":"-30",
-                "commarightcomb.sp":"-65",
-                "commarightcomb.spcase":"15",
                 "glottalmodifier":"10",
                 "glottalmodifier.alt":"-25",
                 "lambdaLatin":"-90",
@@ -89740,7 +89139,6 @@
                 "glottalmodifier.alt":"-55"
               },
               "gsmallcap":{
-                "commarightcomb.sp":"-55",
                 "commarightcomb.spn":"10"
               },
               "h":{
@@ -89828,7 +89226,6 @@
                 "@_L_lc_l_2ND":"10",
                 "@_punc_quoteright_2ND":"30",
                 "@_x_sups_BOTH":"60",
-                "commarightcomb.sp":"60",
                 "commarightcomb.spn":"270",
                 "glottal":"60",
                 "glottalmodifier.alt":"80",
@@ -89838,7 +89235,6 @@
                 "@_L_lc_i_2ND":"20",
                 "@_punc_quoteright_2ND":"20",
                 "@_x_sups_BOTH":"50",
-                "commarightcomb.sp":"60",
                 "commarightcomb.spn":"270",
                 "glottal":"60",
                 "glottalmodifier.alt":"80",
@@ -89848,7 +89244,6 @@
                 "@_L_lc_i_2ND":"20",
                 "@_punc_quoteright_2ND":"40",
                 "@_x_sups_BOTH":"130",
-                "commarightcomb.sp":"30",
                 "commarightcomb.spn":"220",
                 "glottal":"80",
                 "glottalreversed":"60",
@@ -89860,7 +89255,6 @@
                 "@_L_lc_o_2ND":"10",
                 "@_punc_quoteright_2ND":"110",
                 "@_x_sups_BOTH":"140",
-                "commarightcomb.sp":"115",
                 "commarightcomb.spn":"310",
                 "fhook":"65",
                 "glottal":"165",
@@ -89876,7 +89270,6 @@
                 "commarightcomb.spn":"210"
               },
               "igrave":{
-                "commarightcomb.sp":"-35",
                 "commarightcomb.spn":"50"
               },
               "ijacute":{
@@ -89912,8 +89305,6 @@
                 "@_punc_quoteleft_2ND":"-100",
                 "@_punc_quoteright_2ND":"-110",
                 "@_x_sups_BOTH":"-100",
-                "commarightcomb.sp":"-140",
-                "commarightcomb.spcase":"-110",
                 "glottal":"-80",
                 "glottalmodifier.alt":"-130",
                 "glottalreversed":"-85",
@@ -89932,7 +89323,6 @@
                 "@_L_lc_l_2ND":"80",
                 "@_punc_quoteright_2ND":"100",
                 "@_x_sups_BOTH":"120",
-                "commarightcomb.sp":"110",
                 "commarightcomb.spn":"320",
                 "glottal":"130",
                 "glottalmodifier.alt":"150",
@@ -89954,7 +89344,6 @@
                 "@_L_lc_i_2ND":"20",
                 "@_punc_quoteright_2ND":"20",
                 "@_x_sups_BOTH":"50",
-                "commarightcomb.sp":"60",
                 "commarightcomb.spn":"270",
                 "glottal":"60",
                 "glottalmodifier.alt":"80",
@@ -89965,7 +89354,6 @@
                 "@_L_lc_i_2ND":"20",
                 "@_punc_quoteright_2ND":"40",
                 "@_x_sups_BOTH":"130",
-                "commarightcomb.sp":"30",
                 "commarightcomb.spn":"240",
                 "glottal":"80",
                 "glottalreversed":"60",
@@ -90009,7 +89397,6 @@
                 "@_punc_quoteright_2ND":"-90",
                 "@_x_sups_BOTH":"-90",
                 "comma":"20",
-                "commarightcomb.spcase":"-90",
                 "glottal":"-90",
                 "glottalmodifier.alt":"-170",
                 "glottalreversed":"-150",
@@ -90040,8 +89427,6 @@
                 "@_punc_quoteleft_2ND":"-50",
                 "@_punc_quoteright_2ND":"-90",
                 "comma":"20",
-                "commarightcomb.sp":"-125",
-                "commarightcomb.spcase":"-90",
                 "commarightcomb.spn":"70",
                 "eightsuperior":"-10",
                 "fivesuperior":"-10",
@@ -90084,8 +89469,6 @@
                 "@_punc_quoteleft_2ND":"-50",
                 "@_punc_quoteright_2ND":"-90",
                 "comma":"20",
-                "commarightcomb.sp":"-60",
-                "commarightcomb.spcase":"-90",
                 "commarightcomb.spn":"110",
                 "eightsuperior":"-10",
                 "fivesuperior":"-10",
@@ -90127,8 +89510,6 @@
                 "@_punc_quoteleft_2ND":"-50",
                 "@_punc_quoteright_2ND":"-90",
                 "comma":"20",
-                "commarightcomb.sp":"-80",
-                "commarightcomb.spcase":"-90",
                 "commarightcomb.spn":"140",
                 "eightsuperior":"-10",
                 "fivesuperior":"-10",
@@ -90171,8 +89552,6 @@
                 "@_punc_quoteleft_2ND":"-50",
                 "@_punc_quoteright_2ND":"-90",
                 "comma":"20",
-                "commarightcomb.sp":"-70",
-                "commarightcomb.spcase":"-90",
                 "commarightcomb.spn":"145",
                 "eightsuperior":"-10",
                 "fivesuperior":"-10",
@@ -90207,8 +89586,6 @@
                 "@_L_lc_y_2ND":"40",
                 "@_punc_hyphen_2ND":"20",
                 "@_punc_quoteright_2ND":"20",
-                "commarightcomb.sp":"20",
-                "commarightcomb.spcase":"20",
                 "eightsuperior":"40",
                 "fhook":"40",
                 "fivesuperior":"40",
@@ -90246,7 +89623,6 @@
                 "@_punc_quoteright_2ND":"-40",
                 "@_x_sups_BOTH":"50",
                 "comma":"-30",
-                "commarightcomb.sp":"-120",
                 "commarightcomb.spn":"70",
                 "glottal":"-40",
                 "glottalmodifier.alt":"-80",
@@ -90270,7 +89646,6 @@
                 "@_L_lc_ibar_2ND":"20",
                 "@_punc_quoteright_2ND":"-20",
                 "@_x_sups_BOTH":"20",
-                "commarightcomb.sp":"-50",
                 "commarightcomb.spn":"110",
                 "glottalreversed":"20"
               },
@@ -90307,8 +89682,6 @@
                 "@_punc_quoteright_2ND":"160",
                 "@_x_sups_BOTH":"215",
                 "adieresis":"20",
-                "commarightcomb.sp":"170",
-                "commarightcomb.spcase":"160",
                 "commarightcomb.spn":"430",
                 "exclam":"160",
                 "glottal":"200",
@@ -90368,7 +89741,7 @@
                 "acaron":"-20",
                 "acircumflex":"-20",
                 "adieresis":"-20",
-                "adotacent":"-20",
+                "adotaccent":"-20",
                 "ae":"-20",
                 "aeacute":"-20",
                 "agrave":"-20",
@@ -90383,8 +89756,6 @@
                 "aslash.2":"-20",
                 "atilde":"-20",
                 "comma":"-80",
-                "commarightcomb.sp":"50",
-                "commarightcomb.spcase":"50",
                 "commarightcomb.spn":"100",
                 "fhook":"35",
                 "glottal":"-20",
@@ -90414,8 +89785,6 @@
                 "@_punc_quoteright_2ND":"30",
                 "@_x_sups_BOTH":"50",
                 "comma":"-110",
-                "commarightcomb.sp":"-100",
-                "commarightcomb.spcase":"30",
                 "commarightcomb.spn":"30",
                 "fhook":"35",
                 "glottal":"-40",
@@ -90530,22 +89899,36 @@
                 "commarightcomb.spn":"10"
               },
               "period":{
+                "@_L_lc_o_2ND":"-45",
+                "@_L_lc_s_2ND":"-30",
+                "@_L_lc_t_2ND":"-45",
+                "@_L_lc_u_2ND":"-30",
+                "@_L_lc_w_2ND":"-60",
+                "@_L_lc_y_2ND":"-65",
+                "@_L_lc_z_2ND":"10",
+                "@_L_uc_A_2ND":"15",
+                "@_L_uc_O_2ND":"-110",
+                "@_L_uc_T_2ND":"-90",
+                "@_L_uc_U_2ND":"-70",
+                "@_L_uc_V_2ND":"-155",
+                "@_L_uc_W_2ND":"-100",
+                "@_L_uc_Y_2ND":"-120",
+                "@_L_uc_Z_2ND":"15",
                 "@_punc_quoteleft_2ND":"-130",
                 "@_punc_quoteright_2ND":"-110",
                 "@_x_sups_BOTH":"-120",
-                "commarightcomb.sp":"-110",
-                "commarightcomb.spcase":"-110",
+                "X":"25",
                 "glottalmodifier":"-75",
                 "glottalmodifier.alt":"-75",
                 "seven.LP":"-10",
                 "thetamodifier":"-75",
+                "v":"-110",
                 "wmodifier":"-75",
                 "ymodifier":"-75",
                 "zmodifier":"-75"
               },
               "q":{
                 "comma":"10",
-                "commarightcomb.sp":"-35",
                 "degree":"-40",
                 "glottal":"-60",
                 "j":"75",
@@ -90586,7 +89969,6 @@
                 "commarightcomb.spn":"60"
               },
               "rcaron":{
-                "commarightcomb.sp":"10",
                 "commarightcomb.spn":"160",
                 "glottal":"-20"
               },
@@ -90626,8 +90008,6 @@
                 "@_x_sups_BOTH":"20",
                 "Hbar":"15",
                 "comma":"-85",
-                "commarightcomb.sp":"10",
-                "commarightcomb.spcase":"10",
                 "commarightcomb.spn":"180",
                 "commarightcomb.spncap":"10",
                 "eight.LP":"-20",
@@ -90751,7 +90131,6 @@
                 "jcircumflex":"90"
               },
               "tcaron":{
-                "commarightcomb.sp":"80",
                 "glottalmodifier.alt":"70"
               },
               "theta.Latin":{
@@ -90767,8 +90146,6 @@
                 "@_punc_quoteright_2ND":"30",
                 "@_x_sups_BOTH":"30",
                 "comma":"-50",
-                "commarightcomb.sp":"-30",
-                "commarightcomb.spcase":"30",
                 "commarightcomb.spn":"70",
                 "glottal":"-25",
                 "glottalstop":"25",
@@ -90810,8 +90187,6 @@
                 "X":"10",
                 "clickalveolar":"35",
                 "comma":"-45",
-                "commarightcomb.sp":"35",
-                "commarightcomb.spcase":"45",
                 "eturned":"10",
                 "fhook":"40",
                 "glottalmodifier":"20",
@@ -90849,8 +90224,6 @@
                 "@_punc_quoteleft_2ND":"-10",
                 "@_punc_quoteright_2ND":"-10",
                 "X":"-75",
-                "commarightcomb.sp":"-10",
-                "commarightcomb.spcase":"-10",
                 "commarightcomb.spn":"80",
                 "four.LP":"10",
                 "glottal":"-25",
@@ -90912,8 +90285,6 @@
                 "@_punc_quoteright_2ND":"40",
                 "@_x_sups_BOTH":"80",
                 "comma":"-100",
-                "commarightcomb.sp":"40",
-                "commarightcomb.spcase":"40",
                 "commarightcomb.spn":"220",
                 "eopen":"-15",
                 "exclam":"30",
@@ -90978,7 +90349,6 @@
                 "glottalmodifier.alt":"-30"
               },
               "ubar":{
-                "commarightcomb.sp":"-90",
                 "commarightcomb.spn":"0"
               },
               "ubreve":{
@@ -91026,7 +90396,6 @@
                 "@_punc_quoteleft_2ND":"10",
                 "@_x_sups_BOTH":"10",
                 "comma":"10",
-                "commarightcomb.sp":"-60",
                 "commarightcomb.spn":"10",
                 "glottal":"-90",
                 "glottalmodifier.alt":"-50",
@@ -91052,7 +90421,6 @@
                 "@_L_lc_ibar.dotless_2ND":"20",
                 "@_L_lc_ibar_2ND":"20",
                 "@_L_lc_ldblbar_2ND":"15",
-                "commarightcomb.sp":"-80",
                 "glottal":"-60",
                 "glottalmodifier":"25",
                 "glottalmodifier.alt":"-65",
@@ -91090,8 +90458,6 @@
                 "@_punc_quoteright_2ND":"-100",
                 "@_x_sups_BOTH":"-120",
                 "comma":"20",
-                "commarightcomb.sp":"-190",
-                "commarightcomb.spcase":"-100",
                 "glottal":"-90",
                 "glottalmodifier.alt":"-140",
                 "glottalreversed":"-150",
@@ -91140,8 +90506,6 @@
                 "X":"25",
                 "clickalveolar":"35",
                 "comma":"-45",
-                "commarightcomb.sp":"45",
-                "commarightcomb.spcase":"45",
                 "fhook":"40",
                 "question":"20",
                 "vturned":"-125",
@@ -91158,7 +90522,6 @@
                 "@_punc_quoteright_2ND":"30",
                 "@_x_subs_BOTH":"55",
                 "@_x_sups_BOTH":"45",
-                "commarightcomb.spcase":"30",
                 "commarightcomb.spn":"10",
                 "degree":"-15",
                 "eopen":"-25",
@@ -91209,8 +90572,6 @@
                 "X":"25",
                 "clickalveolar":"35",
                 "comma":"-45",
-                "commarightcomb.sp":"45",
-                "commarightcomb.spcase":"45",
                 "commarightcomb.spn":"235",
                 "fhook":"40",
                 "question":"20",
@@ -91298,8 +90659,6 @@
                 "X":"25",
                 "clickalveolar":"35",
                 "comma":"-45",
-                "commarightcomb.sp":"45",
-                "commarightcomb.spcase":"45",
                 "eturned":"10",
                 "fhook":"40",
                 "glottalmodifier":"40",

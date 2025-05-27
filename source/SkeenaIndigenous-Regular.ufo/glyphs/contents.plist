@@ -20,8 +20,8 @@
   <string>A_circumflex.glif</string>
   <key>Adieresis</key>
   <string>A_dieresis.glif</string>
-  <key>Adotacent</key>
-  <string>A_dotacent.glif</string>
+  <key>Adotaccent</key>
+  <string>A_dotaccent.glif</string>
   <key>Agrave</key>
   <string>A_grave.glif</string>
   <key>Amacron</key>
@@ -486,8 +486,8 @@
   <string>acutetonecomb.cap.glif</string>
   <key>adieresis</key>
   <string>adieresis.glif</string>
-  <key>adotacent</key>
-  <string>adotacent.glif</string>
+  <key>adotaccent</key>
+  <string>adotaccent.glif</string>
   <key>ae</key>
   <string>ae.glif</string>
   <key>aeacute</key>
@@ -636,10 +636,6 @@
   <string>commarightcomb.glif</string>
   <key>commarightcomb.cap</key>
   <string>commarightcomb.cap.glif</string>
-  <key>commarightcomb.sp</key>
-  <string>commarightcomb.sp.glif</string>
-  <key>commarightcomb.spcase</key>
-  <string>commarightcomb.spcase.glif</string>
   <key>commarightcomb.spn</key>
   <string>commarightcomb.spn.glif</string>
   <key>commarightcomb.spncap</key>

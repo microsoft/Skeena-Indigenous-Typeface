@@ -95,7 +95,7 @@
     <string>Abreve</string>
     <string>Aring</string>
     <string>Aringacute</string>
-    <string>Adotacent</string>
+    <string>Adotaccent</string>
     <string>Aogonek</string>
     <string>Aogonek.euro</string>
     <string>Aogonek.alt</string>
@@ -323,7 +323,7 @@
     <string>abreve</string>
     <string>aring</string>
     <string>aringacute</string>
-    <string>adotacent</string>
+    <string>adotaccent</string>
     <string>acedilla</string>
     <string>aogonek</string>
     <string>aogonek.euro</string>
@@ -597,8 +597,6 @@
     <string>commarightcomb.cap</string>
     <string>commarightcomb.spn</string>
     <string>commarightcomb.spncap</string>
-    <string>commarightcomb.sp</string>
-    <string>commarightcomb.spcase</string>
     <string>commaaccentturnedabovecomb</string>
     <string>commaaccentturnedabovecomb.cap</string>
     <string>breveinvertedtiecomb</string>
