@@ -114,7 +114,7 @@ Many indigenous orthographies utilize one or more of these characters, most ofte
 
 <img src="images/Kwak0315.svg" alt="awaḵ̕wa̱s"/>
 
-<span style="color:#bf2229">U+0315 COMBINING COMMA ABOVE RIGHT</span> is classified by Unicode as a combining mark, but it is positioned to the right of the base letter to which it is applied so may behave more like a spacing sign. In Skeena Indigenous, this character is actually treated as a narrow spacing glyph and is not classed as a mark in the font [GDEF](https://learn.microsoft.com/en-us/typography/opentype/spec/gdef) table; this makes it easier to manage its horizontal position and spacing relative to the preceding base letter and following glyphs. For consistency with related marks, this character is coordinated in size and vertical alignment with marks that sit above x-height letters, notably U+0313; in fact, the shape of U+031 and U+0313 is identical and only their positioning behavior differs.
+<span style="color:#bf2229">U+0315 COMBINING COMMA ABOVE RIGHT</span> is classified by Unicode as a combining mark, but it is positioned to the right of the base letter to which it is applied so may behave more like a spacing sign. In Skeena Indigenous, this character is actually treated as a narrow spacing glyph and is not classed as a mark in the font [GDEF](https://learn.microsoft.com/en-us/typography/opentype/spec/gdef) table; this makes it easier to manage its horizontal position and spacing relative to the preceding base letter and following glyphs. For consistency with related marks, this character is coordinated in size and vertical alignment with marks that sit above x-height letters, notably U+0313; in fact, the shape of U+0315 and U+0313 is identical and only their positioning behavior differs.
 
 <img src="images/Kwak0313.svg" alt="awaḵ̓wa̱s"/>
 
@@ -495,7 +495,7 @@ The remaining stylistic set features in Skeena Indigenous provide overrides or t
 * `ss09` substitutes anchored above right comma mark
 * `ss10` substitutes spacing above right comma
 
-The stylistic set features can be used to override localized forms, or to activate them in software where automated LangSys mapping is not available or where the language of a text is not tagged. The last two features change the behaviour of the U+0315 apostrophe-like above right sign, which may correspond more closely to expectations of this character in certain orthographies.
+The stylistic set features can be used to override localized forms, or to activate them in software where automated LangSys mapping is not available or where the language of a text is not tagged.
 
 The Skeena Indigenous build configuration YAML file includes [Feature Parameter](https://learn.microsoft.com/en-us/typography/opentype/otspec184/chapter2#feature-table) name entries for these stylistic set features:
 
@@ -509,8 +509,6 @@ featureparams:
   ss06: Belted-l toggle
   ss07: Glottal modifier toggle
   ss08: Round vowel length signs
-  ss09: Anchored comma above-right (U+0315)
-  ss10: Spacing comma above-right (U+0315)
 ```
 These names may be displayed in the user interface of software that provides access to the features.
 
