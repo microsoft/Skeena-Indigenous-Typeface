@@ -323,7 +323,7 @@ This variant form applies also to the combination of this letter with the apostr
 
 <img src="images/altlbelt.svg" alt="Default and variant forms of the lowercase belted l."/>
 U+026C LATIN SMALL LETTER L WITH BELT  
-This distinctive looped form with crossbar is found in the alphabet of the Lushootseed language in coastal Washington State.
+This distinctive looped form with crossbar is found in some styles of Lushootseed language typography in coastal Washington State.
 
 <img src="images/altglottalmod.svg" alt="Default and variant forms of the superscript glottal stop sign."/>
 U+02C0 MODIFIER LETTER GLOTTAL STOP  
@@ -566,7 +566,7 @@ The orthographies of North American indigenous languages involve letterforms and
 
 *TÁ,ŦES, a word meaning “eight” in the SENĆOŦEN language of the W̱SÁNEĆ People (southern Vancouver Island). The comparison of kerned (top) and unkerned (bottom) glyphs illustrates how kerning adjustments are particularly important in the typography of this all-caps orthography in which the comma sign may occur mid-word.*
 
-To ensure correct display of text in indigenous languages, kerning should not be considered optional and care should be taken to confirm that it is active in software. Notably, in Microsoft Word, it is necessary to turn on kerning for selected text in the Font formatting dialogue:
+To ensure correct display of text in indigenous languages, kerning should not be considered optional and care should be taken to confirm that it is active in software. Notably, in previous versions of Microsoft Word, it is necessary to turn on kerning for selected text in the Font formatting dialogue:
 
 <img src="images/WordFont.png" alt="The Homalco word ʔaʔjɛčχʷot compared with and without kerning active."/>
 
