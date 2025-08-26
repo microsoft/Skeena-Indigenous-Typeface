@@ -501,7 +501,7 @@
 499,0x02BF,,halfringleftmodifier,uni02BF,NA+,MODIFER LETTER LEFT HALF RING,,https://github.com/microsoft/Skeena-Indigenous-Typeface/issues/16
 500,0x02BE,ʾ,halfringrightmodifier,uni02BE,PNWIL,MODIFER LETTER RIGHT HALF RING,,TQ-INAT p.126 Ktunaxa (Kutenai)
 501,0xA789,꞉,colonmodifier,uniA789,PNWIL,MODIFIER COLON,,TQ-INAT p.122 Oneida (Onʌyotaʔa:ka)
-502,0x078F,ꞏ,dotsinological,uni078F,NA+,LATIN LETTER SINOLOGICAL DOT,,https://github.com/microsoft/Skeena-Indigenous-Typeface/issues/21
+502,0xA78F,ꞏ,dotsinological,uniA78F,NA+,LATIN LETTER SINOLOGICAL DOT,,https://github.com/microsoft/Skeena-Indigenous-Typeface/issues/21
 503,0x02D0,ː,longsign,uni02D0,PNWIL,MODIFIER LETTER TRIANGULAR COLON,,IPA form with triangular dots
 504,,,longsign.alt,uni02D0.alt,PNWIL,,ss08,Variant form = round dots per colon
 505,0x02D1,ˑ,halflongsign,uni02D1,PNWIL,MODIFIER LETTER HALF TRIANGULAR COLON,,IPA form with triangular dot

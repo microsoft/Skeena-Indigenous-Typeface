@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotsinological" format="2">
   <advance width="590"/>
-  <unicode hex="078F"/>
+  <unicode hex="A78F"/>
   <outline>
     <contour>
       <point x="333" y="542" type="curve" smooth="yes"/>

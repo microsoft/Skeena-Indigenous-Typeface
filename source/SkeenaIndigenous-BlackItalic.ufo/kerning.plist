@@ -4737,6 +4737,8 @@
     <integer>60</integer>
     <key>Lbelt</key>
     <integer>-15</integer>
+    <key>Ldblbar</key>
+    <integer>-0</integer>
     <key>Lslash</key>
     <integer>10</integer>
     <key>Lwavybar</key>
@@ -7318,6 +7320,11 @@
   <dict>
     <key>glottalmodifier.alt</key>
     <integer>-30</integer>
+  </dict>
+  <key>ubar</key>
+  <dict>
+    <key>commarightcomb.spn</key>
+    <integer>-0</integer>
   </dict>
   <key>ubreve</key>
   <dict>

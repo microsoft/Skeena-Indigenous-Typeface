@@ -55087,8 +55087,8 @@
       },
       {
         "name":"dotsinological",
-        "unicode":"078f",
-        "lastModified":"2025-04-09 21:28:00",
+        "unicode":"a78f",
+        "lastModified":"2025-08-26 16:15:00",
         "colorFlag":31,
         "layers":[
           {
@@ -77024,7 +77024,7 @@
     "meta":{
       "metaCreator":true,
       "metaFormatVersion":8,
-      "metaBuild":"8766"
+      "metaBuild":"8950"
     },
     "settings":{
       "settings.RoundCoordinates":"round"

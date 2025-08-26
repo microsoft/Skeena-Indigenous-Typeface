@@ -329,10 +329,12 @@ This distinctive looped form with crossbar is found in some styles of Lushootsee
 U+02C0 MODIFIER LETTER GLOTTAL STOP  
 This angled form of the raised glottalization sign is attested in the orthographies of the Iroquoian languages Cayuga, Onondaga, and Seneca. It is a variant that corresponds to the angled ogonek mark, shown here in gray.
 
-<img src="images/altlongsign.svg" alt="Default round and variant triangular forms of vowel length indicator dots."/>
+<img src="images/altlongsign.svg" alt="Round and triangular forms of vowel length indicator dots."/>
+U+A789 MODIFIER LETTER COLON  
+U+A78F LATIN LETTER SINOLOGICAL DOT  
 U+02D0 MODIFIER LETTER TRIANGULAR COLON  
 U+02D1 MODIFIER LETTER HALF TRIANGULAR COLON  
-These characters are, respectively, long and half-long vowel indicators. As their Unicode names indicate, the triangular forms are the norm (derived from IPA usage), but the convention across indigenous orthographies is to use a round dot, so that is the default form in Skeena Indigenous and the triangular variant is available as a stylistic alternative. [See comments above regarding confusable encodings for the colon.]
+These character pairs are, respectively, long and half-long vowel indicators. The triangular forms are derived from IPA usage, and the dots corresponding to the regular colon from Americanist conventions. In Indigenous orthographies, round dots are most commonly encountered, but text may be encoded using the triangular characters. [See comments above regarding confusable encodings for the colon.]
 
 ## Glyph processing
 

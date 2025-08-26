@@ -2638,6 +2638,8 @@
     <integer>-70</integer>
     <key>question</key>
     <integer>10</integer>
+    <key>scaron</key>
+    <integer>-0</integer>
     <key>seven.LP</key>
     <integer>15</integer>
     <key>three.LP</key>
